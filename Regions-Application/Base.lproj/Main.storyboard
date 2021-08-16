@@ -11,7 +11,7 @@
         <!--Russia-->
         <scene sceneID="tne-QT-ifu">
             <objects>
-                <viewController storyboardIdentifier="RussiaViewController" id="BYZ-38-t0r" customClass="RussiaViewController" customModule="Regions_Application" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="RussiaViewController" id="BYZ-38-t0r" customClass="RootViewController" customModule="Regions_Application" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -29,12 +29,12 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="436" y="181"/>
+            <point key="canvasLocation" x="194" y="191"/>
         </scene>
         <!--Menu Table View-->
         <scene sceneID="LAU-Aa-BEV">
             <objects>
-                <tableViewController storyboardIdentifier="MenuViewController" id="Ry8-w5-x9Z" customClass="MenuTableView" customModule="Regions_Application" customModuleProvider="target" sceneMemberID="viewController">
+                <tableViewController storyboardIdentifier="menuTableView" id="Ry8-w5-x9Z" customClass="MenuTableView" customModule="Regions_Application" customModuleProvider="target" sceneMemberID="viewController">
                     <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="static" style="plain" separatorStyle="default" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="28" sectionFooterHeight="28" id="n95-tj-n55">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -129,14 +129,14 @@
                                             <rect key="frame" x="0.0" y="0.0" width="414" height="94"/>
                                             <autoresizingMask key="autoresizingMask"/>
                                             <subviews>
-                                                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="abh" translatesAutoresizingMaskIntoConstraints="NO" id="fSU-em-ZlT">
+                                                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="poland" translatesAutoresizingMaskIntoConstraints="NO" id="fSU-em-ZlT">
                                                     <rect key="frame" x="16" y="35" width="24" height="24"/>
                                                     <constraints>
                                                         <constraint firstAttribute="height" constant="24" id="0Vs-vv-OkY"/>
                                                         <constraint firstAttribute="width" constant="24" id="Rmf-qf-akK"/>
                                                     </constraints>
                                                 </imageView>
-                                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Abhaziya" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="F2N-09-dmj">
+                                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Poland" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="F2N-09-dmj">
                                                     <rect key="frame" x="56" y="36.666666666666664" width="250" height="21"/>
                                                     <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                                     <nil key="textColor"/>
@@ -169,14 +169,14 @@
                                             <rect key="frame" x="0.0" y="0.0" width="414" height="94"/>
                                             <autoresizingMask key="autoresizingMask"/>
                                             <subviews>
-                                                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="poland" translatesAutoresizingMaskIntoConstraints="NO" id="8hc-8k-8aI">
-                                                    <rect key="frame" x="16" y="35" width="24" height="24"/>
+                                                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="camera" catalog="system" translatesAutoresizingMaskIntoConstraints="NO" id="8hc-8k-8aI">
+                                                    <rect key="frame" x="16" y="36" width="24" height="21.666666666666671"/>
                                                     <constraints>
                                                         <constraint firstAttribute="width" constant="24" id="PdC-Ct-DCp"/>
                                                         <constraint firstAttribute="height" constant="24" id="k9g-C3-qkJ"/>
                                                     </constraints>
                                                 </imageView>
-                                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Poland" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Ij3-SA-3tX">
+                                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Camera" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Ij3-SA-3tX">
                                                     <rect key="frame" x="56" y="36.666666666666664" width="250" height="21"/>
                                                     <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                                     <nil key="textColor"/>
@@ -214,7 +214,79 @@
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="HI0-Xu-8vA" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1183" y="181"/>
+            <point key="canvasLocation" x="949" y="181"/>
+        </scene>
+        <!--Russia View Controller-->
+        <scene sceneID="d4U-Wd-k3h">
+            <objects>
+                <viewController storyboardIdentifier="russiaViewController" id="zL7-cV-KUD" customClass="RussiaViewController" customModule="Regions_Application" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="pkm-H2-M5Y">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Region" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="OeT-wG-Tf5">
+                                <rect key="frame" x="180.66666666666666" y="304" width="52.666666666666657" height="21"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="AsL-xs-eZh">
+                                <rect key="frame" x="157" y="411" width="100" height="100"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="100" id="KPt-PV-0UT"/>
+                                    <constraint firstAttribute="width" constant="100" id="Yac-Wn-pOM"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits" keyboardType="numberPad"/>
+                            </textField>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="8i1-3h-dhA"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="8i1-3h-dhA" firstAttribute="bottom" secondItem="AsL-xs-eZh" secondAttribute="bottom" constant="225" id="1OT-vu-pt9"/>
+                            <constraint firstItem="AsL-xs-eZh" firstAttribute="top" secondItem="OeT-wG-Tf5" secondAttribute="bottom" constant="86" id="brQ-gf-0qE"/>
+                            <constraint firstItem="AsL-xs-eZh" firstAttribute="centerX" secondItem="OeT-wG-Tf5" secondAttribute="centerX" id="ogh-4v-00w"/>
+                            <constraint firstItem="AsL-xs-eZh" firstAttribute="centerX" secondItem="pkm-H2-M5Y" secondAttribute="centerX" id="vLv-bc-cUc"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="label" destination="OeT-wG-Tf5" id="CEd-JA-JfV"/>
+                        <outlet property="textField" destination="AsL-xs-eZh" id="C09-OL-5Rz"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dyf-hN-KP5" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1589.8550724637682" y="180.97826086956522"/>
+        </scene>
+        <!--Ukraine View Controller-->
+        <scene sceneID="avd-hY-lC0">
+            <objects>
+                <viewController storyboardIdentifier="ukraineViewController" id="1G2-KS-oKU" customClass="UkraineViewController" customModule="Regions_Application" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="F4k-rB-z8L">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <viewLayoutGuide key="safeArea" id="Cqm-GF-gnE"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="lp5-8H-pwu" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="2235" y="181"/>
+        </scene>
+        <!--Poland View Controller-->
+        <scene sceneID="UUm-fl-2qi">
+            <objects>
+                <viewController storyboardIdentifier="polandViewController" id="Qni-5P-3Tr" customClass="PolandViewController" customModule="Regions_Application" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="X03-Yx-Ba9">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <viewLayoutGuide key="safeArea" id="tGH-cE-5sp"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="MWn-wn-mcD" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="2878" y="181"/>
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="Ijw-qs-eul">
@@ -232,11 +304,11 @@
                 </navigationController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="0VF-Nt-msl" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-330" y="181"/>
+            <point key="canvasLocation" x="-683" y="191"/>
         </scene>
     </scenes>
     <resources>
-        <image name="abh" width="1024" height="1024"/>
+        <image name="camera" catalog="system" width="128" height="94"/>
         <image name="icons8-menu-24" width="24" height="24"/>
         <image name="playstore" width="512" height="512"/>
         <image name="poland" width="1024" height="1024"/>

@@ -8,23 +8,32 @@
 
 /* Begin PBXBuildFile section */
 		410BF7B62E5957582A0303BD /* Pods_Regions_Application.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C33AA737D36D0168C8C1335A /* Pods_Regions_Application.framework */; };
-		7203DAAB26C428FB0057BA20 /* RussiaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72D4B1F326C17F840029AB3C /* RussiaViewController.swift */; };
+		7203DAAB26C428FB0057BA20 /* RootViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72D4B1F326C17F840029AB3C /* RootViewController.swift */; };
 		7203DABA26C42C290057BA20 /* APIServices.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7203DAB926C42C290057BA20 /* APIServices.swift */; };
 		7224631E26C45FDB00D7E215 /* SlideTransition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7224631D26C45FDB00D7E215 /* SlideTransition.swift */; };
 		7224632326C470DB00D7E215 /* UkraineViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7224632226C470DB00D7E215 /* UkraineViewController.swift */; };
-		72423E5226C424CD0081B3E9 /* OrderData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72423E5126C424CD0081B3E9 /* OrderData.swift */; };
-		7297551926C42717003E87D2 /* LoadJson.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7297550926C426C0003E87D2 /* LoadJson.swift */; };
+		7274FD9026C93EA500DF5D85 /* AfterOneSecondTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7274FD8F26C93EA500DF5D85 /* AfterOneSecondTextField.swift */; };
+		7274FD9526C9508000DF5D85 /* JsonLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7274FD9426C9508000DF5D85 /* JsonLoader.swift */; };
+		727A4AC926C63C850093879A /* ReadJson.swift in Sources */ = {isa = PBXBuildFile; fileRef = 727A4AC826C63C850093879A /* ReadJson.swift */; };
+		729703AA26C7F6E500CE82E5 /* RussiaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 729703A926C7F6E500CE82E5 /* RussiaViewController.swift */; };
+		729703B126C7F76A00CE82E5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 72D4B1F526C17F840029AB3C /* Main.storyboard */; };
+		729703B526C7F7C800CE82E5 /* MenuTableView.swift in Resources */ = {isa = PBXBuildFile; fileRef = 72D4B22526C180FF0029AB3C /* MenuTableView.swift */; };
+		729703B626C7F7C800CE82E5 /* RootViewController.swift in Resources */ = {isa = PBXBuildFile; fileRef = 72D4B1F326C17F840029AB3C /* RootViewController.swift */; };
+		729703B726C7F7C800CE82E5 /* UkraineViewController.swift in Resources */ = {isa = PBXBuildFile; fileRef = 7224632226C470DB00D7E215 /* UkraineViewController.swift */; };
+		729703B826C7F7C800CE82E5 /* PolandViewController.swift in Resources */ = {isa = PBXBuildFile; fileRef = 72CB749226C7BBAF007435AB /* PolandViewController.swift */; };
+		729703B926C7F7C800CE82E5 /* RussiaViewController.swift in Resources */ = {isa = PBXBuildFile; fileRef = 729703A926C7F6E500CE82E5 /* RussiaViewController.swift */; };
 		72A11A7D26C4556C004F8FCB /* Messages.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72A11A7C26C4556C004F8FCB /* Messages.swift */; };
+		72CB748026C7B8B7007435AB /* CustomButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72CB747F26C7B8B7007435AB /* CustomButton.swift */; };
+		72CB749326C7BBAF007435AB /* PolandViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72CB749226C7BBAF007435AB /* PolandViewController.swift */; };
 		72D4B1F026C17F840029AB3C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72D4B1EF26C17F840029AB3C /* AppDelegate.swift */; };
 		72D4B1F226C17F840029AB3C /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72D4B1F126C17F840029AB3C /* SceneDelegate.swift */; };
-		72D4B1F726C17F840029AB3C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 72D4B1F526C17F840029AB3C /* Main.storyboard */; };
 		72D4B1FA26C17F840029AB3C /* Regions_Application.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 72D4B1F826C17F840029AB3C /* Regions_Application.xcdatamodeld */; };
 		72D4B1FC26C17F850029AB3C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 72D4B1FB26C17F850029AB3C /* Assets.xcassets */; };
 		72D4B1FF26C17F850029AB3C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 72D4B1FD26C17F850029AB3C /* LaunchScreen.storyboard */; };
 		72D4B20A26C17F850029AB3C /* Regions_ApplicationTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72D4B20926C17F850029AB3C /* Regions_ApplicationTests.swift */; };
 		72D4B21526C17F850029AB3C /* Regions_ApplicationUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72D4B21426C17F850029AB3C /* Regions_ApplicationUITests.swift */; };
 		72D4B22626C180FF0029AB3C /* MenuTableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72D4B22526C180FF0029AB3C /* MenuTableView.swift */; };
-		72DDF74B26C4157E003555F9 /* regions.json in Resources */ = {isa = PBXBuildFile; fileRef = 72DDF74A26C4157E003555F9 /* regions.json */; };
+		72D667D426C862E600DAC2B4 /* russia.json in Resources */ = {isa = PBXBuildFile; fileRef = 72D667D326C862E600DAC2B4 /* russia.json */; };
 		72E16EAD26C432EF00FB3D57 /* Reachability.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72E16EAC26C432EF00FB3D57 /* Reachability.swift */; };
 		9AE33667EE3D03D29006A7FC /* Pods_Regions_Application_Regions_ApplicationUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 96A8ED876FA74393F460EDAF /* Pods_Regions_Application_Regions_ApplicationUITests.framework */; };
 		C5ADB965DB39FDFBA8978CB0 /* Pods_Regions_ApplicationTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2B7B2696D83BE16A3C13C49F /* Pods_Regions_ApplicationTests.framework */; };
@@ -55,13 +64,17 @@
 		7203DAB926C42C290057BA20 /* APIServices.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIServices.swift; sourceTree = "<group>"; };
 		7224631D26C45FDB00D7E215 /* SlideTransition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SlideTransition.swift; sourceTree = "<group>"; };
 		7224632226C470DB00D7E215 /* UkraineViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UkraineViewController.swift; sourceTree = "<group>"; };
-		72423E5126C424CD0081B3E9 /* OrderData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderData.swift; sourceTree = "<group>"; };
-		7297550926C426C0003E87D2 /* LoadJson.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoadJson.swift; sourceTree = "<group>"; };
+		7274FD8F26C93EA500DF5D85 /* AfterOneSecondTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AfterOneSecondTextField.swift; sourceTree = "<group>"; };
+		7274FD9426C9508000DF5D85 /* JsonLoader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JsonLoader.swift; sourceTree = "<group>"; };
+		727A4AC826C63C850093879A /* ReadJson.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReadJson.swift; sourceTree = "<group>"; };
+		729703A926C7F6E500CE82E5 /* RussiaViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RussiaViewController.swift; sourceTree = "<group>"; };
 		72A11A7C26C4556C004F8FCB /* Messages.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Messages.swift; sourceTree = "<group>"; };
+		72CB747F26C7B8B7007435AB /* CustomButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomButton.swift; sourceTree = "<group>"; };
+		72CB749226C7BBAF007435AB /* PolandViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PolandViewController.swift; sourceTree = "<group>"; };
 		72D4B1EC26C17F840029AB3C /* Regions-Application.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Regions-Application.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		72D4B1EF26C17F840029AB3C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		72D4B1F126C17F840029AB3C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		72D4B1F326C17F840029AB3C /* RussiaViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RussiaViewController.swift; sourceTree = "<group>"; };
+		72D4B1F326C17F840029AB3C /* RootViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RootViewController.swift; sourceTree = "<group>"; };
 		72D4B1F626C17F840029AB3C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		72D4B1F926C17F840029AB3C /* Regions_Application.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Regions_Application.xcdatamodel; sourceTree = "<group>"; };
 		72D4B1FB26C17F850029AB3C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -74,7 +87,7 @@
 		72D4B21426C17F850029AB3C /* Regions_ApplicationUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Regions_ApplicationUITests.swift; sourceTree = "<group>"; };
 		72D4B21626C17F850029AB3C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		72D4B22526C180FF0029AB3C /* MenuTableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuTableView.swift; sourceTree = "<group>"; };
-		72DDF74A26C4157E003555F9 /* regions.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = regions.json; sourceTree = "<group>"; };
+		72D667D326C862E600DAC2B4 /* russia.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = russia.json; sourceTree = "<group>"; };
 		72E16EAC26C432EF00FB3D57 /* Reachability.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Reachability.swift; sourceTree = "<group>"; };
 		96A8ED876FA74393F460EDAF /* Pods_Regions_Application_Regions_ApplicationUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Regions_Application_Regions_ApplicationUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		A63C7C07877B56AFBD81CFD3 /* Pods-Regions-Application-Regions-ApplicationUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Regions-Application-Regions-ApplicationUITests.release.xcconfig"; path = "Target Support Files/Pods-Regions-Application-Regions-ApplicationUITests/Pods-Regions-Application-Regions-ApplicationUITests.release.xcconfig"; sourceTree = "<group>"; };
@@ -139,14 +152,54 @@
 			children = (
 				7203DAB926C42C290057BA20 /* APIServices.swift */,
 				72A11A7C26C4556C004F8FCB /* Messages.swift */,
+				727A4AC826C63C850093879A /* ReadJson.swift */,
+				72CB747F26C7B8B7007435AB /* CustomButton.swift */,
+				7274FD8F26C93EA500DF5D85 /* AfterOneSecondTextField.swift */,
+				7274FD9426C9508000DF5D85 /* JsonLoader.swift */,
 			);
 			path = Helpers;
+			sourceTree = "<group>";
+		};
+		72CB748426C7BACE007435AB /* View */ = {
+			isa = PBXGroup;
+			children = (
+				72D4B22526C180FF0029AB3C /* MenuTableView.swift */,
+				72D4B1F326C17F840029AB3C /* RootViewController.swift */,
+				7224632226C470DB00D7E215 /* UkraineViewController.swift */,
+				72CB749226C7BBAF007435AB /* PolandViewController.swift */,
+				729703A926C7F6E500CE82E5 /* RussiaViewController.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		72CB748E26C7BB0A007435AB /* Connection */ = {
+			isa = PBXGroup;
+			children = (
+				72E16EAC26C432EF00FB3D57 /* Reachability.swift */,
+				7224631D26C45FDB00D7E215 /* SlideTransition.swift */,
+			);
+			path = Connection;
+			sourceTree = "<group>";
+		};
+		72CB74A626C7E61D007435AB /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				72CB74A726C7E624007435AB /* json */,
+			);
+			path = Data;
+			sourceTree = "<group>";
+		};
+		72CB74A726C7E624007435AB /* json */ = {
+			isa = PBXGroup;
+			children = (
+				72D667D326C862E600DAC2B4 /* russia.json */,
+			);
+			path = json;
 			sourceTree = "<group>";
 		};
 		72D4B1E326C17F840029AB3C = {
 			isa = PBXGroup;
 			children = (
-				72DDF74A26C4157E003555F9 /* regions.json */,
 				72D4B1EE26C17F840029AB3C /* Regions-Application */,
 				72D4B20826C17F850029AB3C /* Regions-ApplicationTests */,
 				72D4B21326C17F850029AB3C /* Regions-ApplicationUITests */,
@@ -169,21 +222,17 @@
 		72D4B1EE26C17F840029AB3C /* Regions-Application */ = {
 			isa = PBXGroup;
 			children = (
+				72CB74A626C7E61D007435AB /* Data */,
+				72CB748E26C7BB0A007435AB /* Connection */,
+				72CB748426C7BACE007435AB /* View */,
 				72A11A7B26C45553004F8FCB /* Helpers */,
 				72D4B1EF26C17F840029AB3C /* AppDelegate.swift */,
 				72D4B1F126C17F840029AB3C /* SceneDelegate.swift */,
-				72D4B1F326C17F840029AB3C /* RussiaViewController.swift */,
 				72D4B1F526C17F840029AB3C /* Main.storyboard */,
 				72D4B1FB26C17F850029AB3C /* Assets.xcassets */,
 				72D4B1FD26C17F850029AB3C /* LaunchScreen.storyboard */,
 				72D4B20026C17F850029AB3C /* Info.plist */,
 				72D4B1F826C17F840029AB3C /* Regions_Application.xcdatamodeld */,
-				72D4B22526C180FF0029AB3C /* MenuTableView.swift */,
-				72423E5126C424CD0081B3E9 /* OrderData.swift */,
-				7297550926C426C0003E87D2 /* LoadJson.swift */,
-				72E16EAC26C432EF00FB3D57 /* Reachability.swift */,
-				7224631D26C45FDB00D7E215 /* SlideTransition.swift */,
-				7224632226C470DB00D7E215 /* UkraineViewController.swift */,
 			);
 			path = "Regions-Application";
 			sourceTree = "<group>";
@@ -314,10 +363,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				729703B526C7F7C800CE82E5 /* MenuTableView.swift in Resources */,
+				729703B626C7F7C800CE82E5 /* RootViewController.swift in Resources */,
+				729703B726C7F7C800CE82E5 /* UkraineViewController.swift in Resources */,
+				729703B826C7F7C800CE82E5 /* PolandViewController.swift in Resources */,
+				729703B926C7F7C800CE82E5 /* RussiaViewController.swift in Resources */,
 				72D4B1FF26C17F850029AB3C /* LaunchScreen.storyboard in Resources */,
 				72D4B1FC26C17F850029AB3C /* Assets.xcassets in Resources */,
-				72D4B1F726C17F840029AB3C /* Main.storyboard in Resources */,
-				72DDF74B26C4157E003555F9 /* regions.json in Resources */,
+				72D667D426C862E600DAC2B4 /* russia.json in Resources */,
+				729703B126C7F76A00CE82E5 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -446,17 +500,21 @@
 			buildActionMask = 2147483647;
 			files = (
 				7224632326C470DB00D7E215 /* UkraineViewController.swift in Sources */,
-				7297551926C42717003E87D2 /* LoadJson.swift in Sources */,
+				72CB749326C7BBAF007435AB /* PolandViewController.swift in Sources */,
 				7224631E26C45FDB00D7E215 /* SlideTransition.swift in Sources */,
 				72D4B22626C180FF0029AB3C /* MenuTableView.swift in Sources */,
 				7203DABA26C42C290057BA20 /* APIServices.swift in Sources */,
-				7203DAAB26C428FB0057BA20 /* RussiaViewController.swift in Sources */,
+				7203DAAB26C428FB0057BA20 /* RootViewController.swift in Sources */,
 				72D4B1FA26C17F840029AB3C /* Regions_Application.xcdatamodeld in Sources */,
 				72E16EAD26C432EF00FB3D57 /* Reachability.swift in Sources */,
 				72D4B1F026C17F840029AB3C /* AppDelegate.swift in Sources */,
+				729703AA26C7F6E500CE82E5 /* RussiaViewController.swift in Sources */,
 				72A11A7D26C4556C004F8FCB /* Messages.swift in Sources */,
-				72423E5226C424CD0081B3E9 /* OrderData.swift in Sources */,
+				727A4AC926C63C850093879A /* ReadJson.swift in Sources */,
+				7274FD9526C9508000DF5D85 /* JsonLoader.swift in Sources */,
+				7274FD9026C93EA500DF5D85 /* AfterOneSecondTextField.swift in Sources */,
 				72D4B1F226C17F840029AB3C /* SceneDelegate.swift in Sources */,
+				72CB748026C7B8B7007435AB /* CustomButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

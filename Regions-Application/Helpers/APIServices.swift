@@ -25,7 +25,6 @@ class APIServices {
                     } else {
                         completionHandler(false,region)
                     }
-                    
                 } catch let error as NSError {
                     if let data = response.data, let utf8Text = String(data: data, encoding: .utf8) {
                         completionHandler(false, utf8Text)
@@ -34,10 +33,12 @@ class APIServices {
                         
                     }
                 }
+                break
                 
             case .failure(let error):
                 print("Request error: \(error.localizedDescription)")
                 completionHandler(false, error.localizedDescription)
+                break
             }
         }
     }
