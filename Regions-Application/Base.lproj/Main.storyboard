@@ -288,6 +288,21 @@
             </objects>
             <point key="canvasLocation" x="2878" y="181"/>
         </scene>
+        <!--Camera View Controller-->
+        <scene sceneID="kq3-46-eSO">
+            <objects>
+                <viewController storyboardIdentifier="cameraViewController" id="de9-xm-wgp" customClass="CameraViewController" customModule="Regions_Application" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="mp4-JZ-Ax8">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <viewLayoutGuide key="safeArea" id="sV6-QH-UFd"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="kMQ-8M-qVq" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="3528" y="181"/>
+        </scene>
         <!--Navigation Controller-->
         <scene sceneID="Ijw-qs-eul">
             <objects>
