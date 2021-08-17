@@ -9,12 +9,13 @@ import Foundation
 import Alamofire
 
 class APIServices {
+    
     public func responseRegion(region: String, completionHandler: @escaping (Bool, String) -> ()) {
         let parameters: Parameters = [
             "region": region
         ]
         
-        AF.request("http://localhost:8080/region", parameters: parameters).response { response in
+        AF.request(Constants.Endpoints.Russia, parameters: parameters).response { response in
             switch (response.result) {
             case .success( let data):
                 do {

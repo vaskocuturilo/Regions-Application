@@ -12,6 +12,8 @@
 		7203DABA26C42C290057BA20 /* APIServices.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7203DAB926C42C290057BA20 /* APIServices.swift */; };
 		7224631E26C45FDB00D7E215 /* SlideTransition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7224631D26C45FDB00D7E215 /* SlideTransition.swift */; };
 		7224632326C470DB00D7E215 /* UkraineViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7224632226C470DB00D7E215 /* UkraineViewController.swift */; };
+		722A951326CB895100A45545 /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 722A951226CB895100A45545 /* CameraViewController.swift */; };
+		722A951826CB8B2B00A45545 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 722A951726CB8B2B00A45545 /* Constants.swift */; };
 		7274FD9026C93EA500DF5D85 /* AfterOneSecondTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7274FD8F26C93EA500DF5D85 /* AfterOneSecondTextField.swift */; };
 		7274FD9526C9508000DF5D85 /* JsonLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7274FD9426C9508000DF5D85 /* JsonLoader.swift */; };
 		727A4AC926C63C850093879A /* ReadJson.swift in Sources */ = {isa = PBXBuildFile; fileRef = 727A4AC826C63C850093879A /* ReadJson.swift */; };
@@ -64,6 +66,8 @@
 		7203DAB926C42C290057BA20 /* APIServices.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIServices.swift; sourceTree = "<group>"; };
 		7224631D26C45FDB00D7E215 /* SlideTransition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SlideTransition.swift; sourceTree = "<group>"; };
 		7224632226C470DB00D7E215 /* UkraineViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UkraineViewController.swift; sourceTree = "<group>"; };
+		722A951226CB895100A45545 /* CameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
+		722A951726CB8B2B00A45545 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		7274FD8F26C93EA500DF5D85 /* AfterOneSecondTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AfterOneSecondTextField.swift; sourceTree = "<group>"; };
 		7274FD9426C9508000DF5D85 /* JsonLoader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JsonLoader.swift; sourceTree = "<group>"; };
 		727A4AC826C63C850093879A /* ReadJson.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReadJson.swift; sourceTree = "<group>"; };
@@ -156,6 +160,7 @@
 				72CB747F26C7B8B7007435AB /* CustomButton.swift */,
 				7274FD8F26C93EA500DF5D85 /* AfterOneSecondTextField.swift */,
 				7274FD9426C9508000DF5D85 /* JsonLoader.swift */,
+				722A951726CB8B2B00A45545 /* Constants.swift */,
 			);
 			path = Helpers;
 			sourceTree = "<group>";
@@ -168,6 +173,7 @@
 				7224632226C470DB00D7E215 /* UkraineViewController.swift */,
 				72CB749226C7BBAF007435AB /* PolandViewController.swift */,
 				729703A926C7F6E500CE82E5 /* RussiaViewController.swift */,
+				722A951226CB895100A45545 /* CameraViewController.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -502,6 +508,7 @@
 				7224632326C470DB00D7E215 /* UkraineViewController.swift in Sources */,
 				72CB749326C7BBAF007435AB /* PolandViewController.swift in Sources */,
 				7224631E26C45FDB00D7E215 /* SlideTransition.swift in Sources */,
+				722A951326CB895100A45545 /* CameraViewController.swift in Sources */,
 				72D4B22626C180FF0029AB3C /* MenuTableView.swift in Sources */,
 				7203DABA26C42C290057BA20 /* APIServices.swift in Sources */,
 				7203DAAB26C428FB0057BA20 /* RootViewController.swift in Sources */,
@@ -515,6 +522,7 @@
 				7274FD9026C93EA500DF5D85 /* AfterOneSecondTextField.swift in Sources */,
 				72D4B1F226C17F840029AB3C /* SceneDelegate.swift in Sources */,
 				72CB748026C7B8B7007435AB /* CustomButton.swift in Sources */,
+				722A951826CB8B2B00A45545 /* Constants.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

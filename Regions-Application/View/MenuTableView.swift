@@ -14,8 +14,8 @@ class MenuTableView: UITableViewController {
     enum MenuType: Int {
         case russia
         case ukraine
-        case abhaziya
         case poland
+        case camera
     }
     
     override func viewDidLoad() {

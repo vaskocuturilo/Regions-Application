@@ -50,14 +50,13 @@ class RootViewController: UIViewController {
         case .ukraine:
             setupButton(text: "Person auto number", 2)
             break
-        case .abhaziya:
-            setupButton(text: "Person auto number", 4)
-            break
-            
         case .poland:
             setupButton(text: "Person auto number", 3)
             break
-            
+        case .camera:
+            let VC = self.storyboard?.instantiateViewController(withIdentifier: "cameraViewController") as! CameraViewController
+            self.navigationController?.pushViewController(VC, animated: true)
+            break
         }
     }
     
