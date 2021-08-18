@@ -31,6 +31,9 @@ class RussiaViewController: UIViewController, UIGestureRecognizerDelegate, UITex
         
         textField.delegate = self
         self.textField.addTarget(self, action: #selector(textFieldDidEditingChanged(_:)), for: .editingChanged)
+        
+        textField.addShadowToTextField(cornerRadius: 3)
+        textField.addShadowToTextField(color: UIColor.black, cornerRadius: 3)
     }
     
     @objc func textFieldDidEditingChanged(_ textField: UITextField) {
@@ -45,7 +48,7 @@ class RussiaViewController: UIViewController, UIGestureRecognizerDelegate, UITex
     
     @objc func searchForKeyword(_ timer: Timer) {
         if (check.isConnectedToNetwork() == true) {
-            apiService.responseRegion(region: textField.text!) { [self](isSucess, str) in
+            apiService.responseRegion(endpoints: Constants.Endpoints.Russia,region: textField.text!) { [self](isSucess, str) in
                 if isSucess {
                     messages.showMessage(label: label, message: str)
                     textField.text?.removeAll()
