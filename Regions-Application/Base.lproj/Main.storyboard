@@ -224,28 +224,34 @@
                         <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Region" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="OeT-wG-Tf5">
-                                <rect key="frame" x="180.66666666666666" y="304" width="52.666666666666657" height="21"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                <nil key="textColor"/>
-                                <nil key="highlightedColor"/>
-                            </label>
-                            <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="AsL-xs-eZh">
+                            <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="line" textAlignment="center" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="AsL-xs-eZh">
                                 <rect key="frame" x="157" y="411" width="100" height="100"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="100" id="KPt-PV-0UT"/>
                                     <constraint firstAttribute="width" constant="100" id="Yac-Wn-pOM"/>
                                 </constraints>
-                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
-                                <textInputTraits key="textInputTraits" keyboardType="numberPad"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
+                                <textInputTraits key="textInputTraits" keyboardType="numberPad" keyboardAppearance="light" textContentType="postal-code"/>
                             </textField>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="right" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="russia_number" translatesAutoresizingMaskIntoConstraints="NO" id="h56-si-ViJ">
+                                <rect key="frame" x="20" y="20" width="374" height="209"/>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Region" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="OeT-wG-Tf5">
+                                <rect key="frame" x="181" y="358" width="52.666666666666657" height="21"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="8i1-3h-dhA"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                         <constraints>
                             <constraint firstItem="8i1-3h-dhA" firstAttribute="bottom" secondItem="AsL-xs-eZh" secondAttribute="bottom" constant="225" id="1OT-vu-pt9"/>
-                            <constraint firstItem="AsL-xs-eZh" firstAttribute="top" secondItem="OeT-wG-Tf5" secondAttribute="bottom" constant="86" id="brQ-gf-0qE"/>
+                            <constraint firstItem="h56-si-ViJ" firstAttribute="leading" secondItem="8i1-3h-dhA" secondAttribute="leading" constant="20" id="Mh5-rR-1QD"/>
+                            <constraint firstItem="AsL-xs-eZh" firstAttribute="top" secondItem="OeT-wG-Tf5" secondAttribute="bottom" constant="32" id="brQ-gf-0qE"/>
+                            <constraint firstItem="h56-si-ViJ" firstAttribute="top" secondItem="8i1-3h-dhA" secondAttribute="top" constant="20" id="lfl-Ev-DXq"/>
                             <constraint firstItem="AsL-xs-eZh" firstAttribute="centerX" secondItem="OeT-wG-Tf5" secondAttribute="centerX" id="ogh-4v-00w"/>
+                            <constraint firstItem="8i1-3h-dhA" firstAttribute="trailing" secondItem="h56-si-ViJ" secondAttribute="trailing" constant="20" id="stI-zp-yn8"/>
                             <constraint firstItem="AsL-xs-eZh" firstAttribute="centerX" secondItem="pkm-H2-M5Y" secondAttribute="centerX" id="vLv-bc-cUc"/>
                         </constraints>
                     </view>
@@ -256,7 +262,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dyf-hN-KP5" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1589.8550724637682" y="180.97826086956522"/>
+            <point key="canvasLocation" x="1589.8550724637682" y="180.16304347826087"/>
         </scene>
         <!--Ukraine View Controller-->
         <scene sceneID="avd-hY-lC0">
@@ -265,13 +271,50 @@
                     <view key="view" contentMode="scaleToFill" id="F4k-rB-z8L">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="line" textAlignment="center" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="D4J-vd-QDh">
+                                <rect key="frame" x="157" y="405" width="100" height="100"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="100" id="IZm-cd-n5x"/>
+                                    <constraint firstAttribute="width" constant="100" id="U7N-bb-qxi"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
+                                <textInputTraits key="textInputTraits" keyboardType="numberPad" keyboardAppearance="light" textContentType="postal-code"/>
+                            </textField>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Region" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Mmn-KB-BAa">
+                                <rect key="frame" x="186" y="311" width="53" height="21"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="ukraina_number" translatesAutoresizingMaskIntoConstraints="NO" id="ZFe-4P-Jdy">
+                                <rect key="frame" x="20" y="20" width="374" height="128"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="128" id="kI5-Yz-D8y"/>
+                                </constraints>
+                            </imageView>
+                        </subviews>
                         <viewLayoutGuide key="safeArea" id="Cqm-GF-gnE"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="ZFe-4P-Jdy" firstAttribute="top" secondItem="Cqm-GF-gnE" secondAttribute="top" constant="20" id="C08-IY-9a3"/>
+                            <constraint firstItem="D4J-vd-QDh" firstAttribute="centerX" secondItem="F4k-rB-z8L" secondAttribute="centerX" id="JOw-07-l4Y"/>
+                            <constraint firstItem="D4J-vd-QDh" firstAttribute="top" secondItem="Mmn-KB-BAa" secondAttribute="bottom" constant="73" id="ZT5-dg-ipx"/>
+                            <constraint firstItem="Cqm-GF-gnE" firstAttribute="trailing" secondItem="Mmn-KB-BAa" secondAttribute="trailing" constant="175" id="biW-sT-QXe"/>
+                            <constraint firstItem="Cqm-GF-gnE" firstAttribute="trailing" secondItem="ZFe-4P-Jdy" secondAttribute="trailing" constant="20" id="gbx-Lx-G0O"/>
+                            <constraint firstItem="Mmn-KB-BAa" firstAttribute="leading" relation="greaterThanOrEqual" secondItem="Cqm-GF-gnE" secondAttribute="leading" id="keT-nW-Xd1"/>
+                            <constraint firstItem="ZFe-4P-Jdy" firstAttribute="leading" secondItem="Cqm-GF-gnE" secondAttribute="leading" constant="20" id="qIG-Ez-vva"/>
+                            <constraint firstItem="Cqm-GF-gnE" firstAttribute="bottom" secondItem="D4J-vd-QDh" secondAttribute="bottom" constant="231" id="sPA-7H-Nu0"/>
+                        </constraints>
                     </view>
+                    <connections>
+                        <outlet property="label" destination="Mmn-KB-BAa" id="mNN-hM-ulf"/>
+                        <outlet property="textField" destination="D4J-vd-QDh" id="2N8-WE-0Sb"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="lp5-8H-pwu" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="2235" y="181"/>
+            <point key="canvasLocation" x="2234.7826086956525" y="180.16304347826087"/>
         </scene>
         <!--Poland View Controller-->
         <scene sceneID="UUm-fl-2qi">
@@ -365,7 +408,9 @@
         <image name="icons8-menu-24" width="24" height="24"/>
         <image name="playstore" width="512" height="512"/>
         <image name="poland" width="1024" height="1024"/>
+        <image name="russia_number" width="500" height="209"/>
         <image name="ukr" width="1024" height="1024"/>
+        <image name="ukraina_number" width="700" height="314"/>
         <systemColor name="systemBackgroundColor">
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
         </systemColor>

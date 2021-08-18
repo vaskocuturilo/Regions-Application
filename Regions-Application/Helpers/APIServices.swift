@@ -10,12 +10,12 @@ import Alamofire
 
 class APIServices {
     
-    public func responseRegion(region: String, completionHandler: @escaping (Bool, String) -> ()) {
+    public func responseRegion(endpoints: String, region: String, completionHandler: @escaping (Bool, String) -> ()) {
         let parameters: Parameters = [
             "region": region
         ]
         
-        AF.request(Constants.Endpoints.Russia, parameters: parameters).response { response in
+        AF.request(endpoints, parameters: parameters).response { response in
             switch (response.result) {
             case .success( let data):
                 do {
