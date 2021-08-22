@@ -32,7 +32,11 @@ class JsonLoader {
                 
                 let result = speciesList.first {$0.code == text}
                 
-                label.text = result?.name
+                if result?.name == nil {
+                    label.text = "Region not found."
+                } else {
+                    label.text = result?.name
+                }
                 
             } catch {
                 messages.showErrorMessage(message: "Can not load JSON file.")

@@ -24,7 +24,7 @@ class RussiaViewController: UIViewController, UIGestureRecognizerDelegate, UITex
     @IBOutlet weak var diplomaticButton: UIButton!
     @IBOutlet weak var militaryButton: UIButton!
     
-    var isPersonChecked = false
+    var isPersonChecked = true
     var isDiplomaticChecked = false
     var isMilitaryChecked = false
     
@@ -55,6 +55,10 @@ class RussiaViewController: UIViewController, UIGestureRecognizerDelegate, UITex
         
         textField.rightViewMode = .always
         textField.rightView = UIImageView(image: UIImage(named: "Russia-flag"))
+        
+        isPersonChecked = true
+        isDiplomaticChecked = false
+        isMilitaryChecked = false
     }
     
     @IBAction func didTapPersonButton(_ sender: Any) {
@@ -72,6 +76,10 @@ class RussiaViewController: UIViewController, UIGestureRecognizerDelegate, UITex
             textField.rightViewMode = .always
             textField.rightView = UIImageView(image: UIImage(named: "Russia-flag"))
             textField.backgroundColor = .white
+            textField.textColor = .black
+            isPersonChecked = true
+            isDiplomaticChecked = false
+            isMilitaryChecked = false
         }
     }
     
@@ -88,6 +96,10 @@ class RussiaViewController: UIViewController, UIGestureRecognizerDelegate, UITex
             diplomaticButton.setTitle("Diplomatic ✓", for: .normal)
             diplomaticButton.setTitleColor(.green, for: .normal)
             textField.backgroundColor = .red
+            textField.textColor = .black
+            isPersonChecked = false
+            isDiplomaticChecked = true
+            isMilitaryChecked = false
         }
     }
     
@@ -106,6 +118,13 @@ class RussiaViewController: UIViewController, UIGestureRecognizerDelegate, UITex
             textField.rightViewMode = .always
             textField.rightView = UIImageView(image: UIImage(named: "Russia-flag"))
             textField.backgroundColor = .black
+            textField.textColor = .white
+            
+            
+            isPersonChecked = false
+            isDiplomaticChecked = false
+            isMilitaryChecked = true
+            
         }
     }
     
@@ -118,28 +137,57 @@ class RussiaViewController: UIViewController, UIGestureRecognizerDelegate, UITex
         searchTimer = Timer.scheduledTimer(timeInterval: 1.0, target: self, selector: #selector(searchForKeyword(_:)), userInfo: textField.text!, repeats: false)
     }
     
+    
     @objc func searchForKeyword(_ timer: Timer) {
-        if (check.isConnectedToNetwork() == true) {
-            apiService.responseRegion(endpoints: Constants.Endpoints.Russia,region: textField.text!) { [self](isSucess, str) in
-                if isSucess {
-                    messages.showMessage(label: label, message: str)
+        if isPersonChecked {
+            personData()
+        } else if isDiplomaticChecked {
+            diplomaticData()
+            
+        } else if isMilitaryChecked {
+            militaryData()
+        }
+    }
+    
+    private func personData() {
+        apiService.responseRegion(endpoints: Constants.Endpoints.Russia,region: textField.text!) { [self](isSucess, str) in
+            if isSucess {
+                messages.showMessage(label: label, message: str)
+                textField.text?.removeAll()
+            } else {
+                if (str.contains("Could not connect to the server.")) {
+                    jsonLoad.loadSpeciesInfoJSOn(resource: "russiaPerson", label: label, text: textField.text!)
                     textField.text?.removeAll()
-                } else {
-                    if (str.contains("Could not connect to the server.")) {
-                        let alert = UIAlertController(title: "Warning", message: "Could not connect to the server.", preferredStyle: UIAlertController.Style.alert)
-                        alert.addAction(UIAlertAction(title: "Ok", style: UIAlertAction.Style.default, handler: nil))
-                        self.present(alert, animated: true, completion: nil)
-                        textField.text?.removeAll()
-                    } else {
-                        messages.showMessage(label: label, message: str)
-                    }
                 }
             }
-        } else if (check.isConnectedToNetwork() == false) {
-            jsonLoad.loadSpeciesInfoJSOn(resource: "russiPerson", label: label, text: textField.text!)
-            textField.text?.removeAll()
-        } else {
-            messages.showMessage(label: label, message: "Error")
+        }
+    }
+    
+    private func diplomaticData() {
+        apiService.responseRegion(endpoints: Constants.Endpoints.Russia,region: textField.text!) { [self](isSucess, str) in
+            if isSucess {
+                messages.showMessage(label: label, message: str)
+                textField.text?.removeAll()
+            } else {
+                if (str.contains("Could not connect to the server.")) {
+                    jsonLoad.loadSpeciesInfoJSOn(resource: "russiaDiplomatic", label: label, text: textField.text!)
+                    textField.text?.removeAll()
+                }
+            }
+        }
+    }
+    
+    private func militaryData() {
+        apiService.responseRegion(endpoints: Constants.Endpoints.Russia,region: textField.text!) { [self](isSucess, str) in
+            if isSucess {
+                messages.showMessage(label: label, message: str)
+                textField.text?.removeAll()
+            } else {
+                if (str.contains("Could not connect to the server.")) {
+                    jsonLoad.loadSpeciesInfoJSOn(resource: "russiaMilitary", label: label, text: textField.text!)
+                    textField.text?.removeAll()
+                }
+            }
         }
     }
 }
