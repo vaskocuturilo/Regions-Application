@@ -1,23 +1,24 @@
 //
-//  PolandViewController.swift
+//  CzechViewController.swift
 //  Regions-Application
 //
-//  Created by Anton Smirnov on 19.08.2021.
+//  Created by Anton Smirnov on 20.08.2021.
 //
 
 import UIKit
 
-class PolandViewController: UIViewController, UIGestureRecognizerDelegate, UITextFieldDelegate {
+class CzechViewController: UIViewController, UIGestureRecognizerDelegate, UITextFieldDelegate {
     
     let apiService = APIServices()
     let check = Reachability()
     let messages = Messages()
     let jsonLoad = JsonLoader()
     
+    @IBOutlet weak var label: UILabel!
+    @IBOutlet weak var textField: UITextField!
+    
     var searchTimer: Timer?
     
-    @IBOutlet weak var textField: UITextField!
-    @IBOutlet weak var label: UILabel!
     override func viewDidLoad() {
         super.viewDidLoad()
         
@@ -53,7 +54,7 @@ class PolandViewController: UIViewController, UIGestureRecognizerDelegate, UITex
     
     @objc func searchForKeyword(_ timer: Timer) {
         if (check.isConnectedToNetwork() == true) {
-            apiService.responseRegion(endpoints: Constants.Endpoints.Poland,region: textField.text!) { [self](isSucess, str) in
+            apiService.responseRegion(endpoints: Constants.Endpoints.Czech,region: textField.text!) { [self](isSucess, str) in
                 if isSucess {
                     messages.showMessage(label: label, message: str)
                     textField.text?.removeAll()

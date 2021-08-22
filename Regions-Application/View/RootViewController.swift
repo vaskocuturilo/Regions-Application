@@ -13,15 +13,28 @@ class RootViewController: UIViewController {
     let transition = SlideTransition()
     let messages = Messages()
     
-    lazy var button: CustomButton = {
+    lazy var personButton: CustomButton = {
         let button = CustomButton(frame: CGRect(x: 100, y: 400, width: 200, height: 50))
+        
+        return button
+    } ()
+    
+    lazy var diplomaticButton: CustomButton = {
+        let button = CustomButton(frame: CGRect(x: 100, y: 500, width: 200, height: 50))
+        return button
+    } ()
+    
+    lazy var militaryButton: CustomButton = {
+        let button = CustomButton(frame: CGRect(x: 100, y: 600, width: 200, height: 50))
         return button
     } ()
     
     override public func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
-        setupButton(text: "Person auto number", 1)
+        setupButton(button: personButton, text: "Person auto number", 1)
+        setupButton(button: diplomaticButton, text: "Diplomat auto number", 1)
+        setupButton(button: militaryButton, text: "Military auto number", 1)
     }
     
     @IBAction func didTapMenu(_ sender: UIBarButtonItem) {
@@ -45,14 +58,50 @@ class RootViewController: UIViewController {
         
         switch menuType {
         case .russia:
-            setupButton(text: "Person auto number", 1)
+            setupButton(button: personButton, text: "Person auto number", 1)
+            setupButton(button: diplomaticButton, text: "Diplomat auto number", 1)
+            setupButton(button: militaryButton, text: "Military auto number", 1)
             break
         case .ukraine:
-            setupButton(text: "Person auto number", 2)
+            setupButton(button: personButton, text: "Person auto number", 2)
+            setupButton(button: diplomaticButton, text: "Diplomat auto number", 2)
+            setupButton(button: militaryButton, text: "Military auto number", 2)
+            break
+        case .belarus:
+            setupButton(button: personButton, text: "Person auto number", 3)
+            setupButton(button: diplomaticButton, text: "Diplomat auto number", 3)
+            setupButton(button: militaryButton, text: "Military auto number", 3)
             break
         case .poland:
-            setupButton(text: "Person auto number", 3)
+            setupButton(button: personButton, text: "Person auto number", 4)
+            setupButton(button: diplomaticButton, text: "Diplomat auto number", 4)
+            setupButton(button: militaryButton, text: "Military auto number", 4)
             break
+        case .czech:
+            setupButton(button: personButton, text: "Person auto number", 5)
+            setupButton(button: diplomaticButton, text: "Diplomat auto number", 5)
+            setupButton(button: militaryButton, text: "Military auto number", 5)
+            break
+        case .moldova:
+            setupButton(button: personButton, text: "Person auto number", 6)
+            setupButton(button: diplomaticButton, text: "Diplomat auto number", 6)
+            setupButton(button: militaryButton, text: "Military auto number", 6)
+        case .lithuania:
+            setupButton(button: personButton, text: "Person auto number", 7)
+            setupButton(button: diplomaticButton, text: "Diplomat auto number", 7)
+            setupButton(button: militaryButton, text: "Military auto number", 7)
+        case .turkey:
+            setupButton(button: personButton, text: "Person auto number", 8)
+            setupButton(button: diplomaticButton, text: "Diplomat auto number", 8)
+            setupButton(button: militaryButton, text: "Military auto number", 8)
+        case .estonia:
+            setupButton(button: personButton, text: "Person auto number", 9)
+            setupButton(button: diplomaticButton, text: "Diplomat auto number", 9)
+            setupButton(button: militaryButton, text: "Military auto number", 9)
+        case .germany:
+            setupButton(button: personButton, text: "Person auto number", 10)
+            setupButton(button: diplomaticButton, text: "Diplomat auto number", 10)
+            setupButton(button: militaryButton, text: "Military auto number", 10)
         case .camera:
             let VC = self.storyboard?.instantiateViewController(withIdentifier: "cameraViewController") as! CameraViewController
             self.navigationController?.pushViewController(VC, animated: true)
@@ -60,7 +109,7 @@ class RootViewController: UIViewController {
         }
     }
     
-    func setupButton(text: String, _ menu: Int) {
+    func setupButton(button: UIButton, text: String, _ menu: Int) {
         button.backgroundColor = .blue
         button.setTitle(text, for: .normal)
         button.tag = menu
@@ -77,10 +126,29 @@ class RootViewController: UIViewController {
             let VC = self.storyboard?.instantiateViewController(withIdentifier: "ukraineViewController") as! UkraineViewController
             self.navigationController?.pushViewController(VC, animated: true)
         } else if sender.tag == 3 {
+            let VC = self.storyboard?.instantiateViewController(withIdentifier: "belarusViewController") as! BelarusViewController
+            self.navigationController?.pushViewController(VC, animated: true)
+        } else if sender.tag == 4 {
             let VC = self.storyboard?.instantiateViewController(withIdentifier: "polandViewController") as! PolandViewController
             self.navigationController?.pushViewController(VC, animated: true)
-        } else {
-            messages.showErrorMessage(message: "No View Controller found.")
+        }else if sender.tag == 5 {
+            let VC = self.storyboard?.instantiateViewController(withIdentifier: "czechViewController") as! CzechViewController
+            self.navigationController?.pushViewController(VC, animated: true)
+        }else if sender.tag == 6 {
+            let VC = self.storyboard?.instantiateViewController(withIdentifier: "moldovaViewController") as! MoldovaViewController
+            self.navigationController?.pushViewController(VC, animated: true)
+        }else if sender.tag == 7 {
+            let VC = self.storyboard?.instantiateViewController(withIdentifier: "lithuaniaViewController") as! LithuaniaViewController
+            self.navigationController?.pushViewController(VC, animated: true)
+        }else if sender.tag == 8 {
+            let VC = self.storyboard?.instantiateViewController(withIdentifier: "turkeyViewController") as! TurkeyViewController
+            self.navigationController?.pushViewController(VC, animated: true)
+        }else if sender.tag == 9 {
+            let VC = self.storyboard?.instantiateViewController(withIdentifier: "estoniaViewController") as! EstoniaViewController
+            self.navigationController?.pushViewController(VC, animated: true)
+        }else if sender.tag == 10 {
+            let VC = self.storyboard?.instantiateViewController(withIdentifier: "germanyViewController") as! GermanyViewController
+            self.navigationController?.pushViewController(VC, animated: true)
         }
     }
 }
@@ -99,17 +167,4 @@ extension RootViewController: UIViewControllerTransitioningDelegate {
     }
 }
 
-extension UITextField {
-    
-    func addShadowToTextField(color: UIColor = UIColor.gray, cornerRadius: CGFloat) {
-        
-        self.backgroundColor = UIColor.white
-        self.layer.masksToBounds = false
-        self.layer.shadowColor = color.cgColor
-        self.layer.shadowOffset = CGSize(width: 0, height: 0)
-        self.layer.shadowOpacity = 1.0
-        self.backgroundColor = .white
-        self.layer.cornerRadius = cornerRadius
-    }
-}
 
