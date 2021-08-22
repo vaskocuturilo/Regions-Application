@@ -14,7 +14,14 @@ class MenuTableView: UITableViewController {
     enum MenuType: Int {
         case russia
         case ukraine
+        case belarus
         case poland
+        case czech
+        case moldova
+        case lithuania
+        case turkey
+        case estonia
+        case germany
         case camera
     }
     

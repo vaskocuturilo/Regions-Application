@@ -21,8 +21,8 @@ struct Region: Codable {
 class JsonLoader {
     let messages = Messages()
     
-    func loadSpeciesInfoJSOn(label: UILabel, text: String) {
-        if let filePath = Bundle.main.url(forResource: "russia", withExtension: "json") {
+    func loadSpeciesInfoJSOn(resource: String, label: UILabel, text: String) {
+        if let filePath = Bundle.main.url(forResource: resource, withExtension: "json") {
             
             do {
                 let data = try Data(contentsOf: filePath)
@@ -30,9 +30,9 @@ class JsonLoader {
                 let speciesInfo = try decoder.decode(RegionsInfo.self, from: data)
                 let speciesList = speciesInfo.regions
                 
-                let result = speciesList.compactMap {$0.code.contains(text) ? $0.name : nil }
+                let result = speciesList.first {$0.code == text}
                 
-                label.text = result.joined(separator: ",")
+                label.text = result?.name
                 
             } catch {
                 messages.showErrorMessage(message: "Can not load JSON file.")

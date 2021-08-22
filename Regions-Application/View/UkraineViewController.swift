@@ -31,10 +31,14 @@ class UkraineViewController: UIViewController, UIGestureRecognizerDelegate, UITe
         navigationController?.interactivePopGestureRecognizer?.delegate = self
         
         textField.delegate = self
+        textField.tintColor = .clear
+        textField.becomeFirstResponder()
         self.textField.addTarget(self, action: #selector(textFieldDidEditingChanged(_:)), for: .editingChanged)
         
         textField.addShadowToTextField(cornerRadius: 3)
         textField.addShadowToTextField(color: UIColor.black, cornerRadius: 3)
+        
+        label.text = ""
     }
     
     @objc func textFieldDidEditingChanged(_ textField: UITextField) {
@@ -64,7 +68,7 @@ class UkraineViewController: UIViewController, UIGestureRecognizerDelegate, UITe
                 }
             }
         } else if (check.isConnectedToNetwork() == false) {
-            jsonLoad.loadSpeciesInfoJSOn(label: label, text: textField.text!)
+            jsonLoad.loadSpeciesInfoJSOn(resource: "", label: label, text: textField.text!)
             textField.text?.removeAll()
         } else {
             messages.showMessage(label: label, message: "Error")
