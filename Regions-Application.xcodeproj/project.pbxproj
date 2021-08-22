@@ -47,6 +47,7 @@
 		72FF218626D25FA2004B98FC /* TurkeyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72FF218526D25FA2004B98FC /* TurkeyViewController.swift */; };
 		72FF218B26D25FFE004B98FC /* EstoniaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72FF218A26D25FFE004B98FC /* EstoniaViewController.swift */; };
 		72FF219026D260D8004B98FC /* GermanyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72FF218F26D260D8004B98FC /* GermanyViewController.swift */; };
+		72FF843326D26545008F637C /* russiaMilitary.json in Resources */ = {isa = PBXBuildFile; fileRef = 72FF843226D26545008F637C /* russiaMilitary.json */; };
 		9AE33667EE3D03D29006A7FC /* Pods_Regions_Application_Regions_ApplicationUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 96A8ED876FA74393F460EDAF /* Pods_Regions_Application_Regions_ApplicationUITests.framework */; };
 		C5ADB965DB39FDFBA8978CB0 /* Pods_Regions_ApplicationTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2B7B2696D83BE16A3C13C49F /* Pods_Regions_ApplicationTests.framework */; };
 /* End PBXBuildFile section */
@@ -113,6 +114,7 @@
 		72FF218526D25FA2004B98FC /* TurkeyViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TurkeyViewController.swift; sourceTree = "<group>"; };
 		72FF218A26D25FFE004B98FC /* EstoniaViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EstoniaViewController.swift; sourceTree = "<group>"; };
 		72FF218F26D260D8004B98FC /* GermanyViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GermanyViewController.swift; sourceTree = "<group>"; };
+		72FF843226D26545008F637C /* russiaMilitary.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = russiaMilitary.json; sourceTree = "<group>"; };
 		96A8ED876FA74393F460EDAF /* Pods_Regions_Application_Regions_ApplicationUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Regions_Application_Regions_ApplicationUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		A63C7C07877B56AFBD81CFD3 /* Pods-Regions-Application-Regions-ApplicationUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Regions-Application-Regions-ApplicationUITests.release.xcconfig"; path = "Target Support Files/Pods-Regions-Application-Regions-ApplicationUITests/Pods-Regions-Application-Regions-ApplicationUITests.release.xcconfig"; sourceTree = "<group>"; };
 		C33AA737D36D0168C8C1335A /* Pods_Regions_Application.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Regions_Application.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -236,6 +238,7 @@
 			children = (
 				72D667D326C862E600DAC2B4 /* russiaPerson.json */,
 				72F5992726D1965100706852 /* russiaDiplomatic.json */,
+				72FF843226D26545008F637C /* russiaMilitary.json */,
 			);
 			path = json;
 			sourceTree = "<group>";
@@ -408,6 +411,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				729703B526C7F7C800CE82E5 /* MenuTableView.swift in Resources */,
+				72FF843326D26545008F637C /* russiaMilitary.json in Resources */,
 				729703B626C7F7C800CE82E5 /* RootViewController.swift in Resources */,
 				729703B726C7F7C800CE82E5 /* UkraineViewController.swift in Resources */,
 				729703B826C7F7C800CE82E5 /* BelarusViewController.swift in Resources */,
