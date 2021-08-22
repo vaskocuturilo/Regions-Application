@@ -12,7 +12,7 @@ This is simple regions application. The features of this application:
 
 
 ## Test scenario:
-- Create simple application for response regions (Russia, Ukraine, Poland and Germany).
+- Create simple application for response regions (Russia, Ukraine, Belarusia, Poland, Moldova, Lithuania, Turkey, Czech, Estonia and Germany).
 - Create functional for using REST API with Mysql.
 - Create functional for work with JSON data.
 - Creat functional for work with CoreData.
