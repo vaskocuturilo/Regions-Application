@@ -79,7 +79,7 @@ class UkraineViewController: UIViewController, UIGestureRecognizerDelegate, UITe
             personButton.setTitle("Person ✓", for: .normal)
             personButton.setTitleColor(.green, for: .normal)
             textField.rightViewMode = .always
-            textField.rightView = UIImageView(image: UIImage(named: "Russia-flag"))
+            textField.rightView = UIImageView(image: UIImage(named: "Ukraine-Flag"))
             textField.backgroundColor = .white
             textField.textColor = .black
             isPersonChecked = true

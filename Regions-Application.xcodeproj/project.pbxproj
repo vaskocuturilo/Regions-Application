@@ -14,6 +14,7 @@
 		7224632326C470DB00D7E215 /* UkraineViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7224632226C470DB00D7E215 /* UkraineViewController.swift */; };
 		722A951826CB8B2B00A45545 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 722A951726CB8B2B00A45545 /* Constants.swift */; };
 		722A952726CB8E4800A45545 /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 722A952626CB8E4800A45545 /* CameraViewController.swift */; };
+		7264B71226D43B1C00DDD9B2 /* belarusPerson.json in Resources */ = {isa = PBXBuildFile; fileRef = 7264B71126D43B1C00DDD9B2 /* belarusPerson.json */; };
 		7267D4BB26CEAAA2008021D1 /* PolandViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7267D4BA26CEAAA2008021D1 /* PolandViewController.swift */; };
 		7274FD9026C93EA500DF5D85 /* AfterOneSecondTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7274FD8F26C93EA500DF5D85 /* AfterOneSecondTextField.swift */; };
 		7274FD9526C9508000DF5D85 /* JsonLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7274FD9426C9508000DF5D85 /* JsonLoader.swift */; };
@@ -80,6 +81,7 @@
 		7224632226C470DB00D7E215 /* UkraineViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UkraineViewController.swift; sourceTree = "<group>"; };
 		722A951726CB8B2B00A45545 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		722A952626CB8E4800A45545 /* CameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
+		7264B71126D43B1C00DDD9B2 /* belarusPerson.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = belarusPerson.json; sourceTree = "<group>"; };
 		7267D4BA26CEAAA2008021D1 /* PolandViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PolandViewController.swift; sourceTree = "<group>"; };
 		7274FD8F26C93EA500DF5D85 /* AfterOneSecondTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AfterOneSecondTextField.swift; sourceTree = "<group>"; };
 		7274FD9426C9508000DF5D85 /* JsonLoader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JsonLoader.swift; sourceTree = "<group>"; };
@@ -193,6 +195,14 @@
 			path = ukraine;
 			sourceTree = "<group>";
 		};
+		7264B71026D43B0100DDD9B2 /* belarus */ = {
+			isa = PBXGroup;
+			children = (
+				7264B71126D43B1C00DDD9B2 /* belarusPerson.json */,
+			);
+			path = belarus;
+			sourceTree = "<group>";
+		};
 		7288078626D1B89E00C670CB /* Extensions */ = {
 			isa = PBXGroup;
 			children = (
@@ -256,6 +266,7 @@
 		72CB74A726C7E624007435AB /* json */ = {
 			isa = PBXGroup;
 			children = (
+				7264B71026D43B0100DDD9B2 /* belarus */,
 				722EE7FF26D2CE3A00A4A288 /* ukraine */,
 				722EE7FE26D2CE2600A4A288 /* russia */,
 			);
@@ -433,6 +444,7 @@
 				729703B526C7F7C800CE82E5 /* MenuTableView.swift in Resources */,
 				72FF843326D26545008F637C /* russiaMilitary.json in Resources */,
 				729703B626C7F7C800CE82E5 /* RootViewController.swift in Resources */,
+				7264B71226D43B1C00DDD9B2 /* belarusPerson.json in Resources */,
 				729703B726C7F7C800CE82E5 /* UkraineViewController.swift in Resources */,
 				729703B826C7F7C800CE82E5 /* BelarusViewController.swift in Resources */,
 				72F5992826D1965100706852 /* russiaDiplomatic.json in Resources */,
