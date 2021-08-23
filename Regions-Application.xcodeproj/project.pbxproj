@@ -40,6 +40,7 @@
 		72D4B21526C17F850029AB3C /* Regions_ApplicationUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72D4B21426C17F850029AB3C /* Regions_ApplicationUITests.swift */; };
 		72D4B22626C180FF0029AB3C /* MenuTableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72D4B22526C180FF0029AB3C /* MenuTableView.swift */; };
 		72D667D426C862E600DAC2B4 /* russiaPerson.json in Resources */ = {isa = PBXBuildFile; fileRef = 72D667D326C862E600DAC2B4 /* russiaPerson.json */; };
+		72E0974E26D2E55F007F3693 /* ukrainePerson.json in Resources */ = {isa = PBXBuildFile; fileRef = 72E0974D26D2E55F007F3693 /* ukrainePerson.json */; };
 		72E16EAD26C432EF00FB3D57 /* Reachability.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72E16EAC26C432EF00FB3D57 /* Reachability.swift */; };
 		72F5992826D1965100706852 /* russiaDiplomatic.json in Resources */ = {isa = PBXBuildFile; fileRef = 72F5992726D1965100706852 /* russiaDiplomatic.json */; };
 		72FF217C26D25ED3004B98FC /* MoldovaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72FF217B26D25ED3004B98FC /* MoldovaViewController.swift */; };
@@ -107,6 +108,7 @@
 		72D4B21626C17F850029AB3C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		72D4B22526C180FF0029AB3C /* MenuTableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuTableView.swift; sourceTree = "<group>"; };
 		72D667D326C862E600DAC2B4 /* russiaPerson.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = russiaPerson.json; sourceTree = "<group>"; };
+		72E0974D26D2E55F007F3693 /* ukrainePerson.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = ukrainePerson.json; sourceTree = "<group>"; };
 		72E16EAC26C432EF00FB3D57 /* Reachability.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Reachability.swift; sourceTree = "<group>"; };
 		72F5992726D1965100706852 /* russiaDiplomatic.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = russiaDiplomatic.json; sourceTree = "<group>"; };
 		72FF217B26D25ED3004B98FC /* MoldovaViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoldovaViewController.swift; sourceTree = "<group>"; };
@@ -173,6 +175,24 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
+		722EE7FE26D2CE2600A4A288 /* russia */ = {
+			isa = PBXGroup;
+			children = (
+				72D667D326C862E600DAC2B4 /* russiaPerson.json */,
+				72F5992726D1965100706852 /* russiaDiplomatic.json */,
+				72FF843226D26545008F637C /* russiaMilitary.json */,
+			);
+			path = russia;
+			sourceTree = "<group>";
+		};
+		722EE7FF26D2CE3A00A4A288 /* ukraine */ = {
+			isa = PBXGroup;
+			children = (
+				72E0974D26D2E55F007F3693 /* ukrainePerson.json */,
+			);
+			path = ukraine;
+			sourceTree = "<group>";
+		};
 		7288078626D1B89E00C670CB /* Extensions */ = {
 			isa = PBXGroup;
 			children = (
@@ -236,9 +256,8 @@
 		72CB74A726C7E624007435AB /* json */ = {
 			isa = PBXGroup;
 			children = (
-				72D667D326C862E600DAC2B4 /* russiaPerson.json */,
-				72F5992726D1965100706852 /* russiaDiplomatic.json */,
-				72FF843226D26545008F637C /* russiaMilitary.json */,
+				722EE7FF26D2CE3A00A4A288 /* ukraine */,
+				722EE7FE26D2CE2600A4A288 /* russia */,
 			);
 			path = json;
 			sourceTree = "<group>";
@@ -410,6 +429,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				72E0974E26D2E55F007F3693 /* ukrainePerson.json in Resources */,
 				729703B526C7F7C800CE82E5 /* MenuTableView.swift in Resources */,
 				72FF843326D26545008F637C /* russiaMilitary.json in Resources */,
 				729703B626C7F7C800CE82E5 /* RootViewController.swift in Resources */,
