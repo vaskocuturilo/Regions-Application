@@ -14,18 +14,18 @@ class RootViewController: UIViewController {
     let messages = Messages()
     
     lazy var personButton: CustomButton = {
-        let button = CustomButton(frame: CGRect(x: 100, y: 400, width: 200, height: 50))
+        let button = CustomButton(frame: CGRect(x: 50, y: 200, width: 200, height: 50))
         
         return button
     } ()
     
     lazy var diplomaticButton: CustomButton = {
-        let button = CustomButton(frame: CGRect(x: 100, y: 500, width: 200, height: 50))
+        let button = CustomButton(frame: CGRect(x: 50, y: 300, width: 200, height: 50))
         return button
     } ()
     
     lazy var militaryButton: CustomButton = {
-        let button = CustomButton(frame: CGRect(x: 100, y: 600, width: 200, height: 50))
+        let button = CustomButton(frame: CGRect(x: 50, y: 400, width: 200, height: 50))
         return button
     } ()
     
