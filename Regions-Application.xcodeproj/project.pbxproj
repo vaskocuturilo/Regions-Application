@@ -26,6 +26,7 @@
 		7274FD9026C93EA500DF5D85 /* AfterOneSecondTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7274FD8F26C93EA500DF5D85 /* AfterOneSecondTextField.swift */; };
 		7274FD9526C9508000DF5D85 /* JsonLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7274FD9426C9508000DF5D85 /* JsonLoader.swift */; };
 		727A4AC926C63C850093879A /* ReadJson.swift in Sources */ = {isa = PBXBuildFile; fileRef = 727A4AC826C63C850093879A /* ReadJson.swift */; };
+		7283375B26D6C5D50008CF90 /* UIViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7283375A26D6C5D50008CF90 /* UIViewController.swift */; };
 		7288078826D1B8D100C670CB /* TextFieldExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7288078726D1B8D100C670CB /* TextFieldExtension.swift */; };
 		7288079026D1B93000C670CB /* ButtonExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7288078F26D1B93000C670CB /* ButtonExtension.swift */; };
 		729703AA26C7F6E500CE82E5 /* RussiaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 729703A926C7F6E500CE82E5 /* RussiaViewController.swift */; };
@@ -100,6 +101,7 @@
 		7274FD8F26C93EA500DF5D85 /* AfterOneSecondTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AfterOneSecondTextField.swift; sourceTree = "<group>"; };
 		7274FD9426C9508000DF5D85 /* JsonLoader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JsonLoader.swift; sourceTree = "<group>"; };
 		727A4AC826C63C850093879A /* ReadJson.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReadJson.swift; sourceTree = "<group>"; };
+		7283375A26D6C5D50008CF90 /* UIViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIViewController.swift; sourceTree = "<group>"; };
 		7288078726D1B8D100C670CB /* TextFieldExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldExtension.swift; sourceTree = "<group>"; };
 		7288078F26D1B93000C670CB /* ButtonExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonExtension.swift; sourceTree = "<group>"; };
 		729703A926C7F6E500CE82E5 /* RussiaViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RussiaViewController.swift; sourceTree = "<group>"; };
@@ -278,6 +280,7 @@
 			children = (
 				7288078726D1B8D100C670CB /* TextFieldExtension.swift */,
 				7288078F26D1B93000C670CB /* ButtonExtension.swift */,
+				7283375A26D6C5D50008CF90 /* UIViewController.swift */,
 			);
 			path = Extensions;
 			sourceTree = "<group>";
@@ -684,6 +687,7 @@
 				72D4B1F026C17F840029AB3C /* AppDelegate.swift in Sources */,
 				729703AA26C7F6E500CE82E5 /* RussiaViewController.swift in Sources */,
 				72A11A7D26C4556C004F8FCB /* Messages.swift in Sources */,
+				7283375B26D6C5D50008CF90 /* UIViewController.swift in Sources */,
 				72FF219026D260D8004B98FC /* GermanyViewController.swift in Sources */,
 				727A4AC926C63C850093879A /* ReadJson.swift in Sources */,
 				7274FD9526C9508000DF5D85 /* JsonLoader.swift in Sources */,

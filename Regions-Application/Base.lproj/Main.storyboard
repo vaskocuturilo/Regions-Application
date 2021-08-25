@@ -504,28 +504,28 @@
                         <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" spacing="15" translatesAutoresizingMaskIntoConstraints="NO" id="hK0-wd-Lgc">
+                            <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" spacing="10" translatesAutoresizingMaskIntoConstraints="NO" id="hK0-wd-Lgc">
                                 <rect key="frame" x="20" y="20" width="280" height="50"/>
                                 <subviews>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="O5Q-XL-4xx">
-                                        <rect key="frame" x="0.0" y="0.0" width="83.5" height="50"/>
-                                        <fontDescription key="fontDescription" type="boldSystem" pointSize="15"/>
+                                        <rect key="frame" x="0.0" y="0.0" width="86.5" height="50"/>
+                                        <fontDescription key="fontDescription" name="Palatino-Bold" family="Palatino" pointSize="14"/>
                                         <state key="normal" title="Person"/>
                                         <connections>
                                             <action selector="didTapPersonButton:" destination="zL7-cV-KUD" eventType="touchUpInside" id="GR3-Qt-Md1"/>
                                         </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Jgt-yv-ZB4">
-                                        <rect key="frame" x="98.5" y="0.0" width="83" height="50"/>
-                                        <fontDescription key="fontDescription" type="boldSystem" pointSize="15"/>
+                                        <rect key="frame" x="96.5" y="0.0" width="87" height="50"/>
+                                        <fontDescription key="fontDescription" name="Palatino-Bold" family="Palatino" pointSize="14"/>
                                         <state key="normal" title="Diplomatic"/>
                                         <connections>
                                             <action selector="didTapDiplomaticButton:" destination="zL7-cV-KUD" eventType="touchUpInside" id="g5H-KC-tgD"/>
                                         </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="bqC-8h-9V9">
-                                        <rect key="frame" x="196.5" y="0.0" width="83.5" height="50"/>
-                                        <fontDescription key="fontDescription" type="boldSystem" pointSize="15"/>
+                                        <rect key="frame" x="193.5" y="0.0" width="86.5" height="50"/>
+                                        <fontDescription key="fontDescription" name="Palatino-Bold" family="Palatino" pointSize="14"/>
                                         <state key="normal" title="Military"/>
                                         <connections>
                                             <action selector="didTapMilitary:" destination="zL7-cV-KUD" eventType="touchUpInside" id="aZA-fa-Mi4"/>
@@ -542,13 +542,13 @@
                                 <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="center" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="Lez-b7-kTL">
-                                <rect key="frame" x="120" y="244" width="80" height="80"/>
+                            <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="NVe-wu-7DU">
+                                <rect key="frame" x="120" y="259" width="80" height="50"/>
                                 <constraints>
-                                    <constraint firstAttribute="width" constant="80" id="e0U-fN-l79"/>
-                                    <constraint firstAttribute="height" constant="80" id="nTe-pg-CNc"/>
+                                    <constraint firstAttribute="height" constant="50" id="E3e-w6-qMp"/>
+                                    <constraint firstAttribute="width" constant="80" id="Q9Z-eN-hCj"/>
                                 </constraints>
-                                <fontDescription key="fontDescription" type="boldSystem" pointSize="25"/>
+                                <fontDescription key="fontDescription" name="Palatino-Bold" family="Palatino" pointSize="25"/>
                                 <textInputTraits key="textInputTraits" keyboardType="numberPad"/>
                             </textField>
                         </subviews>
@@ -556,13 +556,13 @@
                         <color key="backgroundColor" systemColor="opaqueSeparatorColor"/>
                         <constraints>
                             <constraint firstItem="O01-HJ-aaQ" firstAttribute="top" secondItem="hK0-wd-Lgc" secondAttribute="bottom" constant="30" id="2CI-gm-tL1"/>
+                            <constraint firstItem="NVe-wu-7DU" firstAttribute="centerY" secondItem="pkm-H2-M5Y" secondAttribute="centerY" id="PSd-iQ-K4X"/>
                             <constraint firstItem="O01-HJ-aaQ" firstAttribute="leading" secondItem="8i1-3h-dhA" secondAttribute="leading" constant="20" id="ULz-Cf-bX4"/>
                             <constraint firstItem="8i1-3h-dhA" firstAttribute="trailing" secondItem="hK0-wd-Lgc" secondAttribute="trailing" constant="20" id="URI-Te-s3a"/>
                             <constraint firstItem="8i1-3h-dhA" firstAttribute="trailing" secondItem="O01-HJ-aaQ" secondAttribute="trailing" constant="20" id="UyD-mC-4vb"/>
                             <constraint firstItem="hK0-wd-Lgc" firstAttribute="leading" secondItem="8i1-3h-dhA" secondAttribute="leading" constant="20" id="aex-R7-8Zu"/>
-                            <constraint firstItem="Lez-b7-kTL" firstAttribute="centerY" secondItem="pkm-H2-M5Y" secondAttribute="centerY" id="dU9-rE-eW1"/>
+                            <constraint firstItem="NVe-wu-7DU" firstAttribute="centerX" secondItem="pkm-H2-M5Y" secondAttribute="centerX" id="fai-oa-06V"/>
                             <constraint firstItem="hK0-wd-Lgc" firstAttribute="top" secondItem="8i1-3h-dhA" secondAttribute="top" constant="20" id="mbF-DF-8IG"/>
-                            <constraint firstItem="Lez-b7-kTL" firstAttribute="centerX" secondItem="pkm-H2-M5Y" secondAttribute="centerX" id="upJ-H1-JXO"/>
                         </constraints>
                     </view>
                     <connections>
@@ -570,7 +570,7 @@
                         <outlet property="label" destination="O01-HJ-aaQ" id="aE2-Jx-mLW"/>
                         <outlet property="militaryButton" destination="bqC-8h-9V9" id="mQr-ks-XtZ"/>
                         <outlet property="personButton" destination="O5Q-XL-4xx" id="sYD-vS-Rqt"/>
-                        <outlet property="textField" destination="Lez-b7-kTL" id="URE-zu-Jeu"/>
+                        <outlet property="textField" destination="NVe-wu-7DU" id="Z4f-iD-REa"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dyf-hN-KP5" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
@@ -585,42 +585,48 @@
                         <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" spacing="20" translatesAutoresizingMaskIntoConstraints="NO" id="p8f-wX-nd9">
-                                <rect key="frame" x="20" y="20" width="280" height="32"/>
+                            <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" spacing="10" translatesAutoresizingMaskIntoConstraints="NO" id="p8f-wX-nd9">
+                                <rect key="frame" x="20" y="20" width="280" height="30"/>
                                 <subviews>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ye0-3X-kEb">
-                                        <rect key="frame" x="0.0" y="0.0" width="80" height="32"/>
-                                        <fontDescription key="fontDescription" type="system" pointSize="16"/>
+                                        <rect key="frame" x="0.0" y="0.0" width="86.5" height="30"/>
+                                        <fontDescription key="fontDescription" name="Palatino-Bold" family="Palatino" pointSize="16"/>
                                         <state key="normal" title="Person"/>
                                         <connections>
                                             <action selector="didTapPersonButton:" destination="aFi-sS-1Wg" eventType="touchUpInside" id="ee2-83-Yz7"/>
                                         </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="oHA-Xa-k4J">
-                                        <rect key="frame" x="100" y="0.0" width="80" height="32"/>
-                                        <fontDescription key="fontDescription" type="system" pointSize="16"/>
+                                        <rect key="frame" x="96.5" y="0.0" width="87" height="30"/>
+                                        <fontDescription key="fontDescription" name="Palatino-Bold" family="Palatino" pointSize="16"/>
                                         <state key="normal" title="Diplomatic"/>
+                                        <connections>
+                                            <action selector="didTapDiplomaticButton:" destination="aFi-sS-1Wg" eventType="touchUpInside" id="sxp-QX-Srb"/>
+                                        </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="oKe-2Y-uim">
-                                        <rect key="frame" x="200" y="0.0" width="80" height="32"/>
-                                        <fontDescription key="fontDescription" type="system" pointSize="16"/>
+                                        <rect key="frame" x="193.5" y="0.0" width="86.5" height="30"/>
+                                        <fontDescription key="fontDescription" name="Palatino-Bold" family="Palatino" pointSize="16"/>
                                         <state key="normal" title="Military"/>
+                                        <connections>
+                                            <action selector="didTapMilitaryButton:" destination="aFi-sS-1Wg" eventType="touchUpInside" id="PhO-fT-CV7"/>
+                                        </connections>
                                     </button>
                                 </subviews>
                             </stackView>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Enter region code:" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="3Uh-h5-7gA">
-                                <rect key="frame" x="20" y="102" width="280" height="22.5"/>
+                                <rect key="frame" x="20" y="100" width="280" height="22.5"/>
                                 <fontDescription key="fontDescription" name="Palatino-Bold" family="Palatino" pointSize="20"/>
                                 <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="ncg-k0-nHw">
-                                <rect key="frame" x="111.5" y="228" width="97" height="45"/>
+                            <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="center" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="bJd-vf-yQX">
+                                <rect key="frame" x="120" y="259" width="80" height="50"/>
                                 <constraints>
-                                    <constraint firstAttribute="width" constant="97" id="W5c-d6-5vw"/>
-                                    <constraint firstAttribute="height" constant="45" id="YiX-bG-hPd"/>
+                                    <constraint firstAttribute="height" constant="50" id="3eZ-tB-OVp"/>
+                                    <constraint firstAttribute="width" constant="80" id="asN-wU-uo6"/>
                                 </constraints>
-                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
+                                <fontDescription key="fontDescription" name="Palatino-Bold" family="Palatino" pointSize="25"/>
                                 <textInputTraits key="textInputTraits"/>
                             </textField>
                         </subviews>
@@ -629,11 +635,11 @@
                         <constraints>
                             <constraint firstItem="fgz-9B-N4n" firstAttribute="trailing" secondItem="p8f-wX-nd9" secondAttribute="trailing" constant="20" id="8SV-cf-C97"/>
                             <constraint firstItem="3Uh-h5-7gA" firstAttribute="leading" secondItem="p8f-wX-nd9" secondAttribute="leading" id="A8J-e6-li1"/>
+                            <constraint firstItem="bJd-vf-yQX" firstAttribute="centerX" secondItem="m9G-gl-Fhd" secondAttribute="centerX" id="HDN-K9-MgV"/>
                             <constraint firstItem="3Uh-h5-7gA" firstAttribute="trailing" secondItem="p8f-wX-nd9" secondAttribute="trailing" id="KSY-HF-4i4"/>
                             <constraint firstItem="3Uh-h5-7gA" firstAttribute="top" secondItem="p8f-wX-nd9" secondAttribute="bottom" constant="50" id="ZbD-CD-qK4"/>
                             <constraint firstItem="p8f-wX-nd9" firstAttribute="top" secondItem="fgz-9B-N4n" secondAttribute="top" constant="20" id="k4p-Bc-CCH"/>
-                            <constraint firstItem="fgz-9B-N4n" firstAttribute="bottom" secondItem="ncg-k0-nHw" secondAttribute="bottom" constant="295" id="nAJ-nG-QYo"/>
-                            <constraint firstItem="ncg-k0-nHw" firstAttribute="centerX" secondItem="3Uh-h5-7gA" secondAttribute="centerX" id="rLA-IK-57d"/>
+                            <constraint firstItem="bJd-vf-yQX" firstAttribute="centerY" secondItem="m9G-gl-Fhd" secondAttribute="centerY" id="kUu-2w-2qf"/>
                             <constraint firstItem="p8f-wX-nd9" firstAttribute="leading" secondItem="fgz-9B-N4n" secondAttribute="leading" constant="20" id="xXc-W9-E25"/>
                         </constraints>
                     </view>
@@ -642,7 +648,7 @@
                         <outlet property="label" destination="3Uh-h5-7gA" id="QJN-lM-tHd"/>
                         <outlet property="militaryButton" destination="oKe-2Y-uim" id="xEu-o2-9Xe"/>
                         <outlet property="personButton" destination="ye0-3X-kEb" id="sp6-rl-TF2"/>
-                        <outlet property="textField" destination="ncg-k0-nHw" id="6JI-K8-AY8"/>
+                        <outlet property="textField" destination="bJd-vf-yQX" id="Vxs-rh-wpx"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="iwL-Fj-EjE" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
@@ -657,56 +663,62 @@
                         <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" spacing="20" translatesAutoresizingMaskIntoConstraints="NO" id="WKJ-ea-Rau">
-                                <rect key="frame" x="20" y="20" width="280" height="32"/>
+                            <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" spacing="10" translatesAutoresizingMaskIntoConstraints="NO" id="WKJ-ea-Rau">
+                                <rect key="frame" x="20" y="20" width="280" height="29"/>
                                 <subviews>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="af6-ID-AfA">
-                                        <rect key="frame" x="0.0" y="0.0" width="80" height="32"/>
-                                        <fontDescription key="fontDescription" type="system" pointSize="16"/>
+                                        <rect key="frame" x="0.0" y="0.0" width="86.5" height="29"/>
+                                        <fontDescription key="fontDescription" name="Palatino-Bold" family="Palatino" pointSize="15"/>
                                         <state key="normal" title="Person"/>
                                         <connections>
                                             <action selector="didTapPersonButton:" destination="Qni-5P-3Tr" eventType="touchUpInside" id="ifl-12-W8s"/>
                                         </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="3I4-mZ-oYs">
-                                        <rect key="frame" x="100" y="0.0" width="80" height="32"/>
-                                        <fontDescription key="fontDescription" type="system" pointSize="16"/>
+                                        <rect key="frame" x="96.5" y="0.0" width="87" height="29"/>
+                                        <fontDescription key="fontDescription" name="Palatino-Bold" family="Palatino" pointSize="15"/>
                                         <state key="normal" title="Diplomatic"/>
+                                        <connections>
+                                            <action selector="didTapDiplomaticButton:" destination="Qni-5P-3Tr" eventType="touchUpInside" id="Rq6-9v-uii"/>
+                                        </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="y1l-Zq-sbn">
-                                        <rect key="frame" x="200" y="0.0" width="80" height="32"/>
-                                        <fontDescription key="fontDescription" type="system" pointSize="16"/>
+                                        <rect key="frame" x="193.5" y="0.0" width="86.5" height="29"/>
+                                        <fontDescription key="fontDescription" name="Palatino-Bold" family="Palatino" pointSize="15"/>
                                         <state key="normal" title="Military"/>
+                                        <connections>
+                                            <action selector="didTapMilitaryButton:" destination="Qni-5P-3Tr" eventType="touchUpInside" id="JmX-5I-9u3"/>
+                                        </connections>
                                     </button>
                                 </subviews>
                             </stackView>
-                            <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="center" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="7xL-PV-StA">
-                                <rect key="frame" x="110" y="234" width="100" height="100"/>
-                                <constraints>
-                                    <constraint firstAttribute="height" constant="100" id="M39-jz-SFo"/>
-                                    <constraint firstAttribute="width" constant="100" id="OX2-vK-R1B"/>
-                                </constraints>
-                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
-                                <textInputTraits key="textInputTraits" keyboardType="numberPad"/>
-                            </textField>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Enter region code:" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Wje-br-cOE">
-                                <rect key="frame" x="20" y="122" width="280" height="28"/>
+                                <rect key="frame" x="20" y="119" width="280" height="28"/>
                                 <fontDescription key="fontDescription" name="Palatino-Bold" family="Palatino" pointSize="25"/>
                                 <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <nil key="highlightedColor"/>
                             </label>
+                            <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="center" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="mI1-EO-R8l">
+                                <rect key="frame" x="120" y="259" width="80" height="50"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="80" id="0Je-ee-71G"/>
+                                    <constraint firstAttribute="height" constant="50" id="Drv-Qg-6bz"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="Palatino-Bold" family="Palatino" pointSize="25"/>
+                                <textInputTraits key="textInputTraits" keyboardType="numberPad"/>
+                            </textField>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="tGH-cE-5sp"/>
                         <color key="backgroundColor" systemColor="opaqueSeparatorColor"/>
                         <constraints>
-                            <constraint firstItem="7xL-PV-StA" firstAttribute="centerY" secondItem="X03-Yx-Ba9" secondAttribute="centerY" id="9sR-0L-OdO"/>
                             <constraint firstItem="WKJ-ea-Rau" firstAttribute="top" secondItem="tGH-cE-5sp" secondAttribute="top" constant="20" id="D4Q-RM-sbY"/>
-                            <constraint firstItem="7xL-PV-StA" firstAttribute="centerX" secondItem="X03-Yx-Ba9" secondAttribute="centerX" id="EIL-Il-mGP"/>
                             <constraint firstItem="tGH-cE-5sp" firstAttribute="trailing" secondItem="WKJ-ea-Rau" secondAttribute="trailing" constant="20" id="SGx-hV-YtG"/>
                             <constraint firstItem="tGH-cE-5sp" firstAttribute="trailing" secondItem="Wje-br-cOE" secondAttribute="trailing" constant="20" id="Tbn-oi-fhP"/>
                             <constraint firstItem="Wje-br-cOE" firstAttribute="leading" secondItem="tGH-cE-5sp" secondAttribute="leading" constant="20" id="eZI-Tr-gXl"/>
                             <constraint firstItem="Wje-br-cOE" firstAttribute="top" secondItem="WKJ-ea-Rau" secondAttribute="bottom" constant="70" id="jJT-Az-0qG"/>
+                            <constraint firstItem="mI1-EO-R8l" firstAttribute="centerX" secondItem="X03-Yx-Ba9" secondAttribute="centerX" id="lq2-IK-ycG"/>
                             <constraint firstItem="WKJ-ea-Rau" firstAttribute="leading" secondItem="tGH-cE-5sp" secondAttribute="leading" constant="20" id="pd1-mL-TTV"/>
+                            <constraint firstItem="mI1-EO-R8l" firstAttribute="centerY" secondItem="X03-Yx-Ba9" secondAttribute="centerY" id="wAh-7v-6Kx"/>
                         </constraints>
                     </view>
                     <connections>
@@ -714,7 +726,7 @@
                         <outlet property="label" destination="Wje-br-cOE" id="YeH-BU-gTJ"/>
                         <outlet property="militaryButton" destination="y1l-Zq-sbn" id="9vr-XI-pZP"/>
                         <outlet property="personButton" destination="af6-ID-AfA" id="H6f-vV-e5m"/>
-                        <outlet property="textField" destination="7xL-PV-StA" id="dol-55-uSP"/>
+                        <outlet property="textField" destination="mI1-EO-R8l" id="0Pl-W5-0y7"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="MWn-wn-mcD" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
@@ -729,45 +741,78 @@
                         <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="car-plate-zs-poland-zs-number" translatesAutoresizingMaskIntoConstraints="NO" id="kqY-P4-pBd">
-                                <rect key="frame" x="20" y="40" width="280" height="165"/>
-                            </imageView>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Osy-fP-qab">
-                                <rect key="frame" x="137" y="271" width="46" height="26"/>
-                                <fontDescription key="fontDescription" name="MarkerFelt-Wide" family="Marker Felt" pointSize="20"/>
-                                <nil key="textColor"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Enter region code:" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="9rK-J8-aqt">
+                                <rect key="frame" x="20" y="138" width="280" height="23.5"/>
+                                <fontDescription key="fontDescription" name="Palatino-Bold" family="Palatino" pointSize="21"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="line" textAlignment="center" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="4Wy-n1-wBV">
-                                <rect key="frame" x="110" y="428" width="100" height="100"/>
+                            <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="center" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="ALm-sy-evL">
+                                <rect key="frame" x="120" y="259" width="80" height="50"/>
                                 <constraints>
-                                    <constraint firstAttribute="width" constant="100" id="4hF-Af-lPd"/>
-                                    <constraint firstAttribute="height" constant="100" id="L1G-Ll-sHh"/>
+                                    <constraint firstAttribute="height" constant="50" id="a0a-z1-ARe"/>
+                                    <constraint firstAttribute="width" constant="80" id="sxb-cK-T6b"/>
                                 </constraints>
-                                <fontDescription key="fontDescription" type="system" pointSize="24"/>
-                                <textInputTraits key="textInputTraits"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
+                                <textInputTraits key="textInputTraits" textContentType="location"/>
                             </textField>
+                            <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" spacing="10" translatesAutoresizingMaskIntoConstraints="NO" id="ZmP-Av-WgB">
+                                <rect key="frame" x="20" y="20" width="280" height="50"/>
+                                <subviews>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="C6C-p7-ex7">
+                                        <rect key="frame" x="0.0" y="0.0" width="86.5" height="50"/>
+                                        <fontDescription key="fontDescription" name="Palatino-Bold" family="Palatino" pointSize="16"/>
+                                        <state key="normal" title="Person"/>
+                                        <connections>
+                                            <action selector="didTapPersonButton:" destination="CIJ-GW-u9J" eventType="touchUpInside" id="8d2-VV-x7x"/>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Yq5-ur-nPn">
+                                        <rect key="frame" x="96.5" y="0.0" width="87" height="50"/>
+                                        <fontDescription key="fontDescription" name="Palatino-Bold" family="Palatino" pointSize="14"/>
+                                        <state key="normal" title="Diplomatic"/>
+                                        <connections>
+                                            <action selector="didTapDiplomaticButton:" destination="CIJ-GW-u9J" eventType="touchUpInside" id="LVI-39-C5h"/>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="rdT-db-9gV">
+                                        <rect key="frame" x="193.5" y="0.0" width="86.5" height="50"/>
+                                        <fontDescription key="fontDescription" name="Palatino-Bold" family="Palatino" pointSize="15"/>
+                                        <state key="normal" title="Military"/>
+                                        <connections>
+                                            <action selector="didTapMilitaryButton:" destination="CIJ-GW-u9J" eventType="touchUpInside" id="NLT-nK-q0q"/>
+                                        </connections>
+                                    </button>
+                                </subviews>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="50" id="3KY-5O-liq"/>
+                                </constraints>
+                            </stackView>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="GfV-xW-FG8"/>
-                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <color key="backgroundColor" systemColor="opaqueSeparatorColor"/>
                         <constraints>
-                            <constraint firstItem="GfV-xW-FG8" firstAttribute="bottom" secondItem="4Wy-n1-wBV" secondAttribute="bottom" constant="40" id="CTI-bo-MNj"/>
-                            <constraint firstItem="GfV-xW-FG8" firstAttribute="trailing" secondItem="kqY-P4-pBd" secondAttribute="trailing" constant="20" id="HcG-Rk-VxZ"/>
-                            <constraint firstItem="Osy-fP-qab" firstAttribute="centerY" secondItem="6Mh-nT-6kY" secondAttribute="centerY" id="IzR-ew-346"/>
-                            <constraint firstItem="4Wy-n1-wBV" firstAttribute="centerX" secondItem="Osy-fP-qab" secondAttribute="centerX" id="SK6-DS-XxB"/>
-                            <constraint firstItem="kqY-P4-pBd" firstAttribute="leading" secondItem="GfV-xW-FG8" secondAttribute="leading" constant="20" id="cRe-Lw-lSA"/>
-                            <constraint firstItem="Osy-fP-qab" firstAttribute="centerX" secondItem="6Mh-nT-6kY" secondAttribute="centerX" id="ne5-1z-zrN"/>
-                            <constraint firstItem="kqY-P4-pBd" firstAttribute="top" secondItem="GfV-xW-FG8" secondAttribute="top" constant="40" id="sXG-r9-Fa6"/>
+                            <constraint firstItem="9rK-J8-aqt" firstAttribute="top" secondItem="ZmP-Av-WgB" secondAttribute="bottom" constant="68" id="7fF-sG-tNF"/>
+                            <constraint firstItem="ZmP-Av-WgB" firstAttribute="leading" secondItem="GfV-xW-FG8" secondAttribute="leading" constant="20" id="IeL-7R-qIj"/>
+                            <constraint firstItem="ALm-sy-evL" firstAttribute="centerX" secondItem="6Mh-nT-6kY" secondAttribute="centerX" id="Mfg-SH-adu"/>
+                            <constraint firstItem="GfV-xW-FG8" firstAttribute="trailing" secondItem="ZmP-Av-WgB" secondAttribute="trailing" constant="20" id="ObA-FL-UFR"/>
+                            <constraint firstItem="ZmP-Av-WgB" firstAttribute="top" secondItem="GfV-xW-FG8" secondAttribute="top" constant="20" id="bwi-47-51d"/>
+                            <constraint firstItem="9rK-J8-aqt" firstAttribute="leading" secondItem="GfV-xW-FG8" secondAttribute="leading" constant="20" id="sAr-Kd-7Hf"/>
+                            <constraint firstItem="ALm-sy-evL" firstAttribute="centerY" secondItem="6Mh-nT-6kY" secondAttribute="centerY" id="tpg-rt-JYc"/>
+                            <constraint firstItem="GfV-xW-FG8" firstAttribute="trailing" secondItem="9rK-J8-aqt" secondAttribute="trailing" constant="20" id="zh0-Yu-iZM"/>
                         </constraints>
                     </view>
                     <connections>
-                        <outlet property="label" destination="Osy-fP-qab" id="Qaj-kD-O57"/>
-                        <outlet property="textField" destination="4Wy-n1-wBV" id="n5W-bc-lvA"/>
+                        <outlet property="diplomaticButton" destination="Yq5-ur-nPn" id="3Q9-OG-zBW"/>
+                        <outlet property="label" destination="9rK-J8-aqt" id="uwg-Kp-ptr"/>
+                        <outlet property="militaryButton" destination="rdT-db-9gV" id="gvQ-n0-Tnr"/>
+                        <outlet property="personButton" destination="C6C-p7-ex7" id="8Aw-kk-d5I"/>
+                        <outlet property="textField" destination="ALm-sy-evL" id="MeZ-lg-0e8"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="vSK-uz-q7U" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="3391" y="191"/>
+            <point key="canvasLocation" x="3315" y="188"/>
         </scene>
         <!--Czech View Controller-->
         <scene sceneID="rH1-8J-97j">
@@ -777,46 +822,78 @@
                         <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="license-plate-infographics-en" translatesAutoresizingMaskIntoConstraints="NO" id="KLj-bd-7zE">
-                                <rect key="frame" x="20" y="40" width="280" height="191"/>
-                            </imageView>
-                            <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="line" textAlignment="center" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="Wrl-MF-qkX">
-                                <rect key="frame" x="110" y="428" width="100" height="100"/>
+                            <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" spacing="10" translatesAutoresizingMaskIntoConstraints="NO" id="dw5-By-dnE">
+                                <rect key="frame" x="20" y="20" width="280" height="50"/>
+                                <subviews>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="eMb-A3-0tX">
+                                        <rect key="frame" x="0.0" y="0.0" width="86.5" height="50"/>
+                                        <fontDescription key="fontDescription" name="Palatino-Bold" family="Palatino" pointSize="16"/>
+                                        <state key="normal" title="Person"/>
+                                        <connections>
+                                            <action selector="didTapPersonButton:" destination="PdW-ib-GEP" eventType="touchUpInside" id="t7s-XQ-0oD"/>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="nQn-0x-DoI">
+                                        <rect key="frame" x="96.5" y="0.0" width="87" height="50"/>
+                                        <fontDescription key="fontDescription" name="Palatino-Bold" family="Palatino" pointSize="16"/>
+                                        <state key="normal" title="Diplomatic"/>
+                                        <connections>
+                                            <action selector="didTapDiplomaticButton:" destination="PdW-ib-GEP" eventType="touchUpInside" id="ORw-vT-rrQ"/>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="VVz-O2-kWB">
+                                        <rect key="frame" x="193.5" y="0.0" width="86.5" height="50"/>
+                                        <fontDescription key="fontDescription" name="Palatino-Bold" family="Palatino" pointSize="16"/>
+                                        <state key="normal" title="Military"/>
+                                        <connections>
+                                            <action selector="didTapMilitaryButton:" destination="PdW-ib-GEP" eventType="touchUpInside" id="fdb-lg-ZkR"/>
+                                        </connections>
+                                    </button>
+                                </subviews>
                                 <constraints>
-                                    <constraint firstAttribute="height" constant="100" id="DlX-bX-9cf"/>
-                                    <constraint firstAttribute="width" constant="100" id="Y6i-ll-eb2"/>
+                                    <constraint firstAttribute="height" constant="50" id="7wg-iH-k4i"/>
+                                </constraints>
+                            </stackView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Enter region code:" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="thv-5r-VBF">
+                                <rect key="frame" x="20" y="135" width="280" height="22.5"/>
+                                <fontDescription key="fontDescription" name="Palatino-Bold" family="Palatino" pointSize="20"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="center" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="QAB-nJ-QSc">
+                                <rect key="frame" x="120" y="259" width="80" height="50"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="50" id="H07-fr-yuJ"/>
+                                    <constraint firstAttribute="width" constant="80" id="g8I-h3-Mbz"/>
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                 <textInputTraits key="textInputTraits"/>
                             </textField>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="n0r-n9-Nea">
-                                <rect key="frame" x="20" y="282" width="280" height="26"/>
-                                <fontDescription key="fontDescription" name="MarkerFelt-Wide" family="Marker Felt" pointSize="20"/>
-                                <nil key="textColor"/>
-                                <nil key="highlightedColor"/>
-                            </label>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="U24-UA-5JE"/>
-                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <color key="backgroundColor" systemColor="opaqueSeparatorColor"/>
                         <constraints>
-                            <constraint firstItem="n0r-n9-Nea" firstAttribute="leading" secondItem="U24-UA-5JE" secondAttribute="leading" constant="20" id="Bq8-6J-xaR"/>
-                            <constraint firstItem="KLj-bd-7zE" firstAttribute="top" secondItem="U24-UA-5JE" secondAttribute="top" constant="40" id="F6c-Xg-Ofo"/>
-                            <constraint firstItem="Wrl-MF-qkX" firstAttribute="top" secondItem="n0r-n9-Nea" secondAttribute="bottom" constant="120" id="Mz8-xX-qvg"/>
-                            <constraint firstItem="U24-UA-5JE" firstAttribute="trailing" secondItem="KLj-bd-7zE" secondAttribute="trailing" constant="20" id="Q6i-Sk-Nx5"/>
-                            <constraint firstItem="U24-UA-5JE" firstAttribute="bottom" secondItem="Wrl-MF-qkX" secondAttribute="bottom" constant="40" id="UIy-1z-mub"/>
-                            <constraint firstItem="Wrl-MF-qkX" firstAttribute="centerX" secondItem="KLj-bd-7zE" secondAttribute="centerX" id="W4B-ox-AUH"/>
-                            <constraint firstItem="U24-UA-5JE" firstAttribute="trailing" secondItem="n0r-n9-Nea" secondAttribute="trailing" constant="20" id="hCa-Fj-93R"/>
-                            <constraint firstItem="KLj-bd-7zE" firstAttribute="leading" secondItem="U24-UA-5JE" secondAttribute="leading" constant="20" id="zqF-4i-1Yb"/>
+                            <constraint firstItem="U24-UA-5JE" firstAttribute="trailing" secondItem="thv-5r-VBF" secondAttribute="trailing" constant="20" id="2JR-RU-gvl"/>
+                            <constraint firstItem="U24-UA-5JE" firstAttribute="trailing" secondItem="dw5-By-dnE" secondAttribute="trailing" constant="20" id="T9p-MU-XWd"/>
+                            <constraint firstItem="thv-5r-VBF" firstAttribute="top" secondItem="dw5-By-dnE" secondAttribute="bottom" constant="65" id="TMJ-rs-vwt"/>
+                            <constraint firstItem="QAB-nJ-QSc" firstAttribute="centerX" secondItem="rBs-0l-4NP" secondAttribute="centerX" id="V1A-OE-Jcg"/>
+                            <constraint firstItem="dw5-By-dnE" firstAttribute="leading" secondItem="U24-UA-5JE" secondAttribute="leading" constant="20" id="VN4-oL-Tqa"/>
+                            <constraint firstItem="thv-5r-VBF" firstAttribute="leading" secondItem="U24-UA-5JE" secondAttribute="leading" constant="20" id="WCA-yg-rOv"/>
+                            <constraint firstItem="dw5-By-dnE" firstAttribute="top" secondItem="U24-UA-5JE" secondAttribute="top" constant="20" id="kqE-mR-9E8"/>
+                            <constraint firstItem="QAB-nJ-QSc" firstAttribute="centerY" secondItem="rBs-0l-4NP" secondAttribute="centerY" id="wOt-ds-OoQ"/>
                         </constraints>
                     </view>
                     <connections>
-                        <outlet property="label" destination="n0r-n9-Nea" id="8xT-29-qz0"/>
-                        <outlet property="textField" destination="Wrl-MF-qkX" id="023-sh-ReC"/>
+                        <outlet property="diplomaticButton" destination="nQn-0x-DoI" id="A7t-uB-XcG"/>
+                        <outlet property="label" destination="thv-5r-VBF" id="z3O-9P-Hdn"/>
+                        <outlet property="militaryButton" destination="VVz-O2-kWB" id="G5d-rb-4Cf"/>
+                        <outlet property="personButton" destination="eMb-A3-0tX" id="Jkl-It-4PI"/>
+                        <outlet property="textField" destination="QAB-nJ-QSc" id="DsP-mf-OWm"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="7m3-EE-GQo" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="4028" y="191"/>
+            <point key="canvasLocation" x="3977" y="187"/>
         </scene>
         <!--Moldova View Controller-->
         <scene sceneID="DA3-9C-w54">
@@ -825,13 +902,79 @@
                     <view key="view" contentMode="scaleToFill" id="STm-Ol-2yd">
                         <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" spacing="10" translatesAutoresizingMaskIntoConstraints="NO" id="zur-3G-fYa">
+                                <rect key="frame" x="20" y="20" width="280" height="50"/>
+                                <subviews>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="sCv-LD-7ud">
+                                        <rect key="frame" x="0.0" y="0.0" width="86.5" height="50"/>
+                                        <fontDescription key="fontDescription" name="Palatino-Bold" family="Palatino" pointSize="15"/>
+                                        <state key="normal" title="Person"/>
+                                        <connections>
+                                            <action selector="didTapPersonButton:" destination="K0P-cM-hBv" eventType="touchUpInside" id="bDb-R9-5qz"/>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="iTo-sR-Eyc">
+                                        <rect key="frame" x="96.5" y="0.0" width="87" height="50"/>
+                                        <fontDescription key="fontDescription" name="Palatino-Bold" family="Palatino" pointSize="15"/>
+                                        <state key="normal" title="Diplomatic"/>
+                                        <connections>
+                                            <action selector="didTapDiplomaticButton:" destination="K0P-cM-hBv" eventType="touchUpInside" id="Hx7-5M-9f4"/>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="gRS-Rb-xBQ">
+                                        <rect key="frame" x="193.5" y="0.0" width="86.5" height="50"/>
+                                        <fontDescription key="fontDescription" name="Palatino-Bold" family="Palatino" pointSize="15"/>
+                                        <state key="normal" title="Military"/>
+                                        <connections>
+                                            <action selector="didTapMilitaryButton:" destination="K0P-cM-hBv" eventType="touchUpInside" id="xfK-Et-FgI"/>
+                                        </connections>
+                                    </button>
+                                </subviews>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="50" id="OYT-pf-5Aq"/>
+                                </constraints>
+                            </stackView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Enter region code:" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="R7m-Xz-WXY">
+                                <rect key="frame" x="20" y="138" width="280" height="22.5"/>
+                                <fontDescription key="fontDescription" name="Palatino-Bold" family="Palatino" pointSize="20"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="center" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="iId-SH-mi9">
+                                <rect key="frame" x="117.5" y="259" width="85" height="50"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="85" id="Ox1-Hl-Gxg"/>
+                                    <constraint firstAttribute="height" constant="50" id="rTJ-VG-tPk"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
+                                <textInputTraits key="textInputTraits"/>
+                            </textField>
+                        </subviews>
                         <viewLayoutGuide key="safeArea" id="FPV-GA-Zr3"/>
-                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <color key="backgroundColor" systemColor="opaqueSeparatorColor"/>
+                        <constraints>
+                            <constraint firstItem="iId-SH-mi9" firstAttribute="centerX" secondItem="STm-Ol-2yd" secondAttribute="centerX" id="CSD-et-sYE"/>
+                            <constraint firstItem="R7m-Xz-WXY" firstAttribute="leading" secondItem="FPV-GA-Zr3" secondAttribute="leading" constant="20" id="Ekt-WH-npo"/>
+                            <constraint firstItem="FPV-GA-Zr3" firstAttribute="trailing" secondItem="R7m-Xz-WXY" secondAttribute="trailing" constant="20" id="YcJ-2z-g6L"/>
+                            <constraint firstItem="R7m-Xz-WXY" firstAttribute="top" secondItem="zur-3G-fYa" secondAttribute="bottom" constant="68" id="abO-Iw-xiX"/>
+                            <constraint firstItem="zur-3G-fYa" firstAttribute="leading" secondItem="FPV-GA-Zr3" secondAttribute="leading" constant="20" id="bY0-nY-4w2"/>
+                            <constraint firstItem="zur-3G-fYa" firstAttribute="top" secondItem="FPV-GA-Zr3" secondAttribute="top" constant="20" id="kGP-Bc-cMu"/>
+                            <constraint firstItem="iId-SH-mi9" firstAttribute="centerY" secondItem="STm-Ol-2yd" secondAttribute="centerY" id="tre-Aa-uPE"/>
+                            <constraint firstItem="FPV-GA-Zr3" firstAttribute="trailing" secondItem="zur-3G-fYa" secondAttribute="trailing" constant="20" id="zYc-EO-i2b"/>
+                        </constraints>
                     </view>
+                    <connections>
+                        <outlet property="diplomaticButton" destination="iTo-sR-Eyc" id="bbk-KB-Qpc"/>
+                        <outlet property="label" destination="R7m-Xz-WXY" id="bsY-0b-pMK"/>
+                        <outlet property="militaryButton" destination="gRS-Rb-xBQ" id="BXt-hj-cVM"/>
+                        <outlet property="personButton" destination="sCv-LD-7ud" id="Ewt-cd-E3e"/>
+                        <outlet property="textField" destination="iId-SH-mi9" id="Fj8-GS-kCW"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Pe4-Tw-Jdm" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="4697" y="190"/>
+            <point key="canvasLocation" x="4644" y="187"/>
         </scene>
         <!--Lithuania View Controller-->
         <scene sceneID="hXv-gT-G3I">
@@ -840,13 +983,79 @@
                     <view key="view" contentMode="scaleToFill" id="yJC-x7-Do8">
                         <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" spacing="10" translatesAutoresizingMaskIntoConstraints="NO" id="iv5-qI-f7j">
+                                <rect key="frame" x="20" y="20" width="280" height="50"/>
+                                <subviews>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="MEW-cH-bYk">
+                                        <rect key="frame" x="0.0" y="0.0" width="86.5" height="50"/>
+                                        <fontDescription key="fontDescription" name="Palatino-Bold" family="Palatino" pointSize="16"/>
+                                        <state key="normal" title="Person"/>
+                                        <connections>
+                                            <action selector="didTapPersonButton:" destination="0xS-qF-Y0O" eventType="touchUpInside" id="6b8-Tm-pTo"/>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="WHo-ua-oR4">
+                                        <rect key="frame" x="96.5" y="0.0" width="87" height="50"/>
+                                        <fontDescription key="fontDescription" name="Palatino-Bold" family="Palatino" pointSize="16"/>
+                                        <state key="normal" title="Diplomatic"/>
+                                        <connections>
+                                            <action selector="didTapDiplomaticButton:" destination="0xS-qF-Y0O" eventType="touchUpInside" id="Yho-8v-TyL"/>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Hqg-v6-oyt">
+                                        <rect key="frame" x="193.5" y="0.0" width="86.5" height="50"/>
+                                        <fontDescription key="fontDescription" name="Palatino-Bold" family="Palatino" pointSize="16"/>
+                                        <state key="normal" title="Military"/>
+                                        <connections>
+                                            <action selector="didTapMilitaryButton:" destination="0xS-qF-Y0O" eventType="touchUpInside" id="RL4-7H-RTj"/>
+                                        </connections>
+                                    </button>
+                                </subviews>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="50" id="aAO-pl-8AX"/>
+                                </constraints>
+                            </stackView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Enter region code:" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="aS6-bg-6ts">
+                                <rect key="frame" x="20" y="140" width="280" height="22.5"/>
+                                <fontDescription key="fontDescription" name="Palatino-Bold" family="Palatino" pointSize="20"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="center" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="0JW-Ln-S3g">
+                                <rect key="frame" x="120" y="259" width="80" height="50"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="50" id="U7W-oL-w5Y"/>
+                                    <constraint firstAttribute="width" constant="80" id="jgO-aO-auc"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="Palatino-Bold" family="Palatino" pointSize="25"/>
+                                <textInputTraits key="textInputTraits"/>
+                            </textField>
+                        </subviews>
                         <viewLayoutGuide key="safeArea" id="Cwd-0T-Uud"/>
-                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <color key="backgroundColor" systemColor="opaqueSeparatorColor"/>
+                        <constraints>
+                            <constraint firstItem="Cwd-0T-Uud" firstAttribute="trailing" secondItem="aS6-bg-6ts" secondAttribute="trailing" constant="20" id="G5S-fh-UKK"/>
+                            <constraint firstItem="0JW-Ln-S3g" firstAttribute="centerY" secondItem="yJC-x7-Do8" secondAttribute="centerY" id="Rrv-M2-N0x"/>
+                            <constraint firstItem="iv5-qI-f7j" firstAttribute="leading" secondItem="Cwd-0T-Uud" secondAttribute="leading" constant="20" id="bk7-1L-TLU"/>
+                            <constraint firstItem="aS6-bg-6ts" firstAttribute="top" secondItem="iv5-qI-f7j" secondAttribute="bottom" constant="70" id="dA0-Uk-C1V"/>
+                            <constraint firstItem="iv5-qI-f7j" firstAttribute="top" secondItem="Cwd-0T-Uud" secondAttribute="top" constant="20" id="gUu-RU-XSM"/>
+                            <constraint firstItem="Cwd-0T-Uud" firstAttribute="trailing" secondItem="iv5-qI-f7j" secondAttribute="trailing" constant="20" id="h1Z-O4-qbA"/>
+                            <constraint firstItem="aS6-bg-6ts" firstAttribute="leading" secondItem="Cwd-0T-Uud" secondAttribute="leading" constant="20" id="iHU-ee-oCj"/>
+                            <constraint firstItem="0JW-Ln-S3g" firstAttribute="centerX" secondItem="yJC-x7-Do8" secondAttribute="centerX" id="ru3-fg-E77"/>
+                        </constraints>
                     </view>
+                    <connections>
+                        <outlet property="diplomaticButton" destination="WHo-ua-oR4" id="X41-11-bLN"/>
+                        <outlet property="label" destination="aS6-bg-6ts" id="cac-Sq-Wbp"/>
+                        <outlet property="militaryButton" destination="Hqg-v6-oyt" id="JMB-gN-Hee"/>
+                        <outlet property="personButton" destination="MEW-cH-bYk" id="IBx-xv-3W7"/>
+                        <outlet property="textField" destination="0JW-Ln-S3g" id="nqe-Lp-fbM"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="0wG-9V-kB7" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="5359" y="191"/>
+            <point key="canvasLocation" x="5297" y="187"/>
         </scene>
         <!--Turkey View Controller-->
         <scene sceneID="17c-I0-H6I">
@@ -855,13 +1064,79 @@
                     <view key="view" contentMode="scaleToFill" id="xOG-Pp-QEq">
                         <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" spacing="10" translatesAutoresizingMaskIntoConstraints="NO" id="M5Z-TB-5vf">
+                                <rect key="frame" x="20" y="20" width="280" height="50"/>
+                                <subviews>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="czU-gV-Hf5">
+                                        <rect key="frame" x="0.0" y="0.0" width="86.5" height="50"/>
+                                        <fontDescription key="fontDescription" name="Palatino-Bold" family="Palatino" pointSize="16"/>
+                                        <state key="normal" title="Person"/>
+                                        <connections>
+                                            <action selector="didTapPersonButton:" destination="GZs-oP-bR7" eventType="touchUpInside" id="yTh-wL-1ir"/>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="f0N-jF-dAK">
+                                        <rect key="frame" x="96.5" y="0.0" width="87" height="50"/>
+                                        <fontDescription key="fontDescription" name="Palatino-Bold" family="Palatino" pointSize="16"/>
+                                        <state key="normal" title="Diplomatic"/>
+                                        <connections>
+                                            <action selector="didTapDiplomaticButton:" destination="GZs-oP-bR7" eventType="touchUpInside" id="mJA-VI-gMh"/>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="jgb-dl-vJB">
+                                        <rect key="frame" x="193.5" y="0.0" width="86.5" height="50"/>
+                                        <fontDescription key="fontDescription" name="Palatino-Bold" family="Palatino" pointSize="16"/>
+                                        <state key="normal" title="Military"/>
+                                        <connections>
+                                            <action selector="didTapMilitaryButton:" destination="GZs-oP-bR7" eventType="touchUpInside" id="ses-lX-Oab"/>
+                                        </connections>
+                                    </button>
+                                </subviews>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="50" id="BNc-9a-Rv6"/>
+                                </constraints>
+                            </stackView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Enter region code:" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="0fT-yN-3oy">
+                                <rect key="frame" x="20" y="140" width="280" height="22.5"/>
+                                <fontDescription key="fontDescription" name="Palatino-Bold" family="Palatino" pointSize="20"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="center" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="adB-kV-7Ue">
+                                <rect key="frame" x="120" y="259" width="80" height="50"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="50" id="Ook-Mm-bAF"/>
+                                    <constraint firstAttribute="width" constant="80" id="a4n-hK-ubb"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
+                                <textInputTraits key="textInputTraits" keyboardType="numberPad" textContentType="location"/>
+                            </textField>
+                        </subviews>
                         <viewLayoutGuide key="safeArea" id="5K1-Uy-065"/>
-                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <color key="backgroundColor" systemColor="opaqueSeparatorColor"/>
+                        <constraints>
+                            <constraint firstItem="M5Z-TB-5vf" firstAttribute="leading" secondItem="5K1-Uy-065" secondAttribute="leading" constant="20" id="35r-8T-lWN"/>
+                            <constraint firstItem="0fT-yN-3oy" firstAttribute="leading" secondItem="5K1-Uy-065" secondAttribute="leading" constant="20" id="74O-6C-JXK"/>
+                            <constraint firstItem="adB-kV-7Ue" firstAttribute="centerY" secondItem="xOG-Pp-QEq" secondAttribute="centerY" id="87m-q7-KUd"/>
+                            <constraint firstItem="M5Z-TB-5vf" firstAttribute="top" secondItem="5K1-Uy-065" secondAttribute="top" constant="20" id="II8-3k-CVi"/>
+                            <constraint firstItem="5K1-Uy-065" firstAttribute="trailing" secondItem="M5Z-TB-5vf" secondAttribute="trailing" constant="20" id="UWm-jH-Ifg"/>
+                            <constraint firstItem="5K1-Uy-065" firstAttribute="trailing" secondItem="0fT-yN-3oy" secondAttribute="trailing" constant="20" id="ZlH-CP-K0x"/>
+                            <constraint firstItem="adB-kV-7Ue" firstAttribute="centerX" secondItem="xOG-Pp-QEq" secondAttribute="centerX" id="kAi-fU-byN"/>
+                            <constraint firstItem="0fT-yN-3oy" firstAttribute="top" secondItem="M5Z-TB-5vf" secondAttribute="bottom" constant="70" id="zR9-Ug-xbz"/>
+                        </constraints>
                     </view>
+                    <connections>
+                        <outlet property="diplomaticButton" destination="f0N-jF-dAK" id="36y-Bo-qya"/>
+                        <outlet property="label" destination="0fT-yN-3oy" id="TGL-ZP-eX1"/>
+                        <outlet property="militaryButton" destination="jgb-dl-vJB" id="MBe-vD-Ywh"/>
+                        <outlet property="personButton" destination="czU-gV-Hf5" id="bMx-Cy-pQL"/>
+                        <outlet property="textField" destination="adB-kV-7Ue" id="Co1-4V-mOl"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="vCp-D0-tww" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="6019" y="191"/>
+            <point key="canvasLocation" x="5951" y="187"/>
         </scene>
         <!--Estonia View Controller-->
         <scene sceneID="dGk-uM-syi">
@@ -870,13 +1145,79 @@
                     <view key="view" contentMode="scaleToFill" id="gPt-L3-wx8">
                         <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" spacing="10" translatesAutoresizingMaskIntoConstraints="NO" id="CCr-wb-GB0">
+                                <rect key="frame" x="20" y="20" width="280" height="50"/>
+                                <subviews>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="3qo-LP-b2X">
+                                        <rect key="frame" x="0.0" y="0.0" width="86.5" height="50"/>
+                                        <fontDescription key="fontDescription" name="Palatino-Bold" family="Palatino" pointSize="16"/>
+                                        <state key="normal" title="Person"/>
+                                        <connections>
+                                            <action selector="didTapPersonButton:" destination="Y62-Ug-IuY" eventType="touchUpInside" id="j4Z-qK-ULy"/>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="DTO-4a-hYf">
+                                        <rect key="frame" x="96.5" y="0.0" width="87" height="50"/>
+                                        <fontDescription key="fontDescription" name="Palatino-Bold" family="Palatino" pointSize="16"/>
+                                        <state key="normal" title="Diplomatic"/>
+                                        <connections>
+                                            <action selector="didTapDiplomaticButton:" destination="Y62-Ug-IuY" eventType="touchUpInside" id="ahp-Rw-9E2"/>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="zTt-Kh-tMf">
+                                        <rect key="frame" x="193.5" y="0.0" width="86.5" height="50"/>
+                                        <fontDescription key="fontDescription" name="Palatino-Bold" family="Palatino" pointSize="16"/>
+                                        <state key="normal" title="Military"/>
+                                        <connections>
+                                            <action selector="didTapMilitaryButton:" destination="Y62-Ug-IuY" eventType="touchUpInside" id="kqx-ZK-KD5"/>
+                                        </connections>
+                                    </button>
+                                </subviews>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="50" id="jep-US-VUD"/>
+                                </constraints>
+                            </stackView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Enter region code:" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="TMH-dT-CQV">
+                                <rect key="frame" x="20" y="145" width="280" height="22.5"/>
+                                <fontDescription key="fontDescription" name="Palatino-Bold" family="Palatino" pointSize="20"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="center" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="M7b-Fq-WJ8">
+                                <rect key="frame" x="120" y="259" width="80" height="50"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="50" id="1JA-3O-MJF"/>
+                                    <constraint firstAttribute="width" constant="80" id="pCt-ET-zAw"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="Palatino-Bold" family="Palatino" pointSize="25"/>
+                                <textInputTraits key="textInputTraits"/>
+                            </textField>
+                        </subviews>
                         <viewLayoutGuide key="safeArea" id="s2H-t0-gTr"/>
-                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <color key="backgroundColor" systemColor="opaqueSeparatorColor"/>
+                        <constraints>
+                            <constraint firstItem="CCr-wb-GB0" firstAttribute="top" secondItem="s2H-t0-gTr" secondAttribute="top" constant="20" id="11e-HI-Z6c"/>
+                            <constraint firstItem="CCr-wb-GB0" firstAttribute="leading" secondItem="s2H-t0-gTr" secondAttribute="leading" constant="20" id="1Ex-7S-qC0"/>
+                            <constraint firstItem="s2H-t0-gTr" firstAttribute="trailing" secondItem="CCr-wb-GB0" secondAttribute="trailing" constant="20" id="CcD-vI-2FX"/>
+                            <constraint firstItem="s2H-t0-gTr" firstAttribute="trailing" secondItem="TMH-dT-CQV" secondAttribute="trailing" constant="20" id="W5i-wJ-56D"/>
+                            <constraint firstItem="TMH-dT-CQV" firstAttribute="top" secondItem="CCr-wb-GB0" secondAttribute="bottom" constant="75" id="X2U-pC-lHg"/>
+                            <constraint firstItem="M7b-Fq-WJ8" firstAttribute="centerX" secondItem="gPt-L3-wx8" secondAttribute="centerX" id="YnF-Sy-90d"/>
+                            <constraint firstItem="M7b-Fq-WJ8" firstAttribute="centerY" secondItem="gPt-L3-wx8" secondAttribute="centerY" id="mRL-tr-e9i"/>
+                            <constraint firstItem="TMH-dT-CQV" firstAttribute="leading" secondItem="s2H-t0-gTr" secondAttribute="leading" constant="20" id="nb7-wp-cRa"/>
+                        </constraints>
                     </view>
+                    <connections>
+                        <outlet property="diplomaticButton" destination="DTO-4a-hYf" id="ccs-Ln-chK"/>
+                        <outlet property="label" destination="TMH-dT-CQV" id="7oz-QG-w3I"/>
+                        <outlet property="militaryButton" destination="zTt-Kh-tMf" id="FAr-if-xyq"/>
+                        <outlet property="personButton" destination="3qo-LP-b2X" id="Igx-E3-62w"/>
+                        <outlet property="textField" destination="M7b-Fq-WJ8" id="f3P-3u-DZs"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="CRQ-0J-aR7" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="6678" y="190"/>
+            <point key="canvasLocation" x="6608" y="187"/>
         </scene>
         <!--Germany View Controller-->
         <scene sceneID="vyd-bn-Tzw">
@@ -886,67 +1227,78 @@
                         <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" translatesAutoresizingMaskIntoConstraints="NO" id="4Kd-Uz-d0U">
-                                <rect key="frame" x="20" y="20" width="280" height="110"/>
+                            <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" spacing="10" translatesAutoresizingMaskIntoConstraints="NO" id="5fY-WW-pVo">
+                                <rect key="frame" x="20" y="20" width="280" height="50"/>
                                 <subviews>
-                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="yXb-Fr-ArC">
-                                        <rect key="frame" x="0.0" y="0.0" width="93.5" height="110"/>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Gnr-QE-1Xk">
+                                        <rect key="frame" x="0.0" y="0.0" width="86.5" height="50"/>
+                                        <fontDescription key="fontDescription" name="Palatino-Bold" family="Palatino" pointSize="16"/>
                                         <state key="normal" title="Person"/>
                                         <connections>
-                                            <action selector="didTapPersonButton:" destination="ftU-ls-Zlc" eventType="touchUpInside" id="07g-yh-oUJ"/>
+                                            <action selector="didTapPersonButton:" destination="ftU-ls-Zlc" eventType="touchUpInside" id="WC7-dQ-u54"/>
                                         </connections>
                                     </button>
-                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="cpG-cU-bNz">
-                                        <rect key="frame" x="93.5" y="0.0" width="93" height="110"/>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Gu7-F5-9Hi">
+                                        <rect key="frame" x="96.5" y="0.0" width="87" height="50"/>
+                                        <fontDescription key="fontDescription" name="Palatino-Bold" family="Palatino" pointSize="16"/>
                                         <state key="normal" title="Diplomatic"/>
+                                        <connections>
+                                            <action selector="didTapDiplomaticButton:" destination="ftU-ls-Zlc" eventType="touchUpInside" id="1BG-23-S2g"/>
+                                        </connections>
                                     </button>
-                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="YYe-rK-WjR">
-                                        <rect key="frame" x="186.5" y="0.0" width="93.5" height="110"/>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="JGl-Sr-VqM">
+                                        <rect key="frame" x="193.5" y="0.0" width="86.5" height="50"/>
+                                        <fontDescription key="fontDescription" name="Palatino-Bold" family="Palatino" pointSize="16"/>
                                         <state key="normal" title="Military"/>
+                                        <connections>
+                                            <action selector="didTapMilitaryButton:" destination="ftU-ls-Zlc" eventType="touchUpInside" id="nBL-R7-jGT"/>
+                                        </connections>
                                     </button>
                                 </subviews>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="50" id="qsJ-SH-Kel"/>
+                                </constraints>
                             </stackView>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="X4q-14-giu">
-                                <rect key="frame" x="20" y="190" width="280" height="20.5"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                <nil key="textColor"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Enter region code:" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="r4L-Ob-QxN">
+                                <rect key="frame" x="20" y="150" width="280" height="23.5"/>
+                                <fontDescription key="fontDescription" name="Palatino-Bold" family="Palatino" pointSize="21"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="qBv-jM-UGI">
+                            <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="center" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="upr-po-6df">
                                 <rect key="frame" x="120" y="259" width="80" height="50"/>
                                 <constraints>
-                                    <constraint firstAttribute="width" constant="80" id="cLf-xB-NyS"/>
-                                    <constraint firstAttribute="height" constant="50" id="oxQ-n0-NAp"/>
+                                    <constraint firstAttribute="height" constant="50" id="5zu-Cp-Z1P"/>
+                                    <constraint firstAttribute="width" constant="80" id="BA6-bj-g2b"/>
                                 </constraints>
-                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <fontDescription key="fontDescription" name="Palatino-Bold" family="Palatino" pointSize="25"/>
                                 <textInputTraits key="textInputTraits"/>
                             </textField>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="CaO-Ki-elO"/>
-                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <color key="backgroundColor" systemColor="opaqueSeparatorColor"/>
                         <constraints>
-                            <constraint firstItem="4Kd-Uz-d0U" firstAttribute="top" secondItem="CaO-Ki-elO" secondAttribute="top" constant="20" id="1ob-hd-2cW"/>
-                            <constraint firstItem="CaO-Ki-elO" firstAttribute="trailing" secondItem="X4q-14-giu" secondAttribute="trailing" constant="20" id="42Q-i3-1uD"/>
-                            <constraint firstItem="CaO-Ki-elO" firstAttribute="bottom" secondItem="4Kd-Uz-d0U" secondAttribute="bottom" constant="438" id="P9H-lJ-rkC"/>
-                            <constraint firstItem="X4q-14-giu" firstAttribute="leading" secondItem="CaO-Ki-elO" secondAttribute="leading" constant="20" id="fGb-or-75g"/>
-                            <constraint firstItem="qBv-jM-UGI" firstAttribute="centerX" secondItem="ghe-VX-i8G" secondAttribute="centerX" id="h1A-Xe-rbc"/>
-                            <constraint firstItem="CaO-Ki-elO" firstAttribute="trailing" secondItem="4Kd-Uz-d0U" secondAttribute="trailing" constant="20" id="qlL-uf-RPb"/>
-                            <constraint firstItem="4Kd-Uz-d0U" firstAttribute="leading" secondItem="CaO-Ki-elO" secondAttribute="leading" constant="20" id="s6m-9F-Yxv"/>
-                            <constraint firstItem="X4q-14-giu" firstAttribute="top" secondItem="4Kd-Uz-d0U" secondAttribute="bottom" constant="60" id="sVp-QR-mk2"/>
-                            <constraint firstItem="qBv-jM-UGI" firstAttribute="centerY" secondItem="ghe-VX-i8G" secondAttribute="centerY" id="yec-QI-5Bl"/>
+                            <constraint firstItem="5fY-WW-pVo" firstAttribute="leading" secondItem="CaO-Ki-elO" secondAttribute="leading" constant="20" id="0jc-Qd-c8Q"/>
+                            <constraint firstItem="CaO-Ki-elO" firstAttribute="trailing" secondItem="r4L-Ob-QxN" secondAttribute="trailing" constant="20" id="6Gb-Oo-hh3"/>
+                            <constraint firstItem="r4L-Ob-QxN" firstAttribute="leading" secondItem="CaO-Ki-elO" secondAttribute="leading" constant="20" id="LNP-It-6xw"/>
+                            <constraint firstItem="upr-po-6df" firstAttribute="centerY" secondItem="ghe-VX-i8G" secondAttribute="centerY" id="V4T-To-NGN"/>
+                            <constraint firstItem="r4L-Ob-QxN" firstAttribute="top" secondItem="5fY-WW-pVo" secondAttribute="bottom" constant="80" id="afJ-f4-KVn"/>
+                            <constraint firstItem="5fY-WW-pVo" firstAttribute="top" secondItem="CaO-Ki-elO" secondAttribute="top" constant="20" id="leI-am-InH"/>
+                            <constraint firstItem="upr-po-6df" firstAttribute="centerX" secondItem="ghe-VX-i8G" secondAttribute="centerX" id="o49-py-KcO"/>
+                            <constraint firstItem="CaO-Ki-elO" firstAttribute="trailing" secondItem="5fY-WW-pVo" secondAttribute="trailing" constant="20" id="rbm-cJ-Pa5"/>
                         </constraints>
                     </view>
                     <connections>
-                        <outlet property="diplomaticButton" destination="cpG-cU-bNz" id="crO-eI-6yI"/>
-                        <outlet property="label" destination="X4q-14-giu" id="fEp-kN-Tmb"/>
-                        <outlet property="militaryButton" destination="YYe-rK-WjR" id="V8E-mN-PBJ"/>
-                        <outlet property="personButton" destination="yXb-Fr-ArC" id="7PR-rQ-kYe"/>
-                        <outlet property="textField" destination="qBv-jM-UGI" id="84b-nt-Lpe"/>
+                        <outlet property="diplomaticButton" destination="Gu7-F5-9Hi" id="hmY-fI-KMD"/>
+                        <outlet property="label" destination="r4L-Ob-QxN" id="UZg-UE-fDW"/>
+                        <outlet property="militaryButton" destination="JGl-Sr-VqM" id="crH-pR-YzA"/>
+                        <outlet property="personButton" destination="Gnr-QE-1Xk" id="7ZT-Fk-n8A"/>
+                        <outlet property="textField" destination="upr-po-6df" id="Wuz-tA-cOy"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Kax-t1-3vu" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="7339" y="190"/>
+            <point key="canvasLocation" x="7284" y="187"/>
         </scene>
         <!--Camera View Controller-->
         <scene sceneID="kq3-46-eSO">
@@ -998,7 +1350,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="kMQ-8M-qVq" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="8072" y="190"/>
+            <point key="canvasLocation" x="7989" y="181"/>
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="Ijw-qs-eul">
@@ -1025,10 +1377,8 @@
         <image name="appstore" width="1024" height="1024"/>
         <image name="belarus" width="1024" height="1024"/>
         <image name="camera" catalog="system" width="128" height="94"/>
-        <image name="car-plate-zs-poland-zs-number" width="267" height="165"/>
         <image name="czech" width="1024" height="1024"/>
         <image name="icons8-menu-24" width="24" height="24"/>
-        <image name="license-plate-infographics-en" width="431" height="191"/>
         <image name="lithuania" width="1024" height="1024"/>
         <image name="moldova" width="1024" height="1024"/>
         <image name="playstore" width="512" height="512"/>
