@@ -1,0 +1,1989 @@
+{
+    "regions": [
+        {
+            "id": "1",
+            "name": "Biała Podlaska",
+            "code": "LB"
+        },
+        {
+            "id": "2",
+            "name": "Chełm",
+            "code": "LC"
+        },
+        {
+            "id": "3",
+            "name": "Lublin",
+            "code": "LU"
+        },
+        {
+            "id": "4",
+            "name": "Zamość",
+            "code": "LZ"
+        },
+        {
+            "id": "5",
+            "name": "Biała Podlaska powiat",
+            "code": "LBI"
+        },
+        {
+            "id": "6",
+            "name": "Biłgoraj",
+            "code": "LBL"
+        },
+        {
+            "id": "7",
+            "name": "Chełm powiat",
+            "code": "LCH"
+        },
+        {
+            "id": "8",
+            "name": "Hrubieszów",
+            "code": "LHR"
+        },
+        {
+            "id": "9",
+            "name": "Janów Lubelski",
+            "code": "LJA"
+        },
+        {
+            "id": "10",
+            "name": "Krasnystaw",
+            "code": "LKS"
+        },
+        {
+            "id": "11",
+            "name": "Kraśnik",
+            "code": "LKR"
+        },
+        {
+            "id": "12",
+            "name": "Lubartów",
+            "code": "LLB"
+        },
+        {
+            "id": "13",
+            "name": "Lublin powiat",
+            "code": "LUB"
+        },
+        {
+            "id": "14",
+            "name": "Łęczna",
+            "code": "LLE"
+        },
+        {
+            "id": "15",
+            "name": "Łuków",
+            "code": "LLU"
+        },
+        {
+            "id": "16",
+            "name": "Opole Lubelskie",
+            "code": "LOP"
+        },
+        {
+            "id": "17",
+            "name": "Parczew",
+            "code": "LPA"
+        },
+        {
+            "id": "18",
+            "name": "Puławy",
+            "code": "LPU"
+        },
+        {
+            "id": "19",
+            "name": "Radzyń Podlaski",
+            "code": "LRA"
+        },
+        {
+            "id": "20",
+            "name": "Ryki",
+            "code": "LRY"
+        },
+        {
+            "id": "21",
+            "name": "Świdnik",
+            "code": "LSW"
+        },
+        {
+            "id": "22",
+            "name": "Tomaszów Lubelski",
+            "code": "LTM"
+        },
+        {
+            "id": "23",
+            "name": "Włodawa",
+            "code": "LWL"
+        },
+        {
+            "id": "24",
+            "name": "Zamość powiat",
+            "code": "LZA"
+        },
+        {
+            "id": "25",
+            "name": "Gorzów",
+            "code": "FG"
+        },
+        {
+            "id": "26",
+            "name": "Zielona Góra",
+            "code": "FZ"
+        },
+        {
+            "id": "27",
+            "name": "Gorzów Wielkopolski powiat",
+            "code": "FGW"
+        },
+        {
+            "id": "28",
+            "name": "Krosno Odrzańskie",
+            "code": "FKR"
+        },
+        {
+            "id": "29",
+            "name": "Międzyrzecz",
+            "code": "FMI"
+        },
+        {
+            "id": "30",
+            "name": "Nowa Sól",
+            "code": "FNW"
+        },
+        {
+            "id": "31",
+            "name": "Słubice",
+            "code": "FSL"
+        },
+        {
+            "id": "32",
+            "name": "Strzelce Krajeńskie",
+            "code": "FSD"
+        },
+        {
+            "id": "33",
+            "name": "Sulęczyn",
+            "code": "FSU"
+        },
+        {
+            "id": "34",
+            "name": "Świebodzin",
+            "code": "FSW"
+        },
+        {
+            "id": "35",
+            "name": "Zielona Góra powiat",
+            "code": "FZI"
+        },
+        {
+            "id": "36",
+            "name": "Żagań",
+            "code": "FZG"
+        },
+        {
+            "id": "37",
+            "name": "Żary",
+            "code": "FZA"
+        },
+        {
+            "id": "38",
+            "name": "Ostrołęka",
+            "code": "WO"
+        },
+        {
+            "id": "39",
+            "name": "Płock",
+            "code": "WP"
+        },
+        {
+            "id": "40",
+            "name": "Radom",
+            "code": "WR"
+        },
+        {
+            "id": "41",
+            "name": "Siedlce",
+            "code": "WS"
+        },
+        {
+            "id": "42",
+            "name": "Białobrzegi",
+            "code": "WBR"
+        },
+        {
+            "id": "43",
+            "name": "Ciechanów",
+            "code": "WCI"
+        },
+        {
+            "id": "44",
+            "name": "Garwolin",
+            "code": "WG"
+        },
+        {
+            "id": "45",
+            "name": "Gostynin",
+            "code": "WGS"
+        },
+        {
+            "id": "46",
+            "name": "Grodzisk",
+            "code": "WGM"
+        },
+        {
+            "id": "47",
+            "name": "Grójec",
+            "code": "WGR"
+        },
+        {
+            "id": "48",
+            "name": "Kozienice",
+            "code": "WKZ"
+        },
+        {
+            "id": "49",
+            "name": "Legionowo",
+            "code": "WL"
+        },
+        {
+            "id": "50",
+            "name": "Lipsko",
+            "code": "WLI"
+        },
+        {
+            "id": "51",
+            "name": "Łosice",
+            "code": "WLS"
+        },
+        {
+            "id": "52",
+            "name": "Maków Mazowiecki",
+            "code": "WMA"
+        },
+        {
+            "id": "53",
+            "name": "Mińsk Mazowiecki",
+            "code": "WM"
+        },
+        {
+            "id": "54",
+            "name": "Mława",
+            "code": "WML"
+        },
+        {
+            "id": "55",
+            "name": "Nowy Dwór Mazowiecki",
+            "code": "WND"
+        },
+        {
+            "id": "56",
+            "name": "Ostrołęka powiat",
+            "code": "WOS"
+        },
+        {
+            "id": "57",
+            "name": "Ostrów Mazowiecka",
+            "code": "WOR"
+        },
+        {
+            "id": "58",
+            "name": "Otwock",
+            "code": "WOT"
+        },
+        {
+            "id": "59",
+            "name": "Piaseczno",
+            "code": "WPI"
+        },
+        {
+            "id": "60",
+            "name": "Płock powiat",
+            "code": "WPL"
+        },
+        {
+            "id": "61",
+            "name": "Płońsk",
+            "code": "WPN"
+        },
+        {
+            "id": "62",
+            "name": "Pruszków",
+            "code": "WPR"
+        },
+        {
+            "id": "63",
+            "name": "Przasnysz",
+            "code": "WPZ"
+        },
+        {
+            "id": "64",
+            "name": "Przysucha",
+            "code": "WPY"
+        },
+        {
+            "id": "65",
+            "name": "Pułtusk",
+            "code": "WPU"
+        },
+        {
+            "id": "66",
+            "name": "Radom powiat",
+            "code": "WRA"
+        },
+        {
+            "id": "67",
+            "name": "Siedlce powiat",
+            "code": "WSI"
+        },
+        {
+            "id": "68",
+            "name": "Sierpc",
+            "code": "WSE"
+        },
+        {
+            "id": "69",
+            "name": "Sochaczew",
+            "code": "WSC"
+        },
+        {
+            "id": "70",
+            "name": "Sokołów Podlaski",
+            "code": "WSK"
+        },
+        {
+            "id": "71",
+            "name": "Szydłowiec",
+            "code": "WSZ"
+        },
+        {
+            "id": "72",
+            "name": "Warszawa-Bemowo",
+            "code": "WB"
+        },
+        {
+            "id": "73",
+            "name": "Warszawa-Białołęka",
+            "code": "WA"
+        },
+        {
+            "id": "74",
+            "name": "Warszawa-Bielany",
+            "code": "WD"
+        },
+        {
+            "id": "75",
+            "name": "Warszawa-Rembertów",
+            "code": "WW-A"
+        },
+        {
+            "id": "76",
+            "name": "Warszawa-Targówek",
+            "code": "WJ"
+        },
+        {
+            "id": "77",
+            "name": "Warszawa-Ursus",
+            "code": "WK"
+        },
+        {
+            "id": "78",
+            "name": "Warszawa-Ursynów",
+            "code": "WN"
+        },
+        {
+            "id": "79",
+            "name": "Warszawa-Wawer",
+            "code": "WT"
+        },
+        {
+            "id": "80",
+            "name": "Warszawa-Wilanów",
+            "code": "WW-F"
+        },
+        {
+            "id": "81",
+            "name": "Warszawa-Wilanów",
+            "code": "WW-G"
+        },
+        {
+            "id": "82",
+            "name": "Warszawa-Wilanów",
+            "code": "WW-H"
+        },
+        {
+            "id": "83",
+            "name": "Warszawa-Wilanów",
+            "code": "WW-J"
+        },
+        {
+            "id": "84",
+            "name": "Warszawa-Wilanów",
+            "code": "WW-W"
+        },
+        {
+            "id": "85",
+            "name": "Warszawa-Włochy",
+            "code": "WW-K"
+        },
+        {
+            "id": "86",
+            "name": "Warszawa-Włochy",
+            "code": "WW-L"
+        },
+        {
+            "id": "87",
+            "name": "Warszawa-Włochy",
+            "code": "WW-M"
+        },
+        {
+            "id": "88",
+            "name": "Warszawa-Włochy",
+            "code": "WW-N"
+        },
+        {
+            "id": "89",
+            "name": "Warszawa-Włochy",
+            "code": "WW-V"
+        },
+        {
+            "id": "90",
+            "name": "Warszawa-Zachód",
+            "code": "WZ"
+        },
+        {
+            "id": "91",
+            "name": "Węgrów",
+            "code": "WWE"
+        },
+        {
+            "id": "92",
+            "name": "Wołomin",
+            "code": "WWL"
+        },
+        {
+            "id": "93",
+            "name": "Wyszków",
+            "code": "WWY"
+        },
+        {
+            "id": "94",
+            "name": "Zwoleń",
+            "code": "WZW"
+        },
+        {
+            "id": "95",
+            "name": "Żyrardów",
+            "code": "WZY"
+        },
+        {
+            "id": "96",
+            "name": "Żuromin",
+            "code": "WZU"
+        },
+        {
+            "id": "97",
+            "name": "Warszawa-Mokotów",
+            "code": "WE"
+        },
+        {
+            "id": "98",
+            "name": "Warszawa-Ochota",
+            "code": "WU"
+        },
+        {
+            "id": "99",
+            "name": "Warszawa-Praga Południe",
+            "code": "WF"
+        },
+        {
+            "id": "100",
+            "name": "Warszawa-Praga Północ",
+            "code": "WH"
+        },
+        {
+            "id": "101",
+            "name": "Warszawa-Śródmieście",
+            "code": "WI"
+        },
+        {
+            "id": "102",
+            "name": "Warszawa-Wola",
+            "code": "WY"
+        },
+        {
+            "id": "103",
+            "name": "Warszawa-Żoliborz",
+            "code": "WX"
+        },
+        {
+            "id": "104",
+            "name": "Opole",
+            "code": "OP"
+        },
+        {
+            "id": "105",
+            "name": "Brzeg",
+            "code": "OB"
+        },
+        {
+            "id": "106",
+            "name": "Głubczyce",
+            "code": "OGL"
+        },
+        {
+            "id": "107",
+            "name": "Kędzierzyn Koźle",
+            "code": "OK"
+        },
+        {
+            "id": "108",
+            "name": "Kluczbork",
+            "code": "OKL"
+        },
+        {
+            "id": "109",
+            "name": "Krapkowice",
+            "code": "OKR"
+        },
+        {
+            "id": "110",
+            "name": "Namysłów",
+            "code": "ONA"
+        },
+        {
+            "id": "111",
+            "name": "Nysa",
+            "code": "ONY"
+        },
+        {
+            "id": "112",
+            "name": "Olesno",
+            "code": "OOL"
+        },
+        {
+            "id": "113",
+            "name": "Opole powiat",
+            "code": "OPO"
+        },
+        {
+            "id": "114",
+            "name": "Prudnik",
+            "code": "OPR"
+        },
+        {
+            "id": "115",
+            "name": "Strzelce Opolskie",
+            "code": "OST"
+        },
+        {
+            "id": "116",
+            "name": "Krosno",
+            "code": "RK"
+        },
+        {
+            "id": "117",
+            "name": "Przemyśl",
+            "code": "RP"
+        },
+        {
+            "id": "118",
+            "name": "Rzeszów",
+            "code": "RZ"
+        },
+        {
+            "id": "119",
+            "name": "Tarnobrzeg",
+            "code": "RT"
+        },
+        {
+            "id": "120",
+            "name": "Ustrzyki Dolne",
+            "code": "RBI"
+        },
+        {
+            "id": "121",
+            "name": "Brzozów",
+            "code": "RBR"
+        },
+        {
+            "id": "122",
+            "name": "Dębica",
+            "code": "RDE"
+        },
+        {
+            "id": "123",
+            "name": "Jarosław",
+            "code": "RJA"
+        },
+        {
+            "id": "124",
+            "name": "Jasło",
+            "code": "RJS"
+        },
+        {
+            "id": "125",
+            "name": "Kolbuszowa",
+            "code": "RKL"
+        },
+        {
+            "id": "126",
+            "name": "Krosno powiat",
+            "code": "RKR"
+        },
+        {
+            "id": "127",
+            "name": "Leżajsk",
+            "code": "RLE"
+        },
+        {
+            "id": "128",
+            "name": "Lubaczów",
+            "code": "RLU"
+        },
+        {
+            "id": "129",
+            "name": "Łańcut",
+            "code": "RLA"
+        },
+        {
+            "id": "130",
+            "name": "Mielec",
+            "code": "RMI"
+        },
+        {
+            "id": "131",
+            "name": "Nisko",
+            "code": "RNI"
+        },
+        {
+            "id": "132",
+            "name": "Przemyśl powiat",
+            "code": "RPR"
+        },
+        {
+            "id": "133",
+            "name": "Przeworsk",
+            "code": "RPZ"
+        },
+        {
+            "id": "134",
+            "name": "Ropczyce",
+            "code": "RRS"
+        },
+        {
+            "id": "135",
+            "name": "Rzeszów powiat",
+            "code": "RZE"
+        },
+        {
+            "id": "136",
+            "name": "Sanok",
+            "code": "RSA"
+        },
+        {
+            "id": "137",
+            "name": "Stalowa Wola",
+            "code": "RST"
+        },
+        {
+            "id": "138",
+            "name": "Strzyżów",
+            "code": "RSR"
+        },
+        {
+            "id": "139",
+            "name": "Tarnobrzeg powiat",
+            "code": "RTA"
+        },
+        {
+            "id": "140",
+            "name": "Białystok",
+            "code": "BI"
+        },
+        {
+            "id": "141",
+            "name": "Łomża",
+            "code": "BL"
+        },
+        {
+            "id": "142",
+            "name": "Suwałki",
+            "code": "BS"
+        },
+        {
+            "id": "143",
+            "name": "Augustów",
+            "code": "BAU"
+        },
+        {
+            "id": "144",
+            "name": "Białystok powiat",
+            "code": "BIA"
+        },
+        {
+            "id": "145",
+            "name": "Bielsk Podlaski",
+            "code": "BBI"
+        },
+        {
+            "id": "146",
+            "name": "Grajewo",
+            "code": "BGR"
+        },
+        {
+            "id": "147",
+            "name": "Hajnówka",
+            "code": "BHA"
+        },
+        {
+            "id": "148",
+            "name": "Kolno",
+            "code": "BKL"
+        },
+        {
+            "id": "149",
+            "name": "Łomża powiat",
+            "code": "BLM"
+        },
+        {
+            "id": "150",
+            "name": "Mońki",
+            "code": "BMN"
+        },
+        {
+            "id": "151",
+            "name": "Sejny",
+            "code": "BSE"
+        },
+        {
+            "id": "152",
+            "name": "Siemiatycze",
+            "code": "BSI"
+        },
+        {
+            "id": "153",
+            "name": "Sokółka",
+            "code": "BSK"
+        },
+        {
+            "id": "154",
+            "name": "Suwałki powiat",
+            "code": "BSU"
+        },
+        {
+            "id": "155",
+            "name": "Wysokie Mazowieckie",
+            "code": "BWM"
+        },
+        {
+            "id": "156",
+            "name": "Zambrów",
+            "code": "BZA"
+        },
+        {
+            "id": "157",
+            "name": "Gdańsk",
+            "code": "GD"
+        },
+        {
+            "id": "158",
+            "name": "Gdynia",
+            "code": "GA"
+        },
+        {
+            "id": "159",
+            "name": "Słupsk",
+            "code": "GS"
+        },
+        {
+            "id": "160",
+            "name": "Sopot",
+            "code": "GSP"
+        },
+        {
+            "id": "161",
+            "name": "Bytów",
+            "code": "GBY"
+        },
+        {
+            "id": "162",
+            "name": "Chojnice",
+            "code": "GCH"
+        },
+        {
+            "id": "163",
+            "name": "Człuchów",
+            "code": "GCZ"
+        },
+        {
+            "id": "164",
+            "name": "Pruszcz Gdański",
+            "code": "GDA"
+        },
+        {
+            "id": "165",
+            "name": "Kartuzy",
+            "code": "GKA"
+        },
+        {
+            "id": "166",
+            "name": "Kościerzyna",
+            "code": "GKS"
+        },
+        {
+            "id": "167",
+            "name": "Kwidzyn",
+            "code": "GKW"
+        },
+        {
+            "id": "168",
+            "name": "Lębork",
+            "code": "GLE"
+        },
+        {
+            "id": "169",
+            "name": "Malbork",
+            "code": "GMB"
+        },
+        {
+            "id": "170",
+            "name": "Nowy Dwór Gdański",
+            "code": "GND"
+        },
+        {
+            "id": "171",
+            "name": "Puck",
+            "code": "GPU"
+        },
+        {
+            "id": "172",
+            "name": "Słupsk powiat",
+            "code": "GSL"
+        },
+        {
+            "id": "173",
+            "name": "Starogard Gdański",
+            "code": "GST"
+        },
+        {
+            "id": "174",
+            "name": "Tczew",
+            "code": "GTC"
+        },
+        {
+            "id": "175",
+            "name": "Wejherowo",
+            "code": "GWE"
+        },
+        {
+            "id": "176",
+            "name": "Kalisz",
+            "code": "PK"
+        },
+        {
+            "id": "177",
+            "name": "Konin",
+            "code": "PKO"
+        },
+        {
+            "id": "178",
+            "name": "Leszno",
+            "code": "PL"
+        },
+        {
+            "id": "179",
+            "name": "Poznań",
+            "code": "PO"
+        },
+        {
+            "id": "180",
+            "name": "Chodzież",
+            "code": "PCH"
+        },
+        {
+            "id": "181",
+            "name": "Czarnków",
+            "code": "PCT"
+        },
+        {
+            "id": "182",
+            "name": "Gniezno",
+            "code": "PGN"
+        },
+        {
+            "id": "183",
+            "name": "Gostyń",
+            "code": "PGS"
+        },
+        {
+            "id": "184",
+            "name": "Grodzisk Wielkopolski",
+            "code": "PGO"
+        },
+        {
+            "id": "185",
+            "name": "Jarocin",
+            "code": "PJA"
+        },
+        {
+            "id": "186",
+            "name": "Kalisz powiat",
+            "code": "PKA"
+        },
+        {
+            "id": "187",
+            "name": "Kępno",
+            "code": "PKE"
+        },
+        {
+            "id": "188",
+            "name": "Koło",
+            "code": "PKL"
+        },
+        {
+            "id": "189",
+            "name": "Konin powiat",
+            "code": "PKN"
+        },
+        {
+            "id": "190",
+            "name": "Kościan",
+            "code": "PKS"
+        },
+        {
+            "id": "191",
+            "name": "Krotoszyn",
+            "code": "PKR"
+        },
+        {
+            "id": "192",
+            "name": "Leszno powiat",
+            "code": "PLE"
+        },
+        {
+            "id": "193",
+            "name": "Międzychód",
+            "code": "PMI"
+        },
+        {
+            "id": "194",
+            "name": "Nowy Tomyśl",
+            "code": "PNT"
+        },
+        {
+            "id": "195",
+            "name": "Oborniki",
+            "code": "POB"
+        },
+        {
+            "id": "196",
+            "name": "Ostrów Wielkopolski",
+            "code": "POS"
+        },
+        {
+            "id": "197",
+            "name": "Ostrzeszów",
+            "code": "POT"
+        },
+        {
+            "id": "198",
+            "name": "Piła",
+            "code": "PP"
+        },
+        {
+            "id": "199",
+            "name": "Pleszew",
+            "code": "PPL"
+        },
+        {
+            "id": "200",
+            "name": "Poznań powiat",
+            "code": "POZ"
+        },
+        {
+            "id": "201",
+            "name": "Rawicz",
+            "code": "PRA"
+        },
+        {
+            "id": "202",
+            "name": "Słupca",
+            "code": "PSL"
+        },
+        {
+            "id": "203",
+            "name": "Szamotuły",
+            "code": "PSZ"
+        },
+        {
+            "id": "204",
+            "name": "Środa Wielkopolska",
+            "code": "PSR"
+        },
+        {
+            "id": "205",
+            "name": "Śrem",
+            "code": "PSE"
+        },
+        {
+            "id": "206",
+            "name": "Turek",
+            "code": "PTU"
+        },
+        {
+            "id": "207",
+            "name": "Wągrowiec",
+            "code": "PWA"
+        },
+        {
+            "id": "208",
+            "name": "Wolsztyn",
+            "code": "PWL"
+        },
+        {
+            "id": "209",
+            "name": "Września",
+            "code": "PWR"
+        },
+        {
+            "id": "210",
+            "name": "Złotów",
+            "code": "PZL"
+        },
+        {
+            "id": "211",
+            "name": "Koszalin",
+            "code": "ZK"
+        },
+        {
+            "id": "212",
+            "name": "Szczecin",
+            "code": "ZS"
+        },
+        {
+            "id": "213",
+            "name": "Świnoujście",
+            "code": "ZSW"
+        },
+        {
+            "id": "214",
+            "name": "Białogard",
+            "code": "ZBI"
+        },
+        {
+            "id": "215",
+            "name": "Choszczno",
+            "code": "ZCH"
+        },
+        {
+            "id": "216",
+            "name": "Drawsko",
+            "code": "ZDR"
+        },
+        {
+            "id": "217",
+            "name": "Goleniów",
+            "code": "ZGL"
+        },
+        {
+            "id": "218",
+            "name": "Gryfice",
+            "code": "ZGY"
+        },
+        {
+            "id": "219",
+            "name": "Gryfino",
+            "code": "ZGR"
+        },
+        {
+            "id": "220",
+            "name": "Kamień Pomorski",
+            "code": "ZKA"
+        },
+        {
+            "id": "221",
+            "name": "Kołobrzeg",
+            "code": "ZKL"
+        },
+        {
+            "id": "222",
+            "name": "Koszalin powiat",
+            "code": "ZKO"
+        },
+        {
+            "id": "223",
+            "name": "Myślibórz",
+            "code": "ZMY"
+        },
+        {
+            "id": "224",
+            "name": "Police",
+            "code": "ZPL"
+        },
+        {
+            "id": "225",
+            "name": "Pyrzyce",
+            "code": "ZPY"
+        },
+        {
+            "id": "226",
+            "name": "Sławno",
+            "code": "ZSL"
+        },
+        {
+            "id": "227",
+            "name": "Stargard Szczeciński",
+            "code": "ZST"
+        },
+        {
+            "id": "228",
+            "name": "Szczecinek",
+            "code": "ZSZ"
+        },
+        {
+            "id": "229",
+            "name": "Świdwin",
+            "code": "ZSD"
+        },
+        {
+            "id": "230",
+            "name": "Wałcz",
+            "code": "ZWA"
+        },
+        {
+            "id": "231",
+            "name": "Jelenia Góra",
+            "code": "DJ"
+        },
+        {
+            "id": "232",
+            "name": "Legnica",
+            "code": "DL"
+        },
+        {
+            "id": "233",
+            "name": "Wałbrzych",
+            "code": "DB"
+        },
+        {
+            "id": "234",
+            "name": "Wrocław",
+            "code": "DW"
+        },
+        {
+            "id": "235",
+            "name": "Bolesławiec",
+            "code": "DBL"
+        },
+        {
+            "id": "236",
+            "name": "Dzierżoniów",
+            "code": "DDZ"
+        },
+        {
+            "id": "237",
+            "name": "Głogów",
+            "code": "DGL"
+        },
+        {
+            "id": "238",
+            "name": "Góra",
+            "code": "DGR"
+        },
+        {
+            "id": "239",
+            "name": "Jawor",
+            "code": "DJA"
+        },
+        {
+            "id": "240",
+            "name": "Jelenia Góra powiat",
+            "code": "DJE"
+        },
+        {
+            "id": "241",
+            "name": "Kamienna Góra",
+            "code": "DKA"
+        },
+        {
+            "id": "242",
+            "name": "Kłodzko",
+            "code": "DKL"
+        },
+        {
+            "id": "243",
+            "name": "Legnica powiat",
+            "code": "DLE"
+        },
+        {
+            "id": "244",
+            "name": "Lubań",
+            "code": "DLB"
+        },
+        {
+            "id": "245",
+            "name": "Lubin",
+            "code": "DLU"
+        },
+        {
+            "id": "246",
+            "name": "Lwówek",
+            "code": "DLW"
+        },
+        {
+            "id": "247",
+            "name": "Milicz",
+            "code": "DMI"
+        },
+        {
+            "id": "248",
+            "name": "Oleśnica",
+            "code": "DOL"
+        },
+        {
+            "id": "249",
+            "name": "Oława",
+            "code": "DOA"
+        },
+        {
+            "id": "250",
+            "name": "Polkowice",
+            "code": "DPL"
+        },
+        {
+            "id": "251",
+            "name": "Strzelin",
+            "code": "DST"
+        },
+        {
+            "id": "252",
+            "name": "Środa Śląska",
+            "code": "DSR"
+        },
+        {
+            "id": "253",
+            "name": "Świdnica",
+            "code": "DSW"
+        },
+        {
+            "id": "254",
+            "name": "Trzebnica",
+            "code": "DTR"
+        },
+        {
+            "id": "255",
+            "name": "Wałbrzych powiat",
+            "code": "DBA"
+        },
+        {
+            "id": "256",
+            "name": "Wołów",
+            "code": "DWL"
+        },
+        {
+            "id": "257",
+            "name": "Wrocław powiat",
+            "code": "DWR"
+        },
+        {
+            "id": "258",
+            "name": "Ząbkowice",
+            "code": "DZA"
+        },
+        {
+            "id": "259",
+            "name": "Zgorzelec",
+            "code": "DZG"
+        },
+        {
+            "id": "260",
+            "name": "Złotoryja",
+            "code": "DZL"
+        },
+        {
+            "id": "261",
+            "name": "Świecie",
+            "code": "CSW"
+        },
+        {
+            "id": "262",
+            "name": "Toruń powiat",
+            "code": "CTR"
+        },
+        {
+            "id": "263",
+            "name": "Tuchola",
+            "code": "CTU"
+        },
+        {
+            "id": "264",
+            "name": "Wąbrzeźno",
+            "code": "CWA"
+        },
+        {
+            "id": "265",
+            "name": "Włocławek powiat",
+            "code": "CWL"
+        },
+        {
+            "id": "266",
+            "name": "Żnin",
+            "code": "CZN"
+        },
+        {
+            "id": "267",
+            "name": "Bydgoszcz",
+            "code": "CB"
+        },
+        {
+            "id": "268",
+            "name": "Grudziądz",
+            "code": "CG"
+        },
+        {
+            "id": "269",
+            "name": "Toruń",
+            "code": "CT"
+        },
+        {
+            "id": "270",
+            "name": "Włocławek",
+            "code": "CW"
+        },
+        {
+            "id": "271",
+            "name": "Aleksandrów Kujawski",
+            "code": "CAL"
+        },
+        {
+            "id": "272",
+            "name": "Brodnica",
+            "code": "CBR"
+        },
+        {
+            "id": "273",
+            "name": "Bydgoszcz powiat",
+            "code": "CBY"
+        },
+        {
+            "id": "274",
+            "name": "Chełmno",
+            "code": "CCH"
+        },
+        {
+            "id": "275",
+            "name": "Golub-Dobrzyń",
+            "code": "CGD"
+        },
+        {
+            "id": "276",
+            "name": "Grudziądz powiat",
+            "code": "CGR"
+        },
+        {
+            "id": "277",
+            "name": "Inowrocław",
+            "code": "CIN"
+        },
+        {
+            "id": "278",
+            "name": "Lipno",
+            "code": "CLI"
+        },
+        {
+            "id": "279",
+            "name": "Mogilno",
+            "code": "CMG"
+        },
+        {
+            "id": "280",
+            "name": "Nakło nad Notecią",
+            "code": "CNA"
+        },
+        {
+            "id": "281",
+            "name": "Radziejów",
+            "code": "CRA"
+        },
+        {
+            "id": "282",
+            "name": "Rypin",
+            "code": "CRY"
+        },
+        {
+            "id": "283",
+            "name": "Sępólno Krajeńskie",
+            "code": "CSE"
+        },
+        {
+            "id": "284",
+            "name": "Łódź",
+            "code": "EL"
+        },
+        {
+            "id": "285",
+            "name": "Piotrków Trybunalski",
+            "code": "EP"
+        },
+        {
+            "id": "286",
+            "name": "Skierniewice",
+            "code": "ES"
+        },
+        {
+            "id": "287",
+            "name": "Bełchatów",
+            "code": "EBE"
+        },
+        {
+            "id": "289",
+            "name": "Kutno",
+            "code": "EKU"
+        },
+        {
+            "id": "290",
+            "name": "Łask",
+            "code": "ELA"
+        },
+        {
+            "id": "291",
+            "name": "Łęczyca",
+            "code": "ELE"
+        },
+        {
+            "id": "292",
+            "name": "Łowicz",
+            "code": "ELC"
+        },
+        {
+            "id": "293",
+            "name": "Łódź powiat",
+            "code": "ELW"
+        },
+        {
+            "id": "294",
+            "name": "Opoczno",
+            "code": "EOP"
+        },
+        {
+            "id": "295",
+            "name": "Pabianice",
+            "code": "EPA"
+        },
+        {
+            "id": "296",
+            "name": "Pajęczno",
+            "code": "EPJ"
+        },
+        {
+            "id": "297",
+            "name": "Piotrków Trybunalski powiat",
+            "code": "EPI"
+        },
+        {
+            "id": "298",
+            "name": "Poddębice",
+            "code": "EPD"
+        },
+        {
+            "id": "299",
+            "name": "Radomsko",
+            "code": "ERA"
+        },
+        {
+            "id": "300",
+            "name": "Rawa Mazowiecka",
+            "code": "ERW"
+        },
+        {
+            "id": "301",
+            "name": "Sieradz",
+            "code": "ESI"
+        },
+        {
+            "id": "302",
+            "name": "Skierniewice powiat",
+            "code": "ESK"
+        },
+        {
+            "id": "303",
+            "name": "Tomaszów Mazowiecki",
+            "code": "ETM"
+        },
+        {
+            "id": "304",
+            "name": "Wieluń",
+            "code": "EWI"
+        },
+        {
+            "id": "305",
+            "name": "Wieruszów",
+            "code": "EWE"
+        },
+        {
+            "id": "306",
+            "name": "Zduńska Wola",
+            "code": "EZD"
+        },
+        {
+            "id": "307",
+            "name": "Zgierz",
+            "code": "EZG"
+        },
+        {
+            "id": "308",
+            "name": "Kraków",
+            "code": "KR"
+        },
+        {
+            "id": "309",
+            "name": "Nowy Sącz",
+            "code": "KN"
+        },
+        {
+            "id": "310",
+            "name": "Tarnów",
+            "code": "KT"
+        },
+        {
+            "id": "311",
+            "name": "Bochnia",
+            "code": "KBC"
+        },
+        {
+            "id": "312",
+            "name": "Brzesko",
+            "code": "KBR"
+        },
+        {
+            "id": "313",
+            "name": "Chrzanów",
+            "code": "KCH"
+        },
+        {
+            "id": "314",
+            "name": "Dąbrowa Tarnowska",
+            "code": "KDA"
+        },
+        {
+            "id": "315",
+            "name": "Gorlice",
+            "code": "KGR"
+        },
+        {
+            "id": "316",
+            "name": "Kraków powiat",
+            "code": "KRA"
+        },
+        {
+            "id": "317",
+            "name": "Limanowa",
+            "code": "KLI"
+        },
+        {
+            "id": "318",
+            "name": "Miechów",
+            "code": "KMI"
+        },
+        {
+            "id": "319",
+            "name": "Myślenice",
+            "code": "KMY"
+        },
+        {
+            "id": "320",
+            "name": "Nowy Sącz powiat",
+            "code": "KNS"
+        },
+        {
+            "id": "321",
+            "name": "Nowy Targ",
+            "code": "KNT"
+        },
+        {
+            "id": "322",
+            "name": "Olkusz",
+            "code": "KOL"
+        },
+        {
+            "id": "323",
+            "name": "Oświęcim",
+            "code": "KOS"
+        },
+        {
+            "id": "324",
+            "name": "Proszowice",
+            "code": "KPR"
+        },
+        {
+            "id": "325",
+            "name": "Sucha Beskidzka",
+            "code": "KSU"
+        },
+        {
+            "id": "326",
+            "name": "Tarnów powiat",
+            "code": "KTA"
+        },
+        {
+            "id": "327",
+            "name": "Zakopane",
+            "code": "KTT"
+        },
+        {
+            "id": "328",
+            "name": "Wadowice",
+            "code": "KWA"
+        },
+        {
+            "id": "329",
+            "name": "Wieliczka",
+            "code": "KWI"
+        },
+        {
+            "id": "330",
+            "name": "Bielsko-Biała",
+            "code": "SB"
+        },
+        {
+            "id": "331",
+            "name": "Bytom",
+            "code": "SY"
+        },
+        {
+            "id": "332",
+            "name": "Chorzów",
+            "code": "SH"
+        },
+        {
+            "id": "333",
+            "name": "Częstochowa",
+            "code": "SC"
+        },
+        {
+            "id": "334",
+            "name": "Dąbrowa Górnicza",
+            "code": "SD"
+        },
+        {
+            "id": "335",
+            "name": "Gliwice",
+            "code": "SG"
+        },
+        {
+            "id": "336",
+            "name": "Jastrzębie Zdrój",
+            "code": "SJZ"
+        },
+        {
+            "id": "337",
+            "name": "Jaworzno",
+            "code": "SJ"
+        },
+        {
+            "id": "338",
+            "name": "Katowice",
+            "code": "SK"
+        },
+        {
+            "id": "339",
+            "name": "Mysłowice",
+            "code": "SM"
+        },
+        {
+            "id": "340",
+            "name": "Piekary Śląskie",
+            "code": "SPI"
+        },
+        {
+            "id": "341",
+            "name": "Ruda Śląska",
+            "code": "SRS"
+        },
+        {
+            "id": "342",
+            "name": "Rybnik miasto",
+            "code": "SR"
+        },
+        {
+            "id": "343",
+            "name": "Siemianowice Śląskie",
+            "code": "SI"
+        },
+        {
+            "id": "344",
+            "name": "Sosnowiec",
+            "code": "SO"
+        },
+        {
+            "id": "345",
+            "name": "Swiętochłowice",
+            "code": "SW"
+        },
+        {
+            "id": "346",
+            "name": "Tychy miasto",
+            "code": "ST"
+        },
+        {
+            "id": "347",
+            "name": "Zabrze",
+            "code": "SZ"
+        },
+        {
+            "id": "348",
+            "name": "Żory",
+            "code": "SZO"
+        },
+        {
+            "id": "349",
+            "name": "Będzin",
+            "code": "SBE"
+        },
+        {
+            "id": "350",
+            "name": "Bielsko-Biała powiat",
+            "code": "SBI"
+        },
+        {
+            "id": "351",
+            "name": "Cieszyn",
+            "code": "SCI"
+        },
+        {
+            "id": "352",
+            "name": "Częstochowa powiat",
+            "code": "SCZ"
+        },
+        {
+            "id": "353",
+            "name": "Gliwice powiat",
+            "code": "SGL"
+        },
+        {
+            "id": "354",
+            "name": "Kłobuck",
+            "code": "SKL"
+        },
+        {
+            "id": "355",
+            "name": "Lubliniec",
+            "code": "SLU"
+        },
+        {
+            "id": "356",
+            "name": "Mikołów",
+            "code": "SMI"
+        },
+        {
+            "id": "357",
+            "name": "Myszków",
+            "code": "SMY"
+        },
+        {
+            "id": "358",
+            "name": "Pszczyna",
+            "code": "SPS"
+        },
+        {
+            "id": "359",
+            "name": "Racibórz",
+            "code": "SRC"
+        },
+        {
+            "id": "360",
+            "name": "Rybnik powiat",
+            "code": "SRB"
+        },
+        {
+            "id": "361",
+            "name": "Tarnowskie Góry",
+            "code": "STA"
+        },
+        {
+            "id": "362",
+            "name": "Tychy powiat",
+            "code": "STY"
+        },
+        {
+            "id": "363",
+            "name": "Wodzisław",
+            "code": "SWD"
+        },
+        {
+            "id": "364",
+            "name": "Zawiercie",
+            "code": "SZA"
+        },
+        {
+            "id": "365",
+            "name": "Żywiec",
+            "code": "SZY"
+        },
+        {
+            "id": "366",
+            "name": "Kielce",
+            "code": "TK"
+        },
+        {
+            "id": "367",
+            "name": "Busko",
+            "code": "TBU"
+        },
+        {
+            "id": "368",
+            "name": "Jędrzejów",
+            "code": "TJE"
+        },
+        {
+            "id": "369",
+            "name": "Kazimierza Wielka",
+            "code": "TKA"
+        },
+        {
+            "id": "370",
+            "name": "Kielce powiat",
+            "code": "TKI"
+        },
+        {
+            "id": "371",
+            "name": "Końskie",
+            "code": "TKN"
+        },
+        {
+            "id": "372",
+            "name": "Opatów",
+            "code": "TOP"
+        },
+        {
+            "id": "373",
+            "name": "Ostrowiec Świętokrzyski",
+            "code": "TOS"
+        },
+        {
+            "id": "374",
+            "name": "Pińczów",
+            "code": "TPI"
+        },
+        {
+            "id": "375",
+            "name": "Sandomierz",
+            "code": "TSA"
+        },
+        {
+            "id": "376",
+            "name": "Skarżysko-Kamienna",
+            "code": "TSK"
+        },
+        {
+            "id": "377",
+            "name": "Starachowice",
+            "code": "TST"
+        },
+        {
+            "id": "378",
+            "name": "Staszów",
+            "code": "TSZ"
+        },
+        {
+            "id": "379",
+            "name": "Włoszczowa",
+            "code": "TWL"
+        },
+        {
+            "id": "380",
+            "name": "Elbląg",
+            "code": "NE"
+        },
+        {
+            "id": "381",
+            "name": "Olsztyn",
+            "code": "NO"
+        },
+        {
+            "id": "382",
+            "name": "Bartoszyce",
+            "code": "NBA"
+        },
+        {
+            "id": "383",
+            "name": "Braniewo",
+            "code": "NBR"
+        },
+        {
+            "id": "384",
+            "name": "Działdowo",
+            "code": "NDZ"
+        },
+        {
+            "id": "385",
+            "name": "Elbląg powiat",
+            "code": "NEB"
+        },
+        {
+            "id": "386",
+            "name": "Ełk",
+            "code": "NEL"
+        },
+        {
+            "id": "387",
+            "name": "Giżycko",
+            "code": "NGI"
+        },
+        {
+            "id": "388",
+            "name": "Iława",
+            "code": "NIL"
+        },
+        {
+            "id": "389",
+            "name": "Kętrzyn",
+            "code": "NKE"
+        },
+        {
+            "id": "390",
+            "name": "Lidzbark Warmiński",
+            "code": "NLI"
+        },
+        {
+            "id": "391",
+            "name": "Mrągowo",
+            "code": "NMR"
+        },
+        {
+            "id": "392",
+            "name": "Nidzica",
+            "code": "NNI"
+        },
+        {
+            "id": "393",
+            "name": "Nowe Miasto Lubawskie",
+            "code": "NNM"
+        },
+        {
+            "id": "394",
+            "name": "Olecko",
+            "code": "NOG"
+        },
+        {
+            "id": "395",
+            "name": "Olsztyn powiat",
+            "code": "NOL"
+        },
+        {
+            "id": "396",
+            "name": "Ostróda",
+            "code": "NOS"
+        },
+        {
+            "id": "397",
+            "name": "Pisz",
+            "code": "NPI"
+        },
+        {
+            "id": "398",
+            "name": "Szczytno",
+            "code": "NSZ"
+        }
+    ]
+}

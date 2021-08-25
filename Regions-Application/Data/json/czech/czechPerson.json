@@ -1,0 +1,74 @@
+{
+    "regions": [
+        {
+            "id": "1",
+            "name": "Hlavní město Praha, Capital City Prague",
+            "code": "A"
+        },
+        {
+            "id": "2",
+            "name": "Jihomoravský kraj (Brno), South Moravia (Brno)",
+            "code": "B"
+        },
+        {
+            "id": "3",
+            "name": "Jihočeský kraj (České Budějovice), South Bohemia (České Budějovice)",
+            "code": "C"
+        },
+        {
+            "id": "4",
+            "name": "Pardubický kraj (Pardubice), (Pardubice)",
+            "code": "E"
+        },
+        {
+            "id": "5",
+            "name": "Královéhradecký kraj (Hradec Králové), (Hradec Králové)",
+            "code": "H"
+        },
+        {
+            "id": "6",
+            "name": "Vysočina(Jihlava), Highland (Vysočina) code(Jihlava)",
+            "code": "J"
+        },
+        {
+            "id": "7",
+            "name": "Karlovarský kraj (Karlovy Vary), (Karlovy Vary)",
+            "code": "K"
+        },
+        {
+            "id": "8",
+            "name": "Liberecký kraj (Liberec), (Liberec)",
+            "code": "L"
+        },
+        {
+            "id": "9",
+            "name": "Olomoucký kraj (Olomouc), (Olomouc)",
+            "code": "M"
+        },
+        {
+            "id": "10",
+            "name": "Plzeňský kraj (Plzeň), (Plzeň)",
+            "code": "P"
+        },
+        {
+            "id": "11",
+            "name": "Středočeský kraj (Praha), Central Bohemia (Prague)",
+            "code": "S"
+        },
+        {
+            "id": "12",
+            "name": "Moravskoslezský kraj (Ostrava), Moravia-Silesia code(Ostrava)",
+            "code": "T"
+        },
+        {
+            "id": "13",
+            "name": "Ústecký kraj (Ústí nad Labem), (Ústí nad Labem)",
+            "code": "U"
+        },
+        {
+            "id": "14",
+            "name": "Zlínský kraj (Zlín), (Zlín)",
+            "code": "Z"
+        }
+    ]
+}

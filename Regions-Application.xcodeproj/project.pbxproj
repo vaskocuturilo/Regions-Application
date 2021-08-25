@@ -10,6 +10,13 @@
 		410BF7B62E5957582A0303BD /* Pods_Regions_Application.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C33AA737D36D0168C8C1335A /* Pods_Regions_Application.framework */; };
 		7203DAAB26C428FB0057BA20 /* RootViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72D4B1F326C17F840029AB3C /* RootViewController.swift */; };
 		7203DABA26C42C290057BA20 /* APIServices.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7203DAB926C42C290057BA20 /* APIServices.swift */; };
+		721A8CCC26D4F4F300C04AD9 /* polandPerson.json in Resources */ = {isa = PBXBuildFile; fileRef = 721A8CCB26D4F4F300C04AD9 /* polandPerson.json */; };
+		721A8CD926D4FFFD00C04AD9 /* czechPerson.json in Resources */ = {isa = PBXBuildFile; fileRef = 721A8CD826D4FFFD00C04AD9 /* czechPerson.json */; };
+		721A8CE226D5011000C04AD9 /* moldovaPerson.json in Resources */ = {isa = PBXBuildFile; fileRef = 721A8CE126D5011000C04AD9 /* moldovaPerson.json */; };
+		721A8CFB26D5021800C04AD9 /* lithuaniaPerson.json in Resources */ = {isa = PBXBuildFile; fileRef = 721A8CFA26D5021800C04AD9 /* lithuaniaPerson.json */; };
+		721A8D0126D5027700C04AD9 /* turkeyPerson.json in Resources */ = {isa = PBXBuildFile; fileRef = 721A8D0026D5027700C04AD9 /* turkeyPerson.json */; };
+		721A8D0726D502EE00C04AD9 /* estoniaPerson.json in Resources */ = {isa = PBXBuildFile; fileRef = 721A8D0626D502EE00C04AD9 /* estoniaPerson.json */; };
+		721A8D0D26D5034D00C04AD9 /* germanyPerson.json in Resources */ = {isa = PBXBuildFile; fileRef = 721A8D0C26D5034D00C04AD9 /* germanyPerson.json */; };
 		7224631E26C45FDB00D7E215 /* SlideTransition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7224631D26C45FDB00D7E215 /* SlideTransition.swift */; };
 		7224632326C470DB00D7E215 /* UkraineViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7224632226C470DB00D7E215 /* UkraineViewController.swift */; };
 		722A951826CB8B2B00A45545 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 722A951726CB8B2B00A45545 /* Constants.swift */; };
@@ -77,6 +84,13 @@
 		354A2027BC5DBCB65A4CAB6F /* Pods-Regions-Application.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Regions-Application.debug.xcconfig"; path = "Target Support Files/Pods-Regions-Application/Pods-Regions-Application.debug.xcconfig"; sourceTree = "<group>"; };
 		60A3AE642895E20BD1677303 /* Pods-Regions-Application.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Regions-Application.release.xcconfig"; path = "Target Support Files/Pods-Regions-Application/Pods-Regions-Application.release.xcconfig"; sourceTree = "<group>"; };
 		7203DAB926C42C290057BA20 /* APIServices.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIServices.swift; sourceTree = "<group>"; };
+		721A8CCB26D4F4F300C04AD9 /* polandPerson.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = polandPerson.json; sourceTree = "<group>"; };
+		721A8CD826D4FFFD00C04AD9 /* czechPerson.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = czechPerson.json; sourceTree = "<group>"; };
+		721A8CE126D5011000C04AD9 /* moldovaPerson.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = moldovaPerson.json; sourceTree = "<group>"; };
+		721A8CFA26D5021800C04AD9 /* lithuaniaPerson.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = lithuaniaPerson.json; sourceTree = "<group>"; };
+		721A8D0026D5027700C04AD9 /* turkeyPerson.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = turkeyPerson.json; sourceTree = "<group>"; };
+		721A8D0626D502EE00C04AD9 /* estoniaPerson.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = estoniaPerson.json; sourceTree = "<group>"; };
+		721A8D0C26D5034D00C04AD9 /* germanyPerson.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = germanyPerson.json; sourceTree = "<group>"; };
 		7224631D26C45FDB00D7E215 /* SlideTransition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SlideTransition.swift; sourceTree = "<group>"; };
 		7224632226C470DB00D7E215 /* UkraineViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UkraineViewController.swift; sourceTree = "<group>"; };
 		722A951726CB8B2B00A45545 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
@@ -177,6 +191,62 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
+		721A8CCA26D4F4DE00C04AD9 /* poland */ = {
+			isa = PBXGroup;
+			children = (
+				721A8CCB26D4F4F300C04AD9 /* polandPerson.json */,
+			);
+			path = poland;
+			sourceTree = "<group>";
+		};
+		721A8CD726D4FFDE00C04AD9 /* czech */ = {
+			isa = PBXGroup;
+			children = (
+				721A8CD826D4FFFD00C04AD9 /* czechPerson.json */,
+			);
+			path = czech;
+			sourceTree = "<group>";
+		};
+		721A8CE026D500DB00C04AD9 /* moldova */ = {
+			isa = PBXGroup;
+			children = (
+				721A8CE126D5011000C04AD9 /* moldovaPerson.json */,
+			);
+			path = moldova;
+			sourceTree = "<group>";
+		};
+		721A8CEA26D501B900C04AD9 /* lithuania */ = {
+			isa = PBXGroup;
+			children = (
+				721A8CFA26D5021800C04AD9 /* lithuaniaPerson.json */,
+			);
+			path = lithuania;
+			sourceTree = "<group>";
+		};
+		721A8CFF26D5025F00C04AD9 /* turkey */ = {
+			isa = PBXGroup;
+			children = (
+				721A8D0026D5027700C04AD9 /* turkeyPerson.json */,
+			);
+			path = turkey;
+			sourceTree = "<group>";
+		};
+		721A8D0526D502DA00C04AD9 /* estonia */ = {
+			isa = PBXGroup;
+			children = (
+				721A8D0626D502EE00C04AD9 /* estoniaPerson.json */,
+			);
+			path = estonia;
+			sourceTree = "<group>";
+		};
+		721A8D0B26D5033700C04AD9 /* germany */ = {
+			isa = PBXGroup;
+			children = (
+				721A8D0C26D5034D00C04AD9 /* germanyPerson.json */,
+			);
+			path = germany;
+			sourceTree = "<group>";
+		};
 		722EE7FE26D2CE2600A4A288 /* russia */ = {
 			isa = PBXGroup;
 			children = (
@@ -266,6 +336,13 @@
 		72CB74A726C7E624007435AB /* json */ = {
 			isa = PBXGroup;
 			children = (
+				721A8D0B26D5033700C04AD9 /* germany */,
+				721A8D0526D502DA00C04AD9 /* estonia */,
+				721A8CFF26D5025F00C04AD9 /* turkey */,
+				721A8CEA26D501B900C04AD9 /* lithuania */,
+				721A8CE026D500DB00C04AD9 /* moldova */,
+				721A8CD726D4FFDE00C04AD9 /* czech */,
+				721A8CCA26D4F4DE00C04AD9 /* poland */,
 				7264B71026D43B0100DDD9B2 /* belarus */,
 				722EE7FF26D2CE3A00A4A288 /* ukraine */,
 				722EE7FE26D2CE2600A4A288 /* russia */,
@@ -443,16 +520,23 @@
 				72E0974E26D2E55F007F3693 /* ukrainePerson.json in Resources */,
 				729703B526C7F7C800CE82E5 /* MenuTableView.swift in Resources */,
 				72FF843326D26545008F637C /* russiaMilitary.json in Resources */,
+				721A8CE226D5011000C04AD9 /* moldovaPerson.json in Resources */,
 				729703B626C7F7C800CE82E5 /* RootViewController.swift in Resources */,
+				721A8CCC26D4F4F300C04AD9 /* polandPerson.json in Resources */,
+				721A8CFB26D5021800C04AD9 /* lithuaniaPerson.json in Resources */,
 				7264B71226D43B1C00DDD9B2 /* belarusPerson.json in Resources */,
+				721A8D0726D502EE00C04AD9 /* estoniaPerson.json in Resources */,
 				729703B726C7F7C800CE82E5 /* UkraineViewController.swift in Resources */,
 				729703B826C7F7C800CE82E5 /* BelarusViewController.swift in Resources */,
 				72F5992826D1965100706852 /* russiaDiplomatic.json in Resources */,
+				721A8D0D26D5034D00C04AD9 /* germanyPerson.json in Resources */,
 				729703B926C7F7C800CE82E5 /* RussiaViewController.swift in Resources */,
+				721A8D0126D5027700C04AD9 /* turkeyPerson.json in Resources */,
 				72D4B1FF26C17F850029AB3C /* LaunchScreen.storyboard in Resources */,
 				72D4B1FC26C17F850029AB3C /* Assets.xcassets in Resources */,
 				72D667D426C862E600DAC2B4 /* russiaPerson.json in Resources */,
 				729703B126C7F76A00CE82E5 /* Main.storyboard in Resources */,
+				721A8CD926D4FFFD00C04AD9 /* czechPerson.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
