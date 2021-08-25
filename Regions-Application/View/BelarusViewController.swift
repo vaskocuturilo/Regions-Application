@@ -53,13 +53,15 @@ class BelarusViewController: UIViewController, UIGestureRecognizerDelegate, UITe
         personButton.setTitle("Person ✓", for: .normal)
         personButton.setTitleColor(.green, for: .normal)
         
-        textField.rightViewMode = .always
-        textField.rightView = UIImageView(image: UIImage(named: "Belarus-Flag"))
+        textField.leftViewMode = .always
+        textField.leftView = UIImageView(image: UIImage(named: "Belarus-Flag"))
         
         isPersonChecked = true
         isDiplomaticChecked = false
         isMilitaryChecked = false
         title = "Belarus"
+        
+        label.numberOfLines = 0
     }
     
     @IBAction func didTapPersonButton(_ sender: Any) {
@@ -74,14 +76,22 @@ class BelarusViewController: UIViewController, UIGestureRecognizerDelegate, UITe
             
             personButton.setTitle("Person ✓", for: .normal)
             personButton.setTitleColor(.green, for: .normal)
-            textField.rightViewMode = .always
-            textField.rightView = UIImageView(image: UIImage(named: "Belarus-Flag"))
+            textField.leftViewMode = .always
+            textField.leftView = UIImageView(image: UIImage(named: "Belarus-Flag"))
             textField.backgroundColor = .white
             textField.textColor = .black
             isPersonChecked = true
             isDiplomaticChecked = false
             isMilitaryChecked = false
         }
+    }
+    
+    @IBAction func didTapDiplomaticButton(_ sender: Any) {
+        self.showAlert(title: "Information", message: "This feature will available soon.")
+    }
+    
+    @IBAction func didTapMilitaryButton(_ sender: Any) {
+        self.showAlert(title: "Information", message: "This feature will available soon.")
     }
     
     @objc func textFieldDidEditingChanged(_ textField: UITextField) {

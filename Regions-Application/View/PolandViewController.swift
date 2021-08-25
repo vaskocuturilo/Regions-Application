@@ -18,6 +18,15 @@ class PolandViewController: UIViewController, UIGestureRecognizerDelegate, UITex
     
     @IBOutlet weak var textField: UITextField!
     @IBOutlet weak var label: UILabel!
+    
+    @IBOutlet weak var personButton: UIButton!
+    @IBOutlet weak var diplomaticButton: UIButton!
+    @IBOutlet weak var militaryButton: UIButton!
+    
+    var isPersonChecked = true
+    var isDiplomaticChecked = false
+    var isMilitaryChecked = false
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         
@@ -38,11 +47,57 @@ class PolandViewController: UIViewController, UIGestureRecognizerDelegate, UITex
         textField.addShadowToTextField(cornerRadius: 3)
         textField.addShadowToTextField(color: UIColor.black, cornerRadius: 3)
         
-        label.text = ""
+        personButton.setUpLayer(sampleButton: personButton, title: "Person")
+        personButton.setUpLayer(sampleButton: diplomaticButton, title: "Diplomatic")
+        personButton.setUpLayer(sampleButton: militaryButton, title: "Military")
+        
+        personButton.setTitle("Person ✓", for: .normal)
+        personButton.setTitleColor(.green, for: .normal)
+        
+        textField.leftViewMode = .always
+        textField.leftView = UIImageView(image: UIImage(named: "Poland-Flag"))
+        
+        isPersonChecked = true
+        isDiplomaticChecked = false
+        isMilitaryChecked = false
+        title = "Poland"
+        
+        self.textField.autocapitalizationType = UITextAutocapitalizationType.allCharacters
+        
+        label.numberOfLines = 0
+    }
+    
+    @IBAction func didTapPersonButton(_ sender: Any) {
+        isPersonChecked = !isPersonChecked
+        if isPersonChecked {
+            
+            diplomaticButton.setTitle("Diplomatic", for: .normal)
+            diplomaticButton.setTitleColor(.white, for: .normal)
+            
+            militaryButton.setTitle("Military", for: .normal)
+            militaryButton.setTitleColor(.white, for: .normal)
+            
+            personButton.setTitle("Person ✓", for: .normal)
+            personButton.setTitleColor(.green, for: .normal)
+            textField.leftViewMode = .always
+            textField.leftView = UIImageView(image: UIImage(named: "Poland-Flag"))
+            textField.backgroundColor = .white
+            textField.textColor = .black
+            isPersonChecked = true
+            isDiplomaticChecked = false
+            isMilitaryChecked = false
+        }
+    }
+    
+    @IBAction func didTapDiplomaticButton(_ sender: Any) {
+        self.showAlert(title: "Information", message: "This feature will available soon.")
+    }
+    
+    @IBAction func didTapMilitaryButton(_ sender: Any) {
+        self.showAlert(title: "Information", message: "This feature will available soon.")
     }
     
     @objc func textFieldDidEditingChanged(_ textField: UITextField) {
-        
         if searchTimer != nil {
             searchTimer?.invalidate()
             searchTimer = nil
@@ -52,26 +107,22 @@ class PolandViewController: UIViewController, UIGestureRecognizerDelegate, UITex
     }
     
     @objc func searchForKeyword(_ timer: Timer) {
-        if (check.isConnectedToNetwork() == true) {
-            apiService.responseRegion(endpoints: Constants.Endpoints.Poland,region: textField.text!) { [self](isSucess, str) in
-                if isSucess {
-                    messages.showMessage(label: label, message: str)
+        if isPersonChecked {
+            personData()
+        }
+    }
+    
+    private func personData() {
+        apiService.responseRegion(endpoints: Constants.Endpoints.Poland,region: textField.text!) { [self](isSucess, str) in
+            if isSucess {
+                messages.showMessage(label: label, message: str)
+                textField.text?.removeAll()
+            } else {
+                if (str.contains("Could not connect to the server.")) {
+                    jsonLoad.loadSpeciesInfoJSOn(resource: "polandPerson", label: label, text: textField.text!)
                     textField.text?.removeAll()
-                } else {
-                    if (str.contains("Could not connect to the server.")) {
-                        let alert = UIAlertController(title: "Warning", message: "Could not connect to the server.", preferredStyle: UIAlertController.Style.alert)
-                        alert.addAction(UIAlertAction(title: "Ok", style: UIAlertAction.Style.default, handler: nil))
-                        self.present(alert, animated: true, completion: nil)
-                    } else {
-                        messages.showMessage(label: label, message: str)
-                    }
                 }
             }
-        } else if (check.isConnectedToNetwork() == false) {
-            jsonLoad.loadSpeciesInfoJSOn(resource: "", label: label, text: textField.text!)
-            textField.text?.removeAll()
-        } else {
-            messages.showMessage(label: label, message: "Error")
         }
     }
 }

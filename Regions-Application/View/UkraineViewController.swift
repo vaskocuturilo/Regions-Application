@@ -54,16 +54,17 @@ class UkraineViewController: UIViewController, UIGestureRecognizerDelegate, UITe
         personButton.setTitle("Person ✓", for: .normal)
         personButton.setTitleColor(.green, for: .normal)
         
-        textField.rightViewMode = .always
-        textField.rightView = UIImageView(image: UIImage(named: "Ukraine-Flag"))
+        textField.leftViewMode = .always
+        textField.leftView = UIImageView(image: UIImage(named: "Ukraine-Flag"))
         
         isPersonChecked = true
         isDiplomaticChecked = false
         isMilitaryChecked = false
         title = "Ukraine"
         
-        self.textField.autocapitalizationType = UITextAutocapitalizationType.allCharacters
+        label.numberOfLines = 0
         
+        self.textField.autocapitalizationType = UITextAutocapitalizationType.allCharacters
     }
     
     @IBAction func didTapPersonButton(_ sender: Any) {
@@ -78,14 +79,22 @@ class UkraineViewController: UIViewController, UIGestureRecognizerDelegate, UITe
             
             personButton.setTitle("Person ✓", for: .normal)
             personButton.setTitleColor(.green, for: .normal)
-            textField.rightViewMode = .always
-            textField.rightView = UIImageView(image: UIImage(named: "Ukraine-Flag"))
+            textField.leftViewMode = .always
+            textField.leftView = UIImageView(image: UIImage(named: "Ukraine-Flag"))
             textField.backgroundColor = .white
             textField.textColor = .black
             isPersonChecked = true
             isDiplomaticChecked = false
             isMilitaryChecked = false
         }
+    }
+    
+    @IBAction func didTapDiplomaticButton(_ sender: Any) {
+        self.showAlert(title: "Information", message: "This feature will available soon.")
+    }
+    
+    @IBAction func didTapMilitaryButton(_ sender: Any) {
+        self.showAlert(title: "Information", message: "This feature will available soon.")
     }
     
     @objc func textFieldDidEditingChanged(_ textField: UITextField) {
@@ -97,54 +106,20 @@ class UkraineViewController: UIViewController, UIGestureRecognizerDelegate, UITe
         searchTimer = Timer.scheduledTimer(timeInterval: 1.0, target: self, selector: #selector(searchForKeyword(_:)), userInfo: textField.text!, repeats: false)
     }
     
-    
     @objc func searchForKeyword(_ timer: Timer) {
         if isPersonChecked {
             personData()
-        } else if isDiplomaticChecked {
-            diplomaticData()
-            
-        } else if isMilitaryChecked {
-            militaryData()
         }
     }
     
     private func personData() {
-        apiService.responseRegion(endpoints: Constants.Endpoints.Ukraine,region: textField.text!) { [self](isSucess, str) in
+        apiService.responseRegion(endpoints: Constants.Endpoints.Russia,region: textField.text!) { [self](isSucess, str) in
             if isSucess {
                 messages.showMessage(label: label, message: str)
                 textField.text?.removeAll()
             } else {
                 if (str.contains("Could not connect to the server.")) {
                     jsonLoad.loadSpeciesInfoJSOn(resource: "ukrainePerson", label: label, text: textField.text!)
-                    textField.text?.removeAll()
-                }
-            }
-        }
-    }
-    
-    private func diplomaticData() {
-        apiService.responseRegion(endpoints: Constants.Endpoints.Ukraine,region: textField.text!) { [self](isSucess, str) in
-            if isSucess {
-                messages.showMessage(label: label, message: str)
-                textField.text?.removeAll()
-            } else {
-                if (str.contains("Could not connect to the server.")) {
-                    jsonLoad.loadSpeciesInfoJSOn(resource: "ukraineDiplomatic", label: label, text: textField.text!)
-                    textField.text?.removeAll()
-                }
-            }
-        }
-    }
-    
-    private func militaryData() {
-        apiService.responseRegion(endpoints: Constants.Endpoints.Ukraine,region: textField.text!) { [self](isSucess, str) in
-            if isSucess {
-                messages.showMessage(label: label, message: str)
-                textField.text?.removeAll()
-            } else {
-                if (str.contains("Could not connect to the server.")) {
-                    jsonLoad.loadSpeciesInfoJSOn(resource: "ukraineMilitary", label: label, text: textField.text!)
                     textField.text?.removeAll()
                 }
             }

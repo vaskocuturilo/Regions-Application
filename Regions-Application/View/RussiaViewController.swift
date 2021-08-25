@@ -60,6 +60,8 @@ class RussiaViewController: UIViewController, UIGestureRecognizerDelegate, UITex
         isDiplomaticChecked = false
         isMilitaryChecked = false
         title = "Russia"
+        
+        label.numberOfLines = 0
     }
     
     @IBAction func didTapPersonButton(_ sender: Any) {
