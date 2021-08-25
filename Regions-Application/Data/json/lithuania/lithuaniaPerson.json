@@ -1,0 +1,54 @@
+{
+    "regions": [
+        {
+            "id": "1",
+            "name": "Alytus County",
+            "code": "A"
+        },
+        {
+            "id": "2",
+            "name": "Tauragė County (but code from first letter of Jurbarkas)",
+            "code": "J"
+        },
+        {
+            "id": "3",
+            "name": "Kaunas County",
+            "code": "K"
+        },
+        {
+            "id": "4",
+            "name": "Klaipėda County",
+            "code": "L"
+        },
+        {
+            "id": "5",
+            "name": "Marijampolė County",
+            "code": "M"
+        },
+        {
+            "id": "6",
+            "name": "Panevėžys County",
+            "code": "P"
+        },
+        {
+            "id": "7",
+            "name": "Šiauliai County",
+            "code": "S"
+        },
+        {
+            "id": "8",
+            "name": "Telšiai County",
+            "code": "T"
+        },
+        {
+            "id": "9",
+            "name": "Utena County",
+            "code": "U"
+        },
+        {
+            "id": "10",
+            "name": "Vilnius County",
+            "code": "V"
+        }
+    ]
+}

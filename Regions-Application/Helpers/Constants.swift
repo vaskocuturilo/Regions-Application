@@ -14,6 +14,10 @@ struct Constants {
         static let Belarus = "http://localhost:8080/api/belarus"
         static let Poland = "http://localhost:8080/api/poland"
         static let Czech = "http://localhost:8080/api/czech"
-        
+        static let Moldova = "http://localhost:8080/api/moldova"
+        static let Lithuania = "http://localhost:8080/api/lithuania"
+        static let Turkey = "http://localhost:8080/api/turkey"
+        static let Estonia = "http://localhost:8080/api/estonia"
+        static let Germany = "http://localhost:8080/api/germany"
     }
 }

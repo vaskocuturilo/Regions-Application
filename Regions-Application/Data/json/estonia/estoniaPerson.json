@@ -1,0 +1,94 @@
+{
+    "regions": [
+        {
+            "id": "1",
+            "name": "Tallinn",
+            "code": "A"
+        },
+        {
+            "id": "2",
+            "name": "Tallinn",
+            "code": "B"
+        },
+        {
+            "id": "3",
+            "name": "Viljandimaa",
+            "code": "D"
+        },
+        {
+            "id": "4",
+            "name": "Pärnumaa",
+            "code": "F"
+        },
+        {
+            "id": "5",
+            "name": "Valgamaa",
+            "code": "G"
+        },
+        {
+            "id": "6",
+            "name": "Hiiumaa",
+            "code": "H"
+        },
+        {
+            "id": "7",
+            "name": "Ida-Virumaa outside of Narva",
+            "code": "I"
+        },
+        {
+            "id": "8",
+            "name": "Jõgevamaa",
+            "code": "J"
+        },
+        {
+            "id": "9",
+            "name": "Saaremaa as Kuressaare",
+            "code": "K"
+        },
+        {
+            "id": "10",
+            "name": "Raplamaa",
+            "code": "L"
+        },
+        {
+            "id": "11",
+            "name": "Harjumaa outside of Tallinn",
+            "code": "M"
+        },
+        {
+            "id": "12",
+            "name": "Narva",
+            "code": "N"
+        },
+        {
+            "id": "13",
+            "name": "Põlvamaa",
+            "code": "O"
+        },
+        {
+            "id": "14",
+            "name": "Järvamaa as Paide",
+            "code": "P"
+        },
+        {
+            "id": "15",
+            "name": "Lääne-Virumaa as Rakvere",
+            "code": "R"
+        },
+        {
+            "id": "17",
+            "name": "Läänemaa as Haapsalu",
+            "code": "S"
+        },
+        {
+            "id": "18",
+            "name": "Tartumaa",
+            "code": "T"
+        },
+        {
+            "id": "19",
+            "name": "Võrumaa",
+            "code": "V"
+        }
+    ]
+}
