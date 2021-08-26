@@ -113,7 +113,7 @@ class TurkeyViewController: UIViewController, UIGestureRecognizerDelegate, UITex
     }
     
     private func personData() {
-        apiService.responseRegion(endpoints: Constants.Endpoints.Russia,region: textField.text!) { [self](isSucess, str) in
+        apiService.responseRegion(endpoints: Constants.Endpoints.Turkey,region: textField.text!) { [self](isSucess, str) in
             if isSucess {
                 messages.showMessage(label: label, message: str)
                 textField.text?.removeAll()
