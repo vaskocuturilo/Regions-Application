@@ -442,8 +442,48 @@
                                             </constraints>
                                         </tableViewCellContentView>
                                     </tableViewCell>
-                                    <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" rowHeight="94" id="1hO-EN-hLD">
+                                    <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" rowHeight="94" id="vqg-7h-XwA">
                                         <rect key="frame" x="0.0" y="968" width="320" height="94"/>
+                                        <autoresizingMask key="autoresizingMask"/>
+                                        <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" preservesSuperviewLayoutMargins="YES" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="vqg-7h-XwA" id="rsM-SK-aVg">
+                                            <rect key="frame" x="0.0" y="0.0" width="320" height="94"/>
+                                            <autoresizingMask key="autoresizingMask"/>
+                                            <subviews>
+                                                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="slovakia" translatesAutoresizingMaskIntoConstraints="NO" id="ZdP-1a-MD2">
+                                                    <rect key="frame" x="16" y="35" width="24" height="24"/>
+                                                    <constraints>
+                                                        <constraint firstAttribute="width" constant="24" id="5UD-rY-dWo"/>
+                                                        <constraint firstAttribute="height" constant="24" id="yiJ-I1-nP1"/>
+                                                    </constraints>
+                                                </imageView>
+                                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Slovakia" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ptQ-zI-HTS">
+                                                    <rect key="frame" x="56" y="36.5" width="168" height="21"/>
+                                                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                                    <nil key="textColor"/>
+                                                    <nil key="highlightedColor"/>
+                                                </label>
+                                                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="HPV-xK-Zls">
+                                                    <rect key="frame" x="16" y="92" width="304" height="2"/>
+                                                    <color key="backgroundColor" systemColor="systemGroupedBackgroundColor"/>
+                                                    <constraints>
+                                                        <constraint firstAttribute="height" constant="2" id="Giq-AN-KeW"/>
+                                                    </constraints>
+                                                </view>
+                                            </subviews>
+                                            <constraints>
+                                                <constraint firstItem="ZdP-1a-MD2" firstAttribute="centerY" secondItem="rsM-SK-aVg" secondAttribute="centerY" id="Eb1-46-CqJ"/>
+                                                <constraint firstItem="ptQ-zI-HTS" firstAttribute="leading" secondItem="ZdP-1a-MD2" secondAttribute="trailing" constant="16" id="HuB-2r-hNQ"/>
+                                                <constraint firstItem="HPV-xK-Zls" firstAttribute="leading" secondItem="rsM-SK-aVg" secondAttribute="leading" constant="16" id="JUT-UY-xzm"/>
+                                                <constraint firstAttribute="trailingMargin" secondItem="ptQ-zI-HTS" secondAttribute="trailing" constant="88" id="ZMb-eY-mZK"/>
+                                                <constraint firstAttribute="trailing" secondItem="HPV-xK-Zls" secondAttribute="trailing" id="cUi-ft-Xzv"/>
+                                                <constraint firstItem="ZdP-1a-MD2" firstAttribute="leading" secondItem="rsM-SK-aVg" secondAttribute="leading" constant="16" id="hQu-No-AeD"/>
+                                                <constraint firstAttribute="bottom" secondItem="HPV-xK-Zls" secondAttribute="bottom" id="hTC-8b-ePK"/>
+                                                <constraint firstItem="ptQ-zI-HTS" firstAttribute="centerY" secondItem="ZdP-1a-MD2" secondAttribute="centerY" id="sUW-0I-iJR"/>
+                                            </constraints>
+                                        </tableViewCellContentView>
+                                    </tableViewCell>
+                                    <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" rowHeight="94" id="1hO-EN-hLD">
+                                        <rect key="frame" x="0.0" y="1062" width="320" height="94"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" preservesSuperviewLayoutMargins="YES" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="1hO-EN-hLD" id="nsH-HD-dx2">
                                             <rect key="frame" x="0.0" y="0.0" width="320" height="94"/>
@@ -1300,6 +1340,87 @@
             </objects>
             <point key="canvasLocation" x="7284" y="187"/>
         </scene>
+        <!--Slovakia View Controller-->
+        <scene sceneID="a2G-XN-DP5">
+            <objects>
+                <viewController storyboardIdentifier="slovakiaViewController" id="uuq-47-Bpi" customClass="SlovakiaViewController" customModule="Regions_Application" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="L59-bb-3uA">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" spacing="10" translatesAutoresizingMaskIntoConstraints="NO" id="UKs-8j-7Vb">
+                                <rect key="frame" x="20" y="20" width="280" height="50"/>
+                                <subviews>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="PpB-mC-VEJ">
+                                        <rect key="frame" x="0.0" y="0.0" width="86.5" height="50"/>
+                                        <fontDescription key="fontDescription" name="Palatino-Bold" family="Palatino" pointSize="16"/>
+                                        <state key="normal" title="Person"/>
+                                        <connections>
+                                            <action selector="didTapPersonButton:" destination="uuq-47-Bpi" eventType="touchUpInside" id="u6a-YQ-20Q"/>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="zof-22-sez">
+                                        <rect key="frame" x="96.5" y="0.0" width="87" height="50"/>
+                                        <fontDescription key="fontDescription" name="Palatino-Bold" family="Palatino" pointSize="16"/>
+                                        <state key="normal" title="Diplomatic"/>
+                                        <connections>
+                                            <action selector="didTapDiplomaticButton:" destination="uuq-47-Bpi" eventType="touchUpInside" id="u3d-5e-Olo"/>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="2Nu-Nh-Phx">
+                                        <rect key="frame" x="193.5" y="0.0" width="86.5" height="50"/>
+                                        <fontDescription key="fontDescription" name="Palatino-Bold" family="Palatino" pointSize="16"/>
+                                        <state key="normal" title="Military"/>
+                                        <connections>
+                                            <action selector="didTapMilitaryButton:" destination="uuq-47-Bpi" eventType="touchUpInside" id="zAf-ja-QeL"/>
+                                        </connections>
+                                    </button>
+                                </subviews>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="50" id="6Ob-bS-p5p"/>
+                                </constraints>
+                            </stackView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Enter region code:" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="oh8-oe-53V">
+                                <rect key="frame" x="20" y="154" width="280" height="22.5"/>
+                                <fontDescription key="fontDescription" name="Palatino-Bold" family="Palatino" pointSize="20"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="center" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="D64-OT-qNr">
+                                <rect key="frame" x="120" y="259" width="80" height="50"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="80" id="l7j-r0-a9U"/>
+                                    <constraint firstAttribute="height" constant="50" id="mXS-uR-80I"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="Palatino-Bold" family="Palatino" pointSize="25"/>
+                                <textInputTraits key="textInputTraits"/>
+                            </textField>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="IFx-Of-k1u"/>
+                        <color key="backgroundColor" systemColor="opaqueSeparatorColor"/>
+                        <constraints>
+                            <constraint firstItem="oh8-oe-53V" firstAttribute="leading" secondItem="IFx-Of-k1u" secondAttribute="leading" constant="20" id="08U-rV-hfk"/>
+                            <constraint firstItem="UKs-8j-7Vb" firstAttribute="top" secondItem="IFx-Of-k1u" secondAttribute="top" constant="20" id="M8a-n1-NZ6"/>
+                            <constraint firstItem="oh8-oe-53V" firstAttribute="top" secondItem="UKs-8j-7Vb" secondAttribute="bottom" constant="84" id="Nnv-hq-I5P"/>
+                            <constraint firstItem="D64-OT-qNr" firstAttribute="centerX" secondItem="L59-bb-3uA" secondAttribute="centerX" id="cZw-dX-tNK"/>
+                            <constraint firstItem="D64-OT-qNr" firstAttribute="centerY" secondItem="L59-bb-3uA" secondAttribute="centerY" id="esu-VW-2YD"/>
+                            <constraint firstItem="UKs-8j-7Vb" firstAttribute="leading" secondItem="IFx-Of-k1u" secondAttribute="leading" constant="20" id="kl1-Sk-Ah6"/>
+                            <constraint firstItem="IFx-Of-k1u" firstAttribute="trailing" secondItem="oh8-oe-53V" secondAttribute="trailing" constant="20" id="lPt-eg-BkY"/>
+                            <constraint firstItem="IFx-Of-k1u" firstAttribute="trailing" secondItem="UKs-8j-7Vb" secondAttribute="trailing" constant="20" id="sfV-PS-ZTV"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="diplomaticButton" destination="zof-22-sez" id="p9y-q8-lQH"/>
+                        <outlet property="label" destination="oh8-oe-53V" id="d1x-i7-c6j"/>
+                        <outlet property="militaryButton" destination="2Nu-Nh-Phx" id="S1s-90-NmM"/>
+                        <outlet property="personButton" destination="PpB-mC-VEJ" id="xgC-TY-4Gq"/>
+                        <outlet property="textField" destination="D64-OT-qNr" id="ajG-Ha-gHG"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="6f4-yr-OSw" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="7924" y="187"/>
+        </scene>
         <!--Camera View Controller-->
         <scene sceneID="kq3-46-eSO">
             <objects>
@@ -1350,7 +1471,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="kMQ-8M-qVq" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="7989" y="181"/>
+            <point key="canvasLocation" x="8571" y="187"/>
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="Ijw-qs-eul">
@@ -1383,6 +1504,7 @@
         <image name="moldova" width="1024" height="1024"/>
         <image name="playstore" width="512" height="512"/>
         <image name="poland" width="1024" height="1024"/>
+        <image name="slovakia" width="1024" height="1024"/>
         <image name="turkey" width="1024" height="1024"/>
         <image name="ukr" width="1024" height="1024"/>
         <systemColor name="opaqueSeparatorColor">

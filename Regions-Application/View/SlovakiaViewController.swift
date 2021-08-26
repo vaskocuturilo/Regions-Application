@@ -1,13 +1,13 @@
 //
-//  CzechViewController.swift
+//  SlovakiaViewController.swift
 //  Regions-Application
 //
-//  Created by Anton Smirnov on 20.08.2021.
+//  Created by Anton Smirnov on 26.08.2021.
 //
 
 import UIKit
 
-class CzechViewController: UIViewController, UIGestureRecognizerDelegate, UITextFieldDelegate {
+class SlovakiaViewController: UIViewController, UIGestureRecognizerDelegate, UITextFieldDelegate {
     
     let apiService = APIServices()
     let check = Reachability()
@@ -15,6 +15,7 @@ class CzechViewController: UIViewController, UIGestureRecognizerDelegate, UIText
     let jsonLoad = JsonLoader()
     
     @IBOutlet weak var label: UILabel!
+    
     @IBOutlet weak var textField: UITextField!
     
     var searchTimer: Timer?
@@ -29,9 +30,6 @@ class CzechViewController: UIViewController, UIGestureRecognizerDelegate, UIText
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        
-        // Do any additional setup after loading the view.
-        
         let backBTN = UIBarButtonItem(image: UIImage(named: "Image"),
                                       style: .plain,
                                       target: navigationController,
@@ -55,17 +53,16 @@ class CzechViewController: UIViewController, UIGestureRecognizerDelegate, UIText
         personButton.setTitleColor(.green, for: .normal)
         
         textField.leftViewMode = .always
-        textField.leftView = UIImageView(image: UIImage(named: "Czech-Flag"))
+        textField.leftView = UIImageView(image: UIImage(named: "Slovakia-Flag"))
         
         isPersonChecked = true
         isDiplomaticChecked = false
         isMilitaryChecked = false
-        title = "Czech"
+        title = "Slovakia"
         
         self.textField.autocapitalizationType = UITextAutocapitalizationType.allCharacters
         
         label.numberOfLines = 0
-        
     }
     
     @IBAction func didTapPersonButton(_ sender: Any) {
@@ -81,7 +78,7 @@ class CzechViewController: UIViewController, UIGestureRecognizerDelegate, UIText
             personButton.setTitle("Person ✓", for: .normal)
             personButton.setTitleColor(.green, for: .normal)
             textField.leftViewMode = .always
-            textField.leftView = UIImageView(image: UIImage(named: "Czech-Flag"))
+            textField.leftView = UIImageView(image: UIImage(named: "Slovakia-Flag"))
             textField.backgroundColor = .white
             textField.textColor = .black
             isPersonChecked = true
@@ -111,20 +108,21 @@ class CzechViewController: UIViewController, UIGestureRecognizerDelegate, UIText
     @objc func searchForKeyword(_ timer: Timer) {
         if isPersonChecked {
             personData()
-        }
+        } 
     }
     
     private func personData() {
-        apiService.responseRegion(endpoints: Constants.Endpoints.Czech,region: textField.text!) { [self](isSucess, str) in
+        apiService.responseRegion(endpoints: Constants.Endpoints.Slovakia,region: textField.text!) { [self](isSucess, str) in
             if isSucess {
                 messages.showMessage(label: label, message: str)
                 textField.text?.removeAll()
             } else {
                 if (str.contains("Could not connect to the server.")) {
-                    jsonLoad.loadSpeciesInfoJSOn(resource: "czechPerson", label: label, text: textField.text!)
+                    jsonLoad.loadSpeciesInfoJSOn(resource: "slovakiaPerson", label: label, text: textField.text!)
                     textField.text?.removeAll()
                 }
             }
         }
     }
+    
 }

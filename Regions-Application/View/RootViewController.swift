@@ -102,6 +102,10 @@ class RootViewController: UIViewController {
             setupButton(button: personButton, text: "Person auto number", 10)
             setupButton(button: diplomaticButton, text: "Diplomat auto number", 10)
             setupButton(button: militaryButton, text: "Military auto number", 10)
+        case .slovakia:
+            setupButton(button: personButton, text: "Person auto number", 11)
+            setupButton(button: diplomaticButton, text: "Diplomat auto number", 11)
+            setupButton(button: militaryButton, text: "Military auto number", 11)
         case .camera:
             let VC = self.storyboard?.instantiateViewController(withIdentifier: "cameraViewController") as! CameraViewController
             self.navigationController?.pushViewController(VC, animated: true)
@@ -131,23 +135,26 @@ class RootViewController: UIViewController {
         } else if sender.tag == 4 {
             let VC = self.storyboard?.instantiateViewController(withIdentifier: "polandViewController") as! PolandViewController
             self.navigationController?.pushViewController(VC, animated: true)
-        }else if sender.tag == 5 {
+        } else if sender.tag == 5 {
             let VC = self.storyboard?.instantiateViewController(withIdentifier: "czechViewController") as! CzechViewController
             self.navigationController?.pushViewController(VC, animated: true)
-        }else if sender.tag == 6 {
+        } else if sender.tag == 6 {
             let VC = self.storyboard?.instantiateViewController(withIdentifier: "moldovaViewController") as! MoldovaViewController
             self.navigationController?.pushViewController(VC, animated: true)
-        }else if sender.tag == 7 {
+        } else if sender.tag == 7 {
             let VC = self.storyboard?.instantiateViewController(withIdentifier: "lithuaniaViewController") as! LithuaniaViewController
             self.navigationController?.pushViewController(VC, animated: true)
-        }else if sender.tag == 8 {
+        } else if sender.tag == 8 {
             let VC = self.storyboard?.instantiateViewController(withIdentifier: "turkeyViewController") as! TurkeyViewController
             self.navigationController?.pushViewController(VC, animated: true)
-        }else if sender.tag == 9 {
+        } else if sender.tag == 9 {
             let VC = self.storyboard?.instantiateViewController(withIdentifier: "estoniaViewController") as! EstoniaViewController
             self.navigationController?.pushViewController(VC, animated: true)
-        }else if sender.tag == 10 {
+        } else if sender.tag == 10 {
             let VC = self.storyboard?.instantiateViewController(withIdentifier: "germanyViewController") as! GermanyViewController
+            self.navigationController?.pushViewController(VC, animated: true)
+        } else if sender.tag == 11 {
+            let VC = self.storyboard?.instantiateViewController(withIdentifier: "slovakiaViewController") as! SlovakiaViewController
             self.navigationController?.pushViewController(VC, animated: true)
         }
     }

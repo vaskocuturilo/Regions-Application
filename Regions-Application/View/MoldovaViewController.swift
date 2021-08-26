@@ -116,7 +116,7 @@ class MoldovaViewController: UIViewController, UIGestureRecognizerDelegate, UITe
     }
     
     private func personData() {
-        apiService.responseRegion(endpoints: Constants.Endpoints.Russia,region: textField.text!) { [self](isSucess, str) in
+        apiService.responseRegion(endpoints: Constants.Endpoints.Moldova,region: textField.text!) { [self](isSucess, str) in
             if isSucess {
                 messages.showMessage(label: label, message: str)
                 textField.text?.removeAll()

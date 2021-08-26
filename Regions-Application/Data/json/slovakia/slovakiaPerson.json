@@ -1,0 +1,469 @@
+{
+  "regions": [
+    {
+      "id": "1",
+      "name": "Bratislava",
+      "code": "BA"
+    },
+    {
+      "id": "2",
+      "name": "Bratislava",
+      "code": "BD"
+    },
+    {
+      "id": "3",
+      "name": "Bratislava",
+      "code": "BE"
+    },
+    {
+      "id": "4",
+      "name": "Bratislava",
+      "code": "BI"
+    },
+    {
+      "id": "5",
+      "name": "Bratislava",
+      "code": "BL"
+    },
+    {
+      "id": "6",
+      "name": "Bratislava",
+      "code": "BT"
+    },
+    {
+      "id": "7",
+      "name": "Banská Bystrica",
+      "code": "BB"
+    },
+    {
+      "id": "8",
+      "name": "Banská Bystrica",
+      "code": "BC"
+    },
+    {
+      "id": "9",
+      "name": "Banská Bystrica",
+      "code": "BK"
+    },
+    {
+      "id": "10",
+      "name": "Bardejov",
+      "code": "BJ"
+    },
+    {
+      "id": "11",
+      "name": "Bánovce nad Bebravou",
+      "code": "BN"
+    },
+    {
+      "id": "12",
+      "name": "Brezno",
+      "code": "BR"
+    },
+    {
+      "id": "13",
+      "name": "Banská Štiavnica",
+      "code": "BS"
+    },
+    {
+      "id": "15",
+      "name": "Bytča",
+      "code": "BY"
+    },
+    {
+      "id": "16",
+      "name": "Čadca",
+      "code": "CA"
+    },
+    {
+      "id": "17",
+      "name": "Dolný Kubín",
+      "code": "DK"
+    },
+    {
+      "id": "18",
+      "name": "Dunajská Streda",
+      "code": "DS"
+    },
+    {
+      "id": "19",
+      "name": "Detva",
+      "code": "DT"
+    },
+    {
+      "id": "20",
+      "name": "Galanta",
+      "code": "GA"
+    },
+    {
+      "id": "21",
+      "name": "Gelnica",
+      "code": "GL"
+    },
+    {
+      "id": "22",
+      "name": "Hlohovec",
+      "code": "HC"
+    },
+    {
+      "id": "23",
+      "name": "Humenné",
+      "code": "HE"
+    },
+    {
+      "id": "24",
+      "name": "Ilava",
+      "code": "IL"
+    },
+    {
+      "id": "25",
+      "name": "Krupina",
+      "code": "KA"
+    },
+    {
+      "id": "26",
+      "name": "Košice",
+      "code": "KE"
+    },
+    {
+      "id": "27",
+      "name": "Košice",
+      "code": "KC"
+    },
+    {
+      "id": "28",
+      "name": "Košice",
+      "code": "KI"
+    },
+    {
+      "id": "29",
+      "name": "Kežmarok",
+      "code": "KK"
+    },
+    {
+      "id": "30",
+      "name": "Kysucké Nové Mesto",
+      "code": "KM"
+    },
+    {
+      "id": "31",
+      "name": "Komárno",
+      "code": "KN"
+    },
+    {
+      "id": "32",
+      "name": "Košice-okolie",
+      "code": "KS"
+    },
+    {
+      "id": "33",
+      "name": "Lučenec",
+      "code": "LC"
+    },
+    {
+      "id": "34",
+      "name": "Levoča",
+      "code": "LE"
+    },
+    {
+      "id": "35",
+      "name": "Liptovský Mikuláš",
+      "code": "LM"
+    },
+    {
+      "id": "36",
+      "name": "Levice",
+      "code": "LV"
+    },
+    {
+      "id": "37",
+      "name": "Levice",
+      "code": "LL"
+    },
+    {
+      "id": "38",
+      "name": "Malacky",
+      "code": "MA"
+    },
+    {
+      "id": "39",
+      "name": "Michalovce",
+      "code": "MI"
+    },
+    {
+      "id": "40",
+      "name": "Medzilaborce",
+      "code": "ML"
+    },
+    {
+      "id": "41",
+      "name": "Martin",
+      "code": "MT"
+    },
+    {
+      "id": "42",
+      "name": "Myjava",
+      "code": "MY"
+    },
+    {
+      "id": "43",
+      "name": "Nitra",
+      "code": "NR"
+    },
+    {
+      "id": "44",
+      "name": "Nitra",
+      "code": "NI"
+    },
+    {
+      "id": "45",
+      "name": "Nitra",
+      "code": "NT"
+    },
+    {
+      "id": "46",
+      "name": "Nové Mesto nad Váhom",
+      "code": "NM"
+    },
+    {
+      "id": "47",
+      "name": "Námestovo",
+      "code": "NO"
+    },
+    {
+      "id": "48",
+      "name": "Nové Zámky",
+      "code": "NZ"
+    },
+    {
+      "id": "49",
+      "name": "Nové Zámky",
+      "code": "NC"
+    },
+    {
+      "id": "50",
+      "name": "Považská Bystrica",
+      "code": "PB"
+    },
+    {
+      "id": "51",
+      "name": "Prievidza",
+      "code": "PD"
+    },
+    {
+      "id": "52",
+      "name": "Partizánske",
+      "code": "PE"
+    },
+    {
+      "id": "53",
+      "name": "Pezinok",
+      "code": "PK"
+    },
+    {
+      "id": "54",
+      "name": "Piešťany",
+      "code": "PN"
+    },
+    {
+      "id": "55",
+      "name": "Prešov",
+      "code": "PO"
+    },
+    {
+      "id": "56",
+      "name": "Prešov",
+      "code": "PV"
+    },
+    {
+      "id": "57",
+      "name": "Prešov",
+      "code": "PS"
+    },
+    {
+      "id": "58",
+      "name": "Poprad",
+      "code": "PP"
+    },
+    {
+      "id": "59",
+      "name": "Poltár",
+      "code": "PT"
+    },
+    {
+      "id": "60",
+      "name": "Púchov",
+      "code": "PU"
+    },
+    {
+      "id": "61",
+      "name": "Revúca",
+      "code": "RA"
+    },
+    {
+      "id": "62",
+      "name": "Ružomberok",
+      "code": "RK"
+    },
+    {
+      "id": "63",
+      "name": "Rimavská Sobota",
+      "code": "RS"
+    },
+    {
+      "id": "64",
+      "name": "Rožňava",
+      "code": "RV"
+    },
+    {
+      "id": "65",
+      "name": "Šaľa",
+      "code": "SA"
+    },
+    {
+      "id": "66",
+      "name": "Sabinov",
+      "code": "SB"
+    },
+    {
+      "id": "67",
+      "name": "Senec",
+      "code": "SC"
+    },
+    {
+      "id": "68",
+      "name": "Senica",
+      "code": "SE"
+    },
+    {
+      "id": "69",
+      "name": "Skalica",
+      "code": "SI"
+    },
+    {
+      "id": "70",
+      "name": "Svidník",
+      "code": "SK"
+    },
+    {
+      "id": "71",
+      "name": "Stará Ľubovňa",
+      "code": "SL"
+    },
+    {
+      "id": "72",
+      "name": "Spišská Nová Ves",
+      "code": "SN"
+    },
+    {
+      "id": "73",
+      "name": "Sobrance",
+      "code": "SO"
+    },
+    {
+      "id": "74",
+      "name": "Stropkov",
+      "code": "SP"
+    },
+    {
+      "id": "75",
+      "name": "Snina",
+      "code": "SV"
+    },
+    {
+      "id": "76",
+      "name": "Trnava",
+      "code": "TT"
+    },
+    {
+      "id": "77",
+      "name": "Trnava",
+      "code": "TA"
+    },
+    {
+      "id": "78",
+      "name": "Trnava",
+      "code": "TB"
+    },
+    {
+      "id": "79",
+      "name": "Trenčín",
+      "code": "TN"
+    },
+    {
+      "id": "80",
+      "name": "Trenčín",
+      "code": "TC"
+    },
+    {
+      "id": "81",
+      "name": "Trenčín",
+      "code": "TE"
+    },
+    {
+      "id": "82",
+      "name": "Topoľčany",
+      "code": "TO"
+    },
+    {
+      "id": "83",
+      "name": "Turčianske Teplice",
+      "code": "TR"
+    },
+    {
+      "id": "84",
+      "name": "Tvrdošín",
+      "code": "TS"
+    },
+    {
+      "id": "85",
+      "name": "Trebišov",
+      "code": "TV"
+    },
+    {
+      "id": "86",
+      "name": "Veľký Krtíš",
+      "code": "VK"
+    },
+    {
+      "id": "87",
+      "name": "Vranov nad Topľou",
+      "code": "VT"
+    },
+    {
+      "id": "88",
+      "name": "Žilina",
+      "code": "ZA"
+    },
+    {
+      "id": "89",
+      "name": "Žilina",
+      "code": "ZI"
+    },
+    {
+      "id": "90",
+      "name": "Žilina",
+      "code": "ZL"
+    },
+    {
+      "id": "91",
+      "name": "Žarnovica",
+      "code": "ZC"
+    },
+    {
+      "id": "92",
+      "name": "Žiar nad Hronom",
+      "code": "ZH"
+    },
+    {
+      "id": "93",
+      "name": "Zlaté Moravce",
+      "code": "ZM"
+    },
+    {
+      "id": "94",
+      "name": "Zvolen",
+      "code": "ZV"
+    }
+  ]
+}
