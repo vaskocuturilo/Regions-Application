@@ -63,6 +63,8 @@ class AustriaViewController: UIViewController, UIGestureRecognizerDelegate, UITe
         isMilitaryChecked = false
         title = "Austria"
         
+        self.textField.autocapitalizationType = UITextAutocapitalizationType.allCharacters
+        
         label.numberOfLines = 0
     }
     
