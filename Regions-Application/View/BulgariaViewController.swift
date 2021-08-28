@@ -61,6 +61,8 @@ class BulgariaViewController: UIViewController, UIGestureRecognizerDelegate, UIT
         isMilitaryChecked = false
         title = "Bulgaria"
         
+        self.textField.autocapitalizationType = UITextAutocapitalizationType.allCharacters
+        
         label.numberOfLines = 0
     }
     
