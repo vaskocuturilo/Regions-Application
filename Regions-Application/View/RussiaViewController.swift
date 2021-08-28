@@ -86,7 +86,6 @@ class RussiaViewController: UIViewController, UIGestureRecognizerDelegate, UITex
         }
     }
     
-    
     @IBAction func didTapDiplomaticButton(_ sender: Any) {
         isDiplomaticChecked = !isDiplomaticChecked
         if isDiplomaticChecked {

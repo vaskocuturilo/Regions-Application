@@ -1,5 +1,5 @@
 //
-//  BulgariaViewController.swift
+//  AustriaViewController.swift
 //  Regions-Application
 //
 //  Created by Anton Smirnov on 28.08.2021.
@@ -7,7 +7,7 @@
 
 import UIKit
 
-class BulgariaViewController: UIViewController, UIGestureRecognizerDelegate, UITextFieldDelegate {
+class AustriaViewController: UIViewController, UIGestureRecognizerDelegate, UITextFieldDelegate {
     
     let apiService = APIServices()
     let check = Reachability()
@@ -30,6 +30,8 @@ class BulgariaViewController: UIViewController, UIGestureRecognizerDelegate, UIT
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        
+        // Do any additional setup after loading the view.
         
         let backBTN = UIBarButtonItem(image: UIImage(named: "Image"),
                                       style: .plain,
@@ -54,12 +56,12 @@ class BulgariaViewController: UIViewController, UIGestureRecognizerDelegate, UIT
         personButton.setTitleColor(.green, for: .normal)
         
         textField.leftViewMode = .always
-        textField.leftView = UIImageView(image: UIImage(named: "Bulgaria-Flag"))
+        textField.leftView = UIImageView(image: UIImage(named: "Austria-Flag"))
         
         isPersonChecked = true
         isDiplomaticChecked = false
         isMilitaryChecked = false
-        title = "Bulgaria"
+        title = "Austria"
         
         label.numberOfLines = 0
     }
@@ -77,7 +79,7 @@ class BulgariaViewController: UIViewController, UIGestureRecognizerDelegate, UIT
             personButton.setTitle("Person ✓", for: .normal)
             personButton.setTitleColor(.green, for: .normal)
             textField.leftViewMode = .always
-            textField.leftView = UIImageView(image: UIImage(named: "Bulgaria-Flag"))
+            textField.leftView = UIImageView(image: UIImage(named: "Austria-Flag"))
             textField.backgroundColor = .white
             textField.textColor = .black
             isPersonChecked = true
@@ -111,12 +113,12 @@ class BulgariaViewController: UIViewController, UIGestureRecognizerDelegate, UIT
     }
     
     private func personData() {
-        apiService.responseRegion(endpoints: Constants.Endpoints.Bulgaria,region: textField.text!) { [self](isSucess, str) in
+        apiService.responseRegion(endpoints: Constants.Endpoints.Austria,region: textField.text!) { [self](isSucess, str) in
             if isSucess {
                 messages.showMessage(label: label, message: str)
                 textField.text?.removeAll()
             } else if (str.contains("Could not connect to the server.")) {
-                jsonLoad.loadSpeciesInfoJSOn(resource: "bulgariaPerson", label: label, text: textField.text!)
+                jsonLoad.loadSpeciesInfoJSOn(resource: "austriaPerson", label: label, text: textField.text!)
                 textField.text?.removeAll()
             } else {
                 messages.showMessage(label: label, message: str)

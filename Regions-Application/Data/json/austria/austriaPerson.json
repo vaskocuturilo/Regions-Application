@@ -1,0 +1,654 @@
+{
+    "regions": [
+        {
+            "id": "1",
+            "name": "Federal official. Federal presidents plate",
+            "code": "A"
+        },
+        {
+            "id": "2",
+            "name": "Amstetten",
+            "code": "AM"
+        },
+        {
+            "id": "3",
+            "name": "Bregenz, Burgenland official",
+            "code": "B"
+        },
+        {
+            "id": "4",
+            "name": "Bad Aussee sub-district",
+            "code": "BA"
+        },
+        {
+            "id": "5",
+            "name": "Bundesbahnen (Federal Railways)",
+            "code": "BB"
+        },
+        {
+            "id": "6",
+            "name": "Kraftfahrlinien Bundesbus (Bus Service)",
+            "code": "BD"
+        },
+        {
+            "id": "7",
+            "name": "Bundesgendarmerie (Federal gendarmerie)",
+            "code": "BG"
+        },
+        {
+            "id": "8",
+            "name": "Bundesheer (Federal Army)",
+            "code": "BH"
+        },
+        {
+            "id": "9",
+            "name": "Bruck an der Leitha",
+            "code": "BL"
+        },
+        {
+            "id": "10",
+            "name": "Bruck-Mürzzuschlag",
+            "code": "BM"
+        },
+        {
+            "id": "11",
+            "name": "Baden",
+            "code": "BN"
+        },
+        {
+            "id": "12",
+            "name": "Bundespolizei (Federal police cars)",
+            "code": "BP"
+        },
+        {
+            "id": "13",
+            "name": "Braunau am Inn",
+            "code": "BR"
+        },
+        {
+            "id": "14",
+            "name": "Bludenz",
+            "code": "BZ"
+        },
+        {
+            "id": "15",
+            "name": "Deutschlandsberg",
+            "code": "DL"
+        },
+        {
+            "id": "16",
+            "name": "Dornbirn",
+            "code": "DO"
+        },
+        {
+            "id": "17",
+            "name": "Eisenstadt. Rust and Burgenland.",
+            "code": "E"
+        },
+        {
+            "id": "18",
+            "name": "Eferding",
+            "code": "EF"
+        },
+        {
+            "id": "19",
+            "name": "Eisenstadt-Umgebung.(Eisenstadt surrounding area)",
+            "code": "EU"
+        },
+        {
+            "id": "20",
+            "name": "Feldbach",
+            "code": "FB"
+        },
+        {
+            "id": "21",
+            "name": "Feldkirchen",
+            "code": "FE"
+        },
+        {
+            "id": "22",
+            "name": "Fürstenfeld",
+            "code": "FF"
+        },
+        {
+            "id": "23",
+            "name": "Feldkirch",
+            "code": "FK"
+        },
+        {
+            "id": "24",
+            "name": "Freistadt",
+            "code": "FR"
+        },
+        {
+            "id": "25",
+            "name": "Finanzverwaltung (Financial Administration)",
+            "code": "FV"
+        },
+        {
+            "id": "26",
+            "name": "Feuerwehr (Fire brigade)",
+            "code": "FW"
+        },
+        {
+            "id": "27",
+            "name": "Graz",
+            "code": "G"
+        },
+        {
+            "id": "28",
+            "name": "Gröbming sub-district",
+            "code": "GB"
+        },
+        {
+            "id": "29",
+            "name": "Gmünd",
+            "code": "GD"
+        },
+        {
+            "id": "30",
+            "name": "Gänserndorf",
+            "code": "GF"
+        },
+        {
+            "id": "31",
+            "name": "Consular corps in Styria",
+            "code": "GK"
+        },
+        {
+            "id": "32",
+            "name": "Gmunden",
+            "code": "GM"
+        },
+        {
+            "id": "33",
+            "name": "Grieskirchen",
+            "code": "GR"
+        },
+        {
+            "id": "34",
+            "name": "Güssing",
+            "code": "GS"
+        },
+        {
+            "id": "35",
+            "name": "Graz-Umgebung.(Graz surrounding area)",
+            "code": "GU"
+        },
+        {
+            "id": "36",
+            "name": "Hallein",
+            "code": "HA"
+        },
+        {
+            "id": "37",
+            "name": "Hartberg",
+            "code": "HB"
+        },
+        {
+            "id": "38",
+            "name": "Hermagor",
+            "code": "HE"
+        },
+        {
+            "id": "39",
+            "name": "Hartberg-Fürstenfeld",
+            "code": "HF"
+        },
+        {
+            "id": "40",
+            "name": "Hollabrunn",
+            "code": "HL"
+        },
+        {
+            "id": "41",
+            "name": "Horn",
+            "code": "HO"
+        },
+        {
+            "id": "42",
+            "name": "Innsbruck",
+            "code": "I"
+        },
+        {
+            "id": "43",
+            "name": "Innsbruck-Land.(Innsbruck countryside area)",
+            "code": "IL"
+        },
+        {
+            "id": "44",
+            "name": "Imst",
+            "code": "IM"
+        },
+        {
+            "id": "45",
+            "name": "Jennersdorf",
+            "code": "JE"
+        },
+        {
+            "id": "46",
+            "name": "St. Johann im Pongau",
+            "code": "JO"
+        },
+        {
+            "id": "47",
+            "name": "Judenburg",
+            "code": "JU"
+        },
+        {
+            "id": "48",
+            "name": "Justizwache (Justice police)",
+            "code": "JW"
+        },
+        {
+            "id": "49",
+            "name": "Klagenfurt",
+            "code": "K"
+        },
+        {
+            "id": "50",
+            "name": "Kitzbühel",
+            "code": "KB"
+        },
+        {
+            "id": "51",
+            "name": "Klosterneuburg",
+            "code": "KG"
+        },
+        {
+            "id": "52",
+            "name": "Kirchdorf an der Krems",
+            "code": "KI"
+        },
+        {
+            "id": "53",
+            "name": "Knittelfeld",
+            "code": "KF"
+        },
+        {
+            "id": "54",
+            "name": "Consular corps in Carinthia",
+            "code": "KK"
+        },
+        {
+            "id": "55",
+            "name": "Klagenfurt-Land",
+            "code": "KL"
+        },
+        {
+            "id": "56",
+            "name": "Korneuburg",
+            "code": "KO"
+        },
+        {
+            "id": "57",
+            "name": "Krems-Land.(Krems countryside area)",
+            "code": "KR"
+        },
+        {
+            "id": "58",
+            "name": "Krems City",
+            "code": "KS"
+        },
+        {
+            "id": "59",
+            "name": "Kufstein",
+            "code": "KU"
+        },
+        {
+            "id": "60",
+            "name": "Linz",
+            "code": "L"
+        },
+        {
+            "id": "61",
+            "name": "Landeck",
+            "code": "LA"
+        },
+        {
+            "id": "62",
+            "name": "Leibnitz",
+            "code": "LB"
+        },
+        {
+            "id": "63",
+            "name": "Leoben City",
+            "code": "LE"
+        },
+        {
+            "id": "64",
+            "name": "Lilienfeld",
+            "code": "LF"
+        },
+        {
+            "id": "65",
+            "name": "Liezen",
+            "code": "LI"
+        },
+        {
+            "id": "66",
+            "name": "Linz-Land.(Linz countryside area)",
+            "code": "LL"
+        },
+        {
+            "id": "67",
+            "name": "Leoben.(Leoben countryside area)",
+            "code": ""
+        },
+        {
+            "id": "68",
+            "name": "Lienz",
+            "code": "LZ"
+        },
+        {
+            "id": "69",
+            "name": "Mattersburg",
+            "code": "MA"
+        },
+        {
+            "id": "70",
+            "name": "Mödling",
+            "code": "MD"
+        },
+        {
+            "id": "71",
+            "name": "Melk",
+            "code": "ME"
+        },
+        {
+            "id": "72",
+            "name": "Mistelbach",
+            "code": "MI"
+        },
+        {
+            "id": "73",
+            "name": "Murtal",
+            "code": "MT"
+        },
+        {
+            "id": "74",
+            "name": "Murau",
+            "code": "MU"
+        },
+        {
+            "id": "75",
+            "name": "Mürzzuschlag",
+            "code": "MZ"
+        },
+        {
+            "id": "76",
+            "name": "Lower Austria official",
+            "code": "N"
+        },
+        {
+            "id": "77",
+            "name": "Neusiedl am See",
+            "code": "ND"
+        },
+        {
+            "id": "78",
+            "name": "Neunkirchen",
+            "code": "NK"
+        },
+        {
+            "id": "79",
+            "name": "Upper Austria official",
+            "code": "O"
+        },
+        {
+            "id": "80",
+            "name": "Oberpullendorf",
+            "code": "OP"
+        },
+        {
+            "id": "81",
+            "name": "Oberwart",
+            "code": "OW"
+        },
+        {
+            "id": "82",
+            "name": "St. Pölten",
+            "code": "P"
+        },
+        {
+            "id": "83",
+            "name": "Perg",
+            "code": "PE"
+        },
+        {
+            "id": "84",
+            "name": "St. Pölten-Land.(St. Pölten countryside area)",
+            "code": "PL"
+        },
+        {
+            "id": "85",
+            "name": "Post & Telekom Austria (Actually for postal cars only.)",
+            "code": "PT"
+        },
+        {
+            "id": "86",
+            "name": "Bad Radkersburg",
+            "code": "RA"
+        },
+        {
+            "id": "87",
+            "name": "Reutte",
+            "code": "RE"
+        },
+        {
+            "id": "88",
+            "name": "Ried im Innkreis",
+            "code": "RI"
+        },
+        {
+            "id": "89",
+            "name": "Rohrbach",
+            "code": "RO"
+        },
+        {
+            "id": "90",
+            "name": "Salzburg City and official",
+            "code": "S"
+        },
+        {
+            "id": "91",
+            "name": "Scheibbs",
+            "code": "SB"
+        },
+        {
+            "id": "92",
+            "name": "Schärding, Diplomatic corps in Salzburg",
+            "code": "SD"
+        },
+        {
+            "id": "93",
+            "name": "Steyr-Land.(Steyr countryside area)",
+            "code": "SE"
+        },
+        {
+            "id": "94",
+            "name": "Consular corps in Salzburg",
+            "code": "SK"
+        },
+        {
+            "id": "95",
+            "name": "Salzburg-Umgebung.(Salzburg countryside area)",
+            "code": "SL"
+        },
+        {
+            "id": "96",
+            "name": "Spittal an der Drau",
+            "code": "SP"
+        },
+        {
+            "id": "97",
+            "name": "Südoststeiermark",
+            "code": "SO"
+        },
+        {
+            "id": "98",
+            "name": "Steyr City",
+            "code": "SR"
+        },
+        {
+            "id": "99",
+            "name": "Styria official",
+            "code": "ST"
+        },
+        {
+            "id": "100",
+            "name": "St. Veit an der Glan",
+            "code": "SV"
+        },
+        {
+            "id": "101",
+            "name": "Schwechat City",
+            "code": "SW"
+        },
+        {
+            "id": "102",
+            "name": "Schwaz",
+            "code": "SZ"
+        },
+        {
+            "id": "103",
+            "name": "Tirol official",
+            "code": "T"
+        },
+        {
+            "id": "104",
+            "name": "Tamsweg",
+            "code": "TA"
+        },
+        {
+            "id": "105",
+            "name": "Diplomatic corps in Tirol",
+            "code": "TD"
+        },
+        {
+            "id": "106",
+            "name": "Consular corps in Tirol",
+            "code": "TK"
+        },
+        {
+            "id": "107",
+            "name": "Tulln",
+            "code": "TU"
+        },
+        {
+            "id": "108",
+            "name": "Urfahr-Umgebung",
+            "code": "UU"
+        },
+        {
+            "id": "109",
+            "name": "Vorarlberg official",
+            "code": "V"
+        },
+        {
+            "id": "110",
+            "name": "Vöcklabruck",
+            "code": "VB"
+        },
+        {
+            "id": "111",
+            "name": "Diplomatic corps in Vorarlberg",
+            "code": "VD"
+        },
+        {
+            "id": "112",
+            "name": "Villach City",
+            "code": "VI"
+        },
+        {
+            "id": "113",
+            "name": "Völkermarkt, Consular corps in Vorarlberg",
+            "code": "VK"
+        },
+        {
+            "id": "114",
+            "name": "Villach-Land.(Villach countryside area)",
+            "code": "VL"
+        },
+        {
+            "id": "115",
+            "name": "Voitsberg",
+            "code": "VO"
+        },
+        {
+            "id": "116",
+            "name": "Vienna (Wien)",
+            "code": "W"
+        },
+        {
+            "id": "117",
+            "name": "Wiener Neustadt-Land.(Wiener Neustadt countryside area)",
+            "code": "WB"
+        },
+        {
+            "id": "118",
+            "name": "Diplomatic corps in Vienna",
+            "code": "WD"
+        },
+        {
+            "id": "119",
+            "name": "Consular corps in Vienna",
+            "code": "WK"
+        },
+        {
+            "id": "120",
+            "name": "Wels City",
+            "code": "WE"
+        },
+        {
+            "id": "121",
+            "name": "Wels-Land.(Wels countryside area)",
+            "code": "WL"
+        },
+        {
+            "id": "122",
+            "name": "Wiener Neustadt City",
+            "code": "WN"
+        },
+        {
+            "id": "123",
+            "name": "Wolfsberg",
+            "code": "WO"
+        },
+        {
+            "id": "124",
+            "name": "Waidhofen an der Thaya",
+            "code": "WT"
+        },
+        {
+            "id": "125",
+            "name": "Wien-Umgebung.(Vienna surrounding area)",
+            "code": "WU"
+        },
+        {
+            "id": "126",
+            "name": "Waidhofen an der Ybbs",
+            "code": "WY"
+        },
+        {
+            "id": "127",
+            "name": "Weiz",
+            "code": "WZ"
+        },
+        {
+            "id": "128",
+            "name": "Zell am See",
+            "code": "ZE"
+        },
+        {
+            "id": "129",
+            "name": "Zwettl",
+            "code": "ZT"
+        },
+        {
+            "id": "130",
+            "name": "Zollwache (Zollwache merged with federal police)",
+            "code": "ZW"
+        }
+    ]
+}
