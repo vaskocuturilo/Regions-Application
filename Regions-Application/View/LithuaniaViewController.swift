@@ -119,11 +119,12 @@ class LithuaniaViewController: UIViewController, UIGestureRecognizerDelegate, UI
             if isSucess {
                 messages.showMessage(label: label, message: str)
                 textField.text?.removeAll()
+            } else if (str.contains("Could not connect to the server.")) {
+                jsonLoad.loadSpeciesInfoJSOn(resource: "lithuaniaPerson", label: label, text: textField.text!)
+                textField.text?.removeAll()
             } else {
-                if (str.contains("Could not connect to the server.")) {
-                    jsonLoad.loadSpeciesInfoJSOn(resource: "lithuaniaPerson", label: label, text: textField.text!)
-                    textField.text?.removeAll()
-                }
+                messages.showMessage(label: label, message: str)
+                textField.text?.removeAll()
             }
         }
     }

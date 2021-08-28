@@ -1,0 +1,154 @@
+{
+    "regions": [
+        {
+            "id": "1",
+            "name": "Burgas Province",
+            "code": "A"
+        },
+        {
+            "id": "2",
+            "name": "Varna Province",
+            "code": "B"
+        },
+        {
+            "id": "3",
+            "name": "Vidin Province",
+            "code": "BH"
+        },
+        {
+            "id": "4",
+            "name": "Vratsa Province",
+            "code": "BP"
+        },
+        {
+            "id": "5",
+            "name": "Veliko Tarnovo Province",
+            "code": "BT"
+        },
+        {
+            "id": "6",
+            "name": "Blagoevgrad Province",
+            "code": "E"
+        },
+        {
+            "id": "7",
+            "name": "Gabrovo Province",
+            "code": "EB"
+        },
+        {
+            "id": "8",
+            "name": "Pleven Province",
+            "code": "EH"
+        },
+        {
+            "id": "9",
+            "name": "Kardzhali Province",
+            "code": "K"
+        },
+        {
+            "id": "10",
+            "name": "Kyustendil Province",
+            "code": "KH"
+        },
+        {
+            "id": "11",
+            "name": "Montana Province",
+            "code": "M"
+        },
+        {
+            "id": "12",
+            "name": "Shumen Province",
+            "code": "H"
+        },
+        {
+            "id": "13",
+            "name": "Lovech Province",
+            "code": "OB"
+        },
+        {
+            "id": "14",
+            "name": "Ruse Province",
+            "code": "P"
+        },
+        {
+            "id": "15",
+            "name": "Pazardzhik Province",
+            "code": "PA"
+        },
+        {
+            "id": "16",
+            "name": "Plovdiv Province",
+            "code": "PB"
+        },
+        {
+            "id": "17",
+            "name": "Pernik Province",
+            "code": "PK"
+        },
+        {
+            "id": "18",
+            "name": "Razgrad Province",
+            "code": "PP"
+        },
+        {
+            "id": "19",
+            "name": "Sofia (Capital)",
+            "code": "C"
+        },
+        {
+            "id": "20",
+            "name": "Sofia (Capital)",
+            "code": "CA"
+        },
+        {
+            "id": "21",
+            "name": "Sofia (Capital)",
+            "code": "CB"
+        },
+        {
+            "id": "22",
+            "name": "Sliven Province",
+            "code": "CH"
+        },
+        {
+            "id": "23",
+            "name": "Smolyan Province",
+            "code": "CM"
+        },
+        {
+            "id": "24",
+            "name": "Sofia Province",
+            "code": "CO"
+        },
+        {
+            "id": "25",
+            "name": "Silistra Province",
+            "code": "CC"
+        },
+        {
+            "id": "26",
+            "name": "Stara Zagora Province",
+            "code": "CT"
+        },
+        {
+            "id": "27",
+            "name": "Targovishte Province",
+            "code": "T"
+        },
+        {
+            "id": "28",
+            "name": "Dobrich Province",
+            "code": "TX"
+        },
+        {
+            "id": "29",
+            "name": "Yambol Province",
+            "code": "Y"
+        },
+        {
+            "id": "30",
+            "name": "Haskovo Province",
+            "code": "X"
+        }
+    ]
+}
