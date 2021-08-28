@@ -115,11 +115,12 @@ class BelarusViewController: UIViewController, UIGestureRecognizerDelegate, UITe
             if isSucess {
                 messages.showMessage(label: label, message: str)
                 textField.text?.removeAll()
+            } else if (str.contains("Could not connect to the server.")) {
+                jsonLoad.loadSpeciesInfoJSOn(resource: "belarusPerson", label: label, text: textField.text!)
+                textField.text?.removeAll()
             } else {
-                if (str.contains("Could not connect to the server.")) {
-                    jsonLoad.loadSpeciesInfoJSOn(resource: "belarusPerson", label: label, text: textField.text!)
-                    textField.text?.removeAll()
-                }
+                messages.showMessage(label: label, message: str)
+                textField.text?.removeAll()
             }
         }
     }

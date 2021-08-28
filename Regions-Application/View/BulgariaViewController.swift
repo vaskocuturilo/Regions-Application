@@ -1,13 +1,13 @@
 //
-//  TurkeyViewController.swift
+//  BulgariaViewController.swift
 //  Regions-Application
 //
-//  Created by Anton Smirnov on 22.08.2021.
+//  Created by Anton Smirnov on 28.08.2021.
 //
 
 import UIKit
 
-class TurkeyViewController: UIViewController, UIGestureRecognizerDelegate, UITextFieldDelegate {
+class BulgariaViewController: UIViewController, UIGestureRecognizerDelegate, UITextFieldDelegate {
     
     let apiService = APIServices()
     let check = Reachability()
@@ -30,8 +30,6 @@ class TurkeyViewController: UIViewController, UIGestureRecognizerDelegate, UITex
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        
-        // Do any additional setup after loading the view.
         
         let backBTN = UIBarButtonItem(image: UIImage(named: "Image"),
                                       style: .plain,
@@ -56,12 +54,12 @@ class TurkeyViewController: UIViewController, UIGestureRecognizerDelegate, UITex
         personButton.setTitleColor(.green, for: .normal)
         
         textField.leftViewMode = .always
-        textField.leftView = UIImageView(image: UIImage(named: "Turkey-Flag"))
+        textField.leftView = UIImageView(image: UIImage(named: "Bulgaria-Flag"))
         
         isPersonChecked = true
         isDiplomaticChecked = false
         isMilitaryChecked = false
-        title = "Turkey"
+        title = "Bulgaria"
         
         label.numberOfLines = 0
     }
@@ -79,7 +77,7 @@ class TurkeyViewController: UIViewController, UIGestureRecognizerDelegate, UITex
             personButton.setTitle("Person ✓", for: .normal)
             personButton.setTitleColor(.green, for: .normal)
             textField.leftViewMode = .always
-            textField.leftView = UIImageView(image: UIImage(named: "Turkey-Flag"))
+            textField.leftView = UIImageView(image: UIImage(named: "Bulgaria-Flag"))
             textField.backgroundColor = .white
             textField.textColor = .black
             isPersonChecked = true
@@ -87,15 +85,6 @@ class TurkeyViewController: UIViewController, UIGestureRecognizerDelegate, UITex
             isMilitaryChecked = false
         }
     }
-    
-    @IBAction func didTapDiplomaticButton(_ sender: Any) {
-        self.showAlert(title: "Information", message: "This feature will available soon.")
-    }
-    
-    @IBAction func didTapMilitaryButton(_ sender: Any) {
-        self.showAlert(title: "Information", message: "This feature will available soon.")
-    }
-    
     @objc func textFieldDidEditingChanged(_ textField: UITextField) {
         if searchTimer != nil {
             searchTimer?.invalidate()
@@ -113,12 +102,12 @@ class TurkeyViewController: UIViewController, UIGestureRecognizerDelegate, UITex
     }
     
     private func personData() {
-        apiService.responseRegion(endpoints: Constants.Endpoints.Turkey,region: textField.text!) { [self](isSucess, str) in
+        apiService.responseRegion(endpoints: Constants.Endpoints.Bulgaria,region: textField.text!) { [self](isSucess, str) in
             if isSucess {
                 messages.showMessage(label: label, message: str)
                 textField.text?.removeAll()
             } else if (str.contains("Could not connect to the server.")) {
-                jsonLoad.loadSpeciesInfoJSOn(resource: "turkeyPerson", label: label, text: textField.text!)
+                jsonLoad.loadSpeciesInfoJSOn(resource: "bulgariaPerson", label: label, text: textField.text!)
                 textField.text?.removeAll()
             } else {
                 messages.showMessage(label: label, message: str)

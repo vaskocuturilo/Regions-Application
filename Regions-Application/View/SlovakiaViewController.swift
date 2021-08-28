@@ -116,13 +116,13 @@ class SlovakiaViewController: UIViewController, UIGestureRecognizerDelegate, UIT
             if isSucess {
                 messages.showMessage(label: label, message: str)
                 textField.text?.removeAll()
+            } else if (str.contains("Could not connect to the server.")) {
+                jsonLoad.loadSpeciesInfoJSOn(resource: "slovakiaPerson", label: label, text: textField.text!)
+                textField.text?.removeAll()
             } else {
-                if (str.contains("Could not connect to the server.")) {
-                    jsonLoad.loadSpeciesInfoJSOn(resource: "slovakiaPerson", label: label, text: textField.text!)
-                    textField.text?.removeAll()
-                }
+                messages.showMessage(label: label, message: str)
+                textField.text?.removeAll()
             }
         }
     }
-    
 }
