@@ -43,4 +43,27 @@ class JsonLoader {
             }
         }
     }
+    
+    func scanRegionForRussia(resource: String, textView: UITextView, text: String) {
+        if let filePath = Bundle.main.url(forResource: resource, withExtension: "json") {
+            
+            do {
+                let data = try Data(contentsOf: filePath)
+                let decoder = JSONDecoder()
+                let speciesInfo = try decoder.decode(RegionsInfo.self, from: data)
+                let speciesList = speciesInfo.regions
+                
+                let result = speciesList.first {$0.code == text}
+                
+                if result?.name == nil {
+                    textView.text = "Region not found."
+                } else {
+                    textView.text = "The region is: " + result!.name
+                }
+                
+            } catch {
+                messages.showErrorMessage(message: "Can not load JSON file.")
+            }
+        }
+    }
 }

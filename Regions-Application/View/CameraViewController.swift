@@ -6,22 +6,23 @@
 //
 
 import UIKit
-import AVFoundation
+import Vision
+import VisionKit
 
-class CameraViewController: UIViewController, UIGestureRecognizerDelegate, AVCapturePhotoCaptureDelegate {
+class CameraViewController: UIViewController, UIGestureRecognizerDelegate {
     
-    @IBOutlet weak var captureImageView: UIImageView!
-    @IBOutlet weak var previewView: UIView!
+    private var scanButton = ScanButton(frame: .zero)
+    private var scanImageView = ScanImageView(frame: .zero)
+    private var ocrTextView = OcrTextView(frame: .zero, textContainer: nil)
     
+    private var ocrRequest = VNRecognizeTextRequest(completionHandler: nil)
     
-    var captureSession: AVCaptureSession!
-    var stillImageOutput: AVCapturePhotoOutput!
-    var videoPreviewLayer: AVCaptureVideoPreviewLayer!
+    private var json = JsonLoader()
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        
-        // Do any additional setup after loading the view.
+        configure()
+        configureOCR()
         
         let backBTN = UIBarButtonItem(image: UIImage(named: "Image"),
                                       style: .plain,
@@ -29,65 +30,110 @@ class CameraViewController: UIViewController, UIGestureRecognizerDelegate, AVCap
                                       action: #selector(UINavigationController.popViewController(animated:)))
         navigationItem.leftBarButtonItem = backBTN
         navigationController?.interactivePopGestureRecognizer?.delegate = self
+        
+        title = "Recognition car plate"
     }
     
-    override func viewDidAppear(_ animated: Bool) {
-        super.viewDidAppear(animated)
+    private func configure() {
         
-        captureSession = AVCaptureSession()
-        captureSession.sessionPreset = .medium
+        view.addSubview(scanButton)
+        view.addSubview(scanImageView)
+        view.addSubview(ocrTextView)
         
-        guard let backCamera = AVCaptureDevice.default(for: AVMediaType.video)
-        else {
-            print("Unable to access back camera!")
+        let padding: CGFloat = 16
+        
+        NSLayoutConstraint.activate([
+            scanButton.leadingAnchor.constraint(equalTo: view.safeAreaLayoutGuide.leadingAnchor, constant: padding),
+            scanButton.trailingAnchor.constraint(equalTo: view.safeAreaLayoutGuide.trailingAnchor, constant: -padding),
+            scanButton.bottomAnchor.constraint(equalTo: view.safeAreaLayoutGuide.bottomAnchor, constant: -padding),
+            scanButton.heightAnchor.constraint(equalToConstant: 50),
+            
+            ocrTextView.leadingAnchor.constraint(equalTo: view.safeAreaLayoutGuide.leadingAnchor, constant: padding),
+            ocrTextView.trailingAnchor.constraint(equalTo: view.safeAreaLayoutGuide.trailingAnchor, constant: -padding),
+            ocrTextView.bottomAnchor.constraint(equalTo: scanButton.topAnchor, constant: -padding),
+            ocrTextView.heightAnchor.constraint(equalToConstant: 200),
+            
+            scanImageView.leadingAnchor.constraint(equalTo: view.safeAreaLayoutGuide.leadingAnchor, constant: padding),
+            scanImageView.topAnchor.constraint(equalTo: view.safeAreaLayoutGuide.topAnchor, constant: padding),
+            scanImageView.trailingAnchor.constraint(equalTo: view.safeAreaLayoutGuide.trailingAnchor, constant: -padding),
+            scanImageView.bottomAnchor.constraint(equalTo: ocrTextView.topAnchor, constant: -padding)
+        ])
+        
+        scanButton.addTarget(self, action: #selector(scanPlate), for: .touchUpInside)
+    }
+    
+    
+    @objc
+    private func scanPlate() {
+        
+        let scanVC = VNDocumentCameraViewController()
+        scanVC.delegate = self
+        present(scanVC, animated: true)
+    }
+    
+    private func configureOCR() {
+        ocrRequest = VNRecognizeTextRequest { (request, error)in
+            guard let observations = request.results as? [VNRecognizedTextObservation] else { return }
+            
+            var ocrText = ""
+            
+            for observation in observations {
+                guard let topCandidate = observation.topCandidates(1).first else {return}
+                
+                ocrText += topCandidate.string + "\n"
+                
+            }
+            
+            DispatchQueue.main.async { [self] in
+                
+                let result = ocrText.trimmingCharacters(in: CharacterSet(charactersIn: "0123456789").inverted)
+                
+                json.scanRegionForRussia(resource: "russiaPerson", textView: ocrTextView, text: result)
+                
+                self.scanButton.isEnabled = true
+            }
+        }
+        
+        ocrRequest.recognitionLevel = .accurate
+        ocrRequest.recognitionLanguages = ["en-US", "en-GB"]
+        ocrRequest.usesLanguageCorrection = true
+        
+    }
+    
+    private func processImage(_ image: UIImage) {
+        guard let cgImage = image.cgImage else {return}
+        
+        ocrTextView.text = ""
+        scanButton.isEnabled = false
+        let requestHandler = VNImageRequestHandler(cgImage: cgImage, options: [:])
+        
+        do {
+            try requestHandler.perform([self.ocrRequest])
+        } catch let error {
+            print(error)
+        }
+    }
+}
+
+extension CameraViewController: VNDocumentCameraViewControllerDelegate {
+    
+    func documentCameraViewController(_ controller: VNDocumentCameraViewController, didFinishWith scan: VNDocumentCameraScan) {
+        guard scan.pageCount >= 1 else {
+            controller.dismiss(animated: true)
+            
             return
         }
         
-        do {
-            let input = try AVCaptureDeviceInput(device: backCamera)
-            stillImageOutput = AVCapturePhotoOutput()
-            
-            if captureSession.canAddInput(input) && captureSession.canAddOutput(stillImageOutput) {
-                captureSession.addInput(input)
-                captureSession.addOutput(stillImageOutput)
-                setupLivePreview()
-            }
-        }
-        catch let error  {
-            print("Error Unable to initialize back camera:  \(error.localizedDescription)")
-        }
-        
-        self.captureSession.stopRunning()
+        scanImageView.image = scan.imageOfPage(at: 0)
+        processImage(scan.imageOfPage(at: 0))
+        controller.dismiss(animated: true)
     }
     
-    func setupLivePreview() {
-        
-        videoPreviewLayer = AVCaptureVideoPreviewLayer(session: captureSession)
-        
-        videoPreviewLayer.videoGravity = .resizeAspect
-        videoPreviewLayer.connection?.videoOrientation = .portrait
-        previewView.layer.addSublayer(videoPreviewLayer)
-        
-        DispatchQueue.global(qos: .userInitiated).async { //[weak self] in
-            self.captureSession.startRunning()
-            
-            DispatchQueue.main.async {
-                self.videoPreviewLayer.frame = self.previewView.bounds
-            }
-        }
+    func documentCameraViewController(_ controller: VNDocumentCameraViewController, didFailWithError error: Error) {
+        controller.dismiss(animated: true)
     }
     
-    @IBAction func didTakePhoto(_ sender: Any) {
-        let settings = AVCapturePhotoSettings(format: [AVVideoCodecKey: AVVideoCodecType.jpeg])
-                stillImageOutput.capturePhoto(with: settings, delegate: self)
-    }
-    
-    func photoOutput(_ output: AVCapturePhotoOutput, didFinishProcessingPhoto photo: AVCapturePhoto, error: Error?) {
-        
-        guard let imageData = photo.fileDataRepresentation()
-            else { return }
-        
-        let image = UIImage(data: imageData)
-        captureImageView.image = image
+    func documentCameraViewControllerDidCancel(_ controller: VNDocumentCameraViewController) {
+        controller.dismiss(animated: true)
     }
 }
