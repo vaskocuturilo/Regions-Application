@@ -97,6 +97,7 @@ class RussiaViewController: UIViewController, UIGestureRecognizerDelegate, UITex
             
             diplomaticButton.setTitle("Diplomatic ✓", for: .normal)
             diplomaticButton.setTitleColor(.green, for: .normal)
+            
             textField.backgroundColor = .red
             textField.textColor = .black
             isPersonChecked = false
@@ -108,11 +109,12 @@ class RussiaViewController: UIViewController, UIGestureRecognizerDelegate, UITex
     @IBAction func didTapMilitary(_ sender: Any) {
         isMilitaryChecked = !isMilitaryChecked
         if isMilitaryChecked {
+            
+            personButton.setTitle("Person", for: .normal)
+            personButton.setTitleColor(.white, for: .normal)
+            
             diplomaticButton.setTitle("Diplomatic", for: .normal)
             diplomaticButton.setTitleColor(.white, for: .normal)
-            
-            militaryButton.setTitle("Military", for: .normal)
-            militaryButton.setTitleColor(.white, for: .normal)
             
             militaryButton.setTitle("Military ✓", for: .normal)
             militaryButton.setTitleColor(.green, for: .normal)

@@ -1,0 +1,1104 @@
+{
+    "regions": [
+        {
+            "id": "1",
+            "name": "Achaia prefecture - Patras",
+            "code": "AA"
+        },
+        {
+            "id": "2",
+            "name": "Kavala prefecture - Kavala {motorcycles}",
+            "code": "AB"
+        },
+        {
+            "id": "3",
+            "name": "Lasithi prefecture - Agios Nikolaos",
+            "code": "AE"
+        },
+        {
+            "id": "4",
+            "name": "Achaia prefecture - Patras",
+            "code": "AZ"
+        },
+        {
+            "id": "5",
+            "name": "Xanthi prefecture - Xanthi",
+            "code": "AH"
+        },
+        {
+            "id": "6",
+            "name": "Xanthi prefecture - Xanthi",
+            "code": "AHH"
+        },
+        {
+            "id": "7",
+            "name": "Aitoloakarnania prefecture - Agrinio area.",
+            "code": "AI"
+        },
+        {
+            "id": "8",
+            "name": "Aitoloakarnania prefecture - Agrinio area.",
+            "code": "AII"
+        },
+        {
+            "id": "9",
+            "name": "Laconia prefecture - Sparti",
+            "code": "AK"
+        },
+        {
+            "id": "10",
+            "name": "Phokida prefecture - Amfissa",
+            "code": "AM"
+        },
+        {
+            "id": "11",
+            "name": "Lasithi prefecture - Agios Nikolaos",
+            "code": "AN"
+        },
+        {
+            "id": "12",
+            "name": "Achaia prefecture - Patras {motorcycles}",
+            "code": "AO"
+        },
+        {
+            "id": "13",
+            "name": "Argolis (Argolida) prefecture - Nafplio",
+            "code": "AP"
+        },
+        {
+            "id": "14",
+            "name": "Arta prefecture - Arta",
+            "code": "AT"
+        },
+        {
+            "id": "15",
+            "name": "Achaia prefecture - Patras {motorcycles}",
+            "code": "AY"
+        },
+        {
+            "id": "16",
+            "name": "Achaia prefecture - Patras",
+            "code": "AX"
+        },
+        {
+            "id": "17",
+            "name": "Magnesia prefecture - Volos {motorcycles}",
+            "code": "BA"
+        },
+        {
+            "id": "18",
+            "name": "Magnesia prefecture - Volos {motorcycles}",
+            "code": "BB"
+        },
+        {
+            "id": "19",
+            "name": "Piraeus prefecture {motorcycles}",
+            "code": "BE"
+        },
+        {
+            "id": "20",
+            "name": "Piraeus prefecture {motorcycles}",
+            "code": "BZ"
+        },
+        {
+            "id": "21",
+            "name": "Piraeus prefecture {motorcycles}",
+            "code": "BH"
+        },
+        {
+            "id": "22",
+            "name": "Boeotia (Viotia) prefecture - Livadeia",
+            "code": "BI"
+        },
+        {
+            "id": "23",
+            "name": "East Attica prefecture - Pallini",
+            "code": "BK"
+        },
+        {
+            "id": "24",
+            "name": "East Attica prefecture - Pallini",
+            "code": "BM"
+        },
+        {
+            "id": "25",
+            "name": "West Attica prefecture - Elefsina",
+            "code": "BN"
+        },
+        {
+            "id": "26",
+            "name": "Magnesia prefecture - Volos ",
+            "code": "BO"
+        },
+        {
+            "id": "27",
+            "name": "Pella Prefecture",
+            "code": "BOP"
+        },
+        {
+            "id": "28",
+            "name": "West Attica prefecture - Elefsina",
+            "code": "BP"
+        },
+        {
+            "id": "29",
+            "name": "Magnesia prefecture - Volos",
+            "code": "BT"
+        },
+        {
+            "id": "30",
+            "name": "Boeotia (Viotia) prefecture - Livadeia",
+            "code": "BY"
+        },
+        {
+            "id": "31",
+            "name": "Piraeus prefecture {motorcycles}",
+            "code": "BX"
+        },
+        {
+            "id": "32",
+            "name": "Dodecanese prefecture - Kos island {motorcycles}",
+            "code": "EA"
+        },
+        {
+            "id": "33",
+            "name": "Evros prefecture - Alexandroupoli",
+            "code": "EB"
+        },
+        {
+            "id": "34",
+            "name": "Evros prefecture - Alexandroupoli",
+            "code": "EBB"
+        },
+        {
+            "id": "35",
+            "name": "Pella Prefecture - Edessa",
+            "code": "EE"
+        },
+        {
+            "id": "36",
+            "name": "Pella Prefecture - Edessa",
+            "code": "EEE"
+        },
+        {
+            "id": "37",
+            "name": "Cyclades prefecture - Ermoupoli {motorcycles}",
+            "code": "EZ"
+        },
+        {
+            "id": "38",
+            "name": "Euboea (Evia) prefecture - Chalkida {motorcycles}",
+            "code": "EH"
+        },
+        {
+            "id": "39",
+            "name": "Euboea (Evia) prefecture - Chalkida {motorcycles}",
+            "code": "EI"
+        },
+        {
+            "id": "40",
+            "name": "Cyclades prefecture - Ermoupoli",
+            "code": "EM"
+        },
+        {
+            "id": "41",
+            "name": "Serres prefecture - Serres",
+            "code": "EP"
+        },
+        {
+            "id": "42",
+            "name": "Corfu (Kerkyra) prefecture - Corfu {motorcycles}",
+            "code": "ET"
+        },
+        {
+            "id": "43",
+            "name": "Lefkada prefecture - Lefkada ",
+            "code": "EY"
+        },
+        {
+            "id": "44",
+            "name": "Rodos Island",
+            "code": "EYA"
+        },
+        {
+            "id": "45",
+            "name": "tax free cars of offshore companies",
+            "code": "EYY"
+        },
+        {
+            "id": "46",
+            "name": "Kilkis prefecture - Kilkis",
+            "code": "EX"
+        },
+        {
+            "id": "47",
+            "name": "Zakynthos prefecture - Zakynthos",
+            "code": "ZA"
+        },
+        {
+            "id": "48",
+            "name": "Zakynthos prefecture - Zakynthos",
+            "code": "ZB"
+        },
+        {
+            "id": "49",
+            "name": "Thessaloniki prefecture",
+            "code": "ZE"
+        },
+        {
+            "id": "50",
+            "name": "Athens prefecture",
+            "code": "ZZ"
+        },
+        {
+            "id": "51",
+            "name": "Athens prefecture",
+            "code": "ZH"
+        },
+        {
+            "id": "52",
+            "name": "Thessaloniki prefecture",
+            "code": "ZI"
+        },
+        {
+            "id": "53",
+            "name": "Athens prefecture",
+            "code": "ZK"
+        },
+        {
+            "id": "54",
+            "name": "Athens prefecture",
+            "code": "ZM"
+        },
+        {
+            "id": "55",
+            "name": "Piraeus prefecture",
+            "code": "ZN"
+        },
+        {
+            "id": "56",
+            "name": "Thessaloniki prefecture",
+            "code": "ZO"
+        },
+        {
+            "id": "57",
+            "name": "Piraeus prefecture {motorcycles}",
+            "code": "ZP"
+        },
+        {
+            "id": "58",
+            "name": "West Attica prefecture - Elefsina {motorcycles}",
+            "code": "ZT"
+        },
+        {
+            "id": "59",
+            "name": "East Attica prefecture - Pallini",
+            "code": "ZY"
+        },
+        {
+            "id": "60",
+            "name": "East Attica prefecture - Pallini",
+            "code": "ZX"
+        },
+        {
+            "id": "61",
+            "name": "Ilia prefecture - Pyrgos",
+            "code": "HA"
+        },
+        {
+            "id": "62",
+            "name": "Athens prefecture {motorcycles}",
+            "code": "HB"
+        },
+        {
+            "id": "63",
+            "name": "Ilia prefecture - Pyrgos {motorcycles}",
+            "code": "HE"
+        },
+        {
+            "id": "64",
+            "name": "Heraklion prefecture - Heraklion",
+            "code": "HZ"
+        },
+        {
+            "id": "65",
+            "name": "Heraklion prefecture - Heraklion {motorcycles}",
+            "code": "HH"
+        },
+        {
+            "id": "66",
+            "name": "Heraklion prefecture - Heraklion {motorcycles}",
+            "code": "HI"
+        },
+        {
+            "id": "67",
+            "name": "Heraklion prefecture - Heraklion ",
+            "code": "HK"
+        },
+        {
+            "id": "68",
+            "name": "Chania Prefecture",
+            "code": "HKH"
+        },
+        {
+            "id": "69",
+            "name": "Chania Prefecture",
+            "code": "HKZ"
+        },
+        {
+            "id": "70",
+            "name": "Imathia prefecture - Veria",
+            "code": "HM"
+        },
+        {
+            "id": "71",
+            "name": "Thesprotia prefecture - Igoumenitsa",
+            "code": "HN"
+        },
+        {
+            "id": "72",
+            "name": "Xanthi prefecture - Xanthi {motorcycles}",
+            "code": "HO"
+        },
+        {
+            "id": "73",
+            "name": "Heraklion prefecture - Heraklion",
+            "code": "HP"
+        },
+        {
+            "id": "74",
+            "name": "Xanthi prefecture - Xanthi",
+            "code": "HT"
+        },
+        {
+            "id": "75",
+            "name": "Phthiotis (Fthiotida) prefecture - Lamia",
+            "code": "HY"
+        },
+        {
+            "id": "76",
+            "name": "Imathia prefecture - Veria",
+            "code": "HX"
+        },
+        {
+            "id": "77",
+            "name": "Athens prefecture",
+            "code": "IB"
+        },
+        {
+            "id": "78",
+            "name": "Athens prefecture",
+            "code": "IE"
+        },
+        {
+            "id": "79",
+            "name": "Athens prefecture",
+            "code": "IZ"
+        },
+        {
+            "id": "80",
+            "name": "Athens prefecture",
+            "code": "IH"
+        },
+        {
+            "id": "81",
+            "name": "Euboea Prefecture",
+            "code": "IHA"
+        },
+        {
+            "id": "82",
+            "name": "Ioannina prefecture - Ioannina",
+            "code": "II"
+        },
+        {
+            "id": "83",
+            "name": "Athens prefecture",
+            "code": "IK"
+        },
+        {
+            "id": "84",
+            "name": "Athens prefecture",
+            "code": "IM"
+        },
+        {
+            "id": "85",
+            "name": "Ioannina prefecture - Ioannina",
+            "code": "IN"
+        },
+        {
+            "id": "86",
+            "name": "Athens prefecture",
+            "code": "IO"
+        },
+        {
+            "id": "87",
+            "name": "Athens prefecture",
+            "code": "IP"
+        },
+        {
+            "id": "88",
+            "name": "Athens prefecture",
+            "code": "IT"
+        },
+        {
+            "id": "89",
+            "name": "Athens prefecture",
+            "code": "IY"
+        },
+        {
+            "id": "90",
+            "name": "Serres prefecture",
+            "code": "IX"
+        },
+        {
+            "id": "91",
+            "name": "Karditsa prefecture - Karditsa",
+            "code": "KA"
+        },
+        {
+            "id": "92",
+            "name": "Karditsa prefecture - Karditsa",
+            "code": "KAA"
+        },
+        {
+            "id": "93",
+            "name": "Kavala prefecture - Kavala ",
+            "code": "KB"
+        },
+        {
+            "id": "94",
+            "name": "Kavala prefecture - Kavala ",
+            "code": "KBB"
+        },
+        {
+            "id": "95",
+            "name": "Kefalonia and Ithaca prefecture - Argostoli",
+            "code": "KE"
+        },
+        {
+            "id": "96",
+            "name": "Kefalonia and Ithaca prefecture - Argostoli",
+            "code": "KEE"
+        },
+        {
+            "id": "97",
+            "name": "Kozani prefecture - Kozani",
+            "code": "KZ"
+        },
+        {
+            "id": "98",
+            "name": "Kozani prefecture - Kozani",
+            "code": "KZZ"
+        },
+        {
+            "id": "99",
+            "name": "Evrytania prefecture - Karpenisi",
+            "code": "KH"
+        },
+        {
+            "id": "100",
+            "name": "Kilkis prefecture - Kilkis",
+            "code": "KI"
+        },
+        {
+            "id": "101",
+            "name": "Messinia prefecture - Kalamata",
+            "code": "KM"
+        },
+        {
+            "id": "102",
+            "name": "Pieria prefecture - Katerini",
+            "code": "KN"
+        },
+        {
+            "id": "103",
+            "name": "Pieria prefecture - Katerini",
+            "code": "KNZ"
+        },
+        {
+            "id": "104",
+            "name": "Rhodope (Rodopi) prefecture - Komotini",
+            "code": "KO"
+        },
+        {
+            "id": "105",
+            "name": "Thessaloniki prefecture",
+            "code": "KOH"
+        },
+        {
+            "id": "106",
+            "name": "Thessaloniki prefecture",
+            "code": "KOK"
+        },
+        {
+            "id": "107",
+            "name": "Heraklio prefecture {motorcycles}",
+            "code": "KOP"
+        },
+        {
+            "id": "108",
+            "name": "Corinthia prefecture - Corinth (Korinthos)",
+            "code": "KP"
+        },
+        {
+            "id": "109",
+            "name": "Kastoria prefecture - Kastoria",
+            "code": "KT"
+        },
+        {
+            "id": "110",
+            "name": "Corfu (Kerkyra) prefecture - Corfu",
+            "code": "KY"
+        },
+        {
+            "id": "111",
+            "name": "Dodecanese prefecture - Kos island",
+            "code": "KX"
+        },
+        {
+            "id": "112",
+            "name": "Rodos Island",
+            "code": "KXA"
+        },
+        {
+            "id": "113",
+            "name": "Chalkidiki prefecture - Polygyros",
+            "code": "MA"
+        },
+        {
+            "id": "114",
+            "name": "Samos prefecture - Samos",
+            "code": "MB"
+        },
+        {
+            "id": "115",
+            "name": "Aitoloakarnania prefecture - Messolongi",
+            "code": "ME"
+        },
+        {
+            "id": "116",
+            "name": "Messinia prefecture - Kalamata {motorcycles}",
+            "code": "MZ"
+        },
+        {
+            "id": "117",
+            "name": "Lesvos prefecture - Myrina (Limnos island)",
+            "code": "MH"
+        },
+        {
+            "id": "118",
+            "name": "Phthiotis (Fthiotida) prefecture - Lamia",
+            "code": "MI"
+        },
+        {
+            "id": "119",
+            "name": "Karditsa prefecture - Karditsa",
+            "code": "MK"
+        },
+        {
+            "id": "120",
+            "name": "Pella Prefecture - Edessa",
+            "code": "MM"
+        },
+        {
+            "id": "121",
+            "name": "Kozani prefecture - Kozani",
+            "code": "MN"
+        },
+        {
+            "id": "122",
+            "name": "Samos prefecture - Samos",
+            "code": "MO"
+        },
+        {
+            "id": "123",
+            "name": "Rodos Island {motorcycles}",
+            "code": "MOK"
+        },
+        {
+            "id": "124",
+            "name": "Rodos Island {motorcycles}",
+            "code": "MOM"
+        },
+        {
+            "id": "125",
+            "name": "Rodos Island {motorcycles}",
+            "code": "MOP"
+        },
+        {
+            "id": "126",
+            "name": "Laconia prefecture - Sparti",
+            "code": "MP"
+        },
+        {
+            "id": "127",
+            "name": "Lesbos prefecture - Mytilini {motorcycles}",
+            "code": "MT"
+        },
+        {
+            "id": "128",
+            "name": "Lesbos (Lesvos) prefecture - Mytilini ",
+            "code": "MY"
+        },
+        {
+            "id": "129",
+            "name": "Rodos Island",
+            "code": "MYZ"
+        },
+        {
+            "id": "130",
+            "name": "Evros prefecture - Alexandroupoli",
+            "code": "MX"
+        },
+        {
+            "id": "131",
+            "name": "Thessaloniki prefecture - Thessaloniki",
+            "code": "NA"
+        },
+        {
+            "id": "132",
+            "name": "Thessaloniki prefecture - Thessaloniki",
+            "code": "NB"
+        },
+        {
+            "id": "133",
+            "name": "Thessaloniki prefecture - Thessaloniki",
+            "code": "NE"
+        },
+        {
+            "id": "134",
+            "name": "Thessaloniki prefecture - Thessaloniki",
+            "code": "NZ"
+        },
+        {
+            "id": "135",
+            "name": "Thessaloniki prefecture - Thessaloniki",
+            "code": "NH"
+        },
+        {
+            "id": "136",
+            "name": "Thessaloniki prefecture - Thessaloniki",
+            "code": "NI"
+        },
+        {
+            "id": "137",
+            "name": "Thessaloniki prefecture - Thessaloniki",
+            "code": "NK"
+        },
+        {
+            "id": "138",
+            "name": "Thessaloniki prefecture - Thessaloniki {motorcycles}",
+            "code": "NM"
+        },
+        {
+            "id": "139",
+            "name": "Thessaloniki prefecture - Thessaloniki {motorcycles}",
+            "code": "NN"
+        },
+        {
+            "id": "140",
+            "name": "Thessaloniki prefecture - Thessaloniki {motorcycles}",
+            "code": "NO"
+        },
+        {
+            "id": "141",
+            "name": "Thessaloniki prefecture {motorcycles}",
+            "code": "NP"
+        },
+        {
+            "id": "142",
+            "name": "Thessaloniki prefecture",
+            "code": "NT"
+        },
+        {
+            "id": "143",
+            "name": "Thessaloniki prefecture",
+            "code": "NY"
+        },
+        {
+            "id": "144",
+            "name": "Thessaloniki prefecture",
+            "code": "NX"
+        },
+        {
+            "id": "145",
+            "name": "Athens {motorcycles}",
+            "code": "OA"
+        },
+        {
+            "id": "146",
+            "name": "Athens {motorcycles}",
+            "code": "OB"
+        },
+        {
+            "id": "147",
+            "name": "Athens {motorcycles}",
+            "code": "OE"
+        },
+        {
+            "id": "148",
+            "name": "Athens {motorcycles}",
+            "code": "OZ"
+        },
+        {
+            "id": "149",
+            "name": "Athens {motorcycles}",
+            "code": "OH"
+        },
+        {
+            "id": "150",
+            "name": "Athens {motorcycles}",
+            "code": "OI"
+        },
+        {
+            "id": "151",
+            "name": "Athens {motorcycles}",
+            "code": "OK"
+        },
+        {
+            "id": "152",
+            "name": "Athens {motorcycles}",
+            "code": "OM"
+        },
+        {
+            "id": "153",
+            "name": "Athens {motorcycles}",
+            "code": "ON"
+        },
+        {
+            "id": "154",
+            "name": "Athens {motorcycles}",
+            "code": "OO"
+        },
+        {
+            "id": "155",
+            "name": "Evros prefecture - Orestiada area",
+            "code": "OP"
+        },
+        {
+            "id": "156",
+            "name": "Athens",
+            "code": "OT"
+        },
+        {
+            "id": "157",
+            "name": "Athens {motorcycles}",
+            "code": "OY"
+        },
+        {
+            "id": "158",
+            "name": "Athens ",
+            "code": "OX"
+        },
+        {
+            "id": "159",
+            "name": "Florina prefecture - Florina",
+            "code": "PA"
+        },
+        {
+            "id": "160",
+            "name": "Florina prefecture - Florina",
+            "code": "PAA"
+        },
+        {
+            "id": "161",
+            "name": "Corinthia prefecture - Corinth",
+            "code": "PB"
+        },
+        {
+            "id": "162",
+            "name": "Rethymno prefecture - Rethymno ",
+            "code": "PE"
+        },
+        {
+            "id": "163",
+            "name": "Rethymno prefecture - Rethymno ",
+            "code": "PEE"
+        },
+        {
+            "id": "164",
+            "name": "Preveza prefecture - Preveza ",
+            "code": "PZ"
+        },
+        {
+            "id": "165",
+            "name": "Preveza prefecture - Preveza ",
+            "code": "PZB"
+        },
+        {
+            "id": "166",
+            "name": "Rethymno prefecture - Rethymno {motorcycles}",
+            "code": "PH"
+        },
+        {
+            "id": "167",
+            "name": "Larissa prefecture - Larissa",
+            "code": "PI"
+        },
+        {
+            "id": "168",
+            "name": "Dodecanese prefecture - Rodos (Rhodes)",
+            "code": "PK"
+        },
+        {
+            "id": "169",
+            "name": "Drama prefecture - Drama",
+            "code": "PM"
+        },
+        {
+            "id": "170",
+            "name": "Drama prefecture - Drama",
+            "code": "PMZ"
+        },
+        {
+            "id": "171",
+            "name": "Grevena prefecture - Grevena",
+            "code": "PN"
+        },
+        {
+            "id": "172",
+            "name": "Dodecanese prefecture - Rhodes (Rodos)",
+            "code": "PO"
+        },
+        {
+            "id": "173",
+            "name": "Larissa prefecture - Larissa",
+            "code": "PP"
+        },
+        {
+            "id": "174",
+            "name": "Larissa prefecture - Larissa",
+            "code": "PT"
+        },
+        {
+            "id": "175",
+            "name": "Dodecanese prefecture - Rodos (Rhodes) {motorcycles}",
+            "code": "PY"
+        },
+        {
+            "id": "176",
+            "name": "Dodecanese prefecture - Rodos (Rhodes)",
+            "code": "PX"
+        },
+        {
+            "id": "177",
+            "name": "Corfu (Kerkyra) prefecture - Corfu {motorcycles}",
+            "code": "TB"
+        },
+        {
+            "id": "178",
+            "name": "Corfu (Kerkyra) prefecture - Corfu",
+            "code": "TE"
+        },
+        {
+            "id": "179",
+            "name": "Piraeus prefecture {motorcycles}",
+            "code": "TZ"
+        },
+        {
+            "id": "180",
+            "name": "Aitoloakarnania prefecture - Agrinio area",
+            "code": "TH"
+        },
+        {
+            "id": "181",
+            "name": "Pieria prefecture - Katerini",
+            "code": "TI"
+        },
+        {
+            "id": "182",
+            "name": "Trikala prefecture - Trikala",
+            "code": "TK"
+        },
+        {
+            "id": "183",
+            "name": "Argolis (Argolida) prefecture - Nafplio",
+            "code": "TM"
+        },
+        {
+            "id": "184",
+            "name": "Trikala prefecture - Trikala",
+            "code": "TN"
+        },
+        {
+            "id": "185",
+            "name": "Drama prefecture - Drama",
+            "code": "TO"
+        },
+        {
+            "id": "186",
+            "name": "Arcadia prefecture - Tripoli",
+            "code": "TP"
+        },
+        {
+            "id": "187",
+            "name": "Rhodope prefecture",
+            "code": "TT"
+        },
+        {
+            "id": "188",
+            "name": "Chania prefecture - Chania {motorcycles}",
+            "code": "TY"
+        },
+        {
+            "id": "189",
+            "name": "Preveza prefecture - Preveza",
+            "code": "TX"
+        },
+        {
+            "id": "190",
+            "name": "Athens prefecture",
+            "code": "YA"
+        },
+        {
+            "id": "191",
+            "name": "Athens prefecture",
+            "code": "YB"
+        },
+        {
+            "id": "192",
+            "name": "Athens prefecture",
+            "code": "YE"
+        },
+        {
+            "id": "193",
+            "name": "Athens prefecture",
+            "code": "YZ"
+        },
+        {
+            "id": "194",
+            "name": "Athens prefecture",
+            "code": "YH"
+        },
+        {
+            "id": "195",
+            "name": "Euboea Prefecture",
+            "code": "YHA"
+        },
+        {
+            "id": "196",
+            "name": "Piraeus prefecture",
+            "code": "YI"
+        },
+        {
+            "id": "197",
+            "name": "Piraeus prefecture",
+            "code": "YK"
+        },
+        {
+            "id": "198",
+            "name": "Piraeus prefecture",
+            "code": "YM"
+        },
+        {
+            "id": "199",
+            "name": "Piraeus prefecture",
+            "code": "YN"
+        },
+        {
+            "id": "200",
+            "name": "West Attica prefecture - Elefsina",
+            "code": "YO"
+        },
+        {
+            "id": "201",
+            "name": "West Attica prefecture - Elefsina",
+            "code": "YP"
+        },
+        {
+            "id": "202",
+            "name": "West Attica prefecture - Elefsina",
+            "code": "YT"
+        },
+        {
+            "id": "203",
+            "name": "East Attica prefecture - Pallini",
+            "code": "YY"
+        },
+        {
+            "id": "204",
+            "name": "East Attica prefecture - Pallini",
+            "code": "YX"
+        },
+        {
+            "id": "205",
+            "name": "Euboea (Evia) prefecture - Chalkida",
+            "code": "XA"
+        },
+        {
+            "id": "206",
+            "name": "Chania prefecture - Chania {motorcycles}",
+            "code": "XB"
+        },
+        {
+            "id": "207",
+            "name": "Athens prefecture {now used for both motorcycles and cars}",
+            "code": "XE"
+        },
+        {
+            "id": "208",
+            "name": "Athens prefecture {motorcycles}",
+            "code": "XZ"
+        },
+        {
+            "id": "209",
+            "name": "Athens prefecture {motorcycles}",
+            "code": "XH"
+        },
+        {
+            "id": "210",
+            "name": "Chios prefecture - Chios",
+            "code": "XI"
+        },
+        {
+            "id": "211",
+            "name": "Chalkidiki prefecture - Polygyros",
+            "code": "XK"
+        },
+        {
+            "id": "212",
+            "name": "Athens prefecture",
+            "code": "XM"
+        },
+        {
+            "id": "213",
+            "name": "Chania prefecture - Chania ",
+            "code": "XN"
+        },
+        {
+            "id": "214",
+            "name": "Chania prefecture - Chania {motorcycles} ",
+            "code": "XNO"
+        },
+        {
+            "id": "215",
+            "name": "Chios prefecture - Chios {motorcycles}",
+            "code": "XO"
+        },
+        {
+            "id": "216",
+            "name": "Athens prefecture {motorcycles}",
+            "code": "XP"
+        },
+        {
+            "id": "217",
+            "name": "Athens prefecture {motorcycles}",
+            "code": "XT"
+        },
+        {
+            "id": "218",
+            "name": "Athens prefecture {motorcycles}",
+            "code": "XY"
+        },
+        {
+            "id": "219",
+            "name": "Athens prefecture {motorcycles}",
+            "code": "XX"
+        },
+        {
+            "id": "220",
+            "name": "Athens International Airport service vehicles",
+            "code": "AIA"
+        }
+    ]
+}
