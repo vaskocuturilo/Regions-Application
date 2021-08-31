@@ -1,5 +1,7 @@
 # The application Regions 
-This iOS application determines regions by code for different countries as Russia, Ukraine, Poland, and Germany.
+This iOS application determines regions by code for different countries as Russia, Ukraine, Belarus, and European Union.
+![](https://c.radikal.ru/c10/2108/a3/e469c95e6020.png)
+
 Using REST API on the Spring Boot technology with Mysql or JSON data.
 
 This is simple regions application. The features of this application: 
