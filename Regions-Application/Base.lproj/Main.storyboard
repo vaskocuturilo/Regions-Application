@@ -642,8 +642,48 @@
                                             </constraints>
                                         </tableViewCellContentView>
                                     </tableViewCell>
-                                    <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" rowHeight="94" id="1hO-EN-hLD">
+                                    <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" rowHeight="94" id="iz4-cT-KxS">
                                         <rect key="frame" x="0.0" y="1438" width="320" height="94"/>
+                                        <autoresizingMask key="autoresizingMask"/>
+                                        <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" preservesSuperviewLayoutMargins="YES" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="iz4-cT-KxS" id="5DF-Rd-rGX">
+                                            <rect key="frame" x="0.0" y="0.0" width="320" height="94"/>
+                                            <autoresizingMask key="autoresizingMask"/>
+                                            <subviews>
+                                                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="romania" translatesAutoresizingMaskIntoConstraints="NO" id="CjN-fV-izJ">
+                                                    <rect key="frame" x="16" y="35" width="24" height="24"/>
+                                                    <constraints>
+                                                        <constraint firstAttribute="height" constant="24" id="4lO-KO-eJY"/>
+                                                        <constraint firstAttribute="width" constant="24" id="wOh-n8-2Ed"/>
+                                                    </constraints>
+                                                </imageView>
+                                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Romania" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="KVv-xk-gjf">
+                                                    <rect key="frame" x="56" y="36.5" width="168" height="21"/>
+                                                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                                    <nil key="textColor"/>
+                                                    <nil key="highlightedColor"/>
+                                                </label>
+                                                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="rxY-RD-dAa">
+                                                    <rect key="frame" x="16" y="92" width="304" height="2"/>
+                                                    <color key="backgroundColor" systemColor="systemGroupedBackgroundColor"/>
+                                                    <constraints>
+                                                        <constraint firstAttribute="height" constant="2" id="eUM-hn-aCD"/>
+                                                    </constraints>
+                                                </view>
+                                            </subviews>
+                                            <constraints>
+                                                <constraint firstAttribute="bottom" secondItem="rxY-RD-dAa" secondAttribute="bottom" id="9bB-9V-NG1"/>
+                                                <constraint firstItem="rxY-RD-dAa" firstAttribute="leading" secondItem="5DF-Rd-rGX" secondAttribute="leading" constant="16" id="ANA-OV-VB3"/>
+                                                <constraint firstAttribute="trailingMargin" secondItem="KVv-xk-gjf" secondAttribute="trailing" constant="88" id="U7w-TS-016"/>
+                                                <constraint firstAttribute="trailing" secondItem="rxY-RD-dAa" secondAttribute="trailing" id="YpY-FT-NbH"/>
+                                                <constraint firstItem="CjN-fV-izJ" firstAttribute="leading" secondItem="5DF-Rd-rGX" secondAttribute="leading" constant="16" id="lBQ-Ju-FhL"/>
+                                                <constraint firstItem="KVv-xk-gjf" firstAttribute="centerY" secondItem="CjN-fV-izJ" secondAttribute="centerY" id="pRx-yj-QjG"/>
+                                                <constraint firstItem="KVv-xk-gjf" firstAttribute="leading" secondItem="CjN-fV-izJ" secondAttribute="trailing" constant="16" id="rdZ-fS-V7Z"/>
+                                                <constraint firstItem="CjN-fV-izJ" firstAttribute="centerY" secondItem="5DF-Rd-rGX" secondAttribute="centerY" id="ty4-uv-E5f"/>
+                                            </constraints>
+                                        </tableViewCellContentView>
+                                    </tableViewCell>
+                                    <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" rowHeight="94" id="1hO-EN-hLD">
+                                        <rect key="frame" x="0.0" y="1532" width="320" height="94"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" preservesSuperviewLayoutMargins="YES" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="1hO-EN-hLD" id="nsH-HD-dx2">
                                             <rect key="frame" x="0.0" y="0.0" width="320" height="94"/>
@@ -1970,6 +2010,87 @@
             </objects>
             <point key="canvasLocation" x="10493" y="187"/>
         </scene>
+        <!--Romania View Controller-->
+        <scene sceneID="NmX-bI-RsG">
+            <objects>
+                <viewController storyboardIdentifier="romaniaViewController" id="yF3-l8-e2O" customClass="RomaniaViewController" customModule="Regions_Application" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="qRI-n8-sPF">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" spacing="10" translatesAutoresizingMaskIntoConstraints="NO" id="yiS-iv-OFr">
+                                <rect key="frame" x="20" y="20" width="280" height="50"/>
+                                <subviews>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="z61-c1-qGh">
+                                        <rect key="frame" x="0.0" y="0.0" width="86.5" height="50"/>
+                                        <fontDescription key="fontDescription" name="Palatino-Bold" family="Palatino" pointSize="16"/>
+                                        <state key="normal" title="Person"/>
+                                        <connections>
+                                            <action selector="didTapPersonButton:" destination="yF3-l8-e2O" eventType="touchUpInside" id="oNy-aS-RkC"/>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="FgW-Y2-aqG">
+                                        <rect key="frame" x="96.5" y="0.0" width="87" height="50"/>
+                                        <fontDescription key="fontDescription" name="Palatino-Bold" family="Palatino" pointSize="16"/>
+                                        <state key="normal" title="Diplomatic"/>
+                                        <connections>
+                                            <action selector="didTapDiplomaticButton:" destination="yF3-l8-e2O" eventType="touchUpInside" id="eXO-di-zLg"/>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="HRs-Ds-LaT">
+                                        <rect key="frame" x="193.5" y="0.0" width="86.5" height="50"/>
+                                        <fontDescription key="fontDescription" name="Palatino-Bold" family="Palatino" pointSize="16"/>
+                                        <state key="normal" title="Military"/>
+                                        <connections>
+                                            <action selector="didTapMilitaryButton:" destination="yF3-l8-e2O" eventType="touchUpInside" id="nBX-d0-lRm"/>
+                                        </connections>
+                                    </button>
+                                </subviews>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="50" id="Xez-pI-hUP"/>
+                                </constraints>
+                            </stackView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Enter region code:" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="cdF-qV-oAm">
+                                <rect key="frame" x="20" y="122" width="280" height="23.5"/>
+                                <fontDescription key="fontDescription" name="Palatino-Bold" family="Palatino" pointSize="21"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="center" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="QYq-mg-6BB">
+                                <rect key="frame" x="120" y="259" width="80" height="50"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="50" id="HaV-Id-Y6F"/>
+                                    <constraint firstAttribute="width" constant="80" id="MDj-NE-dRn"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="Palatino-Bold" family="Palatino" pointSize="25"/>
+                                <textInputTraits key="textInputTraits"/>
+                            </textField>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="1yC-ut-UIq"/>
+                        <color key="backgroundColor" systemColor="opaqueSeparatorColor"/>
+                        <constraints>
+                            <constraint firstItem="yiS-iv-OFr" firstAttribute="leading" secondItem="1yC-ut-UIq" secondAttribute="leading" constant="20" id="0WA-Cp-cAe"/>
+                            <constraint firstItem="1yC-ut-UIq" firstAttribute="trailing" secondItem="cdF-qV-oAm" secondAttribute="trailing" constant="20" id="3Tv-7p-9RW"/>
+                            <constraint firstItem="cdF-qV-oAm" firstAttribute="leading" secondItem="1yC-ut-UIq" secondAttribute="leading" constant="20" id="Ehz-ZK-9sS"/>
+                            <constraint firstItem="1yC-ut-UIq" firstAttribute="trailing" secondItem="yiS-iv-OFr" secondAttribute="trailing" constant="20" id="Me9-qO-gVh"/>
+                            <constraint firstItem="QYq-mg-6BB" firstAttribute="centerY" secondItem="qRI-n8-sPF" secondAttribute="centerY" id="koK-G2-c7R"/>
+                            <constraint firstItem="QYq-mg-6BB" firstAttribute="centerX" secondItem="qRI-n8-sPF" secondAttribute="centerX" id="tia-xM-XeG"/>
+                            <constraint firstItem="yiS-iv-OFr" firstAttribute="top" secondItem="1yC-ut-UIq" secondAttribute="top" constant="20" id="uGb-Fs-hzb"/>
+                            <constraint firstItem="cdF-qV-oAm" firstAttribute="top" secondItem="yiS-iv-OFr" secondAttribute="bottom" constant="52" id="yQl-VF-RM1"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="diplomaticButton" destination="FgW-Y2-aqG" id="TBd-6h-zAm"/>
+                        <outlet property="label" destination="cdF-qV-oAm" id="Xpy-F9-4Ho"/>
+                        <outlet property="militaryButton" destination="HRs-Ds-LaT" id="YDM-2r-Ft5"/>
+                        <outlet property="personButton" destination="z61-c1-qGh" id="Yvt-F5-ewD"/>
+                        <outlet property="textField" destination="QYq-mg-6BB" id="A1O-Gi-Ozr"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="kS1-LU-RMP" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="11139" y="188"/>
+        </scene>
         <!--Camera View Controller-->
         <scene sceneID="kq3-46-eSO">
             <objects>
@@ -1983,7 +2104,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="kMQ-8M-qVq" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="11280" y="190"/>
+            <point key="canvasLocation" x="11794" y="184"/>
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="Ijw-qs-eul">
@@ -2019,6 +2140,7 @@
         <image name="moldova" width="1024" height="1024"/>
         <image name="playstore" width="512" height="512"/>
         <image name="poland" width="1024" height="1024"/>
+        <image name="romania" width="1024" height="1024"/>
         <image name="slovakia" width="1024" height="1024"/>
         <image name="turkey" width="1024" height="1024"/>
         <image name="ukr" width="1024" height="1024"/>
