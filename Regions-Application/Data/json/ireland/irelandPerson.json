@@ -1,0 +1,134 @@
+{
+    "regions": [
+        {
+            "id": "1",
+            "name": "Cork",
+            "code": "C"
+        },
+        {
+            "id": "2",
+            "name": "Clare",
+            "code": "CE"
+        },
+        {
+            "id": "3",
+            "name": "Cavan",
+            "code": "CN"
+        },
+        {
+            "id": "4",
+            "name": "Carlow",
+            "code": "CW"
+        },
+        {
+            "id": "5",
+            "name": "Dublin",
+            "code": "D"
+        },
+        {
+            "id": "6",
+            "name": "Donegal",
+            "code": "DL"
+        },
+        {
+            "id": "7",
+            "name": "Galway",
+            "code": "G"
+        },
+        {
+            "id": "8",
+            "name": "Kildare",
+            "code": "KE"
+        },
+        {
+            "id": "9",
+            "name": "Kilkenny",
+            "code": "KK"
+        },
+        {
+            "id": "10",
+            "name": "Kerry",
+            "code": "KY"
+        },
+        {
+            "id": "11",
+            "name": "Limerick",
+            "code": "L"
+        },
+        {
+            "id": "12",
+            "name": "Longford",
+            "code": "LD"
+        },
+        {
+            "id": "13",
+            "name": "Louth",
+            "code": "LH"
+        },
+        {
+            "id": "14",
+            "name": "Leitrim",
+            "code": "LM"
+        },
+        {
+            "id": "15",
+            "name": "Laois",
+            "code": "LS"
+        },
+        {
+            "id": "16",
+            "name": "Meath",
+            "code": "MH"
+        },
+        {
+            "id": "17",
+            "name": "Monaghan",
+            "code": "MN"
+        },
+        {
+            "id": "18",
+            "name": "Mayo",
+            "code": "MO"
+        },
+        {
+            "id": "19",
+            "name": "Offaly",
+            "code": "OY"
+        },
+        {
+            "id": "20",
+            "name": "Roscommon",
+            "code": "RN"
+        },
+        {
+            "id": "21",
+            "name": "Sligo",
+            "code": "SO"
+        },
+        {
+            "id": "22",
+            "name": "Tipperary",
+            "code": "T"
+        },
+        {
+            "id": "23",
+            "name": "Waterford",
+            "code": "W"
+        },
+        {
+            "id": "24",
+            "name": "Westmeath",
+            "code": "WH"
+        },
+        {
+            "id": "25",
+            "name": "Wexford",
+            "code": "WX"
+        },
+        {
+            "id": "26",
+            "name": "Wicklow",
+            "code": "WW"
+        }
+    ]
+}
