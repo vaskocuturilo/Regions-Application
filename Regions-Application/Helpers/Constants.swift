@@ -24,5 +24,6 @@ struct Constants {
         static let Austria = "http://localhost:8080/api/austria"
         static let Greece = "http://localhost:8080/api/greece"
         static let Ireland = "http://localhost:8080/api/ireland"
+        static let Romania = "http://localhost:8080/api/romania"
     }
 }
