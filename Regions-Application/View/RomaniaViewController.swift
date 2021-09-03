@@ -12,6 +12,7 @@ class RomaniaViewController: UIViewController, UIGestureRecognizerDelegate, UITe
     let check = Reachability()
     let messages = Messages()
     let jsonLoad = JsonLoader()
+    let singleWindow = SingelPopUpWindow()
     
     var searchTimer: Timer?
     
@@ -64,6 +65,8 @@ class RomaniaViewController: UIViewController, UIGestureRecognizerDelegate, UITe
         label.numberOfLines = 0
         
         self.textField.autocapitalizationType = UITextAutocapitalizationType.allCharacters
+        
+        singleWindow.handleShowPopUp(title: "Person number", description: Descriptions.Global.Person)
     }
     
     @IBAction func didTapPersonButton(_ sender: Any) {

@@ -13,6 +13,7 @@ class SlovakiaViewController: UIViewController, UIGestureRecognizerDelegate, UIT
     let check = Reachability()
     let messages = Messages()
     let jsonLoad = JsonLoader()
+    let singleWindow = SingelPopUpWindow()
     
     @IBOutlet weak var label: UILabel!
     
@@ -63,6 +64,8 @@ class SlovakiaViewController: UIViewController, UIGestureRecognizerDelegate, UIT
         self.textField.autocapitalizationType = UITextAutocapitalizationType.allCharacters
         
         label.numberOfLines = 0
+        
+        singleWindow.handleShowPopUp(title: "Person number", description: Descriptions.Global.Person)
     }
     
     @IBAction func didTapPersonButton(_ sender: Any) {

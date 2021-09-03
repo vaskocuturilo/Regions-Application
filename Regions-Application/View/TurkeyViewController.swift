@@ -13,6 +13,7 @@ class TurkeyViewController: UIViewController, UIGestureRecognizerDelegate, UITex
     let check = Reachability()
     let messages = Messages()
     let jsonLoad = JsonLoader()
+    let singleWindow = SingelPopUpWindow()
     
     @IBOutlet weak var label: UILabel!
     
@@ -64,6 +65,8 @@ class TurkeyViewController: UIViewController, UIGestureRecognizerDelegate, UITex
         title = "Turkey"
         
         label.numberOfLines = 0
+        
+        singleWindow.handleShowPopUp(title: "Person number", description: Descriptions.Global.Person)
     }
     
     @IBAction func didTapPersonButton(_ sender: Any) {

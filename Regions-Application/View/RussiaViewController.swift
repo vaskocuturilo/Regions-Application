@@ -14,6 +14,8 @@ class RussiaViewController: UIViewController, UIGestureRecognizerDelegate, UITex
     let messages = Messages()
     let jsonLoad = JsonLoader()
     
+    let singleWindow = SingelPopUpWindow()
+    
     @IBOutlet weak var label: UILabel!
     
     @IBOutlet weak var textField: UITextField!
@@ -62,6 +64,7 @@ class RussiaViewController: UIViewController, UIGestureRecognizerDelegate, UITex
         title = "Russia"
         
         label.numberOfLines = 0
+        singleWindow.handleShowPopUp(title: "Частные номера.", description: Descriptions.Russia.Person)
     }
     
     @IBAction func didTapPersonButton(_ sender: Any) {
@@ -103,6 +106,8 @@ class RussiaViewController: UIViewController, UIGestureRecognizerDelegate, UITex
             isPersonChecked = false
             isDiplomaticChecked = true
             isMilitaryChecked = false
+            
+            singleWindow.handleShowPopUp(title: "Дипломатические номера.", description: Descriptions.Russia.Diplomatic)
         }
     }
     
@@ -128,7 +133,7 @@ class RussiaViewController: UIViewController, UIGestureRecognizerDelegate, UITex
             isPersonChecked = false
             isDiplomaticChecked = false
             isMilitaryChecked = true
-            
+            singleWindow.handleShowPopUp(title: "Военные номера.", description: Descriptions.Russia.Military)
         }
     }
     

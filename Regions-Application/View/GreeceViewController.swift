@@ -13,6 +13,7 @@ class GreeceViewController: UIViewController, UIGestureRecognizerDelegate, UITex
     let check = Reachability()
     let messages = Messages()
     let jsonLoad = JsonLoader()
+    let singleWindow = SingelPopUpWindow()
     
     var searchTimer: Timer?
     
@@ -64,6 +65,8 @@ class GreeceViewController: UIViewController, UIGestureRecognizerDelegate, UITex
         
         textField.keyboardType = UIKeyboardType.alphabet
         textField.autocapitalizationType = UITextAutocapitalizationType.allCharacters
+        
+        singleWindow.handleShowPopUp(title: "Person number", description: Descriptions.Global.Person)
     }
     
     @IBAction func didTapPersonButton(_ sender: Any) {

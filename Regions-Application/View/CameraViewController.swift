@@ -15,6 +15,8 @@ class CameraViewController: UIViewController, UIGestureRecognizerDelegate {
     private var scanImageView = ScanImageView(frame: .zero)
     private var ocrTextView = OcrTextView(frame: .zero, textContainer: nil)
     
+    private let singleWindow = SingelPopUpWindow()
+    
     private var ocrRequest = VNRecognizeTextRequest(completionHandler: nil)
     
     private var json = JsonLoader()
@@ -32,6 +34,8 @@ class CameraViewController: UIViewController, UIGestureRecognizerDelegate {
         navigationController?.interactivePopGestureRecognizer?.delegate = self
         
         title = "Recognition car plate"
+        
+        singleWindow.handleShowPopUp(title: "Recognition car plate", description: Descriptions.Recognition.Description)
     }
     
     private func configure() {

@@ -13,6 +13,7 @@ class UkraineViewController: UIViewController, UIGestureRecognizerDelegate, UITe
     let check = Reachability()
     let messages = Messages()
     let jsonLoad = JsonLoader()
+    let singleWindow = SingelPopUpWindow()
     
     var searchTimer: Timer?
     
@@ -65,6 +66,8 @@ class UkraineViewController: UIViewController, UIGestureRecognizerDelegate, UITe
         label.numberOfLines = 0
         
         self.textField.autocapitalizationType = UITextAutocapitalizationType.allCharacters
+        
+        singleWindow.handleShowPopUp(title: "Частные номера.", description: Descriptions.Ukraine.Person)
     }
     
     @IBAction func didTapPersonButton(_ sender: Any) {

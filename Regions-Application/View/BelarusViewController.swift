@@ -15,6 +15,7 @@ class BelarusViewController: UIViewController, UIGestureRecognizerDelegate, UITe
     let check = Reachability()
     let messages = Messages()
     let jsonLoad = JsonLoader()
+    let singleWindow = SingelPopUpWindow()
     
     var searchTimer: Timer?
     
@@ -62,6 +63,8 @@ class BelarusViewController: UIViewController, UIGestureRecognizerDelegate, UITe
         title = "Belarus"
         
         label.numberOfLines = 0
+        
+        singleWindow.handleShowPopUp(title: "Частные номера", description: Descriptions.Belarus.Person)
     }
     
     @IBAction func didTapPersonButton(_ sender: Any) {
