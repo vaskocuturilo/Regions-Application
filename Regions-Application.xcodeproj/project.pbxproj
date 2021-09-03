@@ -42,6 +42,10 @@
 		728C98F526DB8CB3006AF3FA /* ScanButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 728C98F426DB8CB3006AF3FA /* ScanButton.swift */; };
 		728C98FB26DB8DC6006AF3FA /* ScanImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 728C98FA26DB8DC6006AF3FA /* ScanImageView.swift */; };
 		728C990326DB8E84006AF3FA /* OcrTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 728C990226DB8E84006AF3FA /* OcrTextView.swift */; };
+		72909A6526E27682007C227A /* UIView+Message.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72909A6426E27682007C227A /* UIView+Message.swift */; };
+		72909A7626E27783007C227A /* MyPopUpView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72909A7526E27783007C227A /* MyPopUpView.swift */; };
+		72909A7B26E2781C007C227A /* SingelPopUpWindow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72909A7A26E2781C007C227A /* SingelPopUpWindow.swift */; };
+		72909A8426E28195007C227A /* Descriptions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72909A8326E28195007C227A /* Descriptions.swift */; };
 		729703AA26C7F6E500CE82E5 /* RussiaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 729703A926C7F6E500CE82E5 /* RussiaViewController.swift */; };
 		729703B126C7F76A00CE82E5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 72D4B1F526C17F840029AB3C /* Main.storyboard */; };
 		729703B526C7F7C800CE82E5 /* MenuTableView.swift in Resources */ = {isa = PBXBuildFile; fileRef = 72D4B22526C180FF0029AB3C /* MenuTableView.swift */; };
@@ -132,6 +136,10 @@
 		728C98F426DB8CB3006AF3FA /* ScanButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScanButton.swift; sourceTree = "<group>"; };
 		728C98FA26DB8DC6006AF3FA /* ScanImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScanImageView.swift; sourceTree = "<group>"; };
 		728C990226DB8E84006AF3FA /* OcrTextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OcrTextView.swift; sourceTree = "<group>"; };
+		72909A6426E27682007C227A /* UIView+Message.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIView+Message.swift"; sourceTree = "<group>"; };
+		72909A7526E27783007C227A /* MyPopUpView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyPopUpView.swift; sourceTree = "<group>"; };
+		72909A7A26E2781C007C227A /* SingelPopUpWindow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SingelPopUpWindow.swift; sourceTree = "<group>"; };
+		72909A8326E28195007C227A /* Descriptions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Descriptions.swift; sourceTree = "<group>"; };
 		729703A926C7F6E500CE82E5 /* RussiaViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RussiaViewController.swift; sourceTree = "<group>"; };
 		72A11A7C26C4556C004F8FCB /* Messages.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Messages.swift; sourceTree = "<group>"; };
 		72A6F14926CF07AB00E84774 /* CzechViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CzechViewController.swift; sourceTree = "<group>"; };
@@ -365,6 +373,24 @@
 			path = Recognition;
 			sourceTree = "<group>";
 		};
+		72909A6326E27613007C227A /* PopUp */ = {
+			isa = PBXGroup;
+			children = (
+				72909A6426E27682007C227A /* UIView+Message.swift */,
+				72909A7526E27783007C227A /* MyPopUpView.swift */,
+				72909A7A26E2781C007C227A /* SingelPopUpWindow.swift */,
+			);
+			path = PopUp;
+			sourceTree = "<group>";
+		};
+		72909A8226E2817D007C227A /* Description */ = {
+			isa = PBXGroup;
+			children = (
+				72909A8326E28195007C227A /* Descriptions.swift */,
+			);
+			path = Description;
+			sourceTree = "<group>";
+		};
 		72A11A7B26C45553004F8FCB /* Helpers */ = {
 			isa = PBXGroup;
 			children = (
@@ -470,6 +496,8 @@
 		72D4B1EE26C17F840029AB3C /* Regions-Application */ = {
 			isa = PBXGroup;
 			children = (
+				72909A8226E2817D007C227A /* Description */,
+				72909A6326E27613007C227A /* PopUp */,
 				728C98F926DB8DA3006AF3FA /* Recognition */,
 				7288078626D1B89E00C670CB /* Extensions */,
 				72CB74A626C7E61D007435AB /* Data */,
@@ -782,14 +810,17 @@
 				7224631E26C45FDB00D7E215 /* SlideTransition.swift in Sources */,
 				728C98FB26DB8DC6006AF3FA /* ScanImageView.swift in Sources */,
 				7249EB7926DD08FB00F660A4 /* GreeceViewController.swift in Sources */,
+				72909A6526E27682007C227A /* UIView+Message.swift in Sources */,
 				72A6F14A26CF07AB00E84774 /* CzechViewController.swift in Sources */,
 				72FF218126D25F36004B98FC /* LithuaniaViewController.swift in Sources */,
 				722A952726CB8E4800A45545 /* CameraViewController.swift in Sources */,
 				72D4B22626C180FF0029AB3C /* MenuTableView.swift in Sources */,
 				72FF218626D25FA2004B98FC /* TurkeyViewController.swift in Sources */,
+				72909A7626E27783007C227A /* MyPopUpView.swift in Sources */,
 				7203DABA26C42C290057BA20 /* APIServices.swift in Sources */,
 				72FF217C26D25ED3004B98FC /* MoldovaViewController.swift in Sources */,
 				728C98F526DB8CB3006AF3FA /* ScanButton.swift in Sources */,
+				72909A7B26E2781C007C227A /* SingelPopUpWindow.swift in Sources */,
 				7243167026DA56E600E9BEA3 /* AustriaViewController.swift in Sources */,
 				7203DAAB26C428FB0057BA20 /* RootViewController.swift in Sources */,
 				7243165F26DA3A4100E9BEA3 /* BulgariaViewController.swift in Sources */,
@@ -805,6 +836,7 @@
 				72FF219026D260D8004B98FC /* GermanyViewController.swift in Sources */,
 				727A4AC926C63C850093879A /* ReadJson.swift in Sources */,
 				7274FD9526C9508000DF5D85 /* JsonLoader.swift in Sources */,
+				72909A8426E28195007C227A /* Descriptions.swift in Sources */,
 				72E7E3DB26D8157E00E6B2DA /* SlovakiaViewController.swift in Sources */,
 				7274FD9026C93EA500DF5D85 /* AfterOneSecondTextField.swift in Sources */,
 				72D4B1F226C17F840029AB3C /* SceneDelegate.swift in Sources */,
