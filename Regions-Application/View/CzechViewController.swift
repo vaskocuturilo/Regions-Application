@@ -13,6 +13,7 @@ class CzechViewController: UIViewController, UIGestureRecognizerDelegate, UIText
     let check = Reachability()
     let messages = Messages()
     let jsonLoad = JsonLoader()
+    let singleWindow = SingelPopUpWindow()
     
     @IBOutlet weak var label: UILabel!
     @IBOutlet weak var textField: UITextField!
@@ -66,6 +67,7 @@ class CzechViewController: UIViewController, UIGestureRecognizerDelegate, UIText
         
         label.numberOfLines = 0
         
+        singleWindow.handleShowPopUp(title: "Person number", description: Descriptions.Global.Person)
     }
     
     @IBAction func didTapPersonButton(_ sender: Any) {
@@ -106,7 +108,6 @@ class CzechViewController: UIViewController, UIGestureRecognizerDelegate, UIText
         
         searchTimer = Timer.scheduledTimer(timeInterval: 1.0, target: self, selector: #selector(searchForKeyword(_:)), userInfo: textField.text!, repeats: false)
     }
-    
     
     @objc func searchForKeyword(_ timer: Timer) {
         if isPersonChecked {

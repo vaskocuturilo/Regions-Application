@@ -13,6 +13,7 @@ class EstoniaViewController: UIViewController, UIGestureRecognizerDelegate, UITe
     let check = Reachability()
     let messages = Messages()
     let jsonLoad = JsonLoader()
+    let singleWindow = SingelPopUpWindow()
     
     @IBOutlet weak var label: UILabel!
     
@@ -66,6 +67,8 @@ class EstoniaViewController: UIViewController, UIGestureRecognizerDelegate, UITe
         self.textField.autocapitalizationType = UITextAutocapitalizationType.allCharacters
         
         label.numberOfLines = 0
+        
+        singleWindow.handleShowPopUp(title: "Person number", description: Descriptions.Global.Person)
     }
     
     @IBAction func didTapPersonButton(_ sender: Any) {
