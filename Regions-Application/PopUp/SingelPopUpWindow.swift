@@ -12,7 +12,7 @@ import CoreData
 class SingelPopUpWindow {
     
     var context:NSManagedObjectContext!
-    let appDelegate = UIApplication.shared.delegate as! AppDelegate //Singlton instance
+    let appDelegate = UIApplication.shared.delegate as! AppDelegate
     
     func setupAttributes() -> EKAttributes {
         var attributes = EKAttributes.centerFloat
@@ -101,6 +101,6 @@ class SingelPopUpWindow {
     }
     
     @objc func handleShowPopUp(title: String, description: String) {
-        SwiftEntryKit.display(entry: MyPopUpView(with: setupMessage(title: title, description: description)), using: setupAttributes())
+            SwiftEntryKit.display(entry: MyPopUpView(with: setupMessage(title: title, description: description)), using: setupAttributes())
     }
 }

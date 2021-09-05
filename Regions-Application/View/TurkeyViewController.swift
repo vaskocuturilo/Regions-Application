@@ -13,14 +13,10 @@ class TurkeyViewController: UIViewController, UIGestureRecognizerDelegate, UITex
     let check = Reachability()
     let messages = Messages()
     let jsonLoad = JsonLoader()
-    let singleWindow = SingelPopUpWindow()
+    let showPopUp = MyPopUpShow()
     
     @IBOutlet weak var label: UILabel!
-    
     @IBOutlet weak var textField: UITextField!
-    
-    var searchTimer: Timer?
-    
     @IBOutlet weak var personButton: UIButton!
     @IBOutlet weak var diplomaticButton: UIButton!
     @IBOutlet weak var militaryButton: UIButton!
@@ -28,12 +24,10 @@ class TurkeyViewController: UIViewController, UIGestureRecognizerDelegate, UITex
     var isPersonChecked = true
     var isDiplomaticChecked = false
     var isMilitaryChecked = false
+    var searchTimer: Timer?
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        
-        // Do any additional setup after loading the view.
-        
         let backBTN = UIBarButtonItem(image: UIImage(named: "Image"),
                                       style: .plain,
                                       target: navigationController,
@@ -63,10 +57,13 @@ class TurkeyViewController: UIViewController, UIGestureRecognizerDelegate, UITex
         isDiplomaticChecked = false
         isMilitaryChecked = false
         title = "Turkey"
-        
         label.numberOfLines = 0
         
-        singleWindow.handleShowPopUp(title: "Person number", description: Descriptions.Global.Person)
+        showPopUp.isWasAlreadyShown(
+            textField: self.textField,
+            title: "Person number",
+            description: Descriptions.EuropaUnion.Person,
+            key: "isWasAlreadyShownTurkeyPerson")
     }
     
     @IBAction func didTapPersonButton(_ sender: Any) {

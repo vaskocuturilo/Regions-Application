@@ -13,7 +13,7 @@ class UkraineViewController: UIViewController, UIGestureRecognizerDelegate, UITe
     let check = Reachability()
     let messages = Messages()
     let jsonLoad = JsonLoader()
-    let singleWindow = SingelPopUpWindow()
+    let showPopUp = MyPopUpShow()
     
     var searchTimer: Timer?
     
@@ -42,7 +42,6 @@ class UkraineViewController: UIViewController, UIGestureRecognizerDelegate, UITe
         
         textField.delegate = self
         textField.tintColor = .clear
-        textField.becomeFirstResponder()
         self.textField.addTarget(self, action: #selector(textFieldDidEditingChanged(_:)), for: .editingChanged)
         
         textField.addShadowToTextField(cornerRadius: 3)
@@ -65,9 +64,14 @@ class UkraineViewController: UIViewController, UIGestureRecognizerDelegate, UITe
         
         label.numberOfLines = 0
         
-        self.textField.autocapitalizationType = UITextAutocapitalizationType.allCharacters
+        textField.keyboardType = UIKeyboardType.alphabet
+        textField.autocapitalizationType = UITextAutocapitalizationType.allCharacters
         
-        singleWindow.handleShowPopUp(title: "Частные номера.", description: Descriptions.Ukraine.Person)
+        showPopUp.isWasAlreadyShown(
+            textField: self.textField,
+            title: "Person number",
+            description: Descriptions.Russia.Person,
+            key: "isWasAlreadyShownUkrainePerson")
     }
     
     @IBAction func didTapPersonButton(_ sender: Any) {

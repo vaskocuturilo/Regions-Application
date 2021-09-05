@@ -13,9 +13,7 @@ class GreeceViewController: UIViewController, UIGestureRecognizerDelegate, UITex
     let check = Reachability()
     let messages = Messages()
     let jsonLoad = JsonLoader()
-    let singleWindow = SingelPopUpWindow()
-    
-    var searchTimer: Timer?
+    let showPopUp = MyPopUpShow()
     
     @IBOutlet weak var personButton: UIButton!
     @IBOutlet weak var diplomaticButton: UIButton!
@@ -27,6 +25,7 @@ class GreeceViewController: UIViewController, UIGestureRecognizerDelegate, UITex
     var isPersonChecked = true
     var isDiplomaticChecked = false
     var isMilitaryChecked = false
+    var searchTimer: Timer?
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -60,13 +59,16 @@ class GreeceViewController: UIViewController, UIGestureRecognizerDelegate, UITex
         isDiplomaticChecked = false
         isMilitaryChecked = false
         title = "Greece"
-        
         label.numberOfLines = 0
         
         textField.keyboardType = UIKeyboardType.alphabet
         textField.autocapitalizationType = UITextAutocapitalizationType.allCharacters
         
-        singleWindow.handleShowPopUp(title: "Person number", description: Descriptions.Global.Person)
+        showPopUp.isWasAlreadyShown(
+            textField: self.textField,
+            title: "Person number",
+            description: Descriptions.EuropaUnion.Person,
+            key: "isWasAlreadyShownGreecePerson")
     }
     
     @IBAction func didTapPersonButton(_ sender: Any) {

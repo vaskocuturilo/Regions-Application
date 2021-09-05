@@ -13,9 +13,7 @@ class IrelandViewController: UIViewController, UIGestureRecognizerDelegate, UITe
     let check = Reachability()
     let messages = Messages()
     let jsonLoad = JsonLoader()
-    let singleWindow = SingelPopUpWindow()
-    
-    var searchTimer: Timer?
+    let showPopUp = MyPopUpShow()
     
     @IBOutlet weak var personButton: UIButton!
     @IBOutlet weak var diplomaticButton: UIButton!
@@ -27,6 +25,7 @@ class IrelandViewController: UIViewController, UIGestureRecognizerDelegate, UITe
     var isPersonChecked = true
     var isDiplomaticChecked = false
     var isMilitaryChecked = false
+    var searchTimer: Timer?
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -60,12 +59,16 @@ class IrelandViewController: UIViewController, UIGestureRecognizerDelegate, UITe
         isDiplomaticChecked = false
         isMilitaryChecked = false
         title = "Ireland"
-        
         label.numberOfLines = 0
         
-        self.textField.autocapitalizationType = UITextAutocapitalizationType.allCharacters
+        textField.keyboardType = UIKeyboardType.alphabet
+        textField.autocapitalizationType = UITextAutocapitalizationType.allCharacters
         
-        singleWindow.handleShowPopUp(title: "Person number", description: Descriptions.Global.Person)
+        showPopUp.isWasAlreadyShown(
+            textField: self.textField,
+            title: "Person number",
+            description: Descriptions.EuropaUnion.Person,
+            key: "isWasAlreadyShownIrelandPerson")
     }
     
     @IBAction func didTapPersonButton(_ sender: Any) {

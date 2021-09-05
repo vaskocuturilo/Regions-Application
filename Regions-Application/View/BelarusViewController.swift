@@ -8,24 +8,21 @@
 import UIKit
 
 class BelarusViewController: UIViewController, UIGestureRecognizerDelegate, UITextFieldDelegate {
-    
-    @IBOutlet weak var textField: UITextField!
-    @IBOutlet weak var label: UILabel!
     let apiService = APIServices()
     let check = Reachability()
     let messages = Messages()
     let jsonLoad = JsonLoader()
-    let singleWindow = SingelPopUpWindow()
-    
-    var searchTimer: Timer?
+    let showPopUp = MyPopUpShow()
     
     @IBOutlet weak var personButton: UIButton!
     @IBOutlet weak var diplomaticButton: UIButton!
     @IBOutlet weak var militaryButton: UIButton!
-    
+    @IBOutlet weak var textField: UITextField!
+    @IBOutlet weak var label: UILabel!
     var isPersonChecked = true
     var isDiplomaticChecked = false
     var isMilitaryChecked = false
+    var searchTimer: Timer?
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -61,10 +58,13 @@ class BelarusViewController: UIViewController, UIGestureRecognizerDelegate, UITe
         isDiplomaticChecked = false
         isMilitaryChecked = false
         title = "Belarus"
-        
         label.numberOfLines = 0
         
-        singleWindow.handleShowPopUp(title: "Частные номера", description: Descriptions.Belarus.Person)
+        showPopUp.isWasAlreadyShown(
+            textField: self.textField,
+            title: "Person number",
+            description: Descriptions.Belarus.Person,
+            key: "isWasAlreadyShownBelarusPerson")
     }
     
     @IBAction func didTapPersonButton(_ sender: Any) {

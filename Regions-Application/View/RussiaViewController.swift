@@ -13,15 +13,10 @@ class RussiaViewController: UIViewController, UIGestureRecognizerDelegate, UITex
     let check = Reachability()
     let messages = Messages()
     let jsonLoad = JsonLoader()
-    
-    let singleWindow = SingelPopUpWindow()
+    let showPopUp = MyPopUpShow()
     
     @IBOutlet weak var label: UILabel!
-    
     @IBOutlet weak var textField: UITextField!
-    
-    var searchTimer: Timer?
-    
     @IBOutlet weak var personButton: UIButton!
     @IBOutlet weak var diplomaticButton: UIButton!
     @IBOutlet weak var militaryButton: UIButton!
@@ -29,10 +24,10 @@ class RussiaViewController: UIViewController, UIGestureRecognizerDelegate, UITex
     var isPersonChecked = true
     var isDiplomaticChecked = false
     var isMilitaryChecked = false
+    var searchTimer: Timer?
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
         let backBTN = UIBarButtonItem(image: UIImage(named: "Image"),
                                       style: .plain,
                                       target: navigationController,
@@ -42,7 +37,6 @@ class RussiaViewController: UIViewController, UIGestureRecognizerDelegate, UITex
         
         textField.delegate = self
         textField.tintColor = .clear
-        textField.becomeFirstResponder()
         self.textField.addTarget(self, action: #selector(textFieldDidEditingChanged(_:)), for: .editingChanged)
         
         textField.addShadowToTextField(cornerRadius: 3)
@@ -61,10 +55,17 @@ class RussiaViewController: UIViewController, UIGestureRecognizerDelegate, UITex
         isPersonChecked = true
         isDiplomaticChecked = false
         isMilitaryChecked = false
+        
         title = "Russia"
         
         label.numberOfLines = 0
-        singleWindow.handleShowPopUp(title: "Частные номера.", description: Descriptions.Russia.Person)
+        
+        showPopUp.isWasAlreadyShown(
+            textField: self.textField,
+            title: "Person numbers",
+            description: Descriptions.Russia.Person,
+            key: "isWasAlreadyShownRussiaPerson")
+        
     }
     
     @IBAction func didTapPersonButton(_ sender: Any) {
@@ -86,6 +87,12 @@ class RussiaViewController: UIViewController, UIGestureRecognizerDelegate, UITex
             isPersonChecked = true
             isDiplomaticChecked = false
             isMilitaryChecked = false
+            
+            showPopUp.isWasAlreadyShown(
+                textField: self.textField,
+                title: "Person numbers",
+                description: Descriptions.Russia.Person,
+                key: "isWasAlreadyShownRussiaPerson")
         }
     }
     
@@ -107,7 +114,11 @@ class RussiaViewController: UIViewController, UIGestureRecognizerDelegate, UITex
             isDiplomaticChecked = true
             isMilitaryChecked = false
             
-            singleWindow.handleShowPopUp(title: "Дипломатические номера.", description: Descriptions.Russia.Diplomatic)
+            showPopUp.isWasAlreadyShown(
+                textField: self.textField,
+                title: "Diplomatic numbers",
+                description: Descriptions.Russia.Diplomatic,
+                key: "isWasAlreadyShownRussiaDiplomatic")
         }
     }
     
@@ -133,7 +144,12 @@ class RussiaViewController: UIViewController, UIGestureRecognizerDelegate, UITex
             isPersonChecked = false
             isDiplomaticChecked = false
             isMilitaryChecked = true
-            singleWindow.handleShowPopUp(title: "Военные номера.", description: Descriptions.Russia.Military)
+            
+            showPopUp.isWasAlreadyShown(
+                textField: self.textField,
+                title: "Military numbers",
+                description: Descriptions.Russia.Military,
+                key: "isWasAlreadyShownRussiaMilitary")
         }
     }
     

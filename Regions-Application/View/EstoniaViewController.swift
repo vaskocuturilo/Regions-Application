@@ -13,14 +13,10 @@ class EstoniaViewController: UIViewController, UIGestureRecognizerDelegate, UITe
     let check = Reachability()
     let messages = Messages()
     let jsonLoad = JsonLoader()
-    let singleWindow = SingelPopUpWindow()
+    let showPopUp = MyPopUpShow()
     
     @IBOutlet weak var label: UILabel!
-    
     @IBOutlet weak var textField: UITextField!
-    
-    var searchTimer: Timer?
-    
     @IBOutlet weak var personButton: UIButton!
     @IBOutlet weak var diplomaticButton: UIButton!
     @IBOutlet weak var militaryButton: UIButton!
@@ -28,12 +24,11 @@ class EstoniaViewController: UIViewController, UIGestureRecognizerDelegate, UITe
     var isPersonChecked = true
     var isDiplomaticChecked = false
     var isMilitaryChecked = false
+    var searchTimer: Timer?
+    
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        
-        // Do any additional setup after loading the view.
-        
         let backBTN = UIBarButtonItem(image: UIImage(named: "Image"),
                                       style: .plain,
                                       target: navigationController,
@@ -63,12 +58,16 @@ class EstoniaViewController: UIViewController, UIGestureRecognizerDelegate, UITe
         isDiplomaticChecked = false
         isMilitaryChecked = false
         title = "Estonia"
-        
-        self.textField.autocapitalizationType = UITextAutocapitalizationType.allCharacters
-        
         label.numberOfLines = 0
         
-        singleWindow.handleShowPopUp(title: "Person number", description: Descriptions.Global.Person)
+        textField.keyboardType = UIKeyboardType.alphabet
+        textField.autocapitalizationType = UITextAutocapitalizationType.allCharacters
+        
+        showPopUp.isWasAlreadyShown(
+            textField: self.textField,
+            title: "Person number",
+            description: Descriptions.EuropaUnion.Person,
+            key: "isWasAlreadyShownEstoniaPerson")
     }
     
     @IBAction func didTapPersonButton(_ sender: Any) {
