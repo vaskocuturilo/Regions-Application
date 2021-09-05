@@ -8,18 +8,14 @@
 import UIKit
 
 class PolandViewController: UIViewController, UIGestureRecognizerDelegate, UITextFieldDelegate {
-    
     let apiService = APIServices()
     let check = Reachability()
     let messages = Messages()
     let jsonLoad = JsonLoader()
-    let singleWindow = SingelPopUpWindow()
-    
-    var searchTimer: Timer?
+    let showPopUp = MyPopUpShow()
     
     @IBOutlet weak var textField: UITextField!
     @IBOutlet weak var label: UILabel!
-    
     @IBOutlet weak var personButton: UIButton!
     @IBOutlet weak var diplomaticButton: UIButton!
     @IBOutlet weak var militaryButton: UIButton!
@@ -27,11 +23,10 @@ class PolandViewController: UIViewController, UIGestureRecognizerDelegate, UITex
     var isPersonChecked = true
     var isDiplomaticChecked = false
     var isMilitaryChecked = false
+    var searchTimer: Timer?
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        
-        // Do any additional setup after loading the view.
         
         let backBTN = UIBarButtonItem(image: UIImage(named: "Image"),
                                       style: .plain,
@@ -62,12 +57,16 @@ class PolandViewController: UIViewController, UIGestureRecognizerDelegate, UITex
         isDiplomaticChecked = false
         isMilitaryChecked = false
         title = "Poland"
-        
-        self.textField.autocapitalizationType = UITextAutocapitalizationType.allCharacters
-        
         label.numberOfLines = 0
         
-        singleWindow.handleShowPopUp(title: "Person number", description: Descriptions.Global.Person)
+        textField.keyboardType = UIKeyboardType.alphabet
+        textField.autocapitalizationType = UITextAutocapitalizationType.allCharacters
+        
+        showPopUp.isWasAlreadyShown(
+            textField: self.textField,
+            title: "Person number",
+            description: Descriptions.EuropaUnion.Person,
+            key: "isWasAlreadyShownPolandPerson")
     }
     
     @IBAction func didTapPersonButton(_ sender: Any) {

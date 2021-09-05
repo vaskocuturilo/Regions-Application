@@ -22,7 +22,7 @@ struct Descriptions {
         static let Person = "Необходимо ввести номер региона который отображен на автомобильном номере частного пользования."
     }
     
-    struct Global {
+    struct EuropaUnion {
         static let Person = "You must enter the region that is displayed on the private car license plate."
     }
     

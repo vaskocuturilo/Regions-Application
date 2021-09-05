@@ -13,6 +13,7 @@ class MyPopUpView: UIView {
     private let titleLabel = UILabel()
     private let descriptionLabel = UILabel()
     private let actionButton = UIButton()
+    private let textField = UITextField()
     
     private let message: EKPopUpMessage
     
@@ -40,6 +41,7 @@ extension MyPopUpView {
         actionButton.buttonContent = self.message.button
         
         actionButton.addTarget(self, action: #selector(actionButtonPressed), for: .touchUpInside)
+        
         
         guard let themeImage = message.themeImage else { return }
         imageView = UIImageView()

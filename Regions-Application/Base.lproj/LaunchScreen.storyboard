@@ -16,15 +16,18 @@
                         <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Map-of-the-European-Union-EU-countries-shown-in-blue-37" translatesAutoresizingMaskIntoConstraints="NO" id="dwf-se-DkG">
-                                <rect key="frame" x="-265" y="77.5" width="850" height="413"/>
-                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Process in ...." textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="6Uw-eu-aSI">
+                                <rect key="frame" x="109" y="273.5" width="102" height="21"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <nil key="highlightedColor"/>
+                            </label>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
-                        <color key="backgroundColor" systemColor="opaqueSeparatorColor"/>
+                        <color key="backgroundColor" systemColor="labelColor"/>
                         <constraints>
-                            <constraint firstItem="dwf-se-DkG" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="4b7-OW-c7K"/>
-                            <constraint firstItem="dwf-se-DkG" firstAttribute="centerY" secondItem="Ze5-6b-2t3" secondAttribute="centerY" id="54Q-lw-uTr"/>
+                            <constraint firstItem="6Uw-eu-aSI" firstAttribute="centerY" secondItem="Ze5-6b-2t3" secondAttribute="centerY" id="0fM-wf-QfI"/>
+                            <constraint firstItem="6Uw-eu-aSI" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="hHE-qk-2cP"/>
                         </constraints>
                     </view>
                 </viewController>
@@ -34,9 +37,8 @@
         </scene>
     </scenes>
     <resources>
-        <image name="Map-of-the-European-Union-EU-countries-shown-in-blue-37" width="850" height="413"/>
-        <systemColor name="opaqueSeparatorColor">
-            <color red="0.77647058823529413" green="0.77647058823529413" blue="0.78431372549019607" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        <systemColor name="labelColor">
+            <color white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
         </systemColor>
     </resources>
 </document>
