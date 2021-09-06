@@ -58,6 +58,7 @@
 		72A6F14A26CF07AB00E84774 /* CzechViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72A6F14926CF07AB00E84774 /* CzechViewController.swift */; };
 		72CB748026C7B8B7007435AB /* CustomButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72CB747F26C7B8B7007435AB /* CustomButton.swift */; };
 		72CB749326C7BBAF007435AB /* BelarusViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72CB749226C7BBAF007435AB /* BelarusViewController.swift */; };
+		72D4969326E556020054564C /* InfoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72D4969226E556020054564C /* InfoViewController.swift */; };
 		72D4B1F026C17F840029AB3C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72D4B1EF26C17F840029AB3C /* AppDelegate.swift */; };
 		72D4B1F226C17F840029AB3C /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72D4B1F126C17F840029AB3C /* SceneDelegate.swift */; };
 		72D4B1FA26C17F840029AB3C /* Regions_Application.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 72D4B1F826C17F840029AB3C /* Regions_Application.xcdatamodeld */; };
@@ -147,6 +148,7 @@
 		72A6F14926CF07AB00E84774 /* CzechViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CzechViewController.swift; sourceTree = "<group>"; };
 		72CB747F26C7B8B7007435AB /* CustomButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomButton.swift; sourceTree = "<group>"; };
 		72CB749226C7BBAF007435AB /* BelarusViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BelarusViewController.swift; sourceTree = "<group>"; };
+		72D4969226E556020054564C /* InfoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoViewController.swift; sourceTree = "<group>"; };
 		72D4B1EC26C17F840029AB3C /* Regions-Application.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Regions-Application.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		72D4B1EF26C17F840029AB3C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		72D4B1F126C17F840029AB3C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -430,6 +432,7 @@
 				7249EB7826DD08FB00F660A4 /* GreeceViewController.swift */,
 				7268C71D26E14A1F00BEDE03 /* IrelandViewController.swift */,
 				7268C73A26E151E900BEDE03 /* RomaniaViewController.swift */,
+				72D4969226E556020054564C /* InfoViewController.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -843,6 +846,7 @@
 				72909A8426E28195007C227A /* Descriptions.swift in Sources */,
 				72E7E3DB26D8157E00E6B2DA /* SlovakiaViewController.swift in Sources */,
 				7274FD9026C93EA500DF5D85 /* AfterOneSecondTextField.swift in Sources */,
+				72D4969326E556020054564C /* InfoViewController.swift in Sources */,
 				72D4B1F226C17F840029AB3C /* SceneDelegate.swift in Sources */,
 				72CB748026C7B8B7007435AB /* CustomButton.swift in Sources */,
 				722A951826CB8B2B00A45545 /* Constants.swift in Sources */,

@@ -3,11 +3,53 @@
     <device id="retina4_0" orientation="portrait" appearance="light"/>
     <dependencies>
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17125"/>
+        <capability name="Image references" minToolsVersion="12.0"/>
         <capability name="Safe area layout guides" minToolsVersion="9.0"/>
         <capability name="System colors in document resources" minToolsVersion="11.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
+        <!--Info View Controller-->
+        <scene sceneID="gJz-HM-dOi">
+            <objects>
+                <viewController id="4RO-nu-zXx" customClass="InfoViewController" customModule="Regions_Application" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="CTs-y3-3UL">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="rrt-bx-PJL">
+                                <rect key="frame" x="0.0" y="44" width="320" height="479"/>
+                            </scrollView>
+                            <pageControl opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" numberOfPages="3" translatesAutoresizingMaskIntoConstraints="NO" id="q2v-Gb-b4a">
+                                <rect key="frame" x="20" y="540" width="280" height="33"/>
+                                <connections>
+                                    <action selector="pageChanged:" destination="4RO-nu-zXx" eventType="touchUpInside" id="EDJ-0T-UKo"/>
+                                </connections>
+                            </pageControl>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="6yl-B6-WMF"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="q2v-Gb-b4a" firstAttribute="top" secondItem="rrt-bx-PJL" secondAttribute="bottom" constant="17" id="1bP-G0-4Wt"/>
+                            <constraint firstItem="6yl-B6-WMF" firstAttribute="bottom" secondItem="rrt-bx-PJL" secondAttribute="bottom" constant="45" id="AeJ-kg-rIY"/>
+                            <constraint firstItem="rrt-bx-PJL" firstAttribute="top" secondItem="6yl-B6-WMF" secondAttribute="top" id="IXr-ak-VNN"/>
+                            <constraint firstItem="q2v-Gb-b4a" firstAttribute="bottom" secondItem="6yl-B6-WMF" secondAttribute="bottom" constant="5" id="NfB-TR-qUU"/>
+                            <constraint firstItem="rrt-bx-PJL" firstAttribute="trailing" secondItem="6yl-B6-WMF" secondAttribute="trailing" id="crX-SP-mw2"/>
+                            <constraint firstItem="rrt-bx-PJL" firstAttribute="leading" secondItem="6yl-B6-WMF" secondAttribute="leading" id="g6Y-mb-M3C"/>
+                            <constraint firstItem="6yl-B6-WMF" firstAttribute="trailing" secondItem="q2v-Gb-b4a" secondAttribute="trailing" constant="20" id="lo5-j7-bLa"/>
+                            <constraint firstItem="q2v-Gb-b4a" firstAttribute="leading" secondItem="6yl-B6-WMF" secondAttribute="leading" constant="20" id="pvz-Vp-2Zb"/>
+                        </constraints>
+                    </view>
+                    <navigationItem key="navigationItem" id="bMG-sT-i4z"/>
+                    <connections>
+                        <outlet property="pageControl" destination="q2v-Gb-b4a" id="85J-Ju-1xC"/>
+                        <outlet property="scrollView" destination="rrt-bx-PJL" id="Ros-eQ-Y8T"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="5Ar-MP-Qms" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="69.375" y="-505.98591549295776"/>
+        </scene>
         <!--Russia-->
         <scene sceneID="tne-QT-ifu">
             <objects>
@@ -23,6 +65,12 @@
                         <barButtonItem key="leftBarButtonItem" title="Menu" image="icons8-menu-24" id="4Qh-CN-yLc">
                             <connections>
                                 <action selector="didTapMenu:" destination="BYZ-38-t0r" id="5yH-lX-7dM"/>
+                            </connections>
+                        </barButtonItem>
+                        <barButtonItem key="rightBarButtonItem" title="Item" id="0Kc-KG-VAs">
+                            <imageReference key="image" image="info.circle" catalog="system" symbolScale="large"/>
+                            <connections>
+                                <segue destination="4RO-nu-zXx" kind="show" id="LhB-hC-Mem"/>
                             </connections>
                         </barButtonItem>
                     </navigationItem>
@@ -2145,6 +2193,7 @@
         <image name="czech" width="1024" height="1024"/>
         <image name="greece" width="1024" height="1024"/>
         <image name="icons8-menu-24" width="24" height="24"/>
+        <image name="info.circle" catalog="system" width="128" height="121"/>
         <image name="ireland" width="1024" height="1024"/>
         <image name="lithuania" width="1024" height="1024"/>
         <image name="moldova" width="1024" height="1024"/>
