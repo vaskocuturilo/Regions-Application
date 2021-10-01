@@ -23,7 +23,8 @@ class InfoViewController: UIViewController, UIScrollViewDelegate, UIGestureRecog
                   "Austria",
                   "Greece",
                   "Ireland",
-                  "Romania"]
+                  "Romania",
+                  "Hungary"]
     var descs = ["Необходимо ввести код регистрации региона автомобильного номера частного пользования.Пример на картинке.",
                  "Необходимо ввести код регистрации региона автомобильного номера частного пользования.Пример на картинке.",
                  "Необходимо ввести код регистрации региона автомобильного номера частного пользования.Пример на картинке.",
@@ -39,7 +40,8 @@ class InfoViewController: UIViewController, UIScrollViewDelegate, UIGestureRecog
                  "Необходимо ввести одну или две первые буквы автомобильного номера частного пользования.",
                  "Необходимо ввести две или три первые буквы автомобильного номера частного пользования.",
                  "Необходимо ввести одну или две буквы автомобильного номера частного пользования.",
-                 "Необходимо ввести одну или две первые буквы автомобильного номера частного пользования."]
+                 "Необходимо ввести одну или две первые буквы автомобильного номера частного пользования.",
+                 "Необходимо ввести певую букву автомобильного номера частного пользования."]
     var imgs = ["russia_number",
                 "shema-nomera-ukraina",
                 "avto-nomer-belarus",
@@ -55,7 +57,8 @@ class InfoViewController: UIViewController, UIScrollViewDelegate, UIGestureRecog
                 "Austrian_license_plate",
                 "1200px-Greek_license",
                 "Official_Ireland",
-                "Romanian_license_plate"]
+                "Romanian_license_plate",
+                "hungary_license_plate"]
     
     
     override func viewDidLayoutSubviews() {
