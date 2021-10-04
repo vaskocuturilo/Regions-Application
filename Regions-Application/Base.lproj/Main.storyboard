@@ -1084,12 +1084,6 @@
                         <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Enter region code:" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="9rK-J8-aqt">
-                                <rect key="frame" x="20" y="138" width="280" height="23.5"/>
-                                <fontDescription key="fontDescription" name="Palatino-Bold" family="Palatino" pointSize="21"/>
-                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <nil key="highlightedColor"/>
-                            </label>
                             <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="center" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="ALm-sy-evL">
                                 <rect key="frame" x="120" y="259" width="80" height="50"/>
                                 <constraints>
@@ -1136,11 +1130,17 @@
                                     <constraint firstAttribute="height" constant="50" id="3KY-5O-liq"/>
                                 </constraints>
                             </stackView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Enter region code:" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="9rK-J8-aqt">
+                                <rect key="frame" x="20" y="104" width="280" height="23.5"/>
+                                <fontDescription key="fontDescription" name="Palatino-Bold" family="Palatino" pointSize="21"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <nil key="highlightedColor"/>
+                            </label>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="GfV-xW-FG8"/>
                         <color key="backgroundColor" systemColor="opaqueSeparatorColor"/>
                         <constraints>
-                            <constraint firstItem="9rK-J8-aqt" firstAttribute="top" secondItem="ZmP-Av-WgB" secondAttribute="bottom" constant="68" id="7fF-sG-tNF"/>
+                            <constraint firstItem="9rK-J8-aqt" firstAttribute="top" secondItem="ZmP-Av-WgB" secondAttribute="bottom" constant="34" id="7fF-sG-tNF"/>
                             <constraint firstItem="ZmP-Av-WgB" firstAttribute="leading" secondItem="GfV-xW-FG8" secondAttribute="leading" constant="20" id="IeL-7R-qIj"/>
                             <constraint firstItem="ALm-sy-evL" firstAttribute="centerX" secondItem="6Mh-nT-6kY" secondAttribute="centerX" id="Mfg-SH-adu"/>
                             <constraint firstItem="GfV-xW-FG8" firstAttribute="trailing" secondItem="ZmP-Av-WgB" secondAttribute="trailing" constant="20" id="ObA-FL-UFR"/>
