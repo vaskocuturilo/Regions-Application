@@ -68,6 +68,7 @@
 		72D4B21526C17F850029AB3C /* Regions_ApplicationUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72D4B21426C17F850029AB3C /* Regions_ApplicationUITests.swift */; };
 		72D4B22626C180FF0029AB3C /* MenuTableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72D4B22526C180FF0029AB3C /* MenuTableView.swift */; };
 		72D667D426C862E600DAC2B4 /* russiaPerson.json in Resources */ = {isa = PBXBuildFile; fileRef = 72D667D326C862E600DAC2B4 /* russiaPerson.json */; };
+		72D9C017270F707200C53C7B /* BaseCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72D9C016270F707200C53C7B /* BaseCase.swift */; };
 		72E0974E26D2E55F007F3693 /* ukrainePerson.json in Resources */ = {isa = PBXBuildFile; fileRef = 72E0974D26D2E55F007F3693 /* ukrainePerson.json */; };
 		72E16EAD26C432EF00FB3D57 /* Reachability.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72E16EAC26C432EF00FB3D57 /* Reachability.swift */; };
 		72E31C0027075F7000E54C63 /* HungaryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72E31BFF27075F7000E54C63 /* HungaryViewController.swift */; };
@@ -174,6 +175,7 @@
 		72D4B21626C17F850029AB3C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		72D4B22526C180FF0029AB3C /* MenuTableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuTableView.swift; sourceTree = "<group>"; };
 		72D667D326C862E600DAC2B4 /* russiaPerson.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = russiaPerson.json; sourceTree = "<group>"; };
+		72D9C016270F707200C53C7B /* BaseCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseCase.swift; sourceTree = "<group>"; };
 		72E0974D26D2E55F007F3693 /* ukrainePerson.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = ukrainePerson.json; sourceTree = "<group>"; };
 		72E16EAC26C432EF00FB3D57 /* Reachability.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Reachability.swift; sourceTree = "<group>"; };
 		72E31BFF27075F7000E54C63 /* HungaryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HungaryViewController.swift; sourceTree = "<group>"; };
@@ -575,6 +577,7 @@
 				72E4A060270F69140023C33B /* MainPage.swift */,
 				72E4A062270F69630023C33B /* RussiaPage.swift */,
 				72E4A065270F6AA70023C33B /* MessagePage.swift */,
+				72D9C016270F707200C53C7B /* BaseCase.swift */,
 			);
 			path = PageObject;
 			sourceTree = "<group>";
@@ -916,6 +919,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				72D9C017270F707200C53C7B /* BaseCase.swift in Sources */,
 				72E4A064270F69760023C33B /* RussiaPage.swift in Sources */,
 				72E4A05C270F685E0023C33B /* BaseCase.swift in Sources */,
 				72E4A066270F6AA70023C33B /* MessagePage.swift in Sources */,
