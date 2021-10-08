@@ -6,7 +6,7 @@
 //
 
 import UIKit
-
+fileprivate let AccessibilityRoot = Accessibility.Screen.Russia.self
 class RussiaViewController: UIViewController, UIGestureRecognizerDelegate, UITextFieldDelegate {
     
     let apiService = APIServices()
@@ -28,6 +28,7 @@ class RussiaViewController: UIViewController, UIGestureRecognizerDelegate, UITex
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        view.accessibilityIdentifier = AccessibilityRoot.View
         let backBTN = UIBarButtonItem(image: UIImage(named: "Image"),
                                       style: .plain,
                                       target: navigationController,
@@ -66,6 +67,7 @@ class RussiaViewController: UIViewController, UIGestureRecognizerDelegate, UITex
             description: Descriptions.Russia.Person,
             key: "isWasAlreadyShownRussiaPerson")
         
+        textField.accessibilityIdentifier = AccessibilityRoot.RegionCodeField
     }
     
     @IBAction func didTapPersonButton(_ sender: Any) {

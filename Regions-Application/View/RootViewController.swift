@@ -8,6 +8,7 @@
 import UIKit
 import Foundation
 
+fileprivate let AccessibilityRoot = Accessibility.Screen.Root.self
 class RootViewController: UIViewController {
     
     let transition = SlideTransition()
@@ -15,7 +16,7 @@ class RootViewController: UIViewController {
     
     lazy var personButton: CustomButton = {
         let button = CustomButton(frame: CGRect(x: 50, y: 200, width: 200, height: 50))
-        
+        button.accessibilityIdentifier = AccessibilityRoot.PersonButton
         return button
     } ()
     
@@ -31,6 +32,7 @@ class RootViewController: UIViewController {
     
     override public func viewDidLoad() {
         super.viewDidLoad()
+        view.accessibilityIdentifier = AccessibilityRoot.View
         // Do any additional setup after loading the view.
         setupButton(button: personButton, text: "Person auto number", 1)
         setupButton(button: diplomaticButton, text: "Diplomat auto number", 1)
