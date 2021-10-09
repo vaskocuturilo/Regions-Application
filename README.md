@@ -8,11 +8,6 @@ This is simple regions application. The features of this application:
 - Response regions with REST API service.
 - Response regions with JSON data.
 
-![](https://a.radikal.ru/a08/2108/b1/35be4de95b5f.png)
-
-![](https://c.radikal.ru/c06/2108/ba/78ef0469b1bb.png)
-
-
 ## Test scenario:
 - Create simple application for response regions (Russia, Ukraine, Belarusia, Poland, Moldova, Lithuania, Turkey, Czech, Estonia and Germany).
 - Create functional for using REST API with Mysql.
