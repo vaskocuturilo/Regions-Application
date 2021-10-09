@@ -18,4 +18,6 @@ class RegionsScreens {
     
     lazy var rootScreen = RootScreen(application: container.application)
     lazy var russiaScreen = RussiaScreen(application: container.application)
+    lazy var ukraineScreen = UkraineScreen(application: container.application)
+    lazy var modalWindowScreen = ModalWindowScreen(application: container.application)
 }

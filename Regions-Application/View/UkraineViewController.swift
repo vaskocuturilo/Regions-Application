@@ -6,7 +6,7 @@
 //
 
 import UIKit
-
+fileprivate let AccessabilityRoot = Accessibility.Screen.Ukraine.self
 class UkraineViewController: UIViewController, UIGestureRecognizerDelegate, UITextFieldDelegate {
     
     let apiService = APIServices()
@@ -30,6 +30,7 @@ class UkraineViewController: UIViewController, UIGestureRecognizerDelegate, UITe
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        view.accessibilityIdentifier = AccessabilityRoot.View
         
         // Do any additional setup after loading the view.
         
@@ -66,6 +67,7 @@ class UkraineViewController: UIViewController, UIGestureRecognizerDelegate, UITe
         
         textField.keyboardType = UIKeyboardType.alphabet
         textField.autocapitalizationType = UITextAutocapitalizationType.allCharacters
+        textField.accessibilityIdentifier = AccessabilityRoot.RegionCodeField
         
         showPopUp.isWasAlreadyShown(
             textField: self.textField,

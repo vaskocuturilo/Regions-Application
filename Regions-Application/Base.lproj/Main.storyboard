@@ -62,7 +62,7 @@
                     </view>
                     <navigationItem key="navigationItem" title="Russia" id="M7T-tR-FiT">
                         <barButtonItem key="backBarButtonItem" title="Russia" id="xmU-Hi-Mqg"/>
-                        <barButtonItem key="leftBarButtonItem" title="Menu" image="icons8-menu-24" id="4Qh-CN-yLc">
+                        <barButtonItem key="leftBarButtonItem" title="Menu" image="icons8-menu-24" largeContentSizeImage="icons8-menu-24" id="4Qh-CN-yLc">
                             <connections>
                                 <action selector="didTapMenu:" destination="BYZ-38-t0r" id="5yH-lX-7dM"/>
                             </connections>
