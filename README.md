@@ -52,7 +52,7 @@ You will need the following technologies available to try it out:
 
 ### Ho w to run
 
-``` ```
+``` xcodebuild test -workspace Regions-Application.xcworkspace -scheme Regions-Application -destination 'platform=iOS Simulator,name=IPhone SE,OS=14.5' -resultBundlePath TestResults```
 
 # xcresults
 A command line tool to extract test summaries & screenshots from Xcode 11 XCResult files.
@@ -74,6 +74,6 @@ chmod +x xcresults
 
 ```allure serve outputDirectory/```
 
-![]()
-![]()
+![](https://a.radikal.ru/a39/2110/41/78c13446f5f8.png)
+![](https://d.radikal.ru/d13/2110/c9/39309a785553.png)
 ![]()
