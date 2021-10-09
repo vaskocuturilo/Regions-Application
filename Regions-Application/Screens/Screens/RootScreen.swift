@@ -15,11 +15,23 @@ class RootScreen: RegionsBaseClass {
         return self.application.otherElements[AccessibilityRoot.View]
     }
     
-    public var personButton :XCUIElement {
+    public var personButton: XCUIElement {
         return self.application.buttons[AccessibilityRoot.PersonButton]
+    }
+    
+    public var menuButton: XCUIElement {
+        return self.application.buttons["Menu"]
     }
     
     public func tapPersonButton() {
         personButton.tap()
+    }
+    
+    public func tapMenuButton() {
+        menuButton.tap()
+    }
+    
+    public func tapTableItem(item: String) {
+        return self.application.staticTexts[item].tap()
     }
 }

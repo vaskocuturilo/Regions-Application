@@ -62,7 +62,7 @@
 		72A46DCC2710BDCD009FAC3C /* RegionsTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72A46DCA2710BDC8009FAC3C /* RegionsTestCase.swift */; };
 		72A46DD02710BE58009FAC3C /* AccessibilityEnum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72A46DCE2710BE52009FAC3C /* AccessibilityEnum.swift */; };
 		72A46DD12710BF49009FAC3C /* AccessibilityEnum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72A46DCE2710BE52009FAC3C /* AccessibilityEnum.swift */; };
-		72A46DD32710C027009FAC3C /* SimpleScreensTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72A46DD22710C027009FAC3C /* SimpleScreensTest.swift */; };
+		72A46DD32710C027009FAC3C /* SimpleRussiaScreensTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72A46DD22710C027009FAC3C /* SimpleRussiaScreensTest.swift */; };
 		72A46DD52710C134009FAC3C /* RussiaScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72A46DD42710C134009FAC3C /* RussiaScreen.swift */; };
 		72A6F14A26CF07AB00E84774 /* CzechViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72A6F14926CF07AB00E84774 /* CzechViewController.swift */; };
 		72CB748026C7B8B7007435AB /* CustomButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72CB747F26C7B8B7007435AB /* CustomButton.swift */; };
@@ -77,6 +77,9 @@
 		72D4B21526C17F850029AB3C /* Regions_ApplicationUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72D4B21426C17F850029AB3C /* Regions_ApplicationUITests.swift */; };
 		72D4B22626C180FF0029AB3C /* MenuTableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72D4B22526C180FF0029AB3C /* MenuTableView.swift */; };
 		72D667D426C862E600DAC2B4 /* russiaPerson.json in Resources */ = {isa = PBXBuildFile; fileRef = 72D667D326C862E600DAC2B4 /* russiaPerson.json */; };
+		72D72127271189390082E737 /* ModalWindowScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72D72126271189390082E737 /* ModalWindowScreen.swift */; };
+		72D7212927118B990082E737 /* SimpleUkraineScreensTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72D7212827118B990082E737 /* SimpleUkraineScreensTest.swift */; };
+		72D7212B27118C4F0082E737 /* UkraineScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72D7212A27118C4F0082E737 /* UkraineScreen.swift */; };
 		72D9C017270F707200C53C7B /* BaseCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72D9C016270F707200C53C7B /* BaseCase.swift */; };
 		72E0974E26D2E55F007F3693 /* ukrainePerson.json in Resources */ = {isa = PBXBuildFile; fileRef = 72E0974D26D2E55F007F3693 /* ukrainePerson.json */; };
 		72E16EAD26C432EF00FB3D57 /* Reachability.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72E16EAC26C432EF00FB3D57 /* Reachability.swift */; };
@@ -169,7 +172,7 @@
 		72A46DC82710BD08009FAC3C /* RootScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RootScreen.swift; sourceTree = "<group>"; };
 		72A46DCA2710BDC8009FAC3C /* RegionsTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegionsTestCase.swift; sourceTree = "<group>"; };
 		72A46DCE2710BE52009FAC3C /* AccessibilityEnum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccessibilityEnum.swift; sourceTree = "<group>"; };
-		72A46DD22710C027009FAC3C /* SimpleScreensTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimpleScreensTest.swift; sourceTree = "<group>"; };
+		72A46DD22710C027009FAC3C /* SimpleRussiaScreensTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimpleRussiaScreensTest.swift; sourceTree = "<group>"; };
 		72A46DD42710C134009FAC3C /* RussiaScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RussiaScreen.swift; sourceTree = "<group>"; };
 		72A6F14926CF07AB00E84774 /* CzechViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CzechViewController.swift; sourceTree = "<group>"; };
 		72CB747F26C7B8B7007435AB /* CustomButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomButton.swift; sourceTree = "<group>"; };
@@ -192,6 +195,9 @@
 		72D4B21626C17F850029AB3C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		72D4B22526C180FF0029AB3C /* MenuTableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuTableView.swift; sourceTree = "<group>"; };
 		72D667D326C862E600DAC2B4 /* russiaPerson.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = russiaPerson.json; sourceTree = "<group>"; };
+		72D72126271189390082E737 /* ModalWindowScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModalWindowScreen.swift; sourceTree = "<group>"; };
+		72D7212827118B990082E737 /* SimpleUkraineScreensTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimpleUkraineScreensTest.swift; sourceTree = "<group>"; };
+		72D7212A27118C4F0082E737 /* UkraineScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UkraineScreen.swift; sourceTree = "<group>"; };
 		72D9C016270F707200C53C7B /* BaseCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseCase.swift; sourceTree = "<group>"; };
 		72E0974D26D2E55F007F3693 /* ukrainePerson.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = ukrainePerson.json; sourceTree = "<group>"; };
 		72E16EAC26C432EF00FB3D57 /* Reachability.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Reachability.swift; sourceTree = "<group>"; };
@@ -471,6 +477,8 @@
 				72A46DC52710BC6E009FAC3C /* RegionsScreens.swift */,
 				72A46DC82710BD08009FAC3C /* RootScreen.swift */,
 				72A46DD42710C134009FAC3C /* RussiaScreen.swift */,
+				72D72126271189390082E737 /* ModalWindowScreen.swift */,
+				72D7212A27118C4F0082E737 /* UkraineScreen.swift */,
 			);
 			path = Screens;
 			sourceTree = "<group>";
@@ -642,7 +650,8 @@
 			isa = PBXGroup;
 			children = (
 				72E4A068270F6B0D0023C33B /* SimplePageObjectTest.swift */,
-				72A46DD22710C027009FAC3C /* SimpleScreensTest.swift */,
+				72A46DD22710C027009FAC3C /* SimpleRussiaScreensTest.swift */,
+				72D7212827118B990082E737 /* SimpleUkraineScreensTest.swift */,
 			);
 			path = TestCases;
 			sourceTree = "<group>";
@@ -977,16 +986,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				72D72127271189390082E737 /* ModalWindowScreen.swift in Sources */,
+				72D7212927118B990082E737 /* SimpleUkraineScreensTest.swift in Sources */,
 				72D9C017270F707200C53C7B /* BaseCase.swift in Sources */,
 				72A46DC72710BC77009FAC3C /* RegionsScreens.swift in Sources */,
 				72E4A064270F69760023C33B /* RussiaPage.swift in Sources */,
 				72E4A05C270F685E0023C33B /* BaseCase.swift in Sources */,
 				72A46DC12710BBAF009FAC3C /* RegionsBaseClass.swift in Sources */,
 				72A46DD52710C134009FAC3C /* RussiaScreen.swift in Sources */,
+				72D7212B27118C4F0082E737 /* UkraineScreen.swift in Sources */,
 				72A46DD12710BF49009FAC3C /* AccessibilityEnum.swift in Sources */,
 				72E4A066270F6AA70023C33B /* MessagePage.swift in Sources */,
 				72A46DC32710BBF6009FAC3C /* RegionsTestCaseContainer.swift in Sources */,
-				72A46DD32710C027009FAC3C /* SimpleScreensTest.swift in Sources */,
+				72A46DD32710C027009FAC3C /* SimpleRussiaScreensTest.swift in Sources */,
 				72D4B21526C17F850029AB3C /* Regions_ApplicationUITests.swift in Sources */,
 				72A46DCC2710BDCD009FAC3C /* RegionsTestCase.swift in Sources */,
 				72E4A069270F6B0D0023C33B /* SimplePageObjectTest.swift in Sources */,

@@ -64,4 +64,22 @@ class RegionsTestCase: XCTestCase {
             XCTFail(message)
         }
     }
+    
+    public func tapAlertButtonIfExists(named: String) {
+        
+        let button = application.buttons[named]
+        if button.exists {
+            button.tap()
+        }
+        
+        let sheetButton = application.sheets.buttons[named]
+        if sheetButton.exists {
+            sheetButton.tap()
+        }
+        
+        let alertButton = application.alerts.buttons[named]
+        if alertButton.exists {
+            alertButton.tap()
+        }
+    }
 }
