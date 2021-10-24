@@ -1,0 +1,504 @@
+{
+  "regions": [
+    {
+      "id": "1",
+      "name": "Yerevan (city)",
+      "code": "01"
+    },
+    {
+      "id": "2",
+      "name": "Yerevan (city)",
+      "code": "02"
+    },
+    {
+      "id": "3",
+      "name": "Yerevan (city)",
+      "code": "03"
+    },
+    {
+      "id": "4",
+      "name": "Yerevan (city)",
+      "code": "04"
+    },
+    {
+      "id": "5",
+      "name": "Yerevan (city)",
+      "code": "05"
+    },
+    {
+      "id": "6",
+      "name": "Yerevan (city)",
+      "code": "06"
+    },
+    {
+      "id": "7",
+      "name": "Yerevan (city)",
+      "code": "07"
+    },
+    {
+      "id": "8",
+      "name": "Yerevan (city)",
+      "code": "08"
+    },
+    {
+      "id": "9",
+      "name": "Yerevan (city)",
+      "code": "09"
+    },
+    {
+      "id": "10",
+      "name": "Yerevan (city)",
+      "code": "10"
+    },
+    {
+      "id": "11",
+      "name": "Yerevan (city)",
+      "code": "11"
+    },
+    {
+      "id": "12",
+      "name": "Yerevan (city)",
+      "code": "13"
+    },
+    {
+      "id": "13",
+      "name": "Yerevan (city)",
+      "code": "19"
+    },
+    {
+      "id": "14",
+      "name": "Yerevan (city)",
+      "code": "61"
+    },
+    {
+      "id": "15",
+      "name": "Yerevan (city)",
+      "code": "62"
+    },
+    {
+      "id": "16",
+      "name": "Yerevan (city)",
+      "code": "63"
+    },
+    {
+      "id": "17",
+      "name": "Yerevan (city)",
+      "code": "64"
+    },
+    {
+      "id": "18",
+      "name": "Yerevan (city)",
+      "code": "65"
+    },
+    {
+      "id": "19",
+      "name": "Yerevan (city)",
+      "code": "66"
+    },
+    {
+      "id": "20",
+      "name": "Yerevan (city)",
+      "code": "67"
+    },
+    {
+      "id": "21",
+      "name": "Yerevan (city)",
+      "code": "68"
+    },
+    {
+      "id": "22",
+      "name": "Armavir Province",
+      "code": "12"
+    },
+    {
+      "id": "23",
+      "name": "Armavir Province",
+      "code": "27"
+    },
+    {
+      "id": "24",
+      "name": "Armavir Province",
+      "code": "28"
+    },
+    {
+      "id": "25",
+      "name": "Armavir Province",
+      "code": "29"
+    },
+    {
+      "id": "26",
+      "name": "Shirak Province",
+      "code": "14"
+    },
+    {
+      "id": "27",
+      "name": "Shirak Province",
+      "code": "45"
+    },
+    {
+      "id": "28",
+      "name": "Shirak Province",
+      "code": "46"
+    },
+    {
+      "id": "29",
+      "name": "Shirak Province",
+      "code": "47"
+    },
+    {
+      "id": "30",
+      "name": "Shirak Province",
+      "code": "48"
+    },
+    {
+      "id": "31",
+      "name": "Shirak Province",
+      "code": "49"
+    },
+    {
+      "id": "32",
+      "name": "Aragatsotn Province",
+      "code": "15"
+    },
+    {
+      "id": "33",
+      "name": "Aragatsotn Province",
+      "code": "21"
+    },
+    {
+      "id": "34",
+      "name": "Aragatsotn Province",
+      "code": "22"
+    },
+    {
+      "id": "35",
+      "name": "Aragatsotn Province",
+      "code": "23"
+    },
+    {
+      "id": "36",
+      "name": "Aragatsotn Province",
+      "code": "24"
+    },
+    {
+      "id": "37",
+      "name": "Gegharkunik Province",
+      "code": "16"
+    },
+    {
+      "id": "38",
+      "name": "Gegharkunik Province",
+      "code": "31"
+    },
+    {
+      "id": "39",
+      "name": "Gegharkunik Province",
+      "code": "32"
+    },
+    {
+      "id": "40",
+      "name": "Gegharkunik Province",
+      "code": "33"
+    },
+    {
+      "id": "41",
+      "name": "Gegharkunik Province",
+      "code": "34"
+    },
+    {
+      "id": "42",
+      "name": "Gegharkunik Province",
+      "code": "35"
+    },
+    {
+      "id": "43",
+      "name": "Kotayk Province",
+      "code": "17"
+    },
+    {
+      "id": "44",
+      "name": "Kotayk Province",
+      "code": "42"
+    },
+    {
+      "id": "45",
+      "name": "Kotayk Province",
+      "code": "43"
+    },
+    {
+      "id": "46",
+      "name": "Vayots Dzor Province",
+      "code": "18"
+    },
+    {
+      "id": "47",
+      "name": "Vayots Dzor Province",
+      "code": "56"
+    },
+    {
+      "id": "48",
+      "name": "Ararat Province",
+      "code": "25"
+    },
+    {
+      "id": "49",
+      "name": "Ararat Province",
+      "code": "26"
+    },
+    {
+      "id": "50",
+      "name": "Lori Province",
+      "code": "36"
+    },
+    {
+      "id": "51",
+      "name": "Lori Province",
+      "code": "37"
+    },
+    {
+      "id": "52",
+      "name": "Lori Province",
+      "code": "38"
+    },
+    {
+      "id": "53",
+      "name": "Lori Province",
+      "code": "39"
+    },
+    {
+      "id": "54",
+      "name": "Lori Province",
+      "code": "41"
+    },
+    {
+      "id": "55",
+      "name": "Syunik Province",
+      "code": "51"
+    },
+    {
+      "id": "56",
+      "name": "Syunik Province",
+      "code": "52"
+    },
+    {
+      "id": "57",
+      "name": "Syunik Province",
+      "code": "53"
+    },
+    {
+      "id": "58",
+      "name": "Syunik Province",
+      "code": "54"
+    },
+    {
+      "id": "59",
+      "name": "Tavush Province",
+      "code": "57"
+    },
+    {
+      "id": "60",
+      "name": "Tavush Province",
+      "code": "58"
+    },
+    {
+      "id": "61",
+      "name": "Tavush Province",
+      "code": "59"
+    },
+    {
+      "id": "62",
+      "name": "Republic of Artsakh",
+      "code": "22"
+    },
+    {
+      "id": "63",
+      "name": "Republic of Artsakh(De jure part of Republic of Azerbaijan)",
+      "code": "90"
+    },
+    {
+      "id": "64",
+      "name": "Individual plates not showing province",
+      "code": "20"
+    },
+    {
+      "id": "65",
+      "name": "Individual plates not showing province",
+      "code": "30"
+    },
+    {
+      "id": "66",
+      "name": "Individual plates not showing province",
+      "code": "40"
+    },
+    {
+      "id": "67",
+      "name": "Individual plates not showing province",
+      "code": "44"
+    },
+    {
+      "id": "68",
+      "name": "Individual plates not showing province",
+      "code": "50"
+    },
+    {
+      "id": "69",
+      "name": "Individual plates not showing province",
+      "code": "55"
+    },
+    {
+      "id": "70",
+      "name": "Individual plates not showing province",
+      "code": "60"
+    },
+    {
+      "id": "71",
+      "name": "Individual plates not showing province",
+      "code": "69"
+    },
+    {
+      "id": "72",
+      "name": "Individual plates not showing province",
+      "code": "70"
+    },
+    {
+      "id": "73",
+      "name": "Individual plates not showing province",
+      "code": "71"
+    },
+    {
+      "id": "74",
+      "name": "Individual plates not showing province",
+      "code": "72"
+    },
+    {
+      "id": "75",
+      "name": "Individual plates not showing province",
+      "code": "73"
+    },
+    {
+      "id": "76",
+      "name": "Individual plates not showing province",
+      "code": "74"
+    },
+    {
+      "id": "77",
+      "name": "Individual plates not showing province",
+      "code": "75"
+    },
+    {
+      "id": "78",
+      "name": "Individual plates not showing province",
+      "code": "76"
+    },
+    {
+      "id": "79",
+      "name": "Individual plates not showing province",
+      "code": "77"
+    },
+    {
+      "id": "80",
+      "name": "Individual plates not showing province",
+      "code": "78"
+    },
+    {
+      "id": "81",
+      "name": "Individual plates not showing province",
+      "code": "79"
+    },
+    {
+      "id": "82",
+      "name": "Individual plates not showing province",
+      "code": "80"
+    },
+    {
+      "id": "83",
+      "name": "Individual plates not showing province",
+      "code": "81"
+    },
+    {
+      "id": "84",
+      "name": "Individual plates not showing province",
+      "code": "82"
+    },
+    {
+      "id": "85",
+      "name": "Individual plates not showing province",
+      "code": "83"
+    },
+    {
+      "id": "86",
+      "name": "Individual plates not showing province",
+      "code": "84"
+    },
+    {
+      "id": "87",
+      "name": "Individual plates not showing province",
+      "code": "85"
+    },
+    {
+      "id": "88",
+      "name": "Individual plates not showing province",
+      "code": "86"
+    },
+    {
+      "id": "89",
+      "name": "Individual plates not showing province",
+      "code": "87"
+    },
+    {
+      "id": "90",
+      "name": "Individual plates not showing province",
+      "code": "88"
+    },
+    {
+      "id": "91",
+      "name": "Individual plates not showing province",
+      "code": "89"
+    },
+    {
+      "id": "92",
+      "name": "Individual plates not showing province",
+      "code": "91"
+    },
+    {
+      "id": "93",
+      "name": "Individual plates not showing province",
+      "code": "92"
+    },
+    {
+      "id": "94",
+      "name": "Individual plates not showing province",
+      "code": "93"
+    },
+    {
+      "id": "95",
+      "name": "Individual plates not showing province",
+      "code": "94"
+    },
+    {
+      "id": "96",
+      "name": "Individual plates not showing province",
+      "code": "95"
+    },
+    {
+      "id": "97",
+      "name": "Individual plates not showing province",
+      "code": "96"
+    },
+    {
+      "id": "98",
+      "name": "Individual plates not showing province",
+      "code": "97"
+    },
+    {
+      "id": "99",
+      "name": "Individual plates not showing province",
+      "code": "98"
+    },
+    {
+      "id": "100",
+      "name": "Individual plates not showing province",
+      "code": "99"
+    }
+  ]
+}
