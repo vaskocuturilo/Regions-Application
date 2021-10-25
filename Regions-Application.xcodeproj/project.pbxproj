@@ -39,6 +39,8 @@
 		7274FD9026C93EA500DF5D85 /* AfterOneSecondTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7274FD8F26C93EA500DF5D85 /* AfterOneSecondTextField.swift */; };
 		7274FD9526C9508000DF5D85 /* JsonLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7274FD9426C9508000DF5D85 /* JsonLoader.swift */; };
 		727A4AC926C63C850093879A /* ReadJson.swift in Sources */ = {isa = PBXBuildFile; fileRef = 727A4AC826C63C850093879A /* ReadJson.swift */; };
+		727EBD2D27270A3300A31FC1 /* NorwayViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 727EBD2C27270A3300A31FC1 /* NorwayViewController.swift */; };
+		727EBD2F27270A6D00A31FC1 /* norwayPerson.json in Resources */ = {isa = PBXBuildFile; fileRef = 727EBD2E27270A6D00A31FC1 /* norwayPerson.json */; };
 		7283375B26D6C5D50008CF90 /* UIViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7283375A26D6C5D50008CF90 /* UIViewController.swift */; };
 		7288078826D1B8D100C670CB /* TextFieldExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7288078726D1B8D100C670CB /* TextFieldExtension.swift */; };
 		7288079026D1B93000C670CB /* ButtonExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7288078F26D1B93000C670CB /* ButtonExtension.swift */; };
@@ -158,6 +160,8 @@
 		7274FD8F26C93EA500DF5D85 /* AfterOneSecondTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AfterOneSecondTextField.swift; sourceTree = "<group>"; };
 		7274FD9426C9508000DF5D85 /* JsonLoader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JsonLoader.swift; sourceTree = "<group>"; };
 		727A4AC826C63C850093879A /* ReadJson.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReadJson.swift; sourceTree = "<group>"; };
+		727EBD2C27270A3300A31FC1 /* NorwayViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NorwayViewController.swift; sourceTree = "<group>"; };
+		727EBD2E27270A6D00A31FC1 /* norwayPerson.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = norwayPerson.json; sourceTree = "<group>"; };
 		7283375A26D6C5D50008CF90 /* UIViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIViewController.swift; sourceTree = "<group>"; };
 		7288078726D1B8D100C670CB /* TextFieldExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldExtension.swift; sourceTree = "<group>"; };
 		7288078F26D1B93000C670CB /* ButtonExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonExtension.swift; sourceTree = "<group>"; };
@@ -410,6 +414,14 @@
 			path = romania;
 			sourceTree = "<group>";
 		};
+		727EBD2B272709D900A31FC1 /* norway */ = {
+			isa = PBXGroup;
+			children = (
+				727EBD2E27270A6D00A31FC1 /* norwayPerson.json */,
+			);
+			path = norway;
+			sourceTree = "<group>";
+		};
 		7288078626D1B89E00C670CB /* Extensions */ = {
 			isa = PBXGroup;
 			children = (
@@ -528,6 +540,7 @@
 				72D4969226E556020054564C /* InfoViewController.swift */,
 				72E31BFF27075F7000E54C63 /* HungaryViewController.swift */,
 				7219861D2725CBA50028A8A6 /* ArmeniaViewController.swift */,
+				727EBD2C27270A3300A31FC1 /* NorwayViewController.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -552,6 +565,7 @@
 		72CB74A726C7E624007435AB /* json */ = {
 			isa = PBXGroup;
 			children = (
+				727EBD2B272709D900A31FC1 /* norway */,
 				7219861F2725CC8F0028A8A6 /* armenia */,
 				72E31C01270763E800E54C63 /* hungary */,
 				7268C73F26E1526000BEDE03 /* romania */,
@@ -798,6 +812,7 @@
 				721A8CFB26D5021800C04AD9 /* lithuaniaPerson.json in Resources */,
 				7264B71226D43B1C00DDD9B2 /* belarusPerson.json in Resources */,
 				721A8D0726D502EE00C04AD9 /* estoniaPerson.json in Resources */,
+				727EBD2F27270A6D00A31FC1 /* norwayPerson.json in Resources */,
 				7249EB8E26DD0CF200F660A4 /* greecePerson.json in Resources */,
 				72E31C032707640400E54C63 /* hungaryPerson.json in Resources */,
 				729703B726C7F7C800CE82E5 /* UkraineViewController.swift in Resources */,
@@ -982,6 +997,7 @@
 				72E7E3DB26D8157E00E6B2DA /* SlovakiaViewController.swift in Sources */,
 				7274FD9026C93EA500DF5D85 /* AfterOneSecondTextField.swift in Sources */,
 				72D4969326E556020054564C /* InfoViewController.swift in Sources */,
+				727EBD2D27270A3300A31FC1 /* NorwayViewController.swift in Sources */,
 				72D4B1F226C17F840029AB3C /* SceneDelegate.swift in Sources */,
 				7219861E2725CBA50028A8A6 /* ArmeniaViewController.swift in Sources */,
 				72CB748026C7B8B7007435AB /* CustomButton.swift in Sources */,

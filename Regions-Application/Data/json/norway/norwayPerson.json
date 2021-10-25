@@ -1,0 +1,2099 @@
+{
+  "regions": [
+    {
+      "id": "1",
+      "name": "Asker and Bærum, Viken",
+      "code": "BL"
+    },
+    {
+      "id": "2",
+      "name": "Asker and Bærum, Viken",
+      "code": "BN"
+    },
+    {
+      "id": "3",
+      "name": "Asker and Bærum, Viken",
+      "code": "BP"
+    },
+    {
+      "id": "4",
+      "name": "Asker and Bærum, Viken",
+      "code": "BR"
+    },
+    {
+      "id": "5",
+      "name": "Asker and Bærum, Viken",
+      "code": "BS"
+    },
+    {
+      "id": "6",
+      "name": "Asker and Bærum, Viken",
+      "code": "BT"
+    },
+    {
+      "id": "7",
+      "name": "Asker and Bærum, Viken",
+      "code": "BU"
+    },
+    {
+      "id": "8",
+      "name": "Asker and Bærum, Viken",
+      "code": "BV"
+    },
+    {
+      "id": "9",
+      "name": "Asker and Bærum, Viken",
+      "code": "BX"
+    },
+    {
+      "id": "10",
+      "name": "Asker and Bærum, Viken",
+      "code": "BY"
+    },
+    {
+      "id": "11",
+      "name": "Asker and Bærum, Viken",
+      "code": "BZ"
+    },
+    {
+      "id": "12",
+      "name": "Asker and Bærum, Viken",
+      "code": "CA"
+    },
+    {
+      "id": "13",
+      "name": "Asker and Bærum, Viken",
+      "code": "CB"
+    },
+    {
+      "id": "14",
+      "name": "Drammen, Viken",
+      "code": "KE"
+    },
+    {
+      "id": "15",
+      "name": "Drammen, Viken",
+      "code": "KF"
+    },
+    {
+      "id": "16",
+      "name": "Drammen, Viken",
+      "code": "KH"
+    },
+    {
+      "id": "17",
+      "name": "Drammen, Viken",
+      "code": "KJ"
+    },
+    {
+      "id": "18",
+      "name": "Drammen, Viken",
+      "code": "KK"
+    },
+    {
+      "id": "19",
+      "name": "Drammen, Viken",
+      "code": "KL"
+    },
+    {
+      "id": "20",
+      "name": "Drammen, Viken",
+      "code": "KN"
+    },
+    {
+      "id": "21",
+      "name": "Drammen, Viken",
+      "code": "KN"
+    },
+    {
+      "id": "22",
+      "name": "Drammen, Viken",
+      "code": "KP"
+    },
+    {
+      "id": "23",
+      "name": "Drammen, Viken",
+      "code": "KR"
+    },
+    {
+      "id": "24",
+      "name": "Drammen, Viken",
+      "code": "KS"
+    },
+    {
+      "id": "25",
+      "name": "Drøbak, Viken",
+      "code": "BC"
+    },
+    {
+      "id": "26",
+      "name": "Drøbak, Viken",
+      "code": "BD"
+    },
+    {
+      "id": "27",
+      "name": "Drøbak, Viken",
+      "code": "BE"
+    },
+    {
+      "id": "28",
+      "name": "Drøbak, Viken",
+      "code": "BF"
+    },
+    {
+      "id": "29",
+      "name": "Drøbak, Viken",
+      "code": "BH"
+    },
+    {
+      "id": "30",
+      "name": "Drøbak, Viken",
+      "code": "BJ"
+    },
+    {
+      "id": "31",
+      "name": "Drøbak, Viken",
+      "code": "BK"
+    },
+    {
+      "id": "32",
+      "name": "Gol, Viken",
+      "code": "KB"
+    },
+    {
+      "id": "33",
+      "name": "Gol, Viken",
+      "code": "KC"
+    },
+    {
+      "id": "34",
+      "name": "Gol, Viken",
+      "code": "KD"
+    },
+    {
+      "id": "35",
+      "name": "Hafslund, Viken",
+      "code": "AD"
+    },
+    {
+      "id": "36",
+      "name": "Hafslund, Viken",
+      "code": "AR"
+    },
+    {
+      "id": "37",
+      "name": "Hafslund, Viken",
+      "code": "AS"
+    },
+    {
+      "id": "38",
+      "name": "Hafslund, Viken",
+      "code": "AT"
+    },
+    {
+      "id": "39",
+      "name": "Hafslund, Viken",
+      "code": "AU"
+    },
+    {
+      "id": "40",
+      "name": "Hafslund, Viken",
+      "code": "AV"
+    },
+    {
+      "id": "41",
+      "name": "Hafslund, Viken",
+      "code": "AW"
+    },
+    {
+      "id": "42",
+      "name": "Hafslund, Viken",
+      "code": "DW"
+    },
+    {
+      "id": "43",
+      "name": "Hafslund, Viken",
+      "code": "FL"
+    },
+    {
+      "id": "44",
+      "name": "Hafslund, Viken",
+      "code": "ES"
+    },
+    {
+      "id": "45",
+      "name": "Halden, Viken",
+      "code": "AA"
+    },
+    {
+      "id": "46",
+      "name": "Halden, Viken",
+      "code": "AB"
+    },
+    {
+      "id": "47",
+      "name": "Halden, Viken",
+      "code": "AC"
+    },
+    {
+      "id": "48",
+      "name": "Hønefoss, Viken",
+      "code": "JU"
+    },
+    {
+      "id": "49",
+      "name": "Hønefoss, Viken",
+      "code": "JV"
+    },
+    {
+      "id": "50",
+      "name": "Hønefoss, Viken",
+      "code": "JX"
+    },
+    {
+      "id": "51",
+      "name": "Hønefoss, Viken",
+      "code": "JY"
+    },
+    {
+      "id": "52",
+      "name": "Hønefoss, Viken",
+      "code": "JZ"
+    },
+    {
+      "id": "53",
+      "name": "Hønefoss, Viken",
+      "code": "KA"
+    },
+    {
+      "id": "54",
+      "name": "Jessheim, Viken",
+      "code": "CV"
+    },
+    {
+      "id": "55",
+      "name": "Jessheim, Viken",
+      "code": "CX"
+    },
+    {
+      "id": "56",
+      "name": "Jessheim, Viken",
+      "code": "CY"
+    },
+    {
+      "id": "57",
+      "name": "Jessheim, Viken",
+      "code": "CZ"
+    },
+    {
+      "id": "58",
+      "name": "Jessheim, Viken",
+      "code": "CU"
+    },
+    {
+      "id": "59",
+      "name": "Kongsberg, Viken",
+      "code": "KT"
+    },
+    {
+      "id": "60",
+      "name": "Kongsberg, Viken",
+      "code": "KU"
+    },
+    {
+      "id": "61",
+      "name": "Kongsberg, Viken",
+      "code": "KV"
+    },
+    {
+      "id": "62",
+      "name": "Kongsberg, Viken",
+      "code": "KX"
+    },
+    {
+      "id": "63",
+      "name": "Kongsberg, Viken",
+      "code": "KY"
+    },
+    {
+      "id": "64",
+      "name": "Lillestrøm, Viken",
+      "code": "CC"
+    },
+    {
+      "id": "65",
+      "name": "Lillestrøm, Viken",
+      "code": "CE"
+    },
+    {
+      "id": "66",
+      "name": "Lillestrøm, Viken",
+      "code": "CF"
+    },
+    {
+      "id": "67",
+      "name": "Lillestrøm, Viken",
+      "code": "CH"
+    },
+    {
+      "id": "68",
+      "name": "Lillestrøm, Viken",
+      "code": "CJ"
+    },
+    {
+      "id": "69",
+      "name": "Lillestrøm, Viken",
+      "code": "CK"
+    },
+    {
+      "id": "70",
+      "name": "Lillestrøm, Viken",
+      "code": "CL"
+    },
+    {
+      "id": "71",
+      "name": "Lillestrøm, Viken",
+      "code": "CN"
+    },
+    {
+      "id": "72",
+      "name": "Lillestrøm, Viken",
+      "code": "CP"
+    },
+    {
+      "id": "73",
+      "name": "Lillestrøm, Viken",
+      "code": "CR"
+    },
+    {
+      "id": "74",
+      "name": "Lillestrøm, Viken",
+      "code": "CS"
+    },
+    {
+      "id": "75",
+      "name": "Lillestrøm, Viken",
+      "code": "CT"
+    },
+    {
+      "id": "76",
+      "name": "Lillestrøm, Viken",
+      "code": "CU"
+    },
+    {
+      "id": "77",
+      "name": "Moss, Viken",
+      "code": "AX"
+    },
+    {
+      "id": "78",
+      "name": "Moss, Viken",
+      "code": "AY"
+    },
+    {
+      "id": "79",
+      "name": "Moss, Viken",
+      "code": "AZ"
+    },
+    {
+      "id": "80",
+      "name": "Moss, Viken",
+      "code": "BA"
+    },
+    {
+      "id": "81",
+      "name": "Mysen, Viken",
+      "code": "AJ"
+    },
+    {
+      "id": "82",
+      "name": "Mysen, Viken",
+      "code": "AK"
+    },
+    {
+      "id": "83",
+      "name": "Mysen, Viken",
+      "code": "AL"
+    },
+    {
+      "id": "84",
+      "name": "Mysen, Viken",
+      "code": "AN"
+    },
+    {
+      "id": "85",
+      "name": "Mysen, Viken",
+      "code": "AP"
+    },
+    {
+      "id": "86",
+      "name": "Mysen, Viken",
+      "code": "FN"
+    },
+    {
+      "id": "87",
+      "name": "Mysen, Viken",
+      "code": "BW"
+    },
+    {
+      "id": "88",
+      "name": "Sarpsborg, Viken",
+      "code": "AE"
+    },
+    {
+      "id": "89",
+      "name": "Sarpsborg, Viken",
+      "code": "AF"
+    },
+    {
+      "id": "90",
+      "name": "Sarpsborg, Viken",
+      "code": "AH"
+    },
+    {
+      "id": "91",
+      "name": "Oslo, Oslo",
+      "code": "DA"
+    },
+    {
+      "id": "92",
+      "name": "Oslo, Oslo",
+      "code": "DB"
+    },
+    {
+      "id": "93",
+      "name": "Oslo, Oslo",
+      "code": "DC"
+    },
+    {
+      "id": "94",
+      "name": "Oslo, Oslo",
+      "code": "DD"
+    },
+    {
+      "id": "95",
+      "name": "Oslo, Oslo",
+      "code": "DE"
+    },
+    {
+      "id": "96",
+      "name": "Oslo, Oslo",
+      "code": "DF"
+    },
+    {
+      "id": "97",
+      "name": "Oslo, Oslo",
+      "code": "DH"
+    },
+    {
+      "id": "98",
+      "name": "Oslo, Oslo",
+      "code": "DJ"
+    },
+    {
+      "id": "99",
+      "name": "Oslo, Oslo",
+      "code": "DK"
+    },
+    {
+      "id": "100",
+      "name": "Oslo, Oslo",
+      "code": "DL"
+    },
+    {
+      "id": "101",
+      "name": "Oslo, Oslo",
+      "code": "DN"
+    },
+    {
+      "id": "102",
+      "name": "Oslo, Oslo",
+      "code": "DP"
+    },
+    {
+      "id": "103",
+      "name": "Oslo, Oslo",
+      "code": "DR"
+    },
+    {
+      "id": "104",
+      "name": "Oslo, Oslo",
+      "code": "DS"
+    },
+    {
+      "id": "105",
+      "name": "Oslo, Oslo",
+      "code": "DT"
+    },
+    {
+      "id": "106",
+      "name": "Oslo, Oslo",
+      "code": "DU"
+    },
+    {
+      "id": "107",
+      "name": "Oslo, Oslo",
+      "code": "DV"
+    },
+    {
+      "id": "108",
+      "name": "Oslo, Oslo",
+      "code": "DX"
+    },
+    {
+      "id": "109",
+      "name": "Oslo, Oslo",
+      "code": "DY"
+    },
+    {
+      "id": "110",
+      "name": "Oslo, Oslo",
+      "code": "DZ"
+    },
+    {
+      "id": "111",
+      "name": "Oslo, Oslo",
+      "code": "EA"
+    },
+    {
+      "id": "112",
+      "name": "Oslo, Oslo",
+      "code": "EF"
+    },
+    {
+      "id": "113",
+      "name": "Oslo, Oslo",
+      "code": "EH"
+    },
+    {
+      "id": "114",
+      "name": "Oslo, Oslo",
+      "code": "EJ"
+    },
+    {
+      "id": "115",
+      "name": "Oslo, Oslo",
+      "code": "EN"
+    },
+    {
+      "id": "116",
+      "name": "Oslo, Oslo",
+      "code": "EP"
+    },
+    {
+      "id": "117",
+      "name": "Oslo, Oslo",
+      "code": "ER"
+    },
+    {
+      "id": "118",
+      "name": "Oslo, Oslo",
+      "code": "EU"
+    },
+    {
+      "id": "119",
+      "name": "Elverum, Innlandet",
+      "code": "HB"
+    },
+    {
+      "id": "120",
+      "name": "Elverum, Innlandet",
+      "code": "HC"
+    },
+    {
+      "id": "121",
+      "name": "Elverum, Innlandet",
+      "code": "HD"
+    },
+    {
+      "id": "122",
+      "name": "Elverum, Innlandet",
+      "code": "HE"
+    },
+    {
+      "id": "123",
+      "name": "Elverum, Innlandet",
+      "code": "HA"
+    },
+    {
+      "id": "124",
+      "name": "Elverum, Innlandet",
+      "code": "FZ"
+    },
+    {
+      "id": "125",
+      "name": "Fagernes, Innlandet",
+      "code": "JR"
+    },
+    {
+      "id": "126",
+      "name": "Fagernes, Innlandet",
+      "code": "JS"
+    },
+    {
+      "id": "127",
+      "name": "Fagernes, Innlandet",
+      "code": "JT"
+    },
+    {
+      "id": "128",
+      "name": "Gjøvik, Innlandet",
+      "code": "JC"
+    },
+    {
+      "id": "129",
+      "name": "Gjøvik, Innlandet",
+      "code": "JD"
+    },
+    {
+      "id": "130",
+      "name": "Gjøvik, Innlandet",
+      "code": "JE"
+    },
+    {
+      "id": "131",
+      "name": "Gjøvik, Innlandet",
+      "code": "JF"
+    },
+    {
+      "id": "132",
+      "name": "Gjøvik, Innlandet",
+      "code": "JH"
+    },
+    {
+      "id": "133",
+      "name": "Gjøvik, Innlandet",
+      "code": "JJ"
+    },
+    {
+      "id": "134",
+      "name": "Gjøvik, Innlandet",
+      "code": "JK"
+    },
+    {
+      "id": "135",
+      "name": "Gjøvik, Innlandet",
+      "code": "JL"
+    },
+    {
+      "id": "136",
+      "name": "Gjøvik, Innlandet",
+      "code": "JN"
+    },
+    {
+      "id": "137",
+      "name": "Gjøvik, Innlandet",
+      "code": "JP"
+    },
+    {
+      "id": "138",
+      "name": "Hamar, Innlandet",
+      "code": "FS"
+    },
+    {
+      "id": "139",
+      "name": "Hamar, Innlandet",
+      "code": "FT"
+    },
+    {
+      "id": "140",
+      "name": "Hamar, Innlandet",
+      "code": "FU"
+    },
+    {
+      "id": "141",
+      "name": "Hamar, Innlandet",
+      "code": "FV"
+    },
+    {
+      "id": "142",
+      "name": "Hamar, Innlandet",
+      "code": "FX"
+    },
+    {
+      "id": "143",
+      "name": "Hamar, Innlandet",
+      "code": "FY"
+    },
+    {
+      "id": "144",
+      "name": "Hamar, Innlandet",
+      "code": "FZ"
+    },
+    {
+      "id": "145",
+      "name": "Hamar, Innlandet",
+      "code": "FW"
+    },
+    {
+      "id": "146",
+      "name": "Hamar, Innlandet",
+      "code": "ET"
+    },
+    {
+      "id": "147",
+      "name": "Kongsvinger, Innlandet",
+      "code": "HJ"
+    },
+    {
+      "id": "148",
+      "name": "Kongsvinger, Innlandet",
+      "code": "HK"
+    },
+    {
+      "id": "149",
+      "name": "Kongsvinger, Innlandet",
+      "code": "HL"
+    },
+    {
+      "id": "150",
+      "name": "Kongsvinger, Innlandet",
+      "code": "HN"
+    },
+    {
+      "id": "151",
+      "name": "Kongsvinger, Innlandet",
+      "code": "HP"
+    },
+    {
+      "id": "152",
+      "name": "Kongsvinger, Innlandet",
+      "code": "HR"
+    },
+    {
+      "id": "153",
+      "name": "Lillehammer, Innlandet",
+      "code": "HS"
+    },
+    {
+      "id": "154",
+      "name": "Lillehammer, Innlandet",
+      "code": "HT"
+    },
+    {
+      "id": "155",
+      "name": "Lillehammer, Innlandet",
+      "code": "HU"
+    },
+    {
+      "id": "156",
+      "name": "Lillehammer, Innlandet",
+      "code": "HV"
+    },
+    {
+      "id": "157",
+      "name": "Lillehammer, Innlandet",
+      "code": "HX"
+    },
+    {
+      "id": "158",
+      "name": "Lillehammer, Innlandet",
+      "code": "FB"
+    },
+    {
+      "id": "159",
+      "name": "Otta, Innlandet",
+      "code": "HZ"
+    },
+    {
+      "id": "160",
+      "name": "Otta, Innlandet",
+      "code": "JA"
+    },
+    {
+      "id": "161",
+      "name": "Otta, Innlandet",
+      "code": "JB"
+    },
+    {
+      "id": "162",
+      "name": "Tynset, Innlandet",
+      "code": "HF"
+    },
+    {
+      "id": "163",
+      "name": "Tynset, Innlandet",
+      "code": "HH"
+    },
+    {
+      "id": "164",
+      "name": "Horten, Vestfold og Telemark",
+      "code": "KZ"
+    },
+    {
+      "id": "165",
+      "name": "Horten, Vestfold og Telemark",
+      "code": "LA"
+    },
+    {
+      "id": "166",
+      "name": "Horten, Vestfold og Telemark",
+      "code": "LB"
+    },
+    {
+      "id": "167",
+      "name": "Horten, Vestfold og Telemark",
+      "code": "LC"
+    },
+    {
+      "id": "168",
+      "name": "Horten, Vestfold og Telemark",
+      "code": "LD"
+    },
+    {
+      "id": "169",
+      "name": "Larvik, Vestfold og Telemark",
+      "code": "LS"
+    },
+    {
+      "id": "170",
+      "name": "Larvik, Vestfold og Telemark",
+      "code": "LT"
+    },
+    {
+      "id": "171",
+      "name": "Larvik, Vestfold og Telemark",
+      "code": "LU"
+    },
+    {
+      "id": "172",
+      "name": "Larvik, Vestfold og Telemark",
+      "code": "LV"
+    },
+    {
+      "id": "173",
+      "name": "Larvik, Vestfold og Telemark",
+      "code": "LX"
+    },
+    {
+      "id": "174",
+      "name": "Larvik, Vestfold og Telemark",
+      "code": "LZ"
+    },
+    {
+      "id": "175",
+      "name": "Larvik, Vestfold og Telemark",
+      "code": "NA"
+    },
+    {
+      "id": "176",
+      "name": "Larvik, Vestfold og Telemark",
+      "code": "NB"
+    },
+    {
+      "id": "177",
+      "name": "Larvik, Vestfold og Telemark",
+      "code": "NC"
+    },
+    {
+      "id": "178",
+      "name": "Notodden, Vestfold og Telemark",
+      "code": "NV"
+    },
+    {
+      "id": "179",
+      "name": "Notodden, Vestfold og Telemark",
+      "code": "NX"
+    },
+    {
+      "id": "180",
+      "name": "Notodden, Vestfold og Telemark",
+      "code": "NY"
+    },
+    {
+      "id": "181",
+      "name": "Notodden, Vestfold og Telemark",
+      "code": "NZ"
+    },
+    {
+      "id": "182",
+      "name": "Rjukan, Vestfold og Telemark",
+      "code": "PA"
+    },
+    {
+      "id": "183",
+      "name": "Rjukan, Vestfold og Telemark",
+      "code": "PB"
+    },
+    {
+      "id": "184",
+      "name": "Sandefjord, Vestfold og Telemark",
+      "code": "LY"
+    },
+    {
+      "id": "185",
+      "name": "Sandefjord, Vestfold og Telemark",
+      "code": "NA"
+    },
+    {
+      "id": "186",
+      "name": "Skien, Vestfold og Telemark",
+      "code": "ND"
+    },
+    {
+      "id": "187",
+      "name": "Skien, Vestfold og Telemark",
+      "code": "NE"
+    },
+    {
+      "id": "188",
+      "name": "Skien, Vestfold og Telemark",
+      "code": "NF"
+    },
+    {
+      "id": "189",
+      "name": "Skien, Vestfold og Telemark",
+      "code": "NH"
+    },
+    {
+      "id": "190",
+      "name": "Skien, Vestfold og Telemark",
+      "code": "NJ"
+    },
+    {
+      "id": "191",
+      "name": "Skien, Vestfold og Telemark",
+      "code": "NK"
+    },
+    {
+      "id": "192",
+      "name": "Skien, Vestfold og Telemark",
+      "code": "NL"
+    },
+    {
+      "id": "193",
+      "name": "Skien, Vestfold og Telemark",
+      "code": "NN"
+    },
+    {
+      "id": "194",
+      "name": "Skien, Vestfold og Telemark",
+      "code": "NP"
+    },
+    {
+      "id": "195",
+      "name": "Skien, Vestfold og Telemark",
+      "code": "NR"
+    },
+    {
+      "id": "196",
+      "name": "Skien, Vestfold og Telemark",
+      "code": "NT"
+    },
+    {
+      "id": "197",
+      "name": "Skien, Vestfold og Telemark",
+      "code": "NU"
+    },
+    {
+      "id": "198",
+      "name": "Tønsberg, Vestfold og Telemark",
+      "code": "LH"
+    },
+    {
+      "id": "199",
+      "name": "Tønsberg, Vestfold og Telemark",
+      "code": "LJ"
+    },
+    {
+      "id": "200",
+      "name": "Tønsberg, Vestfold og Telemark",
+      "code": "LK"
+    },
+    {
+      "id": "201",
+      "name": "Tønsberg, Vestfold og Telemark",
+      "code": "LL"
+    },
+    {
+      "id": "202",
+      "name": "Tønsberg, Vestfold og Telemark",
+      "code": "LN"
+    },
+    {
+      "id": "203",
+      "name": "Tønsberg, Vestfold og Telemark",
+      "code": "LP"
+    },
+    {
+      "id": "204",
+      "name": "Tønsberg, Vestfold og Telemark",
+      "code": "LR"
+    },
+    {
+      "id": "205",
+      "name": "Tønsberg, Vestfold og Telemark",
+      "code": "LD"
+    },
+    {
+      "id": "206",
+      "name": "Arendal, Agder",
+      "code": "PC"
+    },
+    {
+      "id": "207",
+      "name": "Arendal, Agder",
+      "code": "PD"
+    },
+    {
+      "id": "208",
+      "name": "Arendal, Agder",
+      "code": "PE"
+    },
+    {
+      "id": "209",
+      "name": "Arendal, Agder",
+      "code": "PF"
+    },
+    {
+      "id": "210",
+      "name": "Arendal, Agder",
+      "code": "PH"
+    },
+    {
+      "id": "211",
+      "name": "Arendal, Agder",
+      "code": "PJ"
+    },
+    {
+      "id": "212",
+      "name": "Arendal, Agder",
+      "code": "PK"
+    },
+    {
+      "id": "213",
+      "name": "Flekkefjord, Agder",
+      "code": "RA"
+    },
+    {
+      "id": "214",
+      "name": "Flekkefjord, Agder",
+      "code": "RB"
+    },
+    {
+      "id": "215",
+      "name": "Kristiansand, Agder",
+      "code": "PN"
+    },
+    {
+      "id": "216",
+      "name": "Kristiansand, Agder",
+      "code": "PP"
+    },
+    {
+      "id": "217",
+      "name": "Kristiansand, Agder",
+      "code": "PR"
+    },
+    {
+      "id": "218",
+      "name": "Kristiansand, Agder",
+      "code": "PS"
+    },
+    {
+      "id": "219",
+      "name": "Kristiansand, Agder",
+      "code": "PT"
+    },
+    {
+      "id": "220",
+      "name": "Kristiansand, Agder",
+      "code": "PU"
+    },
+    {
+      "id": "221",
+      "name": "Kristiansand, Agder",
+      "code": "PV"
+    },
+    {
+      "id": "222",
+      "name": "Kristiansand, Agder",
+      "code": "PW"
+    },
+    {
+      "id": "223",
+      "name": "Mandal, Agder",
+      "code": "PX"
+    },
+    {
+      "id": "224",
+      "name": "Mandal, Agder",
+      "code": "PY"
+    },
+    {
+      "id": "225",
+      "name": "Mandal, Agder",
+      "code": "PZ"
+    },
+    {
+      "id": "226",
+      "name": "Mandal, Agder",
+      "code": "RC"
+    },
+    {
+      "id": "227",
+      "name": "Mandal, Agder",
+      "code": "RD"
+    },
+    {
+      "id": "228",
+      "name": "Setesdal, Agder",
+      "code": "PL"
+    },
+    {
+      "id": "229",
+      "name": "Setesdal, Agder",
+      "code": "LF"
+    },
+    {
+      "id": "230",
+      "name": "Egersund, Rogaland",
+      "code": "RZ"
+    },
+    {
+      "id": "231",
+      "name": "Egersund, Rogaland",
+      "code": "SA"
+    },
+    {
+      "id": "232",
+      "name": "Egersund, Rogaland",
+      "code": "SB"
+    },
+    {
+      "id": "233",
+      "name": "Haugesund, Rogaland",
+      "code": "SC"
+    },
+    {
+      "id": "234",
+      "name": "Haugesund, Rogaland",
+      "code": "SD"
+    },
+    {
+      "id": "235",
+      "name": "Haugesund, Rogaland",
+      "code": "SE"
+    },
+    {
+      "id": "236",
+      "name": "Haugesund, Rogaland",
+      "code": "SF"
+    },
+    {
+      "id": "237",
+      "name": "Haugesund, Rogaland",
+      "code": "SH"
+    },
+    {
+      "id": "238",
+      "name": "Haugesund, Rogaland",
+      "code": "SJ"
+    },
+    {
+      "id": "239",
+      "name": "Haugesund, Rogaland",
+      "code": "SK"
+    },
+    {
+      "id": "240",
+      "name": "Haugesund, Rogaland",
+      "code": "SL"
+    },
+    {
+      "id": "241",
+      "name": "Stavanger, Rogaland",
+      "code": "RE"
+    },
+    {
+      "id": "242",
+      "name": "Stavanger, Rogaland",
+      "code": "RF"
+    },
+    {
+      "id": "243",
+      "name": "Stavanger, Rogaland",
+      "code": "RH"
+    },
+    {
+      "id": "244",
+      "name": "Stavanger, Rogaland",
+      "code": "RJ"
+    },
+    {
+      "id": "245",
+      "name": "Stavanger, Rogaland",
+      "code": "RK"
+    },
+    {
+      "id": "246",
+      "name": "Stavanger, Rogaland",
+      "code": "RL"
+    },
+    {
+      "id": "247",
+      "name": "Stavanger, Rogaland",
+      "code": "RN"
+    },
+    {
+      "id": "248",
+      "name": "Stavanger, Rogaland",
+      "code": "RP"
+    },
+    {
+      "id": "249",
+      "name": "Stavanger, Rogaland",
+      "code": "RR"
+    },
+    {
+      "id": "250",
+      "name": "Stavanger, Rogaland",
+      "code": "RS"
+    },
+    {
+      "id": "251",
+      "name": "Stavanger, Rogaland",
+      "code": "RT"
+    },
+    {
+      "id": "252",
+      "name": "Stavanger, Rogaland",
+      "code": "RU"
+    },
+    {
+      "id": "253",
+      "name": "Stavanger, Rogaland",
+      "code": "RV"
+    },
+    {
+      "id": "254",
+      "name": "Stavanger, Rogaland",
+      "code": "RX"
+    },
+    {
+      "id": "255",
+      "name": "Stavanger, Rogaland",
+      "code": "RY"
+    },
+    {
+      "id": "256",
+      "name": "Stavanger, Rogaland",
+      "code": "RW"
+    },
+    {
+      "id": "257",
+      "name": "Bergen, Vestland",
+      "code": "SN"
+    },
+    {
+      "id": "258",
+      "name": "Bergen, Vestland",
+      "code": "SP"
+    },
+    {
+      "id": "259",
+      "name": "Bergen, Vestland",
+      "code": "SR"
+    },
+    {
+      "id": "260",
+      "name": "Bergen, Vestland",
+      "code": "SS"
+    },
+    {
+      "id": "261",
+      "name": "Bergen, Vestland",
+      "code": "ST"
+    },
+    {
+      "id": "262",
+      "name": "Bergen, Vestland",
+      "code": "SU"
+    },
+    {
+      "id": "263",
+      "name": "Bergen, Vestland",
+      "code": "SV"
+    },
+    {
+      "id": "264",
+      "name": "Bergen, Vestland",
+      "code": "SX"
+    },
+    {
+      "id": "265",
+      "name": "Bergen, Vestland",
+      "code": "SY"
+    },
+    {
+      "id": "266",
+      "name": "Bergen, Vestland",
+      "code": "SZ"
+    },
+    {
+      "id": "267",
+      "name": "Bergen, Vestland",
+      "code": "TA"
+    },
+    {
+      "id": "268",
+      "name": "Bergen, Vestland",
+      "code": "TB"
+    },
+    {
+      "id": "269",
+      "name": "Bergen, Vestland",
+      "code": "TC"
+    },
+    {
+      "id": "270",
+      "name": "Bergen, Vestland",
+      "code": "TD"
+    },
+    {
+      "id": "271",
+      "name": "Bergen, Vestland",
+      "code": "TE"
+    },
+    {
+      "id": "272",
+      "name": "Bergen, Vestland",
+      "code": "HW"
+    },
+    {
+      "id": "273",
+      "name": "Førde, Vestland",
+      "code": "TV"
+    },
+    {
+      "id": "274",
+      "name": "Førde, Vestland",
+      "code": "TX"
+    },
+    {
+      "id": "275",
+      "name": "Førde, Vestland",
+      "code": "TY"
+    },
+    {
+      "id": "276",
+      "name": "Førde, Vestland",
+      "code": "TZ"
+    },
+    {
+      "id": "277",
+      "name": "Nordfjordeid, Vestland",
+      "code": "UA"
+    },
+    {
+      "id": "278",
+      "name": "Nordfjordeid, Vestland",
+      "code": "UB"
+    },
+    {
+      "id": "279",
+      "name": "Odda, Vestland",
+      "code": "TS"
+    },
+    {
+      "id": "280",
+      "name": "Odda, Vestland",
+      "code": "TT"
+    },
+    {
+      "id": "281",
+      "name": "Odda, Vestland",
+      "code": "TU"
+    },
+    {
+      "id": "282",
+      "name": "Sogndal, Vestland",
+      "code": "UC"
+    },
+    {
+      "id": "283",
+      "name": "Sogndal, Vestland",
+      "code": "UD"
+    },
+    {
+      "id": "284",
+      "name": "Stord, Vestland",
+      "code": "TL"
+    },
+    {
+      "id": "285",
+      "name": "Stord, Vestland",
+      "code": "TN"
+    },
+    {
+      "id": "286",
+      "name": "Stord, Vestland",
+      "code": "TP"
+    },
+    {
+      "id": "287",
+      "name": "Stord, Vestland",
+      "code": "TR"
+    },
+    {
+      "id": "288",
+      "name": "Voss, Vestland",
+      "code": "TF"
+    },
+    {
+      "id": "289",
+      "name": "Voss, Vestland",
+      "code": "TH"
+    },
+    {
+      "id": "290",
+      "name": "Voss, Vestland",
+      "code": "TJ"
+    },
+    {
+      "id": "291",
+      "name": "Voss, Vestland",
+      "code": "TK"
+    },
+    {
+      "id": "292",
+      "name": "Kristiansund, Møre og Romsdal",
+      "code": "UX"
+    },
+    {
+      "id": "293",
+      "name": "Kristiansund, Møre og Romsdal",
+      "code": "UY"
+    },
+    {
+      "id": "294",
+      "name": "Kristiansund, Møre og Romsdal",
+      "code": "UZ"
+    },
+    {
+      "id": "295",
+      "name": "Kristiansund, Møre og Romsdal",
+      "code": "VA"
+    },
+    {
+      "id": "296",
+      "name": "Molde, Møre og Romsdal",
+      "code": "UR"
+    },
+    {
+      "id": "297",
+      "name": "Molde, Møre og Romsdal",
+      "code": "US"
+    },
+    {
+      "id": "298",
+      "name": "Molde, Møre og Romsdal",
+      "code": "UT"
+    },
+    {
+      "id": "299",
+      "name": "Molde, Møre og Romsdal",
+      "code": "UU"
+    },
+    {
+      "id": "300",
+      "name": "Molde, Møre og Romsdal",
+      "code": "UV"
+    },
+    {
+      "id": "301",
+      "name": "Sunndalsøra, Møre og Romsdal",
+      "code": "VB"
+    },
+    {
+      "id": "302",
+      "name": "Sunndalsøra, Møre og Romsdal",
+      "code": "VC"
+    },
+    {
+      "id": "303",
+      "name": "Ørsta, Møre og Romsdal",
+      "code": "UN"
+    },
+    {
+      "id": "304",
+      "name": "Ørsta, Møre og Romsdal",
+      "code": "UP"
+    },
+    {
+      "id": "305",
+      "name": "Ørsta, Møre og Romsdal",
+      "code": "BB"
+    },
+    {
+      "id": "306",
+      "name": "Ålesund, Møre og Romsdal",
+      "code": "UE"
+    },
+    {
+      "id": "307",
+      "name": "Ålesund, Møre og Romsdal",
+      "code": "UF"
+    },
+    {
+      "id": "308",
+      "name": "Ålesund, Møre og Romsdal",
+      "code": "UH"
+    },
+    {
+      "id": "309",
+      "name": "Ålesund, Møre og Romsdal",
+      "code": "UJ"
+    },
+    {
+      "id": "310",
+      "name": "Ålesund, Møre og Romsdal",
+      "code": "UK"
+    },
+    {
+      "id": "311",
+      "name": "Ålesund, Møre og Romsdal",
+      "code": "UL"
+    },
+    {
+      "id": "312",
+      "name": "Brekstad, Trøndelag",
+      "code": "XA"
+    },
+    {
+      "id": "313",
+      "name": "Brekstad, Trøndelag",
+      "code": "XB"
+    },
+    {
+      "id": "314",
+      "name": "Brekstad, Trøndelag",
+      "code": "XC"
+    },
+    {
+      "id": "315",
+      "name": "Levanger, Trøndelag",
+      "code": "XK"
+    },
+    {
+      "id": "316",
+      "name": "Levanger, Trøndelag",
+      "code": "XL"
+    },
+    {
+      "id": "317",
+      "name": "Levanger, Trøndelag",
+      "code": "VW"
+    },
+    {
+      "id": "318",
+      "name": "Namsos, Trøndelag",
+      "code": "XR"
+    },
+    {
+      "id": "319",
+      "name": "Namsos, Trøndelag",
+      "code": "XS"
+    },
+    {
+      "id": "320",
+      "name": "Namsos, Trøndelag",
+      "code": "XT"
+    },
+    {
+      "id": "321",
+      "name": "Namsos, Trøndelag",
+      "code": "XU"
+    },
+    {
+      "id": "322",
+      "name": "Orkdal, Trøndelag",
+      "code": "VX"
+    },
+    {
+      "id": "323",
+      "name": "Orkdal, Trøndelag",
+      "code": "VY"
+    },
+    {
+      "id": "324",
+      "name": "Orkdal, Trøndelag",
+      "code": "VZ"
+    },
+    {
+      "id": "325",
+      "name": "Steinkjer, Trøndelag",
+      "code": "XD"
+    },
+    {
+      "id": "326",
+      "name": "Steinkjer, Trøndelag",
+      "code": "XE"
+    },
+    {
+      "id": "327",
+      "name": "Steinkjer, Trøndelag",
+      "code": "XF"
+    },
+    {
+      "id": "328",
+      "name": "Steinkjer, Trøndelag",
+      "code": "XH"
+    },
+    {
+      "id": "329",
+      "name": "Steinkjer, Trøndelag",
+      "code": "XJ"
+    },
+    {
+      "id": "330",
+      "name": "Steinkjer, Trøndelag",
+      "code": "XW"
+    },
+    {
+      "id": "331",
+      "name": "Stjørdal, Trøndelag",
+      "code": "XN"
+    },
+    {
+      "id": "332",
+      "name": "Støren, Trøndelag",
+      "code": "VS"
+    },
+    {
+      "id": "333",
+      "name": "Støren, Trøndelag",
+      "code": "VT"
+    },
+    {
+      "id": "334",
+      "name": "Trondheim, Trøndelag",
+      "code": "FP"
+    },
+    {
+      "id": "335",
+      "name": "Trondheim, Trøndelag",
+      "code": "VD"
+    },
+    {
+      "id": "336",
+      "name": "Trondheim, Trøndelag",
+      "code": "VE"
+    },
+    {
+      "id": "337",
+      "name": "Trondheim, Trøndelag",
+      "code": "VF"
+    },
+    {
+      "id": "338",
+      "name": "Trondheim, Trøndelag",
+      "code": "VH"
+    },
+    {
+      "id": "339",
+      "name": "Trondheim, Trøndelag",
+      "code": "VJ"
+    },
+    {
+      "id": "340",
+      "name": "Trondheim, Trøndelag",
+      "code": "VK"
+    },
+    {
+      "id": "341",
+      "name": "Trondheim, Trøndelag",
+      "code": "VL"
+    },
+    {
+      "id": "342",
+      "name": "Trondheim, Trøndelag",
+      "code": "VN"
+    },
+    {
+      "id": "343",
+      "name": "Trondheim, Trøndelag",
+      "code": "VP"
+    },
+    {
+      "id": "344",
+      "name": "Trondheim, Trøndelag",
+      "code": "VR"
+    },
+    {
+      "id": "345",
+      "name": "Trondheim, Trøndelag",
+      "code": "VS"
+    },
+    {
+      "id": "346",
+      "name": "Trondheim, Trøndelag",
+      "code": "VU"
+    },
+    {
+      "id": "347",
+      "name": "Trondheim, Trøndelag",
+      "code": "VV"
+    },
+    {
+      "id": "348",
+      "name": "Trondheim, Trøndelag",
+      "code": "NW"
+    },
+    {
+      "id": "349",
+      "name": "Bodø, Trøndelag",
+      "code": "YE"
+    },
+    {
+      "id": "350",
+      "name": "Bodø, Trøndelag",
+      "code": "YF"
+    },
+    {
+      "id": "351",
+      "name": "Bodø, Trøndelag",
+      "code": "YH"
+    },
+    {
+      "id": "352",
+      "name": "Bodø, Trøndelag",
+      "code": "YJ"
+    },
+    {
+      "id": "353",
+      "name": "Bodø, Trøndelag",
+      "code": "FD"
+    },
+    {
+      "id": "354",
+      "name": "Bodø, Trøndelag",
+      "code": "EZ"
+    },
+    {
+      "id": "355",
+      "name": "Fauske, Nordland",
+      "code": "YK"
+    },
+    {
+      "id": "356",
+      "name": "Fauske, Nordland",
+      "code": "YL"
+    },
+    {
+      "id": "357",
+      "name": "Mo i Rana, Nordland",
+      "code": "YA"
+    },
+    {
+      "id": "358",
+      "name": "Mo i Rana, Nordland",
+      "code": "YB"
+    },
+    {
+      "id": "359",
+      "name": "Mo i Rana, Nordland",
+      "code": "YC"
+    },
+    {
+      "id": "360",
+      "name": "Mo i Rana, Nordland",
+      "code": "YD"
+    },
+    {
+      "id": "361",
+      "name": "Mosjøen, Nordland",
+      "code": "XV"
+    },
+    {
+      "id": "362",
+      "name": "Mosjøen, Nordland",
+      "code": "XX"
+    },
+    {
+      "id": "363",
+      "name": "Mosjøen, Nordland",
+      "code": "XY"
+    },
+    {
+      "id": "364",
+      "name": "Mosjøen, Nordland",
+      "code": "XZ"
+    },
+    {
+      "id": "365",
+      "name": "Mosjøen, Nordland",
+      "code": "FA"
+    },
+    {
+      "id": "366",
+      "name": "Narvik, Nordland",
+      "code": "YN"
+    },
+    {
+      "id": "367",
+      "name": "Narvik, Nordland",
+      "code": "YP"
+    },
+    {
+      "id": "368",
+      "name": "Narvik, Nordland",
+      "code": "YR"
+    },
+    {
+      "id": "369",
+      "name": "Narvik, Nordland",
+      "code": "YS"
+    },
+    {
+      "id": "370",
+      "name": "Sortland, Nordland",
+      "code": "YU"
+    },
+    {
+      "id": "371",
+      "name": "Sortland, Nordland",
+      "code": "YV"
+    },
+    {
+      "id": "372",
+      "name": "Sortland, Nordland",
+      "code": "YX"
+    },
+    {
+      "id": "373",
+      "name": "Svolvær, Nordland",
+      "code": "YT"
+    },
+    {
+      "id": "374",
+      "name": "Svolvær, Nordland",
+      "code": "YY"
+    },
+    {
+      "id": "375",
+      "name": "Alta, Troms og Finnmark",
+      "code": "ZT"
+    },
+    {
+      "id": "376",
+      "name": "Alta, Troms og Finnmark",
+      "code": "ZU"
+    },
+    {
+      "id": "377",
+      "name": "Alta, Troms og Finnmark",
+      "code": "ZV"
+    },
+    {
+      "id": "378",
+      "name": "Alta, Troms og Finnmark",
+      "code": "ZY"
+    },
+    {
+      "id": "379",
+      "name": "Alta, Troms og Finnmark",
+      "code": "ZW"
+    },
+    {
+      "id": "380",
+      "name": "Alta, Troms og Finnmark",
+      "code": "UW"
+    },
+    {
+      "id": "381",
+      "name": "Finnsnes, Troms og Finnmark",
+      "code": "ZD"
+    },
+    {
+      "id": "382",
+      "name": "Finnsnes, Troms og Finnmark",
+      "code": "ZF"
+    },
+    {
+      "id": "383",
+      "name": "Finnsnes, Troms og Finnmark",
+      "code": "ZJ"
+    },
+    {
+      "id": "384",
+      "name": "Finnsnes, Troms og Finnmark",
+      "code": "EX"
+    },
+    {
+      "id": "385",
+      "name": "Hammerfest, Troms og Finnmark",
+      "code": "ZX"
+    },
+    {
+      "id": "386",
+      "name": "Hammerfest, Troms og Finnmark",
+      "code": "FF"
+    },
+    {
+      "id": "387",
+      "name": "Hammerfest, Troms og Finnmark",
+      "code": "EX"
+    },
+    {
+      "id": "388",
+      "name": "Harstad, Troms og Finnmark",
+      "code": "YZ"
+    },
+    {
+      "id": "389",
+      "name": "Harstad, Troms og Finnmark",
+      "code": "ZA"
+    },
+    {
+      "id": "390",
+      "name": "Harstad, Troms og Finnmark",
+      "code": "ZB"
+    },
+    {
+      "id": "391",
+      "name": "Harstad, Troms og Finnmark",
+      "code": "TW"
+    },
+    {
+      "id": "392",
+      "name": "Kirkenes, Troms og Finnmark",
+      "code": "ZS"
+    },
+    {
+      "id": "393",
+      "name": "Kirkenes, Troms og Finnmark",
+      "code": "EY"
+    },
+    {
+      "id": "394",
+      "name": "Lakselv, Troms og Finnmark",
+      "code": "ZZ"
+    },
+    {
+      "id": "395",
+      "name": "Lakselv, Troms og Finnmark",
+      "code": "CW"
+    },
+    {
+      "id": "396",
+      "name": "Storslett, Troms og Finnmark",
+      "code": "FK"
+    },
+    {
+      "id": "397",
+      "name": "Storslett, Troms og Finnmark",
+      "code": "SW"
+    },
+    {
+      "id": "398",
+      "name": "Tromsø, Troms og Finnmark",
+      "code": "ZC"
+    },
+    {
+      "id": "399",
+      "name": "Tromsø, Troms og Finnmark",
+      "code": "ZE"
+    },
+    {
+      "id": "400",
+      "name": "Tromsø, Troms og Finnmark",
+      "code": "ZH"
+    },
+    {
+      "id": "401",
+      "name": "Tromsø, Troms og Finnmark",
+      "code": "ZK"
+    },
+    {
+      "id": "402",
+      "name": "Tromsø, Troms og Finnmark",
+      "code": "ZL"
+    },
+    {
+      "id": "403",
+      "name": "Tromsø, Troms og Finnmark",
+      "code": "FC"
+    },
+    {
+      "id": "404",
+      "name": "Vadsø, Troms og Finnmark",
+      "code": "FR"
+    },
+    {
+      "id": "405",
+      "name": "Vadsø, Troms og Finnmark",
+      "code": "ZP"
+    },
+    {
+      "id": "406",
+      "name": "Vadsø, Troms og Finnmark",
+      "code": "ZR"
+    },
+    {
+      "id": "407",
+      "name": "Vadsø, Troms og Finnmark",
+      "code": "LE"
+    },
+    {
+      "id": "408",
+      "name": "Svalbard, Troms og Finnmark",
+      "code": "ZN"
+    },
+    {
+      "id": "409",
+      "name": "Svalbard, Troms og Finnmark",
+      "code": "FH"
+    },
+    {
+      "id": "410",
+      "name": "Electrically powered vehicles",
+      "code": "EL"
+    },
+    {
+      "id": "411",
+      "name": "Electrically powered vehicles",
+      "code": "EK"
+    },
+    {
+      "id": "412",
+      "name": "Electrically powered vehicles",
+      "code": "EV"
+    },
+    {
+      "id": "413",
+      "name": "Electrically powered vehicles",
+      "code": "EB"
+    },
+    {
+      "id": "414",
+      "name": "Electrically powered vehicles",
+      "code": "EC"
+    },
+    {
+      "id": "415",
+      "name": "Electrically powered vehicles",
+      "code": "ED"
+    },
+    {
+      "id": "416",
+      "name": "Electrically powered vehicles",
+      "code": "EE"
+    },
+    {
+      "id": "417",
+      "name": "Former military vehicles",
+      "code": "FE"
+    },
+    {
+      "id": "418",
+      "name": "autogas/LPG (liquified petroleum gas) or other gas powered vehicles",
+      "code": "GA"
+    },
+    {
+      "id": "419",
+      "name": "Hydrogen powered vehicles",
+      "code": "HY"
+    }
+  ]
+}
