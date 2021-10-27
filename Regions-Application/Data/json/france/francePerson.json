@@ -1,0 +1,514 @@
+{
+  "regions": [
+    {
+      "id": "1",
+      "name": "Ain,LaonBourg-en-Bresse,Auvergne-Rhône-Alpes",
+      "code": "01"
+    },
+    {
+      "id": "2",
+      "name": "Aisne,Laon,Hauts-de-France",
+      "code": "02"
+    },
+    {
+      "id": "3",
+      "name": "Allier,Moulins,Auvergne-Rhône-Alpes",
+      "code": "03"
+    },
+    {
+      "id": "4",
+      "name": "Alpes-de-Haute-Provence,Digne-les-Bains,Provence-Alpes-Côte d\\'Azur",
+      "code": "04"
+    },
+    {
+      "id": "5",
+      "name": "Hautes-Alpes,Gap,Provence-Alpes-Côte d\\'Azur",
+      "code": "05"
+    },
+    {
+      "id": "6",
+      "name": "Alpes-Maritimes,Nice,Provence-Alpes-Côte d\\'Azur",
+      "code": "06"
+    },
+    {
+      "id": "7",
+      "name": "Ardèche,Privas,Auvergne-Rhône-Alpes",
+      "code": "07"
+    },
+    {
+      "id": "8",
+      "name": "Ardennes,Charleville-Mézières,Grand Est",
+      "code": "08"
+    },
+    {
+      "id": "9",
+      "name": "Ariège,Foix,Occitanie",
+      "code": "09"
+    },
+    {
+      "id": "10",
+      "name": "Aube,Troyes,Grand Est",
+      "code": "10"
+    },
+    {
+      "id": "11",
+      "name": "Aude,Carcassonne,Occitanie",
+      "code": "11"
+    },
+    {
+      "id": "12",
+      "name": "Aveyron,Rodez,Occitanie",
+      "code": "12"
+    },
+    {
+      "id": "13",
+      "name": "Bouches-du-Rhône,Marseille,Provence-Alpes-Côte d\\'Azur",
+      "code": "13"
+    },
+    {
+      "id": "14",
+      "name": "Calvados,Caen,Normandie",
+      "code": "14"
+    },
+    {
+      "id": "15",
+      "name": "Cantal,Aurillac,Auvergne-Rhône-Alpes",
+      "code": "15"
+    },
+    {
+      "id": "16",
+      "name": "Charente,Angoulême,Nouvelle-Aquitaine",
+      "code": "16"
+    },
+    {
+      "id": "17",
+      "name": "Charente-Maritime,La Rochelle,Nouvelle-Aquitaine",
+      "code": "17"
+    },
+    {
+      "id": "18",
+      "name": "Cher,Bourges,Centre-Val de Loire",
+      "code": "18"
+    },
+    {
+      "id": "19",
+      "name": "Corrèze,Tulle,Nouvelle-Aquitaine",
+      "code": "19"
+    },
+    {
+      "id": "20",
+      "name": "Corse-du-Sud,Ajaccio,Corse",
+      "code": "2A"
+    },
+    {
+      "id": "21",
+      "name": "Haute-Corse,Bastia,Corse",
+      "code": "2B"
+    },
+    {
+      "id": "22",
+      "name": "Côte-d\\'Or,Dijon,Bourgogne-Franche-Comté",
+      "code": "21"
+    },
+    {
+      "id": "23",
+      "name": "Côtes-d\\'Armor,Saint-Brieuc,Bretagne",
+      "code": "22"
+    },
+    {
+      "id": "24",
+      "name": "Creuse,Guéret,Nouvelle-Aquitaine",
+      "code": "23"
+    },
+    {
+      "id": "25",
+      "name": "Dordogne,Périgueux,Nouvelle-Aquitaine",
+      "code": "24"
+    },
+    {
+      "id": "26",
+      "name": "Doubs,Besançon,Bourgogne-Franche-Comté\t",
+      "code": "25"
+    },
+    {
+      "id": "27",
+      "name": "Drôme,Valence,Auvergne-Rhône-Alpes",
+      "code": "26"
+    },
+    {
+      "id": "28",
+      "name": "Eure,Évreux,Normandie",
+      "code": "27"
+    },
+    {
+      "id": "29",
+      "name": "Eure-et-Loir,Chartres,Centre-Val de Loire",
+      "code": "28"
+    },
+    {
+      "id": "30",
+      "name": "Finistère,Quimper,Bretagne",
+      "code": "29"
+    },
+    {
+      "id": "31",
+      "name": "Gard,Nîmes,Occitanie",
+      "code": "30"
+    },
+    {
+      "id": "32",
+      "name": "Haute-Garonne,Toulouse,Occitanie",
+      "code": "31"
+    },
+    {
+      "id": "33",
+      "name": "Gers,Auch,Occitanie",
+      "code": "32"
+    },
+    {
+      "id": "34",
+      "name": "Gironde,Bordeaux,Nouvelle-Aquitaine",
+      "code": "33"
+    },
+    {
+      "id": "35",
+      "name": "Hérault,Montpellier,Occitanie",
+      "code": "34"
+    },
+    {
+      "id": "36",
+      "name": "Ille-et-Vilaine,Rennes,Bretagne",
+      "code": "35"
+    },
+    {
+      "id": "37",
+      "name": "Indre,Châteauroux,Centre-Val de Loire",
+      "code": "36"
+    },
+    {
+      "id": "38",
+      "name": "Indre-et-Loire,Tours,Centre-Val de Loire",
+      "code": "37"
+    },
+    {
+      "id": "39",
+      "name": "Isère,Grenoble,Auvergne-Rhône-Alpes",
+      "code": "38"
+    },
+    {
+      "id": "40",
+      "name": "Jura,Lons-le-Saunier,Bourgogne-Franche-Comté",
+      "code": "39"
+    },
+    {
+      "id": "41",
+      "name": "Landes,Mont-de-Marsan,Nouvelle-Aquitaine",
+      "code": "40"
+    },
+    {
+      "id": "42",
+      "name": "Loir-et-Cher,Blois,Centre-Val de Loire",
+      "code": "41"
+    },
+    {
+      "id": "43",
+      "name": "Loire,Saint-Étienne,Auvergne-Rhône-Alpes",
+      "code": "42"
+    },
+    {
+      "id": "44",
+      "name": "Haute-Loire,Le Puy,Auvergne-Rhône-Alpes",
+      "code": "43"
+    },
+    {
+      "id": "45",
+      "name": "Loire-Atlantique,Nantes,Pays de la Loire",
+      "code": "44"
+    },
+    {
+      "id": "46",
+      "name": "Loiret,Orléans,Centre-Val de Loire",
+      "code": "45"
+    },
+    {
+      "id": "47",
+      "name": "Lot,Cahors,Occitanie",
+      "code": "46"
+    },
+    {
+      "id": "48",
+      "name": "Lot-et-Garonne,Agen,Nouvelle-Aquitaine",
+      "code": "47"
+    },
+    {
+      "id": "49",
+      "name": "Lozère,Mende,Occitanie",
+      "code": "48"
+    },
+    {
+      "id": "50",
+      "name": "Maine-et-Loire,Angers,Pays de la Loire",
+      "code": "49"
+    },
+    {
+      "id": "51",
+      "name": "Manche,Saint-Lô,Normandie",
+      "code": "50"
+    },
+    {
+      "id": "52",
+      "name": "Marne,Châlons-en-Champagne,Grand Est",
+      "code": "51"
+    },
+    {
+      "id": "53",
+      "name": "Haute-Marne,Chaumont,Grand Est",
+      "code": "52"
+    },
+    {
+      "id": "54",
+      "name": "Mayenne,Laval,Pays de la Loire",
+      "code": "53"
+    },
+    {
+      "id": "55",
+      "name": "Meurthe-et-Moselle,Nancy,Grand Est",
+      "code": "54"
+    },
+    {
+      "id": "56",
+      "name": "Meuse,Bar-le-Duc,Grand Est",
+      "code": "55"
+    },
+    {
+      "id": "57",
+      "name": "Morbihan,Vannes,Bretagne",
+      "code": "56"
+    },
+    {
+      "id": "58",
+      "name": "Moselle,Metz,Grand Est",
+      "code": "57"
+    },
+    {
+      "id": "59",
+      "name": "Nièvre,Nevers,Bourgogne-Franche-Comté\t",
+      "code": "58"
+    },
+    {
+      "id": "60",
+      "name": "Nord,Lille,Hauts-de-France",
+      "code": "59"
+    },
+    {
+      "id": "61",
+      "name": "Oise,Beauvais,Hauts-de-France",
+      "code": "60"
+    },
+    {
+      "id": "62",
+      "name": "Orne,Alençon,Normandie",
+      "code": "61"
+    },
+    {
+      "id": "63",
+      "name": "Pas-de-Calais,Arras,Hauts-de-France",
+      "code": "62"
+    },
+    {
+      "id": "64",
+      "name": "Puy-de-Dôme,Clermont-Ferrand,Auvergne-Rhône-Alpes",
+      "code": "63"
+    },
+    {
+      "id": "65",
+      "name": "Pyrénées-Atlantiques,Pau,Nouvelle-Aquitaine",
+      "code": "64"
+    },
+    {
+      "id": "66",
+      "name": "Hautes-Pyrénées,Tarbes,Occitanie",
+      "code": "65"
+    },
+    {
+      "id": "67",
+      "name": "Pyrénées-Orientales,Perpignan,Occitanie",
+      "code": "66"
+    },
+    {
+      "id": "68",
+      "name": "Bas-Rhin,Strasbourg,Grand Est",
+      "code": "67"
+    },
+    {
+      "id": "69",
+      "name": "Haut-Rhin,Colmar,Grand Est",
+      "code": "68"
+    },
+    {
+      "id": "70",
+      "name": "Rhône,Lyon,Auvergne-Rhône-Alpes",
+      "code": "69D"
+    },
+    {
+      "id": "71",
+      "name": "Métropolede Lyon,Lyon,Auvergne-Rhône-Alpes",
+      "code": "69M"
+    },
+    {
+      "id": "72",
+      "name": "Haute-Saône,Vesoul,Bourgogne-Franche-Comté",
+      "code": "70"
+    },
+    {
+      "id": "73",
+      "name": "Saône-et-Loire,Mâcon,Bourgogne-Franche-Comté",
+      "code": "71"
+    },
+    {
+      "id": "74",
+      "name": "Sarthe,Le Mans,Pays de la Loire",
+      "code": "72"
+    },
+    {
+      "id": "75",
+      "name": "Savoie,Chambéry,Auvergne-Rhône-Alpes",
+      "code": "73"
+    },
+    {
+      "id": "76",
+      "name": "Haute-Savoie,Annecy,Auvergne-Rhône-Alpes",
+      "code": "74"
+    },
+    {
+      "id": "77",
+      "name": "Paris,Paris,Île-de-France",
+      "code": "75"
+    },
+    {
+      "id": "78",
+      "name": "Seine-Maritime,Rouen,Normandie",
+      "code": "76"
+    },
+    {
+      "id": "79",
+      "name": "Seine-et-Marne,Melun,Île-de-France",
+      "code": "77"
+    },
+    {
+      "id": "80",
+      "name": "Yvelines,Versailles,Île-de-France",
+      "code": "78"
+    },
+    {
+      "id": "81",
+      "name": "Deux-Sèvres,Niort,Nouvelle-Aquitaine",
+      "code": "79"
+    },
+    {
+      "id": "82",
+      "name": "Somme,Amiens,Hauts-de-France",
+      "code": "80"
+    },
+    {
+      "id": "83",
+      "name": "Tarn,Albi,Occitanie",
+      "code": "81"
+    },
+    {
+      "id": "84",
+      "name": "Tarn-et-Garonne,Montauban,Occitanie",
+      "code": "82"
+    },
+    {
+      "id": "85",
+      "name": "Var,Toulon,Provence-Alpes-Côte d\\'Azur\t",
+      "code": "83"
+    },
+    {
+      "id": "86",
+      "name": "Vaucluse,Avignon,Provence-Alpes-Côte d\\'Azur\t",
+      "code": "84"
+    },
+    {
+      "id": "87",
+      "name": "Vendée,La Roche-sur-Yon,Pays de la Loire",
+      "code": "85"
+    },
+    {
+      "id": "88",
+      "name": "Vienne,Poitiers,Nouvelle-Aquitaine",
+      "code": "86"
+    },
+    {
+      "id": "89",
+      "name": "Haute-Vienne,Limoges,Nouvelle-Aquitaine",
+      "code": "87"
+    },
+    {
+      "id": "90",
+      "name": "Vosges,Épinal,Grand Est",
+      "code": "88"
+    },
+    {
+      "id": "91",
+      "name": "Yonne\tAuxerre\tBourgogne-Franche-Comté\t",
+      "code": "89"
+    },
+    {
+      "id": "92",
+      "name": "Territoire-de-Belfort,Belfort,Bourgogne-Franche-Comté\t",
+      "code": "90"
+    },
+    {
+      "id": "93",
+      "name": "Essonne,Évry,Île-de-France",
+      "code": "91"
+    },
+    {
+      "id": "94",
+      "name": "Hauts-de-Seine,Nanterre,Île-de-France",
+      "code": "92"
+    },
+    {
+      "id": "95",
+      "name": "Seine-Saint-Denis,Bobigny,Île-de-France",
+      "code": "93"
+    },
+    {
+      "id": "96",
+      "name": "Val-de-Marne,Créteil,Île-de-France",
+      "code": "94"
+    },
+    {
+      "id": "97",
+      "name": "Val-d\\'Oise,Pontoise,Île-de-France",
+      "code": "95"
+    },
+    {
+      "id": "98",
+      "name": "Guadeloupe,Basse-Terre,Outre-Mer",
+      "code": "971"
+    },
+    {
+      "id": "99",
+      "name": "Martinique,Fort-de-France,Outre-Mer",
+      "code": "972"
+    },
+    {
+      "id": "100",
+      "name": "Guyane française,Cayenne,Outre-Mer",
+      "code": "973"
+    },
+    {
+      "id": "101",
+      "name": "Réunion,Saint-Denis,Outre-Mer",
+      "code": "974"
+    },
+    {
+      "id": "102",
+      "name": "Mayotte,Mamoudzou,Outre-Mer",
+      "code": "976"
+    }
+  ]
+}
