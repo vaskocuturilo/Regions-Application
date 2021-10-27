@@ -36,6 +36,8 @@
 		7268C72426E14C2900BEDE03 /* irelandPerson.json in Resources */ = {isa = PBXBuildFile; fileRef = 7268C72326E14C2900BEDE03 /* irelandPerson.json */; };
 		7268C73B26E151E900BEDE03 /* RomaniaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7268C73A26E151E900BEDE03 /* RomaniaViewController.swift */; };
 		7268C74126E1527600BEDE03 /* romaniaPerson.json in Resources */ = {isa = PBXBuildFile; fileRef = 7268C74026E1527600BEDE03 /* romaniaPerson.json */; };
+		7271E8002729D09400245ACC /* SwitzerlandViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7271E7FF2729D09400245ACC /* SwitzerlandViewController.swift */; };
+		7271E8032729D31D00245ACC /* switzerlandPerson.json in Resources */ = {isa = PBXBuildFile; fileRef = 7271E8022729D31D00245ACC /* switzerlandPerson.json */; };
 		7274FD9026C93EA500DF5D85 /* AfterOneSecondTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7274FD8F26C93EA500DF5D85 /* AfterOneSecondTextField.swift */; };
 		7274FD9526C9508000DF5D85 /* JsonLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7274FD9426C9508000DF5D85 /* JsonLoader.swift */; };
 		727A4AC926C63C850093879A /* ReadJson.swift in Sources */ = {isa = PBXBuildFile; fileRef = 727A4AC826C63C850093879A /* ReadJson.swift */; };
@@ -157,6 +159,8 @@
 		7268C72326E14C2900BEDE03 /* irelandPerson.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = irelandPerson.json; sourceTree = "<group>"; };
 		7268C73A26E151E900BEDE03 /* RomaniaViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RomaniaViewController.swift; sourceTree = "<group>"; };
 		7268C74026E1527600BEDE03 /* romaniaPerson.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = romaniaPerson.json; sourceTree = "<group>"; };
+		7271E7FF2729D09400245ACC /* SwitzerlandViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwitzerlandViewController.swift; sourceTree = "<group>"; };
+		7271E8022729D31D00245ACC /* switzerlandPerson.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = switzerlandPerson.json; sourceTree = "<group>"; };
 		7274FD8F26C93EA500DF5D85 /* AfterOneSecondTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AfterOneSecondTextField.swift; sourceTree = "<group>"; };
 		7274FD9426C9508000DF5D85 /* JsonLoader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JsonLoader.swift; sourceTree = "<group>"; };
 		727A4AC826C63C850093879A /* ReadJson.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReadJson.swift; sourceTree = "<group>"; };
@@ -414,6 +418,14 @@
 			path = romania;
 			sourceTree = "<group>";
 		};
+		7271E8012729D2F600245ACC /* switzerland */ = {
+			isa = PBXGroup;
+			children = (
+				7271E8022729D31D00245ACC /* switzerlandPerson.json */,
+			);
+			path = switzerland;
+			sourceTree = "<group>";
+		};
 		727EBD2B272709D900A31FC1 /* norway */ = {
 			isa = PBXGroup;
 			children = (
@@ -541,6 +553,7 @@
 				72E31BFF27075F7000E54C63 /* HungaryViewController.swift */,
 				7219861D2725CBA50028A8A6 /* ArmeniaViewController.swift */,
 				727EBD2C27270A3300A31FC1 /* NorwayViewController.swift */,
+				7271E7FF2729D09400245ACC /* SwitzerlandViewController.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -565,6 +578,7 @@
 		72CB74A726C7E624007435AB /* json */ = {
 			isa = PBXGroup;
 			children = (
+				7271E8012729D2F600245ACC /* switzerland */,
 				727EBD2B272709D900A31FC1 /* norway */,
 				7219861F2725CC8F0028A8A6 /* armenia */,
 				72E31C01270763E800E54C63 /* hungary */,
@@ -800,6 +814,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7271E8032729D31D00245ACC /* switzerlandPerson.json in Resources */,
 				72E0974E26D2E55F007F3693 /* ukrainePerson.json in Resources */,
 				7243166526DA3D2D00E9BEA3 /* bulgariaPerson.json in Resources */,
 				721986212725CCB00028A8A6 /* armeniaPerson.json in Resources */,
@@ -956,6 +971,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7271E8002729D09400245ACC /* SwitzerlandViewController.swift in Sources */,
 				7224632326C470DB00D7E215 /* UkraineViewController.swift in Sources */,
 				7267D4BB26CEAAA2008021D1 /* PolandViewController.swift in Sources */,
 				72CB749326C7BBAF007435AB /* BelarusViewController.swift in Sources */,

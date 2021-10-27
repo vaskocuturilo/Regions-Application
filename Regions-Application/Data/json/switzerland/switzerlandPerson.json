@@ -1,0 +1,134 @@
+{
+  "regions": [
+    {
+      "id": "1",
+      "name": "Aargau",
+      "code": "AG"
+    },
+    {
+      "id": "2",
+      "name": "Appenzell Innerrhoden",
+      "code": "AI"
+    },
+    {
+      "id": "3",
+      "name": "Appenzell Ausserrhoden",
+      "code": "AR"
+    },
+    {
+      "id": "4",
+      "name": "Bern",
+      "code": "BE"
+    },
+    {
+      "id": "5",
+      "name": "Basel-Landschaft",
+      "code": "BL"
+    },
+    {
+      "id": "6",
+      "name": "Basel-Stadt",
+      "code": "BS"
+    },
+    {
+      "id": "7",
+      "name": "Fribourg",
+      "code": "FR"
+    },
+    {
+      "id": "8",
+      "name": "Geneva",
+      "code": "GE"
+    },
+    {
+      "id": "9",
+      "name": "Glarus",
+      "code": "GL"
+    },
+    {
+      "id": "10",
+      "name": "Graubünden",
+      "code": "GR"
+    },
+    {
+      "id": "11",
+      "name": "Jura",
+      "code": "JU"
+    },
+    {
+      "id": "12",
+      "name": "Lucerne",
+      "code": "LU"
+    },
+    {
+      "id": "13",
+      "name": "Neuchâtel",
+      "code": "NE"
+    },
+    {
+      "id": "14",
+      "name": "Nidwalden",
+      "code": "NW"
+    },
+    {
+      "id": "15",
+      "name": "Obwalden",
+      "code": "OW"
+    },
+    {
+      "id": "16",
+      "name": "St. Gallen",
+      "code": "SG"
+    },
+    {
+      "id": "17",
+      "name": "Schaffhausen",
+      "code": "SH"
+    },
+    {
+      "id": "18",
+      "name": "Solothurn",
+      "code": "SO"
+    },
+    {
+      "id": "19",
+      "name": "Schwyz",
+      "code": "SZ"
+    },
+    {
+      "id": "20",
+      "name": "Thurgau",
+      "code": "TG"
+    },
+    {
+      "id": "21",
+      "name": "Ticino",
+      "code": "TI"
+    },
+    {
+      "id": "22",
+      "name": "Uri",
+      "code": "UR"
+    },
+    {
+      "id": "23",
+      "name": "Vaud",
+      "code": "VD"
+    },
+    {
+      "id": "24",
+      "name": "Valais",
+      "code": "VS"
+    },
+    {
+      "id": "25",
+      "name": "Zug",
+      "code": "ZG"
+    },
+    {
+      "id": "26",
+      "name": "Zürich",
+      "code": "ZH"
+    }
+  ]
+}
