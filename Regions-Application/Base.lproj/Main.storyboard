@@ -771,7 +771,7 @@
                                         </tableViewCellContentView>
                                     </tableViewCell>
                                     <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" rowHeight="94" id="4w1-bM-djW">
-                                        <rect key="frame" x="0.0" y="1422.5" width="320" height="94"/>
+                                        <rect key="frame" x="0.0" y="1622.5" width="320" height="94"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" preservesSuperviewLayoutMargins="YES" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="4w1-bM-djW" id="bw0-aK-JB8">
                                             <rect key="frame" x="0.0" y="0.0" width="320" height="94"/>
@@ -811,7 +811,7 @@
                                         </tableViewCellContentView>
                                     </tableViewCell>
                                     <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" rowHeight="94" id="F5V-vJ-53F">
-                                        <rect key="frame" x="0.0" y="1516.5" width="320" height="94"/>
+                                        <rect key="frame" x="0.0" y="1716.5" width="320" height="94"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" preservesSuperviewLayoutMargins="YES" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="F5V-vJ-53F" id="MkC-Pk-Zjj">
                                             <rect key="frame" x="0.0" y="0.0" width="320" height="94"/>
@@ -851,7 +851,7 @@
                                         </tableViewCellContentView>
                                     </tableViewCell>
                                     <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" rowHeight="94" id="DEN-yJ-Mre">
-                                        <rect key="frame" x="0.0" y="1610.5" width="320" height="94"/>
+                                        <rect key="frame" x="0.0" y="1510.5" width="320" height="94"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" preservesSuperviewLayoutMargins="YES" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="DEN-yJ-Mre" id="ciF-mZ-kbb">
                                             <rect key="frame" x="0.0" y="0.0" width="320" height="94"/>
@@ -890,8 +890,48 @@
                                             </constraints>
                                         </tableViewCellContentView>
                                     </tableViewCell>
+                                    <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" rowHeight="94" id="qEI-CR-Qgy">
+                                        <rect key="frame" x="0.0" y="1604.5" width="320" height="94"/>
+                                        <autoresizingMask key="autoresizingMask"/>
+                                        <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" preservesSuperviewLayoutMargins="YES" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="qEI-CR-Qgy" id="e8m-0C-OxV">
+                                            <rect key="frame" x="0.0" y="0.0" width="320" height="94"/>
+                                            <autoresizingMask key="autoresizingMask"/>
+                                            <subviews>
+                                                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="France" translatesAutoresizingMaskIntoConstraints="NO" id="gfs-O2-7tQ">
+                                                    <rect key="frame" x="16" y="35" width="24" height="24"/>
+                                                    <constraints>
+                                                        <constraint firstAttribute="height" constant="24" id="hF3-8U-QvS"/>
+                                                        <constraint firstAttribute="width" constant="24" id="tCF-Dy-e1m"/>
+                                                    </constraints>
+                                                </imageView>
+                                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="France" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="1J1-tT-3ia">
+                                                    <rect key="frame" x="56" y="36.5" width="168" height="21"/>
+                                                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                                    <nil key="textColor"/>
+                                                    <nil key="highlightedColor"/>
+                                                </label>
+                                                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="DnA-nS-2fe">
+                                                    <rect key="frame" x="16" y="92" width="304" height="2"/>
+                                                    <color key="backgroundColor" systemColor="systemGroupedBackgroundColor"/>
+                                                    <constraints>
+                                                        <constraint firstAttribute="height" constant="2" id="ujm-a9-eya"/>
+                                                    </constraints>
+                                                </view>
+                                            </subviews>
+                                            <constraints>
+                                                <constraint firstAttribute="trailing" secondItem="DnA-nS-2fe" secondAttribute="trailing" id="5IQ-5P-cjU"/>
+                                                <constraint firstItem="1J1-tT-3ia" firstAttribute="centerY" secondItem="gfs-O2-7tQ" secondAttribute="centerY" id="92J-n5-eBM"/>
+                                                <constraint firstItem="gfs-O2-7tQ" firstAttribute="centerY" secondItem="e8m-0C-OxV" secondAttribute="centerY" id="CcD-x8-fsd"/>
+                                                <constraint firstItem="DnA-nS-2fe" firstAttribute="leading" secondItem="e8m-0C-OxV" secondAttribute="leading" constant="16" id="IXd-bF-IMv"/>
+                                                <constraint firstItem="1J1-tT-3ia" firstAttribute="leading" secondItem="gfs-O2-7tQ" secondAttribute="trailing" constant="16" id="Rvq-WH-Bnt"/>
+                                                <constraint firstAttribute="trailingMargin" secondItem="1J1-tT-3ia" secondAttribute="trailing" constant="88" id="SJR-Ei-d6e"/>
+                                                <constraint firstItem="gfs-O2-7tQ" firstAttribute="leading" secondItem="e8m-0C-OxV" secondAttribute="leading" constant="16" id="nlR-Cf-D8X"/>
+                                                <constraint firstAttribute="bottom" secondItem="DnA-nS-2fe" secondAttribute="bottom" id="tm9-N9-7Ge"/>
+                                            </constraints>
+                                        </tableViewCellContentView>
+                                    </tableViewCell>
                                     <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" rowHeight="94" id="1hO-EN-hLD">
-                                        <rect key="frame" x="0.0" y="1704.5" width="320" height="94"/>
+                                        <rect key="frame" x="0.0" y="1698.5" width="320" height="94"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" preservesSuperviewLayoutMargins="YES" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="1hO-EN-hLD" id="nsH-HD-dx2">
                                             <rect key="frame" x="0.0" y="0.0" width="320" height="94"/>
@@ -2622,6 +2662,11 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" name="Palatino-Bold" family="Palatino" pointSize="25"/>
                                 <textInputTraits key="textInputTraits"/>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="maxLength">
+                                        <integer key="value" value="2"/>
+                                    </userDefinedRuntimeAttribute>
+                                </userDefinedRuntimeAttributes>
                             </textField>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="BFI-vI-TA4"/>
@@ -2649,6 +2694,92 @@
             </objects>
             <point key="canvasLocation" x="13721" y="189"/>
         </scene>
+        <!--France View Controller-->
+        <scene sceneID="tT1-lx-rKA">
+            <objects>
+                <viewController storyboardIdentifier="franceViewController" id="cf0-ay-IuF" customClass="FranceViewController" customModule="Regions_Application" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="cKx-Eo-msE">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" spacing="10" translatesAutoresizingMaskIntoConstraints="NO" id="4u0-82-CC2">
+                                <rect key="frame" x="20" y="20" width="280" height="50"/>
+                                <subviews>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="KNN-Pj-4eZ">
+                                        <rect key="frame" x="0.0" y="0.0" width="86.5" height="50"/>
+                                        <fontDescription key="fontDescription" name="Palatino-Bold" family="Palatino" pointSize="16"/>
+                                        <state key="normal" title="Person"/>
+                                        <connections>
+                                            <action selector="didTapPersonButton:" destination="cf0-ay-IuF" eventType="touchUpInside" id="ViM-Gv-ENb"/>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="WfC-ht-z3Z">
+                                        <rect key="frame" x="96.5" y="0.0" width="87" height="50"/>
+                                        <fontDescription key="fontDescription" name="Palatino-Bold" family="Palatino" pointSize="16"/>
+                                        <state key="normal" title="Diplomatic"/>
+                                        <connections>
+                                            <action selector="didTapDiplomaticButton:" destination="cf0-ay-IuF" eventType="touchUpInside" id="gcD-i0-4I8"/>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Cd4-YK-ZtZ">
+                                        <rect key="frame" x="193.5" y="0.0" width="86.5" height="50"/>
+                                        <fontDescription key="fontDescription" name="Palatino-Bold" family="Palatino" pointSize="16"/>
+                                        <state key="normal" title="Military"/>
+                                        <connections>
+                                            <action selector="didTapMilitaryButton:" destination="cf0-ay-IuF" eventType="touchUpInside" id="45Q-LZ-Cyc"/>
+                                        </connections>
+                                    </button>
+                                </subviews>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="50" id="76s-5F-5xV"/>
+                                </constraints>
+                            </stackView>
+                            <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="center" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="TJE-Yy-bcO">
+                                <rect key="frame" x="120" y="259" width="80" height="50"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="50" id="FSb-fB-F9Y"/>
+                                    <constraint firstAttribute="width" constant="80" id="yND-3M-HB3"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="Palatino-Bold" family="Palatino" pointSize="25"/>
+                                <textInputTraits key="textInputTraits" keyboardType="numberPad"/>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="maxLength">
+                                        <integer key="value" value="2"/>
+                                    </userDefinedRuntimeAttribute>
+                                </userDefinedRuntimeAttributes>
+                            </textField>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Enter region code:" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="hi0-nD-ZLB">
+                                <rect key="frame" x="20" y="97" width="280" height="23.5"/>
+                                <fontDescription key="fontDescription" name="Palatino-Bold" family="Palatino" pointSize="21"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="RWz-Ej-HHI"/>
+                        <color key="backgroundColor" systemColor="opaqueSeparatorColor"/>
+                        <constraints>
+                            <constraint firstItem="TJE-Yy-bcO" firstAttribute="centerX" secondItem="cKx-Eo-msE" secondAttribute="centerX" id="0IS-iK-LTe"/>
+                            <constraint firstItem="hi0-nD-ZLB" firstAttribute="leading" secondItem="RWz-Ej-HHI" secondAttribute="leading" constant="20" id="1Ll-5x-FdA"/>
+                            <constraint firstItem="RWz-Ej-HHI" firstAttribute="trailing" secondItem="4u0-82-CC2" secondAttribute="trailing" constant="20" id="5Rt-Ca-h6d"/>
+                            <constraint firstItem="4u0-82-CC2" firstAttribute="leading" secondItem="RWz-Ej-HHI" secondAttribute="leading" constant="20" id="6yq-nx-c2d"/>
+                            <constraint firstItem="hi0-nD-ZLB" firstAttribute="top" secondItem="4u0-82-CC2" secondAttribute="bottom" constant="27" id="QdR-Hh-rsv"/>
+                            <constraint firstItem="TJE-Yy-bcO" firstAttribute="centerY" secondItem="cKx-Eo-msE" secondAttribute="centerY" id="V3B-Sg-cMn"/>
+                            <constraint firstItem="RWz-Ej-HHI" firstAttribute="trailing" secondItem="hi0-nD-ZLB" secondAttribute="trailing" constant="20" id="c2v-zL-kKU"/>
+                            <constraint firstItem="4u0-82-CC2" firstAttribute="top" secondItem="RWz-Ej-HHI" secondAttribute="top" constant="20" id="pZx-mz-g5c"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="diplomaticButton" destination="WfC-ht-z3Z" id="Oqd-Mm-wmX"/>
+                        <outlet property="label" destination="hi0-nD-ZLB" id="wEb-73-lYd"/>
+                        <outlet property="militaryButton" destination="Cd4-YK-ZtZ" id="KZ3-hR-1qM"/>
+                        <outlet property="personButton" destination="KNN-Pj-4eZ" id="56e-mf-vVu"/>
+                        <outlet property="textField" destination="TJE-Yy-bcO" id="Tzr-wT-i67"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="j85-kY-1Cj" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="14363" y="187"/>
+        </scene>
         <!--Camera View Controller-->
         <scene sceneID="kq3-46-eSO">
             <objects>
@@ -2662,7 +2793,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="kMQ-8M-qVq" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="14374" y="190"/>
+            <point key="canvasLocation" x="14998" y="190"/>
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="Ijw-qs-eul">
@@ -2686,6 +2817,7 @@
     <resources>
         <image name="Deutschland" width="1024" height="1024"/>
         <image name="Eesti" width="1024" height="1024"/>
+        <image name="France" width="1280" height="853"/>
         <image name="Norway" width="1280" height="931"/>
         <image name="Switzerland" width="1280" height="853"/>
         <image name="armenia-flag" width="1920" height="960"/>
