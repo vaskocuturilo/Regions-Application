@@ -36,6 +36,7 @@ class MenuTableView: UITableViewController {
         case croatia
         case montenegro
         case slovenia
+        case kosovo
         case camera
     }
     
