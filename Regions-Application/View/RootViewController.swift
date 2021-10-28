@@ -33,7 +33,6 @@ class RootViewController: UIViewController {
     override public func viewDidLoad() {
         super.viewDidLoad()
         view.accessibilityIdentifier = AccessibilityRoot.View
-        // Do any additional setup after loading the view.
         setupButton(button: personButton, text: "Person auto number", 1)
         setupButton(button: diplomaticButton, text: "Diplomat auto number", 1)
         setupButton(button: militaryButton, text: "Military auto number", 1)
@@ -164,6 +163,11 @@ class RootViewController: UIViewController {
             setupButton(button: diplomaticButton, text: "Diplomat auto number", 21)
             setupButton(button: militaryButton, text: "Military auto number", 21)
             break
+        case .croatia:
+            setupButton(button: personButton, text: "Person auto number", 22)
+            setupButton(button: diplomaticButton, text: "Diplomat auto number", 22)
+            setupButton(button: militaryButton, text: "Military auto number", 22)
+            break
         case .camera:
             let VC = self.storyboard?.instantiateViewController(withIdentifier: "cameraViewController") as! CameraViewController
             self.navigationController?.pushViewController(VC, animated: true)
@@ -243,6 +247,9 @@ class RootViewController: UIViewController {
             self.navigationController?.pushViewController(VC, animated: true)
         } else if sender.tag == 21 {
             let VC = self.storyboard?.instantiateViewController(withIdentifier: "franceViewController") as! FranceViewController
+            self.navigationController?.pushViewController(VC, animated: true)
+        } else if sender.tag == 22 {
+            let VC = self.storyboard?.instantiateViewController(withIdentifier: "croatiaViewController") as! CroatiaViewController
             self.navigationController?.pushViewController(VC, animated: true)
         }
     }

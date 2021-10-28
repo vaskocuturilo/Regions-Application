@@ -1,0 +1,199 @@
+{
+  "regions": [
+    {
+      "id": "1",
+      "name": "Bjelovar, Čazma, Garešnica",
+      "code": "BJ"
+    },
+    {
+      "id": "2",
+      "name": "Beli Manastir",
+      "code": "BM"
+    },
+    {
+      "id": "3",
+      "name": "Čakovec, Mursko Središće, Prelog",
+      "code": "ČK"
+    },
+    {
+      "id": "4",
+      "name": "Daruvar, Grubišno Polje, Lipik, Pakrac",
+      "code": "DA"
+    },
+    {
+      "id": "5",
+      "name": "Čabar, Delnice",
+      "code": "DE"
+    },
+    {
+      "id": "6",
+      "name": "Đakovo",
+      "code": "DJ"
+    },
+    {
+      "id": "7",
+      "name": "Dubrovnik, Korčula, Metković, Opuzen, Ploče",
+      "code": "DU"
+    },
+    {
+      "id": "8",
+      "name": "Gospić, Novalja, Otočac, Senj",
+      "code": "GS"
+    },
+    {
+      "id": "9",
+      "name": "Imotski",
+      "code": "IM"
+    },
+    {
+      "id": "10",
+      "name": "Duga Resa, Karlovac, Slunj, Ozalj",
+      "code": "KA"
+    },
+    {
+      "id": "11",
+      "name": "Đurđevac, Koprivnica",
+      "code": "KC"
+    },
+    {
+      "id": "12",
+      "name": "Donja Stubica, Klanjec, Krapina, Oroslavje, Pregrada, Zabok, Zlatar",
+      "code": "KR"
+    },
+    {
+      "id": "13",
+      "name": "Kutina, Novska, Popovača",
+      "code": "KT"
+    },
+    {
+      "id": "14",
+      "name": "Križevci",
+      "code": "KŽ"
+    },
+    {
+      "id": "15",
+      "name": "Makarska, Vrgorac",
+      "code": "MA"
+    },
+    {
+      "id": "16",
+      "name": "Donji Miholjac, Našice",
+      "code": "NA"
+    },
+    {
+      "id": "17",
+      "name": "Nova Gradiška",
+      "code": "NG"
+    },
+    {
+      "id": "18",
+      "name": "Ogulin",
+      "code": "OG"
+    },
+    {
+      "id": "19",
+      "name": "Belišće, Osijek, Valpovo",
+      "code": "OS"
+    },
+    {
+      "id": "20",
+      "name": "Buje, Buzet, Labin, Novigrad, Pazin, Poreč, Pula, Rovinj, Umag, Vodnjan",
+      "code": "PU"
+    },
+    {
+      "id": "21",
+      "name": "Kutjevo, Pleternica, Požega",
+      "code": "PŽ"
+    },
+    {
+      "id": "22",
+      "name": "Bakar, Cres, Crikvenica, Kastav, Kraljevica, Krk, Mali Lošinj, Novi Vinodolski, Opatija, Rab, Rijeka, Vrbovsko",
+      "code": "RI"
+    },
+    {
+      "id": "23",
+      "name": "Slavonski Brod",
+      "code": "SB"
+    },
+    {
+      "id": "24",
+      "name": "Glina, Hrvatska Kostajnica, Sisak, Petrinja",
+      "code": "SK"
+    },
+    {
+      "id": "25",
+      "name": "Orahovica, Slatina",
+      "code": "SL"
+    },
+    {
+      "id": "26",
+      "name": "Hvar, Kaštela, Komiža, Omiš, Sinj, Solin, Split, Stari Grad, Supetar, Trilj, Trogir, Vis, Vrlika",
+      "code": "ST"
+    },
+    {
+      "id": "27",
+      "name": "Drniš, Knin, Skradin, Šibenik, Vodice",
+      "code": "ŠI"
+    },
+    {
+      "id": "28",
+      "name": "Otok, Vinkovci",
+      "code": "VK"
+    },
+    {
+      "id": "29",
+      "name": "Virovitica",
+      "code": "VT"
+    },
+    {
+      "id": "30",
+      "name": "Ilok, Vukovar",
+      "code": "VU"
+    },
+    {
+      "id": "31",
+      "name": "Ivanec, Lepoglava, Ludbreg, Novi Marof, Varaždin, Varaždinske Toplice",
+      "code": "VŽ"
+    },
+    {
+      "id": "32",
+      "name": "Benkovac, Biograd na Moru, Nin, Obrovac, Pag, Zadar",
+      "code": "ZD"
+    },
+    {
+      "id": "33",
+      "name": "Dugo Selo, Ivanić-Grad, Jastrebarsko, Samobor, Sveta Nedelja, Sveti Ivan Zelina, Velika Gorica, Vrbovec, Zagreb, Zaprešić",
+      "code": "ZG"
+    },
+    {
+      "id": "34",
+      "name": "Županja",
+      "code": "ŽU"
+    },
+    {
+      "id": "35",
+      "name": "KN",
+      "code": "Krapina"
+    },
+    {
+      "id": "36",
+      "name": "Slatina",
+      "code": "PS"
+    },
+    {
+      "id": "37",
+      "name": "Sisak",
+      "code": "SI"
+    },
+    {
+      "id": "38",
+      "name": "Požega",
+      "code": "SP"
+    },
+    {
+      "id": "39",
+      "name": "Korenica",
+      "code": "TK"
+    }
+  ]
+}
