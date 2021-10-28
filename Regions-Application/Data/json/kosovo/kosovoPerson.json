@@ -1,0 +1,39 @@
+{
+  "regions": [
+    {
+      "id": "1",
+      "name": "Pristina",
+      "code": "01"
+    },
+    {
+      "id": "2",
+      "name": "Mitrovica",
+      "code": "02"
+    },
+    {
+      "id": "3",
+      "name": "Peja",
+      "code": "03"
+    },
+    {
+      "id": "4",
+      "name": "Prizren",
+      "code": "04"
+    },
+    {
+      "id": "5",
+      "name": "Ferizaj",
+      "code": "05"
+    },
+    {
+      "id": "6",
+      "name": "Gjilan",
+      "code": "06"
+    },
+    {
+      "id": "7",
+      "name": "Gjakova",
+      "code": "07"
+    }
+  ]
+}
