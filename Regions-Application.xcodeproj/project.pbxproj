@@ -32,6 +32,8 @@
 		7249EB8E26DD0CF200F660A4 /* greecePerson.json in Resources */ = {isa = PBXBuildFile; fileRef = 7249EB8D26DD0CF200F660A4 /* greecePerson.json */; };
 		7264B71226D43B1C00DDD9B2 /* belarusPerson.json in Resources */ = {isa = PBXBuildFile; fileRef = 7264B71126D43B1C00DDD9B2 /* belarusPerson.json */; };
 		7267D4BB26CEAAA2008021D1 /* PolandViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7267D4BA26CEAAA2008021D1 /* PolandViewController.swift */; };
+		7268B2CA272A888B000B2C98 /* SloveniaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7268B2C9272A888B000B2C98 /* SloveniaViewController.swift */; };
+		7268B2CD272A8928000B2C98 /* sloveniaPerson.json in Resources */ = {isa = PBXBuildFile; fileRef = 7268B2CC272A8928000B2C98 /* sloveniaPerson.json */; };
 		7268C71E26E14A1F00BEDE03 /* IrelandViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7268C71D26E14A1F00BEDE03 /* IrelandViewController.swift */; };
 		7268C72426E14C2900BEDE03 /* irelandPerson.json in Resources */ = {isa = PBXBuildFile; fileRef = 7268C72326E14C2900BEDE03 /* irelandPerson.json */; };
 		7268C73B26E151E900BEDE03 /* RomaniaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7268C73A26E151E900BEDE03 /* RomaniaViewController.swift */; };
@@ -161,6 +163,8 @@
 		7249EB8D26DD0CF200F660A4 /* greecePerson.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = greecePerson.json; sourceTree = "<group>"; };
 		7264B71126D43B1C00DDD9B2 /* belarusPerson.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = belarusPerson.json; sourceTree = "<group>"; };
 		7267D4BA26CEAAA2008021D1 /* PolandViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PolandViewController.swift; sourceTree = "<group>"; };
+		7268B2C9272A888B000B2C98 /* SloveniaViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SloveniaViewController.swift; sourceTree = "<group>"; };
+		7268B2CC272A8928000B2C98 /* sloveniaPerson.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = sloveniaPerson.json; sourceTree = "<group>"; };
 		7268C71D26E14A1F00BEDE03 /* IrelandViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IrelandViewController.swift; sourceTree = "<group>"; };
 		7268C72326E14C2900BEDE03 /* irelandPerson.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = irelandPerson.json; sourceTree = "<group>"; };
 		7268C73A26E151E900BEDE03 /* RomaniaViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RomaniaViewController.swift; sourceTree = "<group>"; };
@@ -414,6 +418,14 @@
 			path = belarus;
 			sourceTree = "<group>";
 		};
+		7268B2CB272A8911000B2C98 /* slovenia */ = {
+			isa = PBXGroup;
+			children = (
+				7268B2CC272A8928000B2C98 /* sloveniaPerson.json */,
+			);
+			path = slovenia;
+			sourceTree = "<group>";
+		};
 		7268C72226E14C0800BEDE03 /* ireland */ = {
 			isa = PBXGroup;
 			children = (
@@ -577,6 +589,7 @@
 				7271E8042729D9B100245ACC /* FranceViewController.swift */,
 				72F4D2EF272A7D5A005AFC32 /* CroatiaViewController.swift */,
 				72F4D2F4272A8436005AFC32 /* MontenegroViewController.swift */,
+				7268B2C9272A888B000B2C98 /* SloveniaViewController.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -601,6 +614,7 @@
 		72CB74A726C7E624007435AB /* json */ = {
 			isa = PBXGroup;
 			children = (
+				7268B2CB272A8911000B2C98 /* slovenia */,
 				72F4D2F1272A8380005AFC32 /* montenegro */,
 				72F4D2EC272A7CBB005AFC32 /* croatia */,
 				7271E8062729D9D900245ACC /* france */,
@@ -859,6 +873,7 @@
 				7271E8032729D31D00245ACC /* switzerlandPerson.json in Resources */,
 				72E0974E26D2E55F007F3693 /* ukrainePerson.json in Resources */,
 				7243166526DA3D2D00E9BEA3 /* bulgariaPerson.json in Resources */,
+				7268B2CD272A8928000B2C98 /* sloveniaPerson.json in Resources */,
 				721986212725CCB00028A8A6 /* armeniaPerson.json in Resources */,
 				729703B526C7F7C800CE82E5 /* MenuTableView.swift in Resources */,
 				72FF843326D26545008F637C /* russiaMilitary.json in Resources */,
@@ -1027,6 +1042,7 @@
 				728C98FB26DB8DC6006AF3FA /* ScanImageView.swift in Sources */,
 				7249EB7926DD08FB00F660A4 /* GreeceViewController.swift in Sources */,
 				72909A6526E27682007C227A /* UIView+Message.swift in Sources */,
+				7268B2CA272A888B000B2C98 /* SloveniaViewController.swift in Sources */,
 				72A6F14A26CF07AB00E84774 /* CzechViewController.swift in Sources */,
 				72FF218126D25F36004B98FC /* LithuaniaViewController.swift in Sources */,
 				72F4D2F0272A7D5A005AFC32 /* CroatiaViewController.swift in Sources */,
