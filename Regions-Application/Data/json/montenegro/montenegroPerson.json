@@ -1,0 +1,124 @@
+{
+  "regions": [
+    {
+      "id": "1",
+      "name": "Andrijevica",
+      "code": "AN"
+    },
+    {
+      "id": "2",
+      "name": "Berane",
+      "code": "BA"
+    },
+    {
+      "id": "3",
+      "name": "Budva",
+      "code": "BD"
+    },
+    {
+      "id": "4",
+      "name": "Bijelo Polje",
+      "code": "BP"
+    },
+    {
+      "id": "5",
+      "name": "Bar",
+      "code": "BR"
+    },
+    {
+      "id": "6",
+      "name": "Cetinje",
+      "code": "CT"
+    },
+    {
+      "id": "7",
+      "name": "Danilovgrad",
+      "code": "DG"
+    },
+    {
+      "id": "8",
+      "name": "Gusinje",
+      "code": "GS"
+    },
+    {
+      "id": "9",
+      "name": "Herceg Novi",
+      "code": "HN"
+    },
+    {
+      "id": "10",
+      "name": "Kolašin",
+      "code": "KL"
+    },
+    {
+      "id": "11",
+      "name": "Kotor",
+      "code": "KO"
+    },
+    {
+      "id": "12",
+      "name": "Mojkovac",
+      "code": "MK"
+    },
+    {
+      "id": "13",
+      "name": "Nikšić",
+      "code": "NK"
+    },
+    {
+      "id": "14",
+      "name": "Podgorica",
+      "code": "PG"
+    },
+    {
+      "id": "15",
+      "name": "Plav",
+      "code": "PL"
+    },
+    {
+      "id": "16",
+      "name": "Petnjica",
+      "code": "PT"
+    },
+    {
+      "id": "17",
+      "name": "Plužine",
+      "code": "PŽ"
+    },
+    {
+      "id": "18",
+      "name": "Pljevlja",
+      "code": "PV"
+    },
+    {
+      "id": "19",
+      "name": "Rožaje",
+      "code": "RO"
+    },
+    {
+      "id": "20",
+      "name": "Šavnik",
+      "code": "ŠN"
+    },
+    {
+      "id": "21",
+      "name": "Tivat",
+      "code": "TV"
+    },
+    {
+      "id": "22",
+      "name": "Tuzi",
+      "code": "TZ"
+    },
+    {
+      "id": "23",
+      "name": "Ulcinj",
+      "code": "UL"
+    },
+    {
+      "id": "24",
+      "name": "Žabljak",
+      "code": "ŽB"
+    }
+  ]
+}
