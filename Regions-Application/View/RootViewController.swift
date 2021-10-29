@@ -39,7 +39,6 @@ class RootViewController: UIViewController {
     }
     
     @IBAction func didTapMenu(_ sender: UIBarButtonItem) {
-        
         guard let menuViewController = storyboard?.instantiateViewController(identifier: "menuTableView") as? MenuTableView else {
             return
         }
