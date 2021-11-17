@@ -1982,8 +1982,73 @@
     },
     {
       "id": "398",
-      "name": "Województwo warmińsko-mazurskie, Szczytno",
-      "code": "NSZ"
+      "name": "Warsaw (Włochy district)",
+      "code": "WWK"
+    },
+    {
+      "id": "400",
+      "name": "Warsaw (Włochy district)",
+      "code": "WWM"
+    },
+    {
+      "id": "401",
+      "name": "Warsaw (Włochy district)",
+      "code": "WWV"
+    },
+    {
+      "id": "402",
+      "name": "Warsaw (Włochy district)",
+      "code": "WWR"
+    },
+    {
+      "id": "403",
+      "name": "Warsaw (Włochy district)",
+      "code": "WWS"
+    },
+    {
+      "id": "404",
+      "name": "Warsaw (Wilanów district)",
+      "code": "WWF"
+    },
+    {
+      "id": "405",
+      "name": "Warsaw (Wilanów district)",
+      "code": "WWG"
+    },
+    {
+      "id": "406",
+      "name": "Warsaw (Wilanów district)",
+      "code": "WWH"
+    },
+    {
+      "id": "407",
+      "name": "Warsaw (Wilanów district)",
+      "code": "WWJ"
+    },
+    {
+      "id": "408",
+      "name": "Warsaw (Wilanów district)",
+      "code": "WWW"
+    },
+    {
+      "id": "409",
+      "name": "Warsaw (Rembertów district)",
+      "code": "WWA"
+    },
+    {
+      "id": "410",
+      "name": "Warsaw (Rembertów district)",
+      "code": "WWC"
+    },
+    {
+      "id": "411",
+      "name": "Warsaw (Rembertów district)",
+      "code": "WWX"
+    },
+    {
+      "id": "412",
+      "name": "Wołomin County",
+      "code": "WV"
     }
   ]
 }
