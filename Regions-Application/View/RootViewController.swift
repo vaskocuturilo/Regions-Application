@@ -77,6 +77,11 @@ class RootViewController: UIViewController {
             setupButton(button: diplomaticButton, text: "Diplomat auto number", 18)
             setupButton(button: militaryButton, text: "Military auto number", 18)
             break
+        case .kyrgyzstan:
+            setupButton(button: personButton, text: "Person auto number", 27)
+            setupButton(button: diplomaticButton, text: "Diplomat auto number", 27)
+            setupButton(button: militaryButton, text: "Military auto number", 27)
+            break
         case .poland:
             setupButton(button: personButton, text: "Person auto number", 4)
             setupButton(button: diplomaticButton, text: "Diplomat auto number", 4)
@@ -280,6 +285,9 @@ class RootViewController: UIViewController {
             self.navigationController?.pushViewController(VC, animated: true)
         } else if sender.tag == 26 {
             let VC = self.storyboard?.instantiateViewController(withIdentifier: "britishViewController") as! BritishViewController
+            self.navigationController?.pushViewController(VC, animated: true)
+        } else if sender.tag == 27 {
+            let VC = self.storyboard?.instantiateViewController(withIdentifier: "kyrgyzstanViewController") as! KyrgyzstanViewController
             self.navigationController?.pushViewController(VC, animated: true)
         }
     }
