@@ -36,5 +36,6 @@ struct Constants {
         static let Kosovo = "http://localhost:8080/api/kosovo"
         static let British = "http://localhost:8080/api/british"
         static let Kyrgyzstan = "http://localhost:8080/api/kyrgyzstan"
+        static let Kazakhstan = "http://localhost:8080/api/kazakhstan"
     }
 }
