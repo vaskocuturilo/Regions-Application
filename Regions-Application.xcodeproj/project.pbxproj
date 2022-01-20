@@ -21,6 +21,8 @@
 		721A8D0126D5027700C04AD9 /* turkeyPerson.json in Resources */ = {isa = PBXBuildFile; fileRef = 721A8D0026D5027700C04AD9 /* turkeyPerson.json */; };
 		721A8D0726D502EE00C04AD9 /* estoniaPerson.json in Resources */ = {isa = PBXBuildFile; fileRef = 721A8D0626D502EE00C04AD9 /* estoniaPerson.json */; };
 		721A8D0D26D5034D00C04AD9 /* germanyPerson.json in Resources */ = {isa = PBXBuildFile; fileRef = 721A8D0C26D5034D00C04AD9 /* germanyPerson.json */; };
+		721F1FA42799D52D008B2FA2 /* AzerbaidjanViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 721F1FA32799D52D008B2FA2 /* AzerbaidjanViewController.swift */; };
+		721F1FA72799D5E4008B2FA2 /* azerbaijanPerson.json in Resources */ = {isa = PBXBuildFile; fileRef = 721F1FA62799D5E4008B2FA2 /* azerbaijanPerson.json */; };
 		7224631E26C45FDB00D7E215 /* SlideTransition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7224631D26C45FDB00D7E215 /* SlideTransition.swift */; };
 		7224632326C470DB00D7E215 /* UkraineViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7224632226C470DB00D7E215 /* UkraineViewController.swift */; };
 		722A951826CB8B2B00A45545 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 722A951726CB8B2B00A45545 /* Constants.swift */; };
@@ -160,6 +162,8 @@
 		721A8D0026D5027700C04AD9 /* turkeyPerson.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = turkeyPerson.json; sourceTree = "<group>"; };
 		721A8D0626D502EE00C04AD9 /* estoniaPerson.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = estoniaPerson.json; sourceTree = "<group>"; };
 		721A8D0C26D5034D00C04AD9 /* germanyPerson.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = germanyPerson.json; sourceTree = "<group>"; };
+		721F1FA32799D52D008B2FA2 /* AzerbaidjanViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AzerbaidjanViewController.swift; sourceTree = "<group>"; };
+		721F1FA62799D5E4008B2FA2 /* azerbaijanPerson.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = azerbaijanPerson.json; sourceTree = "<group>"; };
 		7224631D26C45FDB00D7E215 /* SlideTransition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SlideTransition.swift; sourceTree = "<group>"; };
 		7224632226C470DB00D7E215 /* UkraineViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UkraineViewController.swift; sourceTree = "<group>"; };
 		722A951726CB8B2B00A45545 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
@@ -390,6 +394,14 @@
 				721A8D0C26D5034D00C04AD9 /* germanyPerson.json */,
 			);
 			path = germany;
+			sourceTree = "<group>";
+		};
+		721F1FA52799D5CF008B2FA2 /* azerbaijan */ = {
+			isa = PBXGroup;
+			children = (
+				721F1FA62799D5E4008B2FA2 /* azerbaijanPerson.json */,
+			);
+			path = azerbaijan;
 			sourceTree = "<group>";
 		};
 		722EE7FE26D2CE2600A4A288 /* russia */ = {
@@ -634,6 +646,7 @@
 				720A95D32791E6A90088C32E /* BritishViewController.swift */,
 				72E5E1932797520F005323D1 /* KyrgyzstanViewController.swift */,
 				724C232A279886B600F7CCEC /* KazakhstanViewController.swift */,
+				721F1FA32799D52D008B2FA2 /* AzerbaidjanViewController.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -658,6 +671,7 @@
 		72CB74A726C7E624007435AB /* json */ = {
 			isa = PBXGroup;
 			children = (
+				721F1FA52799D5CF008B2FA2 /* azerbaijan */,
 				724C232C2798902E00F7CCEC /* kazakhstan */,
 				72E5E19527975BFF005323D1 /* kyrgyzstan */,
 				720A95D52791E7BF0088C32E /* british */,
@@ -931,6 +945,7 @@
 				7243166526DA3D2D00E9BEA3 /* bulgariaPerson.json in Resources */,
 				7268B2CD272A8928000B2C98 /* sloveniaPerson.json in Resources */,
 				721986212725CCB00028A8A6 /* armeniaPerson.json in Resources */,
+				721F1FA72799D5E4008B2FA2 /* azerbaijanPerson.json in Resources */,
 				729703B526C7F7C800CE82E5 /* MenuTableView.swift in Resources */,
 				720A95D72791E7DF0088C32E /* britishPerson.json in Resources */,
 				72FF843326D26545008F637C /* russiaMilitary.json in Resources */,
@@ -1113,6 +1128,7 @@
 				72FF218626D25FA2004B98FC /* TurkeyViewController.swift in Sources */,
 				720A95D42791E6A90088C32E /* BritishViewController.swift in Sources */,
 				72909A7626E27783007C227A /* MyPopUpView.swift in Sources */,
+				721F1FA42799D52D008B2FA2 /* AzerbaidjanViewController.swift in Sources */,
 				7203DABA26C42C290057BA20 /* APIServices.swift in Sources */,
 				72FF217C26D25ED3004B98FC /* MoldovaViewController.swift in Sources */,
 				728C98F526DB8CB3006AF3FA /* ScanButton.swift in Sources */,

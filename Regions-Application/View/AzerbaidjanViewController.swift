@@ -1,13 +1,13 @@
 //
-//  ArmeniaViewController.swift
+//  AzerbaijanViewController.swift
 //  Regions-Application
 //
-//  Created by Anton Smirnov on 24.10.2021.
+//  Created by Anton Smirnov on 20.01.2022.
 //
 
 import UIKit
 
-class ArmeniaViewController: UIViewController, UIGestureRecognizerDelegate, UITextFieldDelegate {
+class AzerbaidjanViewController: UIViewController, UIGestureRecognizerDelegate, UITextFieldDelegate {
     let apiService = APIServices()
     let check = Reachability()
     let messages = Messages()
@@ -26,7 +26,7 @@ class ArmeniaViewController: UIViewController, UIGestureRecognizerDelegate, UITe
     
     override func viewDidLoad() {
         super.viewDidLoad()
-
+        
         let backBTN = UIBarButtonItem(image: UIImage(named: "Image"),
                                       style: .plain,
                                       target: navigationController,
@@ -50,20 +50,20 @@ class ArmeniaViewController: UIViewController, UIGestureRecognizerDelegate, UITe
         personButton.setTitleColor(.green, for: .normal)
         
         textField.leftViewMode = .always
-        textField.leftView = UIImageView(image: UIImage(named: "Armenia-Flag-1"))
+        textField.leftView = UIImageView(image: UIImage(named: "Azerbaijan_Flag"))
         
         isPersonChecked = true
         isDiplomaticChecked = false
         isMilitaryChecked = false
-        title = "Armenia"
+        title = "Azerbaidjan"
         label.numberOfLines = 0
         
         showPopUp.isWasAlreadyShown(
             textField: self.textField,
             title: "Person number",
             description: Descriptions.Belarus.Person,
-            key: "isWasAlreadyShownArmeniaPerson")
-  
+            key: "isWasAlreadyShownAzerbaidjanPerson")
+        
     }
     
     @IBAction func didTapPersonButton(_ sender: Any) {
@@ -79,7 +79,7 @@ class ArmeniaViewController: UIViewController, UIGestureRecognizerDelegate, UITe
             personButton.setTitle("Person ✓", for: .normal)
             personButton.setTitleColor(.green, for: .normal)
             textField.leftViewMode = .always
-            textField.leftView = UIImageView(image: UIImage(named: "Armenia-Flag-1"))
+            textField.leftView = UIImageView(image: UIImage(named: "Azerbaijan_Flag"))
             textField.backgroundColor = .white
             textField.textColor = .black
             isPersonChecked = true
@@ -105,7 +105,6 @@ class ArmeniaViewController: UIViewController, UIGestureRecognizerDelegate, UITe
         searchTimer = Timer.scheduledTimer(timeInterval: 1.0, target: self, selector: #selector(searchForKeyword(_:)), userInfo: textField.text!, repeats: false)
     }
     
-    
     @objc func searchForKeyword(_ timer: Timer) {
         if isPersonChecked {
             personData()
@@ -113,12 +112,12 @@ class ArmeniaViewController: UIViewController, UIGestureRecognizerDelegate, UITe
     }
     
     private func personData() {
-        apiService.responseRegion(endpoints: Constants.Endpoints.Armenia,region: textField.text!) { [self](isSucess, str) in
+        apiService.responseRegion(endpoints: Constants.Endpoints.Azerbaijan,region: textField.text!) { [self](isSucess, str) in
             if isSucess {
                 messages.showMessage(label: label, message: str)
                 textField.text?.removeAll()
             } else if (str.contains("Could not connect to the server.")) {
-                jsonLoad.loadSpeciesInfoJSOn(resource: "armeniaPerson", label: label, text: textField.text!)
+                jsonLoad.loadSpeciesInfoJSOn(resource: "azerbaijanPerson", label: label, text: textField.text!)
                 textField.text?.removeAll()
             } else {
                 messages.showMessage(label: label, message: str)
