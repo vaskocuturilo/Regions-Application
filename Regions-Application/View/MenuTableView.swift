@@ -19,6 +19,7 @@ class MenuTableView: UITableViewController {
         case kyrgyzstan
         case kazakhstan
         case azerbaidjan
+        case uzbekistan
         case czech
         case poland
         case moldova
