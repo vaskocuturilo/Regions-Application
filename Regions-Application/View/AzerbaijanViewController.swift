@@ -7,7 +7,7 @@
 
 import UIKit
 
-class AzerbaidjanViewController: UIViewController, UIGestureRecognizerDelegate, UITextFieldDelegate {
+class AzerbaijanViewController: UIViewController, UIGestureRecognizerDelegate, UITextFieldDelegate {
     let apiService = APIServices()
     let check = Reachability()
     let messages = Messages()
@@ -55,14 +55,14 @@ class AzerbaidjanViewController: UIViewController, UIGestureRecognizerDelegate, 
         isPersonChecked = true
         isDiplomaticChecked = false
         isMilitaryChecked = false
-        title = "Azerbaidjan"
+        title = "Azerbaijan"
         label.numberOfLines = 0
         
         showPopUp.isWasAlreadyShown(
             textField: self.textField,
             title: "Person number",
             description: Descriptions.Belarus.Person,
-            key: "isWasAlreadyShownAzerbaidjanPerson")
+            key: "isWasAlreadyShownAzerbaijanPerson")
         
     }
     

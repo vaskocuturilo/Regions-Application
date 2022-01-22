@@ -344,7 +344,7 @@
                                                         <constraint firstAttribute="width" constant="24" id="bw0-rD-V9g"/>
                                                     </constraints>
                                                 </imageView>
-                                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Azerbaidjan" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="w9c-j0-N0W">
+                                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Azerbaijan" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="w9c-j0-N0W">
                                                     <rect key="frame" x="56" y="36.5" width="168" height="21"/>
                                                     <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                                     <nil key="textColor"/>
@@ -3760,10 +3760,10 @@
             </objects>
             <point key="canvasLocation" x="18954" y="187"/>
         </scene>
-        <!--Azerbaidjan View Controller-->
+        <!--Azerbaijan View Controller-->
         <scene sceneID="glB-KH-Ij7">
             <objects>
-                <viewController storyboardIdentifier="azerbaidjanViewController" id="ZlY-oH-qLf" customClass="AzerbaidjanViewController" customModule="Regions_Application" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="azerbaijanViewController" id="ZlY-oH-qLf" customClass="AzerbaijanViewController" customModule="Regions_Application" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="EUb-1p-dTV">
                         <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
