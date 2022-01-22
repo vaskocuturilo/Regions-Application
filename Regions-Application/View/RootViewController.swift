@@ -86,8 +86,7 @@ class RootViewController: UIViewController {
             setupButton(button: personButton, text: "Person auto number", 28)
             setupButton(button: diplomaticButton, text: "Diplomat auto number", 28)
             setupButton(button: militaryButton, text: "Military auto number", 28)
-            
-        case .azerbaidjan:
+        case .azerbaijan:
             setupButton(button: personButton, text: "Person auto number", 29)
             setupButton(button: diplomaticButton, text: "Diplomat auto number", 29)
             setupButton(button: militaryButton, text: "Military auto number", 29)
@@ -306,7 +305,7 @@ class RootViewController: UIViewController {
             let VC = self.storyboard?.instantiateViewController(withIdentifier: "kazakhstanViewController") as! KazakhstanViewController
             self.navigationController?.pushViewController(VC, animated: true)
         } else if sender.tag == 29 {
-            let VC = self.storyboard?.instantiateViewController(withIdentifier: "azerbaidjanViewController") as! AzerbaidjanViewController
+            let VC = self.storyboard?.instantiateViewController(withIdentifier: "azerbaijanViewController") as! AzerbaijanViewController
             self.navigationController?.pushViewController(VC, animated: true)
         } else if sender.tag == 30 {
             let VC = self.storyboard?.instantiateViewController(withIdentifier: "uzbekistanViewController") as! UzbekistanViewController
