@@ -86,14 +86,17 @@ class RootViewController: UIViewController {
             setupButton(button: personButton, text: "Person auto number", 28)
             setupButton(button: diplomaticButton, text: "Diplomat auto number", 28)
             setupButton(button: militaryButton, text: "Military auto number", 28)
+            break
         case .azerbaijan:
             setupButton(button: personButton, text: "Person auto number", 29)
             setupButton(button: diplomaticButton, text: "Diplomat auto number", 29)
             setupButton(button: militaryButton, text: "Military auto number", 29)
+            break
         case .uzbekistan:
             setupButton(button: personButton, text: "Person auto number", 30)
             setupButton(button: diplomaticButton, text: "Diplomat auto number", 30)
             setupButton(button: militaryButton, text: "Military auto number", 30)
+            break
         case .poland:
             setupButton(button: personButton, text: "Person auto number", 4)
             setupButton(button: diplomaticButton, text: "Diplomat auto number", 4)
@@ -169,6 +172,11 @@ class RootViewController: UIViewController {
             setupButton(button: diplomaticButton, text: "Diplomat auto number", 19)
             setupButton(button: militaryButton, text: "Military auto number", 19)
             break
+        case .sweden:
+            setupButton(button: personButton, text: "Person auto number", 31)
+            setupButton(button: diplomaticButton, text: "Diplomat auto number", 31)
+            setupButton(button: militaryButton, text: "Military auto number", 31)
+            break
         case .switzerland:
             setupButton(button: personButton, text: "Person auto number", 20)
             setupButton(button: diplomaticButton, text: "Diplomat auto number", 20)
@@ -203,6 +211,7 @@ class RootViewController: UIViewController {
             setupButton(button: personButton, text: "Person auto number", 26)
             setupButton(button: diplomaticButton, text: "Diplomat auto number", 26)
             setupButton(button: militaryButton, text: "Military auto number", 26)
+            break
         case .camera:
             let VC = self.storyboard?.instantiateViewController(withIdentifier: "cameraViewController") as! CameraViewController
             self.navigationController?.pushViewController(VC, animated: true)
@@ -309,6 +318,9 @@ class RootViewController: UIViewController {
             self.navigationController?.pushViewController(VC, animated: true)
         } else if sender.tag == 30 {
             let VC = self.storyboard?.instantiateViewController(withIdentifier: "uzbekistanViewController") as! UzbekistanViewController
+            self.navigationController?.pushViewController(VC, animated: true)
+        } else if sender.tag == 31 {
+            let VC = self.storyboard?.instantiateViewController(withIdentifier: "swedenViewController") as! SwedenViewController
             self.navigationController?.pushViewController(VC, animated: true)
         }
     }
