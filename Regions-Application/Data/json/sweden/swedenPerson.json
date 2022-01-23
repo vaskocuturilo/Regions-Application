@@ -1,0 +1,214 @@
+{
+  "regions": [
+    {
+      "id": "1",
+      "name": " City of Stockholm",
+      "code": "A"
+    },
+    {
+      "id": "2",
+      "name": " City of Stockholm",
+      "code": "AA"
+    },
+    {
+      "id": "3",
+      "name": " City of Stockholm",
+      "code": "AB"
+    },
+    {
+      "id": "4",
+      "name": "Stockholms län",
+      "code": "B"
+    },
+    {
+      "id": "5",
+      "name": "Stockholms län",
+      "code": "BA"
+    },
+    {
+      "id": "6",
+      "name": "Stockholms län",
+      "code": "BB"
+    },
+    {
+      "id": "7",
+      "name": "Uppsala län",
+      "code": "C"
+    },
+    {
+      "id": "8",
+      "name": "Södermanlands län",
+      "code": "D"
+    },
+    {
+      "id": "9",
+      "name": "Östergötlands län",
+      "code": "E"
+    },
+    {
+      "id": "10",
+      "name": "Östergötlands län",
+      "code": "EA"
+    },
+    {
+      "id": "11",
+      "name": "Jönköpings län",
+      "code": "F"
+    },
+    {
+      "id": "12",
+      "name": "Jönköpings län",
+      "code": "FA"
+    },
+    {
+      "id": "13",
+      "name": "Kronobergs län",
+      "code": "G"
+    },
+    {
+      "id": "14",
+      "name": "Kalmar län",
+      "code": "H"
+    },
+    {
+      "id": "15",
+      "name": "Gotlands län",
+      "code": "I"
+    },
+    {
+      "id": "16",
+      "name": "Blekinge län",
+      "code": "K"
+    },
+    {
+      "id": "17",
+      "name": "Kristianstads län (today part of Skåne län)",
+      "code": "L"
+    },
+    {
+      "id": "18",
+      "name": "Kristianstads län (today part of Skåne län)",
+      "code": "LA"
+    },
+    {
+      "id": "19",
+      "name": "Malmöhus län (today part of Skåne län)",
+      "code": "M"
+    },
+    {
+      "id": "20",
+      "name": "Malmöhus län (today part of Skåne län)",
+      "code": "MA"
+    },
+    {
+      "id": "21",
+      "name": "Malmöhus län (today part of Skåne län)",
+      "code": "MB"
+    },
+    {
+      "id": "22",
+      "name": "Hallands län",
+      "code": "N"
+    },
+    {
+      "id": "23",
+      "name": "Göteborgs och Bohus län (today part of Västra Götalands län)",
+      "code": "O"
+    },
+    {
+      "id": "24",
+      "name": "Göteborgs och Bohus län (today part of Västra Götalands län)",
+      "code": "OA"
+    },
+    {
+      "id": "25",
+      "name": "Göteborgs och Bohus län (today part of Västra Götalands län)",
+      "code": "OB"
+    },
+    {
+      "id": "26",
+      "name": "Älvsborgs län (today part of Västra Götalands län)",
+      "code": "P"
+    },
+    {
+      "id": "27",
+      "name": "Älvsborgs län (today part of Västra Götalands län)",
+      "code": "PA"
+    },
+    {
+      "id": "28",
+      "name": "Skaraborgs län (today part of Västra Götalands län)",
+      "code": "R"
+    },
+    {
+      "id": "29",
+      "name": "Värmlands län",
+      "code": "S"
+    },
+    {
+      "id": "30",
+      "name": "Värmlands län",
+      "code": "SA"
+    },
+    {
+      "id": "31",
+      "name": "Örebro län",
+      "code": "T"
+    },
+    {
+      "id": "32",
+      "name": "Örebro län",
+      "code": "TA"
+    },
+    {
+      "id": "33",
+      "name": "Västmanlands län",
+      "code": "U"
+    },
+    {
+      "id": "34",
+      "name": "Västmanlands län",
+      "code": "UA"
+    },
+    {
+      "id": "35",
+      "name": "Kopparbergs län (today Dalarnas län)",
+      "code": "W"
+    },
+    {
+      "id": "36",
+      "name": "Kopparbergs län (today Dalarnas län)",
+      "code": "WA"
+    },
+    {
+      "id": "37",
+      "name": "Gävleborgs län",
+      "code": "X"
+    },
+    {
+      "id": "38",
+      "name": "Gävleborgs län",
+      "code": "XA"
+    },
+    {
+      "id": "39",
+      "name": "Västernorrlands län",
+      "code": "Y"
+    },
+    {
+      "id": "40",
+      "name": "Jämtlands län",
+      "code": "Z"
+    },
+    {
+      "id": "41",
+      "name": "Västerbottens län",
+      "code": "AC"
+    },
+    {
+      "id": "42",
+      "name": "Norrbottens län",
+      "code": "BD"
+    }
+  ]
+}
