@@ -2,248 +2,248 @@
     "regions": [
         {
             "id": "1",
-            "name": "Anenii Noi",
-            "code": "AN"
+            "description": "Anenii Noi",
+            "region": "AN"
         },
         {
             "id": "2",
-            "name": "Tighina",
-            "code": "BE"
+            "description": "Tighina",
+            "region": "BE"
         },
         {
             "id": "3",
-            "name": "Bălți",
-            "code": "BL"
+            "description": "Bălți",
+            "region": "BL"
         },
         {
             "id": "4",
-            "name": "Briceni",
-            "code": "BR"
+            "description": "Briceni",
+            "region": "BR"
         },
         {
             "id": "5",
-            "name": "Basarabeasca",
-            "code": "BS"
+            "description": "Basarabeasca",
+            "region": "BS"
         },
         {
             "id": "6",
-            "name": "Chișinău",
-            "code": "C"
+            "description": "Chișinău",
+            "region": "C"
         },
         {
             "id": "7",
-            "name": "Camenca",
-            "code": "CC"
+            "description": "Camenca",
+            "region": "CC"
         },
         {
             "id": "8",
-            "name": "Ceadîr-Lunga (currently Gagauzia)",
-            "code": "CG"
+            "description": "Ceadîr-Lunga (currently Gagauzia)",
+            "region": "CG"
         },
         {
             "id": "9",
-            "name": "Cahul",
-            "code": "CH"
+            "description": "Cahul",
+            "region": "CH"
         },
         {
             "id": "10",
-            "name": "Călărași",
-            "code": "CL"
+            "description": "Călărași",
+            "region": "CL"
         },
         {
             "id": "11",
-            "name": "Cimișlia",
-            "code": "CM"
+            "description": "Cimișlia",
+            "region": "CM"
         },
         {
             "id": "12",
-            "name": "Căinari (currently merged with Căușeni)",
-            "code": "CN"
+            "description": "Căinari (currently merged with Căușeni)",
+            "region": "CN"
         },
         {
             "id": "13",
-            "name": "Comrat (currently Gagauzia)",
-            "code": "CO"
+            "description": "Comrat (currently Gagauzia)",
+            "region": "CO"
         },
         {
             "id": "14",
-            "name": "Criuleni",
-            "code": "CR"
+            "description": "Criuleni",
+            "region": "CR"
         },
         {
             "id": "15",
-            "name": "Căușeni",
-            "code": "CS"
+            "description": "Căușeni",
+            "region": "CS"
         },
         {
             "id": "16",
-            "name": "Cantemir",
-            "code": "CT"
+            "description": "Cantemir",
+            "region": "CT"
         },
         {
             "id": "17",
-            "name": "Chișinău District (1999–2002)",
-            "code": "CU"
+            "description": "Chișinău District (1999–2002)",
+            "region": "CU"
         },
         {
             "id": "18",
-            "name": "Dubăsari",
-            "code": "DB"
+            "description": "Dubăsari",
+            "region": "DB"
         },
         {
             "id": "19",
-            "name": "Dondușeni",
-            "code": "DN"
+            "description": "Dondușeni",
+            "region": "DN"
         },
         {
             "id": "20",
-            "name": "Drochia",
-            "code": "DR"
+            "description": "Drochia",
+            "region": "DR"
         },
         {
             "id": "21",
-            "name": "Edineț",
-            "code": "ED"
+            "description": "Edineț",
+            "region": "ED"
         },
         {
             "id": "22",
-            "name": "Fălești",
-            "code": "FL"
+            "description": "Fălești",
+            "region": "FL"
         },
         {
             "id": "23",
-            "name": "Florești",
-            "code": "FR"
+            "description": "Florești",
+            "region": "FR"
         },
         {
             "id": "24",
-            "name": "Gagauzia",
-            "code": "GE"
+            "description": "Gagauzia",
+            "region": "GE"
         },
         {
             "id": "25",
-            "name": "Glodeni",
-            "code": "GL"
+            "description": "Glodeni",
+            "region": "GL"
         },
         {
             "id": "26",
-            "name": "Grigoriopol",
-            "code": "GR"
+            "description": "Grigoriopol",
+            "region": "GR"
         },
         {
             "id": "27",
-            "name": "Hîncești",
-            "code": "HN"
+            "description": "Hîncești",
+            "region": "HN"
         },
         {
             "id": "28",
-            "name": "Ialoveni",
-            "code": "IL"
+            "description": "Ialoveni",
+            "region": "IL"
         },
         {
             "id": "29",
-            "name": "Chișinău",
-            "code": "K"
+            "description": "Chișinău",
+            "region": "K"
         },
         {
             "id": "30",
-            "name": "Lăpușna (1999–2002)",
-            "code": "LP"
+            "description": "Lăpușna (1999–2002)",
+            "region": "LP"
         },
         {
             "id": "31",
-            "name": "Leova",
-            "code": "LV"
+            "description": "Leova",
+            "region": "LV"
         },
         {
             "id": "32",
-            "name": "Nisporeni",
-            "code": "NS"
+            "description": "Nisporeni",
+            "region": "NS"
         },
         {
             "id": "33",
-            "name": "Ocnița",
-            "code": "OC"
+            "description": "Ocnița",
+            "region": "OC"
         },
         {
             "id": "34",
-            "name": "Orhei",
-            "code": "OR"
+            "description": "Orhei",
+            "region": "OR"
         },
         {
             "id": "35",
-            "name": "Rîbnița",
-            "code": "RB"
+            "description": "Rîbnița",
+            "region": "RB"
         },
         {
             "id": "36",
-            "name": "Rîșcani",
-            "code": "RS"
+            "description": "Rîșcani",
+            "region": "RS"
         },
         {
             "id": "37",
-            "name": "Rezina",
-            "code": "RZ"
+            "description": "Rezina",
+            "region": "RZ"
         },
         {
             "id": "38",
-            "name": "Șoldănești",
-            "code": "SD"
+            "description": "Șoldănești",
+            "region": "SD"
         },
         {
             "id": "39",
-            "name": "Sîngerei",
-            "code": "SG"
+            "description": "Sîngerei",
+            "region": "SG"
         },
         {
             "id": "40",
-            "name": "Slobozia",
-            "code": "SL"
+            "description": "Slobozia",
+            "region": "SL"
         },
         {
             "id": "41",
-            "name": "Soroca",
-            "code": "SR"
+            "description": "Soroca",
+            "region": "SR"
         },
         {
             "id": "42",
-            "name": "Strășeni",
-            "code": "ST"
+            "description": "Strășeni",
+            "region": "ST"
         },
         {
             "id": "43",
-            "name": "Ștefan Vodă",
-            "code": "SV"
+            "description": "Ștefan Vodă",
+            "region": "SV"
         },
         {
             "id": "44",
-            "name": "Tighina",
-            "code": "TG"
+            "description": "Tighina",
+            "region": "TG"
         },
         {
             "id": "45",
-            "name": "Telenești",
-            "code": "TL"
+            "description": "Telenești",
+            "region": "TL"
         },
         {
             "id": "46",
-            "name": "Taraclia",
-            "code": "TR"
+            "description": "Taraclia",
+            "region": "TR"
         },
         {
             "id": "47",
-            "name": "Tiraspol",
-            "code": "TS"
+            "description": "Tiraspol",
+            "region": "TS"
         },
         {
             "id": "48",
-            "name": "Ungheni",
-            "code": "UN"
+            "description": "Ungheni",
+            "region": "UN"
         },
         {
             "id": "49",
-            "name": "Vulcănești (currently Gagauzia)",
-            "code": "VL"
+            "description": "Vulcănești (currently Gagauzia)",
+            "region": "VL"
         }
     ]
 }

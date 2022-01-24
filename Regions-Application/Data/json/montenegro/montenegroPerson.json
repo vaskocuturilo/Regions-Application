@@ -2,123 +2,123 @@
   "regions": [
     {
       "id": "1",
-      "name": "Andrijevica",
-      "code": "AN"
+      "description": "Andrijevica",
+      "region": "AN"
     },
     {
       "id": "2",
-      "name": "Berane",
-      "code": "BA"
+      "description": "Berane",
+      "region": "BA"
     },
     {
       "id": "3",
-      "name": "Budva",
-      "code": "BD"
+      "description": "Budva",
+      "region": "BD"
     },
     {
       "id": "4",
-      "name": "Bijelo Polje",
-      "code": "BP"
+      "description": "Bijelo Polje",
+      "region": "BP"
     },
     {
       "id": "5",
-      "name": "Bar",
-      "code": "BR"
+      "description": "Bar",
+      "region": "BR"
     },
     {
       "id": "6",
-      "name": "Cetinje",
-      "code": "CT"
+      "description": "Cetinje",
+      "region": "CT"
     },
     {
       "id": "7",
-      "name": "Danilovgrad",
-      "code": "DG"
+      "description": "Danilovgrad",
+      "region": "DG"
     },
     {
       "id": "8",
-      "name": "Gusinje",
-      "code": "GS"
+      "description": "Gusinje",
+      "region": "GS"
     },
     {
       "id": "9",
-      "name": "Herceg Novi",
-      "code": "HN"
+      "description": "Herceg Novi",
+      "region": "HN"
     },
     {
       "id": "10",
-      "name": "Kolašin",
-      "code": "KL"
+      "description": "Kolašin",
+      "region": "KL"
     },
     {
       "id": "11",
-      "name": "Kotor",
-      "code": "KO"
+      "description": "Kotor",
+      "region": "KO"
     },
     {
       "id": "12",
-      "name": "Mojkovac",
-      "code": "MK"
+      "description": "Mojkovac",
+      "region": "MK"
     },
     {
       "id": "13",
-      "name": "Nikšić",
-      "code": "NK"
+      "description": "Nikšić",
+      "region": "NK"
     },
     {
       "id": "14",
-      "name": "Podgorica",
-      "code": "PG"
+      "description": "Podgorica",
+      "region": "PG"
     },
     {
       "id": "15",
-      "name": "Plav",
-      "code": "PL"
+      "description": "Plav",
+      "region": "PL"
     },
     {
       "id": "16",
-      "name": "Petnjica",
-      "code": "PT"
+      "description": "Petnjica",
+      "region": "PT"
     },
     {
       "id": "17",
-      "name": "Plužine",
-      "code": "PŽ"
+      "description": "Plužine",
+      "region": "PŽ"
     },
     {
       "id": "18",
-      "name": "Pljevlja",
-      "code": "PV"
+      "description": "Pljevlja",
+      "region": "PV"
     },
     {
       "id": "19",
-      "name": "Rožaje",
-      "code": "RO"
+      "description": "Rožaje",
+      "region": "RO"
     },
     {
       "id": "20",
-      "name": "Šavnik",
-      "code": "ŠN"
+      "description": "Šavnik",
+      "region": "ŠN"
     },
     {
       "id": "21",
-      "name": "Tivat",
-      "code": "TV"
+      "description": "Tivat",
+      "region": "TV"
     },
     {
       "id": "22",
-      "name": "Tuzi",
-      "code": "TZ"
+      "description": "Tuzi",
+      "region": "TZ"
     },
     {
       "id": "23",
-      "name": "Ulcinj",
-      "code": "UL"
+      "description": "Ulcinj",
+      "region": "UL"
     },
     {
       "id": "24",
-      "name": "Žabljak",
-      "code": "ŽB"
+      "description": "Žabljak",
+      "region": "ŽB"
     }
   ]
 }

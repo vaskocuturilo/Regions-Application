@@ -2,133 +2,133 @@
   "regions": [
     {
       "id": "1",
-      "name": "Aargau",
-      "code": "AG"
+      "description": "Aargau",
+      "region": "AG"
     },
     {
       "id": "2",
-      "name": "Appenzell Innerrhoden",
-      "code": "AI"
+      "description": "Appenzell Innerrhoden",
+      "region": "AI"
     },
     {
       "id": "3",
-      "name": "Appenzell Ausserrhoden",
-      "code": "AR"
+      "description": "Appenzell Ausserrhoden",
+      "region": "AR"
     },
     {
       "id": "4",
-      "name": "Bern",
-      "code": "BE"
+      "description": "Bern",
+      "region": "BE"
     },
     {
       "id": "5",
-      "name": "Basel-Landschaft",
-      "code": "BL"
+      "description": "Basel-Landschaft",
+      "region": "BL"
     },
     {
       "id": "6",
-      "name": "Basel-Stadt",
-      "code": "BS"
+      "description": "Basel-Stadt",
+      "region": "BS"
     },
     {
       "id": "7",
-      "name": "Fribourg",
-      "code": "FR"
+      "description": "Fribourg",
+      "region": "FR"
     },
     {
       "id": "8",
-      "name": "Geneva",
-      "code": "GE"
+      "description": "Geneva",
+      "region": "GE"
     },
     {
       "id": "9",
-      "name": "Glarus",
-      "code": "GL"
+      "description": "Glarus",
+      "region": "GL"
     },
     {
       "id": "10",
-      "name": "Graubünden",
-      "code": "GR"
+      "description": "Graubünden",
+      "region": "GR"
     },
     {
       "id": "11",
-      "name": "Jura",
-      "code": "JU"
+      "description": "Jura",
+      "region": "JU"
     },
     {
       "id": "12",
-      "name": "Lucerne",
-      "code": "LU"
+      "description": "Lucerne",
+      "region": "LU"
     },
     {
       "id": "13",
-      "name": "Neuchâtel",
-      "code": "NE"
+      "description": "Neuchâtel",
+      "region": "NE"
     },
     {
       "id": "14",
-      "name": "Nidwalden",
-      "code": "NW"
+      "description": "Nidwalden",
+      "region": "NW"
     },
     {
       "id": "15",
-      "name": "Obwalden",
-      "code": "OW"
+      "description": "Obwalden",
+      "region": "OW"
     },
     {
       "id": "16",
-      "name": "St. Gallen",
-      "code": "SG"
+      "description": "St. Gallen",
+      "region": "SG"
     },
     {
       "id": "17",
-      "name": "Schaffhausen",
-      "code": "SH"
+      "description": "Schaffhausen",
+      "region": "SH"
     },
     {
       "id": "18",
-      "name": "Solothurn",
-      "code": "SO"
+      "description": "Solothurn",
+      "region": "SO"
     },
     {
       "id": "19",
-      "name": "Schwyz",
-      "code": "SZ"
+      "description": "Schwyz",
+      "region": "SZ"
     },
     {
       "id": "20",
-      "name": "Thurgau",
-      "code": "TG"
+      "description": "Thurgau",
+      "region": "TG"
     },
     {
       "id": "21",
-      "name": "Ticino",
-      "code": "TI"
+      "description": "Ticino",
+      "region": "TI"
     },
     {
       "id": "22",
-      "name": "Uri",
-      "code": "UR"
+      "description": "Uri",
+      "region": "UR"
     },
     {
       "id": "23",
-      "name": "Vaud",
-      "code": "VD"
+      "description": "Vaud",
+      "region": "VD"
     },
     {
       "id": "24",
-      "name": "Valais",
-      "code": "VS"
+      "description": "Valais",
+      "region": "VS"
     },
     {
       "id": "25",
-      "name": "Zug",
-      "code": "ZG"
+      "description": "Zug",
+      "region": "ZG"
     },
     {
       "id": "26",
-      "name": "Zürich",
-      "code": "ZH"
+      "description": "Zürich",
+      "region": "ZH"
     }
   ]
 }

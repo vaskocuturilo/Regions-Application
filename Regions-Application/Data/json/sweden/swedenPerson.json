@@ -2,213 +2,213 @@
   "regions": [
     {
       "id": "1",
-      "name": " City of Stockholm",
-      "code": "A"
+      "description": " City of Stockholm",
+      "region": "A"
     },
     {
       "id": "2",
-      "name": " City of Stockholm",
-      "code": "AA"
+      "description": " City of Stockholm",
+      "region": "AA"
     },
     {
       "id": "3",
-      "name": " City of Stockholm",
-      "code": "AB"
+      "description": " City of Stockholm",
+      "region": "AB"
     },
     {
       "id": "4",
-      "name": "Stockholms län",
-      "code": "B"
+      "description": "Stockholms län",
+      "region": "B"
     },
     {
       "id": "5",
-      "name": "Stockholms län",
-      "code": "BA"
+      "description": "Stockholms län",
+      "region": "BA"
     },
     {
       "id": "6",
-      "name": "Stockholms län",
-      "code": "BB"
+      "description": "Stockholms län",
+      "region": "BB"
     },
     {
       "id": "7",
-      "name": "Uppsala län",
-      "code": "C"
+      "description": "Uppsala län",
+      "region": "C"
     },
     {
       "id": "8",
-      "name": "Södermanlands län",
-      "code": "D"
+      "description": "Södermanlands län",
+      "region": "D"
     },
     {
       "id": "9",
-      "name": "Östergötlands län",
-      "code": "E"
+      "description": "Östergötlands län",
+      "region": "E"
     },
     {
       "id": "10",
-      "name": "Östergötlands län",
-      "code": "EA"
+      "description": "Östergötlands län",
+      "region": "EA"
     },
     {
       "id": "11",
-      "name": "Jönköpings län",
-      "code": "F"
+      "description": "Jönköpings län",
+      "region": "F"
     },
     {
       "id": "12",
-      "name": "Jönköpings län",
-      "code": "FA"
+      "description": "Jönköpings län",
+      "region": "FA"
     },
     {
       "id": "13",
-      "name": "Kronobergs län",
-      "code": "G"
+      "description": "Kronobergs län",
+      "region": "G"
     },
     {
       "id": "14",
-      "name": "Kalmar län",
-      "code": "H"
+      "description": "Kalmar län",
+      "region": "H"
     },
     {
       "id": "15",
-      "name": "Gotlands län",
-      "code": "I"
+      "description": "Gotlands län",
+      "region": "I"
     },
     {
       "id": "16",
-      "name": "Blekinge län",
-      "code": "K"
+      "description": "Blekinge län",
+      "region": "K"
     },
     {
       "id": "17",
-      "name": "Kristianstads län (today part of Skåne län)",
-      "code": "L"
+      "description": "Kristianstads län (today part of Skåne län)",
+      "region": "L"
     },
     {
       "id": "18",
-      "name": "Kristianstads län (today part of Skåne län)",
-      "code": "LA"
+      "description": "Kristianstads län (today part of Skåne län)",
+      "region": "LA"
     },
     {
       "id": "19",
-      "name": "Malmöhus län (today part of Skåne län)",
-      "code": "M"
+      "description": "Malmöhus län (today part of Skåne län)",
+      "region": "M"
     },
     {
       "id": "20",
-      "name": "Malmöhus län (today part of Skåne län)",
-      "code": "MA"
+      "description": "Malmöhus län (today part of Skåne län)",
+      "region": "MA"
     },
     {
       "id": "21",
-      "name": "Malmöhus län (today part of Skåne län)",
-      "code": "MB"
+      "description": "Malmöhus län (today part of Skåne län)",
+      "region": "MB"
     },
     {
       "id": "22",
-      "name": "Hallands län",
-      "code": "N"
+      "description": "Hallands län",
+      "region": "N"
     },
     {
       "id": "23",
-      "name": "Göteborgs och Bohus län (today part of Västra Götalands län)",
-      "code": "O"
+      "description": "Göteborgs och Bohus län (today part of Västra Götalands län)",
+      "region": "O"
     },
     {
       "id": "24",
-      "name": "Göteborgs och Bohus län (today part of Västra Götalands län)",
-      "code": "OA"
+      "description": "Göteborgs och Bohus län (today part of Västra Götalands län)",
+      "region": "OA"
     },
     {
       "id": "25",
-      "name": "Göteborgs och Bohus län (today part of Västra Götalands län)",
-      "code": "OB"
+      "description": "Göteborgs och Bohus län (today part of Västra Götalands län)",
+      "region": "OB"
     },
     {
       "id": "26",
-      "name": "Älvsborgs län (today part of Västra Götalands län)",
-      "code": "P"
+      "description": "Älvsborgs län (today part of Västra Götalands län)",
+      "region": "P"
     },
     {
       "id": "27",
-      "name": "Älvsborgs län (today part of Västra Götalands län)",
-      "code": "PA"
+      "description": "Älvsborgs län (today part of Västra Götalands län)",
+      "region": "PA"
     },
     {
       "id": "28",
-      "name": "Skaraborgs län (today part of Västra Götalands län)",
-      "code": "R"
+      "description": "Skaraborgs län (today part of Västra Götalands län)",
+      "region": "R"
     },
     {
       "id": "29",
-      "name": "Värmlands län",
-      "code": "S"
+      "description": "Värmlands län",
+      "region": "S"
     },
     {
       "id": "30",
-      "name": "Värmlands län",
-      "code": "SA"
+      "description": "Värmlands län",
+      "region": "SA"
     },
     {
       "id": "31",
-      "name": "Örebro län",
-      "code": "T"
+      "description": "Örebro län",
+      "region": "T"
     },
     {
       "id": "32",
-      "name": "Örebro län",
-      "code": "TA"
+      "description": "Örebro län",
+      "region": "TA"
     },
     {
       "id": "33",
-      "name": "Västmanlands län",
-      "code": "U"
+      "description": "Västmanlands län",
+      "region": "U"
     },
     {
       "id": "34",
-      "name": "Västmanlands län",
-      "code": "UA"
+      "description": "Västmanlands län",
+      "region": "UA"
     },
     {
       "id": "35",
-      "name": "Kopparbergs län (today Dalarnas län)",
-      "code": "W"
+      "description": "Kopparbergs län (today Dalarnas län)",
+      "region": "W"
     },
     {
       "id": "36",
-      "name": "Kopparbergs län (today Dalarnas län)",
-      "code": "WA"
+      "description": "Kopparbergs län (today Dalarnas län)",
+      "region": "WA"
     },
     {
       "id": "37",
-      "name": "Gävleborgs län",
-      "code": "X"
+      "description": "Gävleborgs län",
+      "region": "X"
     },
     {
       "id": "38",
-      "name": "Gävleborgs län",
-      "code": "XA"
+      "description": "Gävleborgs län",
+      "region": "XA"
     },
     {
       "id": "39",
-      "name": "Västernorrlands län",
-      "code": "Y"
+      "description": "Västernorrlands län",
+      "region": "Y"
     },
     {
       "id": "40",
-      "name": "Jämtlands län",
-      "code": "Z"
+      "description": "Jämtlands län",
+      "region": "Z"
     },
     {
       "id": "41",
-      "name": "Västerbottens län",
-      "code": "AC"
+      "description": "Västerbottens län",
+      "region": "AC"
     },
     {
       "id": "42",
-      "name": "Norrbottens län",
-      "code": "BD"
+      "description": "Norrbottens län",
+      "region": "BD"
     }
   ]
 }

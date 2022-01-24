@@ -2,3948 +2,3948 @@
   "regions": [
     {
       "id": "1",
-      "name": "Augsburg, Bavaria",
-      "code": "A"
+      "description": "Augsburg, Bavaria",
+      "region": "A"
     },
     {
       "id": "2",
-      "name": "Aalen & Ostalbkreis, Baden-Württemberg",
-      "code": "AA"
+      "description": "Aalen & Ostalbkreis, Baden-Württemberg",
+      "region": "AA"
     },
     {
       "id": "3",
-      "name": "Aschaffenburg, Bavaria",
-      "code": "AB"
+      "description": "Aschaffenburg, Bavaria",
+      "region": "AB"
     },
     {
       "id": "4",
-      "name": "Altenburger Land, Thuringia",
-      "code": "ABG"
+      "description": "Altenburger Land, Thuringia",
+      "region": "ABG"
     },
     {
       "id": "5",
-      "name": "Aachen, North-Rhine-Westphalia",
-      "code": "AC"
+      "description": "Aachen, North-Rhine-Westphalia",
+      "region": "AC"
     },
     {
       "id": "6",
-      "name": "Ahaus, North-Rhine-Westphalia",
-      "code": "AH"
+      "description": "Ahaus, North-Rhine-Westphalia",
+      "region": "AH"
     },
     {
       "id": "7",
-      "name": "Bad Aibling, Bavaria",
-      "code": "AIB"
+      "description": "Bad Aibling, Bavaria",
+      "region": "AIB"
     },
     {
       "id": "8",
-      "name": " Aichach-Friedberg, Bavaria",
-      "code": "AIC"
+      "description": " Aichach-Friedberg, Bavaria",
+      "region": "AIC"
     },
     {
       "id": "9",
-      "name": "Auerbach, Saxony",
-      "code": "AE"
+      "description": "Auerbach, Saxony",
+      "region": "AE"
     },
     {
       "id": "10",
-      "name": "Altenkirchen (Westerwald), Rhineland Palatinate",
-      "code": "AK"
+      "description": "Altenkirchen (Westerwald), Rhineland Palatinate",
+      "region": "AK"
     },
     {
       "id": "11",
-      "name": "Altena, North-Rhine-Westphalia",
-      "code": "AL"
+      "description": "Altena, North-Rhine-Westphalia",
+      "region": "AL"
     },
     {
       "id": "12",
-      "name": "Alfeld, Lower Saxony",
-      "code": "ALF"
+      "description": "Alfeld, Lower Saxony",
+      "region": "ALF"
     },
     {
       "id": "13",
-      "name": "Alsfeld, Hesse",
-      "code": "ALS"
+      "description": "Alsfeld, Hesse",
+      "region": "ALS"
     },
     {
       "id": "14",
-      "name": "Alzenau, Bavaria",
-      "code": "ALZ"
+      "description": "Alzenau, Bavaria",
+      "region": "ALZ"
     },
     {
       "id": "15",
-      "name": "Amberg, Bavaria",
-      "code": "AM"
+      "description": "Amberg, Bavaria",
+      "region": "AM"
     },
     {
       "id": "16",
-      "name": "Ansbach, Bavaria",
-      "code": "AN"
+      "description": "Ansbach, Bavaria",
+      "region": "AN"
     },
     {
       "id": "17",
-      "name": "Annaberg-Buchholz, Saxony",
-      "code": "ANA"
+      "description": "Annaberg-Buchholz, Saxony",
+      "region": "ANA"
     },
     {
       "id": "18",
-      "name": "Angermünde, Brandenburg",
-      "code": "ANG"
+      "description": "Angermünde, Brandenburg",
+      "region": "ANG"
     },
     {
       "id": "19",
-      "name": "Anklam, Mecklenburg-Vorpommern",
-      "code": "ANK"
+      "description": "Anklam, Mecklenburg-Vorpommern",
+      "region": "ANK"
     },
     {
       "id": "20",
-      "name": "Altötting, Bavaria",
-      "code": "AO"
+      "description": "Altötting, Bavaria",
+      "region": "AO"
     },
     {
       "id": "21",
-      "name": "Apolda & Weimarer Land, Thuringia",
-      "code": "AP"
+      "description": "Apolda & Weimarer Land, Thuringia",
+      "region": "AP"
     },
     {
       "id": "22",
-      "name": "Apolda, Thuringia",
-      "code": "APD"
+      "description": "Apolda, Thuringia",
+      "region": "APD"
     },
     {
       "id": "23",
-      "name": "Arnsberg, North-Rhine-Westphalia",
-      "code": "AR"
+      "description": "Arnsberg, North-Rhine-Westphalia",
+      "region": "AR"
     },
     {
       "id": "24",
-      "name": "Arnstadt, Thuringia",
-      "code": "ARN"
+      "description": "Arnstadt, Thuringia",
+      "region": "ARN"
     },
     {
       "id": "25",
-      "name": "Artern, Thuringia",
-      "code": "ART"
+      "description": "Artern, Thuringia",
+      "region": "ART"
     },
     {
       "id": "26",
-      "name": "Amberg-Sulzbach, Bavaria",
-      "code": "AS"
+      "description": "Amberg-Sulzbach, Bavaria",
+      "region": "AS"
     },
     {
       "id": "27",
-      "name": "Aschendorf, Lower Saxony",
-      "code": "ASD"
+      "description": "Aschendorf, Lower Saxony",
+      "region": "ASD"
     },
     {
       "id": "28",
-      "name": "Aschersleben-Staßfurter Landkreis, Saxony-Anhalt",
-      "code": "ASL"
+      "description": "Aschersleben-Staßfurter Landkreis, Saxony-Anhalt",
+      "region": "ASL"
     },
     {
       "id": "29",
-      "name": " Aue-Schwarzenberg, Saxony",
-      "code": "ASZ"
+      "description": " Aue-Schwarzenberg, Saxony",
+      "region": "ASZ"
     },
     {
       "id": "30",
-      "name": "Alten-Treptow, Mecklenburg-Vorpommern",
-      "code": "AT"
+      "description": "Alten-Treptow, Mecklenburg-Vorpommern",
+      "region": "AT"
     },
     {
       "id": "31",
-      "name": "Aue, Saxony",
-      "code": "AU"
+      "description": "Aue, Saxony",
+      "region": "AU"
     },
     {
       "id": "32",
-      "name": "Aurich, Lower Saxony",
-      "code": "AUR"
+      "description": "Aurich, Lower Saxony",
+      "region": "AUR"
     },
     {
       "id": "33",
-      "name": "Ahrweiler, Rhineland Palatinate",
-      "code": "AW"
+      "description": "Ahrweiler, Rhineland Palatinate",
+      "region": "AW"
     },
     {
       "id": "34",
-      "name": "Alzey-Worms, Rhineland Palatinate",
-      "code": "AZ"
+      "description": "Alzey-Worms, Rhineland Palatinate",
+      "region": "AZ"
     },
     {
       "id": "35",
-      "name": "Anhalt-Zerbst, Saxony-Anhalt",
-      "code": "AZE"
+      "description": "Anhalt-Zerbst, Saxony-Anhalt",
+      "region": "AZE"
     },
     {
       "id": "36",
-      "name": "Berlin",
-      "code": "B"
+      "description": "Berlin",
+      "region": "B"
     },
     {
       "id": "37",
-      "name": "Bamberg, Bavaria",
-      "code": "BA"
+      "description": "Bamberg, Bavaria",
+      "region": "BA"
     },
     {
       "id": "38",
-      "name": "Baden-Baden, Baden-Württemberg",
-      "code": "BAD"
+      "description": "Baden-Baden, Baden-Württemberg",
+      "region": "BAD"
     },
     {
       "id": "39",
-      "name": "Barnim (Eberswalde), Brandenburg",
-      "code": "BAR"
+      "description": "Barnim (Eberswalde), Brandenburg",
+      "region": "BAR"
     },
     {
       "id": "40",
-      "name": "Böblingen, Baden-Württemberg",
-      "code": "BB"
+      "description": "Böblingen, Baden-Württemberg",
+      "region": "BB"
     },
     {
       "id": "41",
-      "name": "Bernburg, Saxony-Anhalt",
-      "code": "BBG"
+      "description": "Bernburg, Saxony-Anhalt",
+      "region": "BBG"
     },
     {
       "id": "42",
-      "name": "Brandenburg Land official vehicles",
-      "code": "BBL"
+      "description": "Brandenburg Land official vehicles",
+      "region": "BBL"
     },
     {
       "id": "43",
-      "name": "Biberach, Baden-Württemberg",
-      "code": "BC"
+      "description": "Biberach, Baden-Württemberg",
+      "region": "BC"
     },
     {
       "id": "44",
-      "name": "Buchen, Baden-Württemberg",
-      "code": "BCH"
+      "description": "Buchen, Baden-Württemberg",
+      "region": "BCH"
     },
     {
       "id": "45",
-      "name": "Federal German government vehicles",
-      "code": "BD"
+      "description": "Federal German government vehicles",
+      "region": "BD"
     },
     {
       "id": "46",
-      "name": "Bechum, North-Rhine-Westphalia",
-      "code": "BE"
+      "description": "Bechum, North-Rhine-Westphalia",
+      "region": "BE"
     },
     {
       "id": "47",
-      "name": "Brand-Erbisdorf, Saxony",
-      "code": "BED"
+      "description": "Brand-Erbisdorf, Saxony",
+      "region": "BED"
     },
     {
       "id": "48",
-      "name": "Beilingries, Bavaria",
-      "code": "BEI"
+      "description": "Beilingries, Bavaria",
+      "region": "BEI"
     },
     {
       "id": "49",
-      "name": "Blezig, Brandenburg",
-      "code": "BEL"
+      "description": "Blezig, Brandenburg",
+      "region": "BEL"
     },
     {
       "id": "50",
-      "name": "Bernau, Brandenburg",
-      "code": "BER"
+      "description": "Bernau, Brandenburg",
+      "region": "BER"
     },
     {
       "id": "51",
-      "name": "Burgsteinfurt, North-Rhine-Westphalia",
-      "code": "BF"
+      "description": "Burgsteinfurt, North-Rhine-Westphalia",
+      "region": "BF"
     },
     {
       "id": "52",
-      "name": "Border police vehicles",
-      "code": "BG"
+      "description": "Border police vehicles",
+      "region": "BG"
     },
     {
       "id": "53",
-      "name": "Berchtesgaden, Bavaria",
-      "code": "BGD"
+      "description": "Berchtesgaden, Bavaria",
+      "region": "BGD"
     },
     {
       "id": "54",
-      "name": "Berchtesgardener Land, Bavaria",
-      "code": "BGL"
+      "description": "Berchtesgardener Land, Bavaria",
+      "region": "BGL"
     },
     {
       "id": "55",
-      "name": "Bühl, Baden-Württenmberg",
-      "code": "BH"
+      "description": "Bühl, Baden-Württenmberg",
+      "region": "BH"
     },
     {
       "id": "56",
-      "name": "Bielefeld, North-Rhine-Westphalia",
-      "code": "BI"
+      "description": "Bielefeld, North-Rhine-Westphalia",
+      "region": "BI"
     },
     {
       "id": "57",
-      "name": "Biedenkopf, Hesse",
-      "code": "BID"
+      "description": "Biedenkopf, Hesse",
+      "region": "BID"
     },
     {
       "id": "58",
-      "name": "Bingen, Rhineland Palatinate",
-      "code": "BIN"
+      "description": "Bingen, Rhineland Palatinate",
+      "region": "BIN"
     },
     {
       "id": "59",
-      "name": "Birkenfeld, Rhineland Palatinate",
-      "code": "BIR"
+      "description": "Birkenfeld, Rhineland Palatinate",
+      "region": "BIR"
     },
     {
       "id": "60",
-      "name": "Bitburg-Prüm, Rhineland Palatinate",
-      "code": "BIT"
+      "description": "Bitburg-Prüm, Rhineland Palatinate",
+      "region": "BIT"
     },
     {
       "id": "61",
-      "name": "Bischofswerda, Saxony",
-      "code": "BIW"
+      "description": "Bischofswerda, Saxony",
+      "region": "BIW"
     },
     {
       "id": "62",
-      "name": "Bicknang, Baden-Württemberg",
-      "code": "BK"
+      "description": "Bicknang, Baden-Württemberg",
+      "region": "BK"
     },
     {
       "id": "63",
-      "name": "Bernkastel, Rhineland Palatinate",
-      "code": "BKS"
+      "description": "Bernkastel, Rhineland Palatinate",
+      "region": "BKS"
     },
     {
       "id": "64",
-      "name": "Balingen & Zollernalbkreis, Baden-Württemberg",
-      "code": "BL"
+      "description": "Balingen & Zollernalbkreis, Baden-Württemberg",
+      "region": "BL"
     },
     {
       "id": "65",
-      "name": "Bad Berleburg, North-Rhine-Westphalia",
-      "code": "BLB"
+      "description": "Bad Berleburg, North-Rhine-Westphalia",
+      "region": "BLB"
     },
     {
       "id": "66",
-      "name": "Burgenlandkreis, Saxony-Anhalt",
-      "code": "BLK"
+      "description": "Burgenlandkreis, Saxony-Anhalt",
+      "region": "BLK"
     },
     {
       "id": "67",
-      "name": "Bergheim & Erftkreis, North-Rhine-Westphalia",
-      "code": "BM"
+      "description": "Bergheim & Erftkreis, North-Rhine-Westphalia",
+      "region": "BM"
     },
     {
       "id": "68",
-      "name": "Bonn, North-Rhine-Westphalia",
-      "code": "BN"
+      "description": "Bonn, North-Rhine-Westphalia",
+      "region": "BN"
     },
     {
       "id": "69",
-      "name": "Borna, Saxony",
-      "code": "BNA"
+      "description": "Borna, Saxony",
+      "region": "BNA"
     },
     {
       "id": "70",
-      "name": "Bochum, North-Rhine-Westphalia",
-      "code": "BO"
+      "description": "Bochum, North-Rhine-Westphalia",
+      "region": "BO"
     },
     {
       "id": "71",
-      "name": "Bördekreis, Saxony-Anhalt",
-      "code": "BÖ"
+      "description": "Bördekreis, Saxony-Anhalt",
+      "region": "BÖ"
     },
     {
       "id": "72",
-      "name": "Bogen, Bavaria",
-      "code": "BOG"
+      "description": "Bogen, Bavaria",
+      "region": "BOG"
     },
     {
       "id": "73",
-      "name": "Bocholt, North-Rhine-Westphalia",
-      "code": "BOH"
+      "description": "Bocholt, North-Rhine-Westphalia",
+      "region": "BOH"
     },
     {
       "id": "74",
-      "name": "Borken, North-Rhine-Westphalia",
-      "code": "BOR"
+      "description": "Borken, North-Rhine-Westphalia",
+      "region": "BOR"
     },
     {
       "id": "75",
-      "name": "Bottrop, North-Rhine-Westphalia",
-      "code": "BOT"
+      "description": "Bottrop, North-Rhine-Westphalia",
+      "region": "BOT"
     },
     {
       "id": "76",
-      "name": "Postal authority vehicles (Bundespost)",
-      "code": "BP"
+      "description": "Postal authority vehicles (Bundespost)",
+      "region": "BP"
     },
     {
       "id": "77",
-      "name": "Bruchsal, Baden-Württemberg",
-      "code": "BR"
+      "description": "Bruchsal, Baden-Württemberg",
+      "region": "BR"
     },
     {
       "id": "78",
-      "name": "Brake (Unterweser) & Wesermarsch, Lower Saxony",
-      "code": "BRA"
+      "description": "Brake (Unterweser) & Wesermarsch, Lower Saxony",
+      "region": "BRA"
     },
     {
       "id": "79",
-      "name": "Brandenburg, Brandenburg",
-      "code": "BRB"
+      "description": "Brandenburg, Brandenburg",
+      "region": "BRB"
     },
     {
       "id": "80",
-      "name": "Burg, Saxony-Anhalt",
-      "code": "BRG"
+      "description": "Burg, Saxony-Anhalt",
+      "region": "BRG"
     },
     {
       "id": "81",
-      "name": "Brilon, North-Rhine-Westphalia",
-      "code": "BRI"
+      "description": "Brilon, North-Rhine-Westphalia",
+      "region": "BRI"
     },
     {
       "id": "82",
-      "name": "Bad Brückenau, Bavaria",
-      "code": "BRK"
+      "description": "Bad Brückenau, Bavaria",
+      "region": "BRK"
     },
     {
       "id": "83",
-      "name": "Braunlage, Lower Saxony",
-      "code": "BRL"
+      "description": "Braunlage, Lower Saxony",
+      "region": "BRL"
     },
     {
       "id": "84",
-      "name": "Bremervörde, Lower Saxony",
-      "code": "BRV"
+      "description": "Bremervörde, Lower Saxony",
+      "region": "BRV"
     },
     {
       "id": "85",
-      "name": "Brunswick (Braunschweig), Lower Saxony",
-      "code": "BS"
+      "description": "Brunswick (Braunschweig), Lower Saxony",
+      "region": "BS"
     },
     {
       "id": "86",
-      "name": "Bersenbrück, Lower Saxony",
-      "code": "BSB"
+      "description": "Bersenbrück, Lower Saxony",
+      "region": "BSB"
     },
     {
       "id": "87",
-      "name": "Beeskow, Brandenburg",
-      "code": "BSK"
+      "description": "Beeskow, Brandenburg",
+      "region": "BSK"
     },
     {
       "id": "88",
-      "name": "Bayreuth, Bavaria",
-      "code": "BT"
+      "description": "Bayreuth, Bavaria",
+      "region": "BT"
     },
     {
       "id": "89",
-      "name": "Bitterfeld, Saxony-Anhalt",
-      "code": "BTF"
+      "description": "Bitterfeld, Saxony-Anhalt",
+      "region": "BTF"
     },
     {
       "id": "90",
-      "name": "Burgdorf, Lower Saxony",
-      "code": "BU"
+      "description": "Burgdorf, Lower Saxony",
+      "region": "BU"
     },
     {
       "id": "91",
-      "name": "Büdingen, Hesse",
-      "code": "BÜD"
+      "description": "Büdingen, Hesse",
+      "region": "BÜD"
     },
     {
       "id": "92",
-      "name": "Burglengenfeld, Bavaria",
-      "code": "BUL"
+      "description": "Burglengenfeld, Bavaria",
+      "region": "BUL"
     },
     {
       "id": "93",
-      "name": "Buren, North-Rhine-Westphalia",
-      "code": "BUR"
+      "description": "Buren, North-Rhine-Westphalia",
+      "region": "BUR"
     },
     {
       "id": "94",
-      "name": "Büsingen & Konstanz, Baden-Württemberg",
-      "code": "BÜS"
+      "description": "Büsingen & Konstanz, Baden-Württemberg",
+      "region": "BÜS"
     },
     {
       "id": "95",
-      "name": "Bützow, Mecklenburg-Vorpommern",
-      "code": "BÜZ"
+      "description": "Bützow, Mecklenburg-Vorpommern",
+      "region": "BÜZ"
     },
     {
       "id": "96",
-      "name": "Maritime authority vehicles",
-      "code": "BW"
+      "description": "Maritime authority vehicles",
+      "region": "BW"
     },
     {
       "id": "97",
-      "name": "Badem-Württemberg Land official vehicles",
-      "code": "BWL"
+      "description": "Badem-Württemberg Land official vehicles",
+      "region": "BWL"
     },
     {
       "id": "98",
-      "name": "Bavaria State (Bayern Land) official vehicles",
-      "code": "BYL"
+      "description": "Bavaria State (Bayern Land) official vehicles",
+      "region": "BYL"
     },
     {
       "id": "99",
-      "name": "Bautzen, Saxony",
-      "code": "BZ"
+      "description": "Bautzen, Saxony",
+      "region": "BZ"
     },
     {
       "id": "100",
-      "name": "Bergzabern, Rhineland Palatinate",
-      "code": "BZA"
+      "description": "Bergzabern, Rhineland Palatinate",
+      "region": "BZA"
     },
     {
       "id": "101",
-      "name": "Chemnitz, Saxony",
-      "code": "C"
+      "description": "Chemnitz, Saxony",
+      "region": "C"
     },
     {
       "id": "102",
-      "name": "Calau, Brandenburg",
-      "code": "CA"
+      "description": "Calau, Brandenburg",
+      "region": "CA"
     },
     {
       "id": "103",
-      "name": "Castrop-Rauxel, North-Rhine-Westphalia",
-      "code": "CAS"
+      "description": "Castrop-Rauxel, North-Rhine-Westphalia",
+      "region": "CAS"
     },
     {
       "id": "104",
-      "name": "Cottbus, Brandenburg",
-      "code": "CB"
+      "description": "Cottbus, Brandenburg",
+      "region": "CB"
     },
     {
       "id": "105",
-      "name": "Celle, Lower Saxony",
-      "code": "CE"
+      "description": "Celle, Lower Saxony",
+      "region": "CE"
     },
     {
       "id": "106",
-      "name": "Cham, Bavaria",
-      "code": "CHA"
+      "description": "Cham, Bavaria",
+      "region": "CHA"
     },
     {
       "id": "107",
-      "name": "Chemnitzer Land, Kreis Glochau, Saxony",
-      "code": "CHL"
+      "description": "Chemnitzer Land, Kreis Glochau, Saxony",
+      "region": "CHL"
     },
     {
       "id": "108",
-      "name": "Cloppenburg, Lower Saxony",
-      "code": "CLP"
+      "description": "Cloppenburg, Lower Saxony",
+      "region": "CLP"
     },
     {
       "id": "109",
-      "name": "Clausthal-Zellerfeld, Lower Saxony",
-      "code": "CLZ"
+      "description": "Clausthal-Zellerfeld, Lower Saxony",
+      "region": "CLZ"
     },
     {
       "id": "110",
-      "name": "Coburg, Bavaria",
-      "code": "CO"
+      "description": "Coburg, Bavaria",
+      "region": "CO"
     },
     {
       "id": "111",
-      "name": "Cochem-Zell, Rhineland Palatinate",
-      "code": "COC"
+      "description": "Cochem-Zell, Rhineland Palatinate",
+      "region": "COC"
     },
     {
       "id": "112",
-      "name": "Coesfeld, North-Rhine-Westphalia",
-      "code": "COE"
+      "description": "Coesfeld, North-Rhine-Westphalia",
+      "region": "COE"
     },
     {
       "id": "113",
-      "name": "Crailsheim, Baden-Württemberg",
-      "code": "CR"
+      "description": "Crailsheim, Baden-Württemberg",
+      "region": "CR"
     },
     {
       "id": "114",
-      "name": "Cottbus, Saxony",
-      "code": "CT"
+      "description": "Cottbus, Saxony",
+      "region": "CT"
     },
     {
       "id": "115",
-      "name": "Cuxhaven, Lower Saxony",
-      "code": "CUX"
+      "description": "Cuxhaven, Lower Saxony",
+      "region": "CUX"
     },
     {
       "id": "116",
-      "name": "Calw, Baden-Württemberg",
-      "code": "CW"
+      "description": "Calw, Baden-Württemberg",
+      "region": "CW"
     },
     {
       "id": "117",
-      "name": "Düsseldorf, North-Rhine-Westphalia",
-      "code": "D"
+      "description": "Düsseldorf, North-Rhine-Westphalia",
+      "region": "D"
     },
     {
       "id": "118",
-      "name": "Darmstadt & Darmstadt-Dieburg, Hesse",
-      "code": "DA"
+      "description": "Darmstadt & Darmstadt-Dieburg, Hesse",
+      "region": "DA"
     },
     {
       "id": "119",
-      "name": "Dachau, Bavaria",
-      "code": "DAH"
+      "description": "Dachau, Bavaria",
+      "region": "DAH"
     },
     {
       "id": "120",
-      "name": "Lüchow-Dannenberg, Lower Saxony",
-      "code": "DAN"
+      "description": "Lüchow-Dannenberg, Lower Saxony",
+      "region": "DAN"
     },
     {
       "id": "121",
-      "name": "Daun, Rhineland Palatinate",
-      "code": "DAU"
+      "description": "Daun, Rhineland Palatinate",
+      "region": "DAU"
     },
     {
       "id": "122",
-      "name": "Rail authority vehicles (Deutsche Bundesbahn)",
-      "code": "DB"
+      "description": "Rail authority vehicles (Deutsche Bundesbahn)",
+      "region": "DB"
     },
     {
       "id": "123",
-      "name": "Bad Doberan, Mecklenburg-Vorpommern",
-      "code": "DBR"
+      "description": "Bad Doberan, Mecklenburg-Vorpommern",
+      "region": "DBR"
     },
     {
       "id": "124",
-      "name": "Dresden",
-      "code": "DD"
+      "description": "Dresden",
+      "region": "DD"
     },
     {
       "id": "125",
-      "name": "Dessau, Saxony-Anhalt",
-      "code": "DE"
+      "description": "Dessau, Saxony-Anhalt",
+      "region": "DE"
     },
     {
       "id": "126",
-      "name": "Deggendorf, Bavaria",
-      "code": "DEG"
+      "description": "Deggendorf, Bavaria",
+      "region": "DEG"
     },
     {
       "id": "127",
-      "name": "Delmenhorst, Lower Saxony",
-      "code": "DEL"
+      "description": "Delmenhorst, Lower Saxony",
+      "region": "DEL"
     },
     {
       "id": "128",
-      "name": "Donaueschingen, Baden-Württemberg",
-      "code": "DG"
+      "description": "Donaueschingen, Baden-Württemberg",
+      "region": "DG"
     },
     {
       "id": "129",
-      "name": "Dingolfing-Landau, Bavaria",
-      "code": "DGF"
+      "description": "Dingolfing-Landau, Bavaria",
+      "region": "DGF"
     },
     {
       "id": "130",
-      "name": "Diepholz, Lower Saxony",
-      "code": "DH"
+      "description": "Diepholz, Lower Saxony",
+      "region": "DH"
     },
     {
       "id": "131",
-      "name": "Dieburg, Hesse",
-      "code": "DI"
+      "description": "Dieburg, Hesse",
+      "region": "DI"
     },
     {
       "id": "132",
-      "name": "Dillenburg, Hesse",
-      "code": "DIL"
+      "description": "Dillenburg, Hesse",
+      "region": "DIL"
     },
     {
       "id": "133",
-      "name": "Dinslaken, North-Rhine-Westphalia",
-      "code": "DIN"
+      "description": "Dinslaken, North-Rhine-Westphalia",
+      "region": "DIN"
     },
     {
       "id": "134",
-      "name": "Diez, Rhineland Palatinate",
-      "code": "DIZ"
+      "description": "Diez, Rhineland Palatinate",
+      "region": "DIZ"
     },
     {
       "id": "135",
-      "name": "Dinkelsbühl, Bavaria",
-      "code": "DKB"
+      "description": "Dinkelsbühl, Bavaria",
+      "region": "DKB"
     },
     {
       "id": "136",
-      "name": " Döbeln, Saxony",
-      "code": "DL"
+      "description": " Döbeln, Saxony",
+      "region": "DL"
     },
     {
       "id": "137",
-      "name": "Dillingen an der Donau, Bavaria",
-      "code": "DLG"
+      "description": "Dillingen an der Donau, Bavaria",
+      "region": "DLG"
     },
     {
       "id": "138",
-      "name": "Demmin, Mecklenburg-Vorpommern",
-      "code": "DM"
+      "description": "Demmin, Mecklenburg-Vorpommern",
+      "region": "DM"
     },
     {
       "id": "139",
-      "name": "Düren, North-Rhine-Westphalia",
-      "code": "DN"
+      "description": "Düren, North-Rhine-Westphalia",
+      "region": "DN"
     },
     {
       "id": "140",
-      "name": "Dortmund, North-Rhine-Westphalia",
-      "code": "DO"
+      "description": "Dortmund, North-Rhine-Westphalia",
+      "region": "DO"
     },
     {
       "id": "141",
-      "name": "Donau-Ries, Bavaria",
-      "code": "DON"
+      "description": "Donau-Ries, Bavaria",
+      "region": "DON"
     },
     {
       "id": "142",
-      "name": "Donaueschingen, Baden-Württemberg",
-      "code": "DS"
+      "description": "Donaueschingen, Baden-Württemberg",
+      "region": "DS"
     },
     {
       "id": "143",
-      "name": "Detmold & Lippe, North-Rhine-Westphalia",
-      "code": "DT"
+      "description": "Detmold & Lippe, North-Rhine-Westphalia",
+      "region": "DT"
     },
     {
       "id": "144",
-      "name": "Duisburg, North-Rhine-Westphalia",
-      "code": "DU"
+      "description": "Duisburg, North-Rhine-Westphalia",
+      "region": "DU"
     },
     {
       "id": "145",
-      "name": "Duderstadt, Lower Saxony",
-      "code": "DUD"
+      "description": "Duderstadt, Lower Saxony",
+      "region": "DUD"
     },
     {
       "id": "146",
-      "name": "Bad Dürkheim & Weinstraße, Rhineland Palatinate",
-      "code": "DÜW"
+      "description": "Bad Dürkheim & Weinstraße, Rhineland Palatinate",
+      "region": "DÜW"
     },
     {
       "id": "147",
-      "name": "Dippoldiswalde & Weißeritzkreis, Saxony",
-      "code": "DW"
+      "description": "Dippoldiswalde & Weißeritzkreis, Saxony",
+      "region": "DW"
     },
     {
       "id": "148",
-      "name": "Delitzsch, Saxony",
-      "code": "DZ"
+      "description": "Delitzsch, Saxony",
+      "region": "DZ"
     },
     {
       "id": "149",
-      "name": "Essen, North-Rhine-Westphalia",
-      "code": "E"
+      "description": "Essen, North-Rhine-Westphalia",
+      "region": "E"
     },
     {
       "id": "150",
-      "name": "Eisenach, Thuringia",
-      "code": "EA"
+      "description": "Eisenach, Thuringia",
+      "region": "EA"
     },
     {
       "id": "151",
-      "name": "Eilenburg, Saxony",
-      "code": "EB"
+      "description": "Eilenburg, Saxony",
+      "region": "EB"
     },
     {
       "id": "152",
-      "name": "Ebersberg, Bavaria",
-      "code": "EBE"
+      "description": "Ebersberg, Bavaria",
+      "region": "EBE"
     },
     {
       "id": "153",
-      "name": "Ebern, Bavaria",
-      "code": "EBN"
+      "description": "Ebern, Bavaria",
+      "region": "EBN"
     },
     {
       "id": "154",
-      "name": "Ebermannstadt, Bavaria",
-      "code": "EBS"
+      "description": "Ebermannstadt, Bavaria",
+      "region": "EBS"
     },
     {
       "id": "155",
-      "name": "Eckernförde, Schleswig-Holstein",
-      "code": "ECK"
+      "description": "Eckernförde, Schleswig-Holstein",
+      "region": "ECK"
     },
     {
       "id": "156",
-      "name": "Erding, Bavaria",
-      "code": "ED"
+      "description": "Erding, Bavaria",
+      "region": "ED"
     },
     {
       "id": "157",
-      "name": "Elbe-Elster, Brandenburg",
-      "code": "EE"
+      "description": "Elbe-Elster, Brandenburg",
+      "region": "EE"
     },
     {
       "id": "158",
-      "name": "Erfurt, Thuringia",
-      "code": "EF"
+      "description": "Erfurt, Thuringia",
+      "region": "EF"
     },
     {
       "id": "159",
-      "name": "Eggenfelden, Bavaria",
-      "code": "EG"
+      "description": "Eggenfelden, Bavaria",
+      "region": "EG"
     },
     {
       "id": "160",
-      "name": "Eisenhüttenstadt, Brandenburg",
-      "code": "EH"
+      "description": "Eisenhüttenstadt, Brandenburg",
+      "region": "EH"
     },
     {
       "id": "161",
-      "name": "Ehingen, Baden-Württemberg",
-      "code": "EHI"
+      "description": "Ehingen, Baden-Württemberg",
+      "region": "EHI"
     },
     {
       "id": "162",
-      "name": "Eichstätt, Bavaria",
-      "code": "EI"
+      "description": "Eichstätt, Bavaria",
+      "region": "EI"
     },
     {
       "id": "163",
-      "name": "Eichsfeld, Thuringia",
-      "code": "EIC"
+      "description": "Eichsfeld, Thuringia",
+      "region": "EIC"
     },
     {
       "id": "164",
-      "name": "Eichstätt, Bavaria",
-      "code": "EIH"
+      "description": "Eichstätt, Bavaria",
+      "region": "EIH"
     },
     {
       "id": "165",
-      "name": "Eisleben, Saxony-Anhalt",
-      "code": "EIL"
+      "description": "Eisleben, Saxony-Anhalt",
+      "region": "EIL"
     },
     {
       "id": "166",
-      "name": "Einbeck, Lower Saxony",
-      "code": "EIN"
+      "description": "Einbeck, Lower Saxony",
+      "region": "EIN"
     },
     {
       "id": "167",
-      "name": "Eisenberg",
-      "code": "EIS"
+      "description": "Eisenberg",
+      "region": "EIS"
     },
     {
       "id": "168",
-      "name": "Emsland, Lower Saxony",
-      "code": "EL"
+      "description": "Emsland, Lower Saxony",
+      "region": "EL"
     },
     {
       "id": "169",
-      "name": "Emmendingen, Baden-Württemberg",
-      "code": "EM"
+      "description": "Emmendingen, Baden-Württemberg",
+      "region": "EM"
     },
     {
       "id": "170",
-      "name": "Emden, Lower Saxony",
-      "code": "EMD"
+      "description": "Emden, Lower Saxony",
+      "region": "EMD"
     },
     {
       "id": "171",
-      "name": "Bad Ems & Rhein-Lahn-Kreis, Rhineland Palatinate",
-      "code": "EMS"
+      "description": "Bad Ems & Rhein-Lahn-Kreis, Rhineland Palatinate",
+      "region": "EMS"
     },
     {
       "id": "172",
-      "name": "Ennepe-Ruhr-Kreis, North-Rhine-Westphalia",
-      "code": "EN"
+      "description": "Ennepe-Ruhr-Kreis, North-Rhine-Westphalia",
+      "region": "EN"
     },
     {
       "id": "173",
-      "name": "Erlangen, Bavaria",
-      "code": "ER"
+      "description": "Erlangen, Bavaria",
+      "region": "ER"
     },
     {
       "id": "174",
-      "name": "Erbach & Oldenwaldkreis, Hesse",
-      "code": "ERB"
+      "description": "Erbach & Oldenwaldkreis, Hesse",
+      "region": "ERB"
     },
     {
       "id": "175",
-      "name": "Erlangen-Höchstadt, Bavaria",
-      "code": "ERH"
+      "description": "Erlangen-Höchstadt, Bavaria",
+      "region": "ERH"
     },
     {
       "id": "176",
-      "name": "Erkelenz, North-Rhine-Westphalia",
-      "code": "ERK"
+      "description": "Erkelenz, North-Rhine-Westphalia",
+      "region": "ERK"
     },
     {
       "id": "177",
-      "name": "Esslingen, Baden-Württemberg",
-      "code": "ES"
+      "description": "Esslingen, Baden-Württemberg",
+      "region": "ES"
     },
     {
       "id": "178",
-      "name": "Eisenach, Thuringia",
-      "code": "ESA"
+      "description": "Eisenach, Thuringia",
+      "region": "ESA"
     },
     {
       "id": "179",
-      "name": "Eschenbach, Bavaria",
-      "code": "ESB"
+      "description": "Eschenbach, Bavaria",
+      "region": "ESB"
     },
     {
       "id": "180",
-      "name": "Eschwege & Werra-Meißner-Kreis, Hesse",
-      "code": "ESW"
+      "description": "Eschwege & Werra-Meißner-Kreis, Hesse",
+      "region": "ESW"
     },
     {
       "id": "181",
-      "name": "Euskirchen, North-Rhine-Westphalia",
-      "code": "EU"
+      "description": "Euskirchen, North-Rhine-Westphalia",
+      "region": "EU"
     },
     {
       "id": "182",
-      "name": "Eutin, Schleswig-Holstein",
-      "code": "EUT"
+      "description": "Eutin, Schleswig-Holstein",
+      "region": "EUT"
     },
     {
       "id": "183",
-      "name": "Eberswalde, Brandenburg",
-      "code": "EW"
+      "description": "Eberswalde, Brandenburg",
+      "region": "EW"
     },
     {
       "id": "184",
-      "name": "Frankfurt am Main, Hesse",
-      "code": "F"
+      "description": "Frankfurt am Main, Hesse",
+      "region": "F"
     },
     {
       "id": "185",
-      "name": "Fallingbostel, North-Rhine-Westphalia",
-      "code": "FAL"
+      "description": "Fallingbostel, North-Rhine-Westphalia",
+      "region": "FAL"
     },
     {
       "id": "186",
-      "name": "Friedberg (Hessen) & Wetteraukreis, Hesse",
-      "code": "FB"
+      "description": "Friedberg (Hessen) & Wetteraukreis, Hesse",
+      "region": "FB"
     },
     {
       "id": "187",
-      "name": "Fulda, Hesse",
-      "code": "FD"
+      "description": "Fulda, Hesse",
+      "region": "FD"
     },
     {
       "id": "188",
-      "name": "Friedberg bei Augsburg, Bavaria",
-      "code": "FDB"
+      "description": "Friedberg bei Augsburg, Bavaria",
+      "region": "FDB"
     },
     {
       "id": "189",
-      "name": "Freudenstadt, Baden-Württemberg",
-      "code": "FDS"
+      "description": "Freudenstadt, Baden-Württemberg",
+      "region": "FDS"
     },
     {
       "id": "190",
-      "name": "Feuchtwangen, Bavaria",
-      "code": "FEU"
+      "description": "Feuchtwangen, Bavaria",
+      "region": "FEU"
     },
     {
       "id": "191",
-      "name": "Frankfurt-an-der-Oder, Brandenburg",
-      "code": "FF"
+      "description": "Frankfurt-an-der-Oder, Brandenburg",
+      "region": "FF"
     },
     {
       "id": "192",
-      "name": "Fürstenfeldbruck, Bavaria",
-      "code": "FFB"
+      "description": "Fürstenfeldbruck, Bavaria",
+      "region": "FFB"
     },
     {
       "id": "193",
-      "name": "Freiberg, Saxony",
-      "code": "FG"
+      "description": "Freiberg, Saxony",
+      "region": "FG"
     },
     {
       "id": "194",
-      "name": "Frankfurt am Main/Höchst, Hesse",
-      "code": "FH"
+      "description": "Frankfurt am Main/Höchst, Hesse",
+      "region": "FH"
     },
     {
       "id": "195",
-      "name": "Finsterwalde, Brandenburg",
-      "code": "FI"
+      "description": "Finsterwalde, Brandenburg",
+      "region": "FI"
     },
     {
       "id": "196",
-      "name": "Frankenberg, Hesse",
-      "code": "FKB"
+      "description": "Frankenberg, Hesse",
+      "region": "FKB"
     },
     {
       "id": "197",
-      "name": "Flensburg, Schleswig-Holstein",
-      "code": "FL"
+      "description": "Flensburg, Schleswig-Holstein",
+      "region": "FL"
     },
     {
       "id": "198",
-      "name": "Flöha, Saxony",
-      "code": "FLÖ"
+      "description": "Flöha, Saxony",
+      "region": "FLÖ"
     },
     {
       "id": "199",
-      "name": "Friedrichshafen & Bodenseekreis, Baden-Württemberg",
-      "code": "FN"
+      "description": "Friedrichshafen & Bodenseekreis, Baden-Württemberg",
+      "region": "FN"
     },
     {
       "id": "200",
-      "name": "Forchheim, Bavaria",
-      "code": "FO"
+      "description": "Forchheim, Bavaria",
+      "region": "FO"
     },
     {
       "id": "201",
-      "name": "Forst, Brandenburg",
-      "code": "FOR"
+      "description": "Forst, Brandenburg",
+      "region": "FOR"
     },
     {
       "id": "202",
-      "name": "Freiburg im Breisgau & Breisgau-Hochschwarzwald, Baden-Württemberg",
-      "code": "FR"
+      "description": "Freiburg im Breisgau & Breisgau-Hochschwarzwald, Baden-Württemberg",
+      "region": "FR"
     },
     {
       "id": "203",
-      "name": "Freyung-Grafenau, Bavaria",
-      "code": "FRG"
+      "description": "Freyung-Grafenau, Bavaria",
+      "region": "FRG"
     },
     {
       "id": "204",
-      "name": "Friesland, Lower Saxony",
-      "code": "FRI"
+      "description": "Friesland, Lower Saxony",
+      "region": "FRI"
     },
     {
       "id": "205",
-      "name": "Bad Freienwalde, Brandenburg",
-      "code": "FRW"
+      "description": "Bad Freienwalde, Brandenburg",
+      "region": "FRW"
     },
     {
       "id": "206",
-      "name": "Freising, Bavaria",
-      "code": "FS"
+      "description": "Freising, Bavaria",
+      "region": "FS"
     },
     {
       "id": "207",
-      "name": "Frankenthal (Pfalz), Rhineland Palatinate",
-      "code": "FT"
+      "description": "Frankenthal (Pfalz), Rhineland Palatinate",
+      "region": "FT"
     },
     {
       "id": "208",
-      "name": "Freital, Saxony",
-      "code": "FTL"
+      "description": "Freital, Saxony",
+      "region": "FTL"
     },
     {
       "id": "209",
-      "name": "Fürth, Bavaria",
-      "code": "FÜ"
+      "description": "Fürth, Bavaria",
+      "region": "FÜ"
     },
     {
       "id": "210",
-      "name": "Füssen, Bavaria",
-      "code": "FÜS"
+      "description": "Füssen, Bavaria",
+      "region": "FÜS"
     },
     {
       "id": "211",
-      "name": "Fürstenwalde, Brandenburg",
-      "code": "FW"
+      "description": "Fürstenwalde, Brandenburg",
+      "region": "FW"
     },
     {
       "id": "212",
-      "name": "Fritzlar, Hesse",
-      "code": "FZ"
+      "description": "Fritzlar, Hesse",
+      "region": "FZ"
     },
     {
       "id": "213",
-      "name": "Gera, Thuringia",
-      "code": "G"
+      "description": "Gera, Thuringia",
+      "region": "G"
     },
     {
       "id": "214",
-      "name": "Gardelegen, Saxony Anhalt",
-      "code": "GA"
+      "description": "Gardelegen, Saxony Anhalt",
+      "region": "GA"
     },
     {
       "id": "215",
-      "name": "Bad Gandersheim, Lower Saxony",
-      "code": "GAN"
+      "description": "Bad Gandersheim, Lower Saxony",
+      "region": "GAN"
     },
     {
       "id": "216",
-      "name": "Garmisch-Partenkirchen, Bavaria",
-      "code": "GAP"
+      "description": "Garmisch-Partenkirchen, Bavaria",
+      "region": "GAP"
     },
     {
       "id": "217",
-      "name": "Glauchau & Chemnitzer Land, Saxony",
-      "code": "GC"
+      "description": "Glauchau & Chemnitzer Land, Saxony",
+      "region": "GC"
     },
     {
       "id": "218",
-      "name": "Gmünd, Baden-Württemberg",
-      "code": "GD"
+      "description": "Gmünd, Baden-Württemberg",
+      "region": "GD"
     },
     {
       "id": "219",
-      "name": "Gadesbusch, Mecklenburg-Vorpommern",
-      "code": "GDB"
+      "description": "Gadesbusch, Mecklenburg-Vorpommern",
+      "region": "GDB"
     },
     {
       "id": "220",
-      "name": "Gelsenkirchen, North-Rhine-Westphalia",
-      "code": "GE"
+      "description": "Gelsenkirchen, North-Rhine-Westphalia",
+      "region": "GE"
     },
     {
       "id": "221",
-      "name": "Geldern, North-Rhine-Westphalia",
-      "code": "GEL"
+      "description": "Geldern, North-Rhine-Westphalia",
+      "region": "GEL"
     },
     {
       "id": "222",
-      "name": "Gemünden, Bavaria",
-      "code": "GEM"
+      "description": "Gemünden, Bavaria",
+      "region": "GEM"
     },
     {
       "id": "223",
-      "name": "Gerolzhofen, Bavaria",
-      "code": "GEO"
+      "description": "Gerolzhofen, Bavaria",
+      "region": "GEO"
     },
     {
       "id": "224",
-      "name": "Germersheim, Rhineland Palatinate",
-      "code": "GER"
+      "description": "Germersheim, Rhineland Palatinate",
+      "region": "GER"
     },
     {
       "id": "225",
-      "name": "Gifhorn, Lower Saxony",
-      "code": "GF"
+      "description": "Gifhorn, Lower Saxony",
+      "region": "GF"
     },
     {
       "id": "226",
-      "name": "Groß-Gerau, Hesse",
-      "code": "GG"
+      "description": "Groß-Gerau, Hesse",
+      "region": "GG"
     },
     {
       "id": "227",
-      "name": "Geithain, Saxony",
-      "code": "GHA"
+      "description": "Geithain, Saxony",
+      "region": "GHA"
     },
     {
       "id": "228",
-      "name": "Gräfenhainichen, Saxony Anhalt",
-      "code": "GHC"
+      "description": "Gräfenhainichen, Saxony Anhalt",
+      "region": "GHC"
     },
     {
       "id": "229",
-      "name": "Gießen, Hesse",
-      "code": "GI"
+      "description": "Gießen, Hesse",
+      "region": "GI"
     },
     {
       "id": "230",
-      "name": "Geilenkirchen, North-Rhine-Westphalia",
-      "code": "GK"
+      "description": "Geilenkirchen, North-Rhine-Westphalia",
+      "region": "GK"
     },
     {
       "id": "231",
-      "name": "Bergisch-Gladbach & Rheinisch-Bergischer Kreis, North-Rhine-Westphalia",
-      "code": "GL"
+      "description": "Bergisch-Gladbach & Rheinisch-Bergischer Kreis, North-Rhine-Westphalia",
+      "region": "GL"
     },
     {
       "id": "232",
-      "name": "Gladbeck, North-Rhine-Westphalia",
-      "code": "GLA"
+      "description": "Gladbeck, North-Rhine-Westphalia",
+      "region": "GLA"
     },
     {
       "id": "233",
-      "name": "Gummersbach & Oberbergischer Kreis, North-Rhine-Westphalia",
-      "code": "GM"
+      "description": "Gummersbach & Oberbergischer Kreis, North-Rhine-Westphalia",
+      "region": "GM"
     },
     {
       "id": "234",
-      "name": "Grimmen, Mecklenburg-Vorpommern",
-      "code": "GMN"
+      "description": "Grimmen, Mecklenburg-Vorpommern",
+      "region": "GMN"
     },
     {
       "id": "235",
-      "name": "Gelnhausen, Hesse",
-      "code": "GN"
+      "description": "Gelnhausen, Hesse",
+      "region": "GN"
     },
     {
       "id": "236",
-      "name": "Genthin, Saxony Anhalt",
-      "code": "GNT"
+      "description": "Genthin, Saxony Anhalt",
+      "region": "GNT"
     },
     {
       "id": "237",
-      "name": "Göttingen, Lower Saxony",
-      "code": "GÖ"
+      "description": "Göttingen, Lower Saxony",
+      "region": "GÖ"
     },
     {
       "id": "238",
-      "name": "St Goar, Rheinland Palatinate",
-      "code": "GOA"
+      "description": "St Goar, Rheinland Palatinate",
+      "region": "GOA"
     },
     {
       "id": "239",
-      "name": "St Goarshausen, Rheinland Palatinate",
-      "code": "GOH"
+      "description": "St Goarshausen, Rheinland Palatinate",
+      "region": "GOH"
     },
     {
       "id": "240",
-      "name": "Göppingen, Baden-Württemberg",
-      "code": "GP"
+      "description": "Göppingen, Baden-Württemberg",
+      "region": "GP"
     },
     {
       "id": "241",
-      "name": "Görlitz, Saxony",
-      "code": "GR"
+      "description": "Görlitz, Saxony",
+      "region": "GR"
     },
     {
       "id": "242",
-      "name": "Grafenau, Bavaria",
-      "code": "GRA"
+      "description": "Grafenau, Bavaria",
+      "region": "GRA"
     },
     {
       "id": "243",
-      "name": "Grossenheim",
-      "code": "GRH"
+      "description": "Grossenheim",
+      "region": "GRH"
     },
     {
       "id": "244",
-      "name": "Griesbach, Bavaria",
-      "code": "GRI"
+      "description": "Griesbach, Bavaria",
+      "region": "GRI"
     },
     {
       "id": "245",
-      "name": "Grimma, Saxony",
-      "code": "GRM"
+      "description": "Grimma, Saxony",
+      "region": "GRM"
     },
     {
       "id": "246",
-      "name": "Gransee, Brandenburg",
-      "code": "GRS"
+      "description": "Gransee, Brandenburg",
+      "region": "GRS"
     },
     {
       "id": "247",
-      "name": "Greiz, Thuringia",
-      "code": "GRZ"
+      "description": "Greiz, Thuringia",
+      "region": "GRZ"
     },
     {
       "id": "248",
-      "name": "Goslar, Lower Saxony",
-      "code": "GS"
+      "description": "Goslar, Lower Saxony",
+      "region": "GS"
     },
     {
       "id": "249",
-      "name": "Gütersloh, North-Rhine-Westphalia",
-      "code": "GT"
+      "description": "Gütersloh, North-Rhine-Westphalia",
+      "region": "GT"
     },
     {
       "id": "250",
-      "name": "Gotha, Thuringia",
-      "code": "GTH"
+      "description": "Gotha, Thuringia",
+      "region": "GTH"
     },
     {
       "id": "251",
-      "name": "Güstrow, Mecklenburg-Vorpommern",
-      "code": "GÜ"
+      "description": "Güstrow, Mecklenburg-Vorpommern",
+      "region": "GÜ"
     },
     {
       "id": "252",
-      "name": "Guben, Brandenburg",
-      "code": "GUB"
+      "description": "Guben, Brandenburg",
+      "region": "GUB"
     },
     {
       "id": "253",
-      "name": "Gunzenhausen, Bavaria",
-      "code": "GUN"
+      "description": "Gunzenhausen, Bavaria",
+      "region": "GUN"
     },
     {
       "id": "254",
-      "name": "Gravenbroich, North-Rhine-Westphalia",
-      "code": "GV"
+      "description": "Gravenbroich, North-Rhine-Westphalia",
+      "region": "GV"
     },
     {
       "id": "255",
-      "name": "Grevesmühlen, Mecklenburg-Vorpommern",
-      "code": "GVM"
+      "description": "Grevesmühlen, Mecklenburg-Vorpommern",
+      "region": "GVM"
     },
     {
       "id": "256",
-      "name": "Greifswald Land, Mecklenburg-Vorpommern",
-      "code": "GW"
+      "description": "Greifswald Land, Mecklenburg-Vorpommern",
+      "region": "GW"
     },
     {
       "id": "257",
-      "name": "Günzburg, Bavaria",
-      "code": "GZ"
+      "description": "Günzburg, Bavaria",
+      "region": "GZ"
     },
     {
       "id": "258",
-      "name": "Hanover (Hannover), Lower Saxony",
-      "code": "H"
+      "description": "Hanover (Hannover), Lower Saxony",
+      "region": "H"
     },
     {
       "id": "259",
-      "name": "Hagen, North-Rhine-Westphalia",
-      "code": "HA"
+      "description": "Hagen, North-Rhine-Westphalia",
+      "region": "HA"
     },
     {
       "id": "260",
-      "name": "Hammelburg, Bavaria",
-      "code": "HAB"
+      "description": "Hammelburg, Bavaria",
+      "region": "HAB"
     },
     {
       "id": "261",
-      "name": "Halle, Saxony-Anhalt",
-      "code": "HAL"
+      "description": "Halle, Saxony-Anhalt",
+      "region": "HAL"
     },
     {
       "id": "262",
-      "name": "Hamm, North-Rhine-Westphalia",
-      "code": "HAM"
+      "description": "Hamm, North-Rhine-Westphalia",
+      "region": "HAM"
     },
     {
       "id": "263",
-      "name": "Haßberge, Bavaria",
-      "code": "HAS"
+      "description": "Haßberge, Bavaria",
+      "region": "HAS"
     },
     {
       "id": "264",
-      "name": "Hansestadt Bremen",
-      "code": "HB"
+      "description": "Hansestadt Bremen",
+      "region": "HB"
     },
     {
       "id": "265",
-      "name": "Hildburghausen, Thuringia",
-      "code": "HBN"
+      "description": "Hildburghausen, Thuringia",
+      "region": "HBN"
     },
     {
       "id": "266",
-      "name": "Halberstadt, Saxony-Anhalt",
-      "code": "HBS"
+      "description": "Halberstadt, Saxony-Anhalt",
+      "region": "HBS"
     },
     {
       "id": "267",
-      "name": "Hainichen, Saxony",
-      "code": "HC"
+      "description": "Hainichen, Saxony",
+      "region": "HC"
     },
     {
       "id": "268",
-      "name": "Hechingen, Baden-Württemberg",
-      "code": "HCH"
+      "description": "Hechingen, Baden-Württemberg",
+      "region": "HCH"
     },
     {
       "id": "269",
-      "name": "Heidelberg & Rhein-Neckar-Kreis, Baden-Württemberg",
-      "code": "HD"
+      "description": "Heidelberg & Rhein-Neckar-Kreis, Baden-Württemberg",
+      "region": "HD"
     },
     {
       "id": "270",
-      "name": "Heidenheim, Baden-Württemberg",
-      "code": "HDH"
+      "description": "Heidenheim, Baden-Württemberg",
+      "region": "HDH"
     },
     {
       "id": "271",
-      "name": "Haldensleben, Saxony Anhalt",
-      "code": "HDL"
+      "description": "Haldensleben, Saxony Anhalt",
+      "region": "HDL"
     },
     {
       "id": "272",
-      "name": "Helmstedt, Lower Saxony",
-      "code": "HE"
+      "description": "Helmstedt, Lower Saxony",
+      "region": "HE"
     },
     {
       "id": "273",
-      "name": "Hersbruck, Bavaria",
-      "code": "HEB"
+      "description": "Hersbruck, Bavaria",
+      "region": "HEB"
     },
     {
       "id": "274",
-      "name": "Hersfeld-Rotenburg, Hesse",
-      "code": "HEF"
+      "description": "Hersfeld-Rotenburg, Hesse",
+      "region": "HEF"
     },
     {
       "id": "275",
-      "name": "Heide & Dithmarschen, Schleswig-Holstein",
-      "code": "HEI"
+      "description": "Heide & Dithmarschen, Schleswig-Holstein",
+      "region": "HEI"
     },
     {
       "id": "276",
-      "name": "Hesse State (Hesse Land) official vehicles",
-      "code": "HEL"
+      "description": "Hesse State (Hesse Land) official vehicles",
+      "region": "HEL"
     },
     {
       "id": "277",
-      "name": "Herne, North-Rhine-Westphalia",
-      "code": "HER"
+      "description": "Herne, North-Rhine-Westphalia",
+      "region": "HER"
     },
     {
       "id": "278",
-      "name": "Hettstedt, Saxony Anhalt",
-      "code": "HET"
+      "description": "Hettstedt, Saxony Anhalt",
+      "region": "HET"
     },
     {
       "id": "279",
-      "name": "Herford, North-Rhine-Westphalia",
-      "code": "HF"
+      "description": "Herford, North-Rhine-Westphalia",
+      "region": "HF"
     },
     {
       "id": "280",
-      "name": "Bad Homburg vor der Höhe & Hochtaunuskreis, Hesse",
-      "code": "HG"
+      "description": "Bad Homburg vor der Höhe & Hochtaunuskreis, Hesse",
+      "region": "HG"
     },
     {
       "id": "281",
-      "name": "Hagenow, Mecklenburg-Vorpommern",
-      "code": "HGN"
+      "description": "Hagenow, Mecklenburg-Vorpommern",
+      "region": "HGN"
     },
     {
       "id": "282",
-      "name": "Hansestadt Greifswald, Mecklenburg-Vorpommern",
-      "code": "HGW"
+      "description": "Hansestadt Greifswald, Mecklenburg-Vorpommern",
+      "region": "HGW"
     },
     {
       "id": "283",
-      "name": "Hansestadt Hamburg",
-      "code": "HH"
+      "description": "Hansestadt Hamburg",
+      "region": "HH"
     },
     {
       "id": "284",
-      "name": "Hohenmölsen, Saxony Anhalt",
-      "code": "HHM"
+      "description": "Hohenmölsen, Saxony Anhalt",
+      "region": "HHM"
     },
     {
       "id": "285",
-      "name": "Hildesheim, Lower Saxony",
-      "code": "HI"
+      "description": "Hildesheim, Lower Saxony",
+      "region": "HI"
     },
     {
       "id": "286",
-      "name": "Heiligenstadt, Thuringia",
-      "code": "HIG"
+      "description": "Heiligenstadt, Thuringia",
+      "region": "HIG"
     },
     {
       "id": "287",
-      "name": "Hilpoltstein, Bavaria",
-      "code": "HIP"
+      "description": "Hilpoltstein, Bavaria",
+      "region": "HIP"
     },
     {
       "id": "288",
-      "name": "Heidekreis, Lower Saxony",
-      "code": "HK"
+      "description": "Heidekreis, Lower Saxony",
+      "region": "HK"
     },
     {
       "id": "289",
-      "name": "Hansestadt Lübeck",
-      "code": "HL"
+      "description": "Hansestadt Lübeck",
+      "region": "HL"
     },
     {
       "id": "290",
-      "name": "Hamelin(Hameln)-Pyrmont, Lower Saxony",
-      "code": "HM"
+      "description": "Hamelin(Hameln)-Pyrmont, Lower Saxony",
+      "region": "HM"
     },
     {
       "id": "291",
-      "name": "Hanoversch Münden, Lower Saxony",
-      "code": "HMU"
+      "description": "Hanoversch Münden, Lower Saxony",
+      "region": "HMU"
     },
     {
       "id": "292",
-      "name": "Heilbronn, Baden-Württemberg",
-      "code": "HN"
+      "description": "Heilbronn, Baden-Württemberg",
+      "region": "HN"
     },
     {
       "id": "293",
-      "name": "Hof, Bavaria",
-      "code": "HO"
+      "description": "Hof, Bavaria",
+      "region": "HO"
     },
     {
       "id": "294",
-      "name": "Hofgeismar, Hesse",
-      "code": "HOG"
+      "description": "Hofgeismar, Hesse",
+      "region": "HOG"
     },
     {
       "id": "295",
-      "name": "Hofheim, Bavaria",
-      "code": "HOH"
+      "description": "Hofheim, Bavaria",
+      "region": "HOH"
     },
     {
       "id": "296",
-      "name": "Holzminden, Lower Saxony",
-      "code": "HOL"
+      "description": "Holzminden, Lower Saxony",
+      "region": "HOL"
     },
     {
       "id": "297",
-      "name": "Homburg & Saar-Pfalz-Kreis, Saarland",
-      "code": "HOM"
+      "description": "Homburg & Saar-Pfalz-Kreis, Saarland",
+      "region": "HOM"
     },
     {
       "id": "298",
-      "name": "Horb, Baden-Württemberg",
-      "code": "HOR"
+      "description": "Horb, Baden-Württemberg",
+      "region": "HOR"
     },
     {
       "id": "299",
-      "name": "Höchstadt, Bavaria",
-      "code": "HÖS"
+      "description": "Höchstadt, Bavaria",
+      "region": "HÖS"
     },
     {
       "id": "300",
-      "name": "Hohenstein-Ernstthal, Saxony",
-      "code": "HOT"
+      "description": "Hohenstein-Ernstthal, Saxony",
+      "region": "HOT"
     },
     {
       "id": "301",
-      "name": "Heppenheim an der Bergstraße & Bergstraße, Hesse",
-      "code": "HP"
+      "description": "Heppenheim an der Bergstraße & Bergstraße, Hesse",
+      "region": "HP"
     },
     {
       "id": "302",
-      "name": "Homberg & Schwalm-Eder-Kreis, Hesse",
-      "code": "HR"
+      "description": "Homberg & Schwalm-Eder-Kreis, Hesse",
+      "region": "HR"
     },
     {
       "id": "303",
-      "name": "Hansestadt Rostock, Mecklenburg-Vorpommern",
-      "code": "HRO"
+      "description": "Hansestadt Rostock, Mecklenburg-Vorpommern",
+      "region": "HRO"
     },
     {
       "id": "304",
-      "name": "Heinsberg, North-Rhine-Westphalia",
-      "code": "HS"
+      "description": "Heinsberg, North-Rhine-Westphalia",
+      "region": "HS"
     },
     {
       "id": "305",
-      "name": "Hochsauerlandkreis, North-Rhine-Westphalia",
-      "code": "HSK"
+      "description": "Hochsauerlandkreis, North-Rhine-Westphalia",
+      "region": "HSK"
     },
     {
       "id": "306",
-      "name": "Hansestadt Stralsund, Mecklenburg-Vorpommern",
-      "code": "HST"
+      "description": "Hansestadt Stralsund, Mecklenburg-Vorpommern",
+      "region": "HST"
     },
     {
       "id": "307",
-      "name": "Hanau & Main-Kinzig-Kreis, Hesse",
-      "code": "HU"
+      "description": "Hanau & Main-Kinzig-Kreis, Hesse",
+      "region": "HU"
     },
     {
       "id": "308",
-      "name": "Hünfeld, Schleswig-Holstein",
-      "code": "HÜN"
+      "description": "Hünfeld, Schleswig-Holstein",
+      "region": "HÜN"
     },
     {
       "id": "309",
-      "name": "Husum, Schleswig-Holstein",
-      "code": "HUS"
+      "description": "Husum, Schleswig-Holstein",
+      "region": "HUS"
     },
     {
       "id": "310",
-      "name": "Havelberg, Saxony Anhalt",
-      "code": "HV"
+      "description": "Havelberg, Saxony Anhalt",
+      "region": "HV"
     },
     {
       "id": "311",
-      "name": "Havelland, Brandenburg",
-      "code": "HVL"
+      "description": "Havelland, Brandenburg",
+      "region": "HVL"
     },
     {
       "id": "312",
-      "name": "Halle Westfalen, North-Rhine-Westphalia",
-      "code": "HW"
+      "description": "Halle Westfalen, North-Rhine-Westphalia",
+      "region": "HW"
     },
     {
       "id": "313",
-      "name": "Hansestadt Wismar, Mecklenburg-Vorpommern",
-      "code": "HWI"
+      "description": "Hansestadt Wismar, Mecklenburg-Vorpommern",
+      "region": "HWI"
     },
     {
       "id": "314",
-      "name": "Höxter, North-Rhine-Westphalia",
-      "code": "HX"
+      "description": "Höxter, North-Rhine-Westphalia",
+      "region": "HX"
     },
     {
       "id": "315",
-      "name": "Hoyerswerda, Saxony",
-      "code": "HY"
+      "description": "Hoyerswerda, Saxony",
+      "region": "HY"
     },
     {
       "id": "316",
-      "name": "Herzberg, Brandenburg",
-      "code": "HZ"
+      "description": "Herzberg, Brandenburg",
+      "region": "HZ"
     },
     {
       "id": "317",
-      "name": "Stadt St Ingbert & Saar-Pfalz-Kreis, Saarland",
-      "code": "IGB"
+      "description": "Stadt St Ingbert & Saar-Pfalz-Kreis, Saarland",
+      "region": "IGB"
     },
     {
       "id": "318",
-      "name": "Ilm-Kreis, Thuringia",
-      "code": "IK"
+      "description": "Ilm-Kreis, Thuringia",
+      "region": "IK"
     },
     {
       "id": "319",
-      "name": "Ilmenau, Thuringia",
-      "code": "IL"
+      "description": "Ilmenau, Thuringia",
+      "region": "IL"
     },
     {
       "id": "320",
-      "name": "Illertissen, Bavaria",
-      "code": "ILL"
+      "description": "Illertissen, Bavaria",
+      "region": "ILL"
     },
     {
       "id": "321",
-      "name": "Ingolstadt, Bavaria",
-      "code": "IN"
+      "description": "Ingolstadt, Bavaria",
+      "region": "IN"
     },
     {
       "id": "322",
-      "name": "Iserlohn, North-Rhine-Westphalia",
-      "code": "IS"
+      "description": "Iserlohn, North-Rhine-Westphalia",
+      "region": "IS"
     },
     {
       "id": "323",
-      "name": "Itzehoe & Steinburg, Schleswig-Holstein",
-      "code": "IZ"
+      "description": "Itzehoe & Steinburg, Schleswig-Holstein",
+      "region": "IZ"
     },
     {
       "id": "324",
-      "name": "Jena, Thuringia",
-      "code": "J"
+      "description": "Jena, Thuringia",
+      "region": "J"
     },
     {
       "id": "325",
-      "name": "Jüterbog, Brandenburg",
-      "code": "JB"
+      "description": "Jüterbog, Brandenburg",
+      "region": "JB"
     },
     {
       "id": "326",
-      "name": "Jessen, Saxony Anhalt",
-      "code": "JE"
+      "description": "Jessen, Saxony Anhalt",
+      "region": "JE"
     },
     {
       "id": "327",
-      "name": "Jever, Lower Saxony",
-      "code": "JEV"
+      "description": "Jever, Lower Saxony",
+      "region": "JEV"
     },
     {
       "id": "328",
-      "name": "Jerichower Land, Saxony-Anhalt",
-      "code": "JL"
+      "description": "Jerichower Land, Saxony-Anhalt",
+      "region": "JL"
     },
     {
       "id": "329",
-      "name": "Jülich, North-Rhine-Westphalia",
-      "code": "JÜL"
+      "description": "Jülich, North-Rhine-Westphalia",
+      "region": "JÜL"
     },
     {
       "id": "331",
-      "name": "Cologne (Köln), North-Rhine-Westphalia",
-      "code": "K"
+      "description": "Cologne (Köln), North-Rhine-Westphalia",
+      "region": "K"
     },
     {
       "id": "332",
-      "name": "Karlsruhe, Baden-Württemberg",
-      "code": "KA"
+      "description": "Karlsruhe, Baden-Württemberg",
+      "region": "KA"
     },
     {
       "id": "333",
-      "name": "Karlstadt, Bavaria",
-      "code": "KAR"
+      "description": "Karlstadt, Bavaria",
+      "region": "KAR"
     },
     {
       "id": "334",
-      "name": "Korbach & Waldeck-Frankenberg, Hesse",
-      "code": "KB"
+      "description": "Korbach & Waldeck-Frankenberg, Hesse",
+      "region": "KB"
     },
     {
       "id": "335",
-      "name": "Kronach, Bavaria",
-      "code": "KC"
+      "description": "Kronach, Bavaria",
+      "region": "KC"
     },
     {
       "id": "336",
-      "name": "Kempten (Allgäu), Bavaria",
-      "code": "KE"
+      "description": "Kempten (Allgäu), Bavaria",
+      "region": "KE"
     },
     {
       "id": "337",
-      "name": "Kelheim, Bavaria",
-      "code": "KEH"
+      "description": "Kelheim, Bavaria",
+      "region": "KEH"
     },
     {
       "id": "338",
-      "name": "Kehl, Baden-Württemberg",
-      "code": "KEL"
+      "description": "Kehl, Baden-Württemberg",
+      "region": "KEL"
     },
     {
       "id": "339",
-      "name": "Kemnath, Bavaria",
-      "code": "KEM"
+      "description": "Kemnath, Bavaria",
+      "region": "KEM"
     },
     {
       "id": "340",
-      "name": "Kaufbeuren, Bavaria",
-      "code": "KF"
+      "description": "Kaufbeuren, Bavaria",
+      "region": "KF"
     },
     {
       "id": "341",
-      "name": "Bad Kissingen, Bavaria",
-      "code": "KG"
+      "description": "Bad Kissingen, Bavaria",
+      "region": "KG"
     },
     {
       "id": "342",
-      "name": "Bad Kreuznach, Rhineland Palatinate",
-      "code": "KH"
+      "description": "Bad Kreuznach, Rhineland Palatinate",
+      "region": "KH"
     },
     {
       "id": "343",
-      "name": "Kiel, Schleswig-Holstein",
-      "code": "KI"
+      "description": "Kiel, Schleswig-Holstein",
+      "region": "KI"
     },
     {
       "id": "344",
-      "name": "Kirchheimbolanden & Donnersbergkreis, Rhineland Palatinate",
-      "code": "KIB"
+      "description": "Kirchheimbolanden & Donnersbergkreis, Rhineland Palatinate",
+      "region": "KIB"
     },
     {
       "id": "345",
-      "name": "Kempen-Krefeld, North-Rhine-Westphalia",
-      "code": "KK"
+      "description": "Kempen-Krefeld, North-Rhine-Westphalia",
+      "region": "KK"
     },
     {
       "id": "346",
-      "name": "Kaiserslauten, Rhineland Palatinate",
-      "code": "KL"
+      "description": "Kaiserslauten, Rhineland Palatinate",
+      "region": "KL"
     },
     {
       "id": "347",
-      "name": "Cleves (Kleve), North-Rhine-Westphalia",
-      "code": "KLE"
+      "description": "Cleves (Kleve), North-Rhine-Westphalia",
+      "region": "KLE"
     },
     {
       "id": "348",
-      "name": "Klingental, Saxony",
-      "code": "KLT"
+      "description": "Klingental, Saxony",
+      "region": "KLT"
     },
     {
       "id": "349",
-      "name": "Klötze, Saxony Anhalt",
-      "code": "KLZ"
+      "description": "Klötze, Saxony Anhalt",
+      "region": "KLZ"
     },
     {
       "id": "350",
-      "name": "Kamenz, Saxony",
-      "code": "KM"
+      "description": "Kamenz, Saxony",
+      "region": "KM"
     },
     {
       "id": "351",
-      "name": "Constance (Konstanz), Baden-Württemberg",
-      "code": "KN"
+      "description": "Constance (Konstanz), Baden-Württemberg",
+      "region": "KN"
     },
     {
       "id": "352",
-      "name": "Koblenz, Rhineland Palatinate",
-      "code": "KO"
+      "description": "Koblenz, Rhineland Palatinate",
+      "region": "KO"
     },
     {
       "id": "353",
-      "name": "Kötzting, Bavaria",
-      "code": "KÖN"
+      "description": "Kötzting, Bavaria",
+      "region": "KÖN"
     },
     {
       "id": "354",
-      "name": "Köthen, Saxony-Anhalt",
-      "code": "KÖT"
+      "description": "Köthen, Saxony-Anhalt",
+      "region": "KÖT"
     },
     {
       "id": "355",
-      "name": "Kotzting",
-      "code": "KOZ"
+      "description": "Kotzting",
+      "region": "KOZ"
     },
     {
       "id": "356",
-      "name": "Krefeld, North-Rhine-Westphalia",
-      "code": "KR"
+      "description": "Krefeld, North-Rhine-Westphalia",
+      "region": "KR"
     },
     {
       "id": "357",
-      "name": "Krumbach, Bavaria",
-      "code": "KRU"
+      "description": "Krumbach, Bavaria",
+      "region": "KRU"
     },
     {
       "id": "358",
-      "name": "Kassel, Hesse",
-      "code": "KS"
+      "description": "Kassel, Hesse",
+      "region": "KS"
     },
     {
       "id": "359",
-      "name": "Kitzingen, Bavaria",
-      "code": "KT"
+      "description": "Kitzingen, Bavaria",
+      "region": "KT"
     },
     {
       "id": "360",
-      "name": "Kulmbach, Bavaria",
-      "code": "KU"
+      "description": "Kulmbach, Bavaria",
+      "region": "KU"
     },
     {
       "id": "361",
-      "name": "Küzelsau & Hohenlohekreis, Baden-Württemberg",
-      "code": "KÜN"
+      "description": "Küzelsau & Hohenlohekreis, Baden-Württemberg",
+      "region": "KÜN"
     },
     {
       "id": "362",
-      "name": "Kusel, Rhineland Palatinate",
-      "code": "KUS"
+      "description": "Kusel, Rhineland Palatinate",
+      "region": "KUS"
     },
     {
       "id": "363",
-      "name": "Königs-Wusterhausen, Brandenburg",
-      "code": "KW"
+      "description": "Königs-Wusterhausen, Brandenburg",
+      "region": "KW"
     },
     {
       "id": "364",
-      "name": "Kyritz, Brandenburg",
-      "code": "KY"
+      "description": "Kyritz, Brandenburg",
+      "region": "KY"
     },
     {
       "id": "365",
-      "name": "Kyffhäuserkreis, Thuringia",
-      "code": "KYF"
+      "description": "Kyffhäuserkreis, Thuringia",
+      "region": "KYF"
     },
     {
       "id": "366",
-      "name": "Leipzig, Saxony",
-      "code": "L"
+      "description": "Leipzig, Saxony",
+      "region": "L"
     },
     {
       "id": "367",
-      "name": "Landshut, Bavaria",
-      "code": "LA"
+      "description": "Landshut, Bavaria",
+      "region": "LA"
     },
     {
       "id": "368",
-      "name": "Landau Isar, Bavaria",
-      "code": "LAN"
+      "description": "Landau Isar, Bavaria",
+      "region": "LAN"
     },
     {
       "id": "369",
-      "name": "Lauterbach, Hesse",
-      "code": "LAT"
+      "description": "Lauterbach, Hesse",
+      "region": "LAT"
     },
     {
       "id": "370",
-      "name": "Lauf an der Pegnitz & Nürnberger Land, Bavaria",
-      "code": "LAU"
+      "description": "Lauf an der Pegnitz & Nürnberger Land, Bavaria",
+      "region": "LAU"
     },
     {
       "id": "371",
-      "name": "Ludwigsburg, Baden-Württemberg",
-      "code": "LB"
+      "description": "Ludwigsburg, Baden-Württemberg",
+      "region": "LB"
     },
     {
       "id": "372",
-      "name": "Lobenstein, Thuringia",
-      "code": "LBS"
+      "description": "Lobenstein, Thuringia",
+      "region": "LBS"
     },
     {
       "id": "373",
-      "name": "Lübz, Mecklenburg-Vorpommern",
-      "code": "LBZ"
+      "description": "Lübz, Mecklenburg-Vorpommern",
+      "region": "LBZ"
     },
     {
       "id": "374",
-      "name": "Luckau, Brandenburg",
-      "code": "LC"
+      "description": "Luckau, Brandenburg",
+      "region": "LC"
     },
     {
       "id": "375",
-      "name": "Landau in der Pfalz, Rhineland Palatinate",
-      "code": "LD"
+      "description": "Landau in der Pfalz, Rhineland Palatinate",
+      "region": "LD"
     },
     {
       "id": "376",
-      "name": "Lahn-Dill-Kreis, Hesse",
-      "code": "LDK"
+      "description": "Lahn-Dill-Kreis, Hesse",
+      "region": "LDK"
     },
     {
       "id": "377",
-      "name": "Landkreis Dahme-Spreewald, Brandenburg",
-      "code": "LDS"
+      "description": "Landkreis Dahme-Spreewald, Brandenburg",
+      "region": "LDS"
     },
     {
       "id": "378",
-      "name": "Lemgo, North-Rhine-Westphalia",
-      "code": "LE"
+      "description": "Lemgo, North-Rhine-Westphalia",
+      "region": "LE"
     },
     {
       "id": "379",
-      "name": "Leonberg, Baden-Württemberg",
-      "code": "LEO"
+      "description": "Leonberg, Baden-Württemberg",
+      "region": "LEO"
     },
     {
       "id": "380",
-      "name": "Leer (Ostfriesland), Lower Saxony",
-      "code": "LER"
+      "description": "Leer (Ostfriesland), Lower Saxony",
+      "region": "LER"
     },
     {
       "id": "381",
-      "name": "Leverkusen, North-Rhine-Westphalia",
-      "code": "LEV"
+      "description": "Leverkusen, North-Rhine-Westphalia",
+      "region": "LEV"
     },
     {
       "id": "382",
-      "name": "Laufen, Bavaria",
-      "code": "LF"
+      "description": "Laufen, Bavaria",
+      "region": "LF"
     },
     {
       "id": "383",
-      "name": "Lüneburg, Lower Saxony",
-      "code": "LG"
+      "description": "Lüneburg, Lower Saxony",
+      "region": "LG"
     },
     {
       "id": "384",
-      "name": "Lüdinghausen, North-Rhine-Westphalia",
-      "code": "LH"
+      "description": "Lüdinghausen, North-Rhine-Westphalia",
+      "region": "LH"
     },
     {
       "id": "385",
-      "name": "Lindau (Bodensee), Bavaria",
-      "code": "LI"
+      "description": "Lindau (Bodensee), Bavaria",
+      "region": "LI"
     },
     {
       "id": "386",
-      "name": "Bad Liebenwerda, Brandenburg",
-      "code": "LIB"
+      "description": "Bad Liebenwerda, Brandenburg",
+      "region": "LIB"
     },
     {
       "id": "387",
-      "name": "Lichtenfels, Bavaria",
-      "code": "LIF"
+      "description": "Lichtenfels, Bavaria",
+      "region": "LIF"
     },
     {
       "id": "388",
-      "name": "Lingen, Lower Saxony",
-      "code": "LIN"
+      "description": "Lingen, Lower Saxony",
+      "region": "LIN"
     },
     {
       "id": "389",
-      "name": "Lippe, North-Rhine-Westphalia",
-      "code": "LIP"
+      "description": "Lippe, North-Rhine-Westphalia",
+      "region": "LIP"
     },
     {
       "id": "390",
-      "name": "Lübbecke, North-Rhine-Westphalia",
-      "code": "LK"
+      "description": "Lübbecke, North-Rhine-Westphalia",
+      "region": "LK"
     },
     {
       "id": "391",
-      "name": "Landsberg am Lech, Bavaria",
-      "code": "LL"
+      "description": "Landsberg am Lech, Bavaria",
+      "region": "LL"
     },
     {
       "id": "392",
-      "name": "Limburg-Weilburg, Hesse",
-      "code": "LM"
+      "description": "Limburg-Weilburg, Hesse",
+      "region": "LM"
     },
     {
       "id": "393",
-      "name": "Lübben, Brandenburg",
-      "code": "LN"
+      "description": "Lübben, Brandenburg",
+      "region": "LN"
     },
     {
       "id": "394",
-      "name": "Lörrach, Baden-Württemberg",
-      "code": "LÖ"
+      "description": "Lörrach, Baden-Württemberg",
+      "region": "LÖ"
     },
     {
       "id": "395",
-      "name": "Löbau, Saxony",
-      "code": "LÖB"
+      "description": "Löbau, Saxony",
+      "region": "LÖB"
     },
     {
       "id": "396",
-      "name": "Lohr am Main, Bavaria",
-      "code": "LOH"
+      "description": "Lohr am Main, Bavaria",
+      "region": "LOH"
     },
     {
       "id": "397",
-      "name": "Landkreis Oder-Spree, Brandenburg",
-      "code": "LOS"
+      "description": "Landkreis Oder-Spree, Brandenburg",
+      "region": "LOS"
     },
     {
       "id": "398",
-      "name": "Lippstadt, North-Rhine-Westphalia",
-      "code": "LP"
+      "description": "Lippstadt, North-Rhine-Westphalia",
+      "region": "LP"
     },
     {
       "id": "399",
-      "name": "Lahr, Baden-Württemberg",
-      "code": "LR"
+      "description": "Lahr, Baden-Württemberg",
+      "region": "LR"
     },
     {
       "id": "400",
-      "name": "Lüdenscheid, North-Rhine-Westphalia",
-      "code": "LS"
+      "description": "Lüdenscheid, North-Rhine-Westphalia",
+      "region": "LS"
     },
     {
       "id": "401",
-      "name": "Saxony Anhalt State official vehicles",
-      "code": "LSA"
+      "description": "Saxony Anhalt State official vehicles",
+      "region": "LSA"
     },
     {
       "id": "402",
-      "name": "Saxony State official vehicles",
-      "code": "LSN"
+      "description": "Saxony State official vehicles",
+      "region": "LSN"
     },
     {
       "id": "403",
-      "name": "Bad Langensalza, Thuringia",
-      "code": "LSZ"
+      "description": "Bad Langensalza, Thuringia",
+      "region": "LSZ"
     },
     {
       "id": "404",
-      "name": "Ludwigshafen am Rhein, Rhineland Palatinate",
-      "code": "LU"
+      "description": "Ludwigshafen am Rhein, Rhineland Palatinate",
+      "region": "LU"
     },
     {
       "id": "405",
-      "name": "Lüdenscheid, North-Rhine-Westphalia",
-      "code": "LÜD"
+      "description": "Lüdenscheid, North-Rhine-Westphalia",
+      "region": "LÜD"
     },
     {
       "id": "406",
-      "name": "Luckenwalde, Brandenburg",
-      "code": "LUK"
+      "description": "Luckenwalde, Brandenburg",
+      "region": "LUK"
     },
     {
       "id": "407",
-      "name": "Lünen, North-Rhine-Westphalia",
-      "code": "LÜN"
+      "description": "Lünen, North-Rhine-Westphalia",
+      "region": "LÜN"
     },
     {
       "id": "408",
-      "name": "Ludwigslust, Mecklenburg-Vorpommern",
-      "code": "LWL"
+      "description": "Ludwigslust, Mecklenburg-Vorpommern",
+      "region": "LWL"
     },
     {
       "id": "409",
-      "name": "Munich (München), Bavaria",
-      "code": "M"
+      "description": "Munich (München), Bavaria",
+      "region": "M"
     },
     {
       "id": "410",
-      "name": "Mannheim, Baden-Württemberg",
-      "code": "MA"
+      "description": "Mannheim, Baden-Württemberg",
+      "region": "MA"
     },
     {
       "id": "411",
-      "name": "Marienberg, Saxony",
-      "code": "MAB"
+      "description": "Marienberg, Saxony",
+      "region": "MAB"
     },
     {
       "id": "412",
-      "name": "Mainburg, Bavaria",
-      "code": "MAI"
+      "description": "Mainburg, Bavaria",
+      "region": "MAI"
     },
     {
       "id": "413",
-      "name": "Marktredwitz, Bavaria",
-      "code": "MAK"
+      "description": "Marktredwitz, Bavaria",
+      "region": "MAK"
     },
     {
       "id": "414",
-      "name": "Mallersdorf, Bavaria",
-      "code": "MAL"
+      "description": "Mallersdorf, Bavaria",
+      "region": "MAL"
     },
     {
       "id": "415",
-      "name": "Marktheidenfeld, Bavaria",
-      "code": "MAR"
+      "description": "Marktheidenfeld, Bavaria",
+      "region": "MAR"
     },
     {
       "id": "416",
-      "name": "Miesbach, Bavaria",
-      "code": "MB"
+      "description": "Miesbach, Bavaria",
+      "region": "MB"
     },
     {
       "id": "417",
-      "name": "Malchin, Mecklenburg-Vorpommern",
-      "code": "MC"
+      "description": "Malchin, Mecklenburg-Vorpommern",
+      "region": "MC"
     },
     {
       "id": "418",
-      "name": "Magdeburg, Saxony-Anhalt",
-      "code": "MD"
+      "description": "Magdeburg, Saxony-Anhalt",
+      "region": "MD"
     },
     {
       "id": "419",
-      "name": "Mettmann, North-Rhine-Westphalia",
-      "code": "ME"
+      "description": "Mettmann, North-Rhine-Westphalia",
+      "region": "ME"
     },
     {
       "id": "420",
-      "name": "Meldorf, Schleswig-Holstein",
-      "code": "MED"
+      "description": "Meldorf, Schleswig-Holstein",
+      "region": "MED"
     },
     {
       "id": "421",
-      "name": "Melsungen, Hesse",
-      "code": "MEG"
+      "description": "Melsungen, Hesse",
+      "region": "MEG"
     },
     {
       "id": "422",
-      "name": "Meissen, Saxony",
-      "code": "MEI"
+      "description": "Meissen, Saxony",
+      "region": "MEI"
     },
     {
       "id": "423",
-      "name": "Mittlerer Erzgebirgskreis, Saxony",
-      "code": "MEK"
+      "description": "Mittlerer Erzgebirgskreis, Saxony",
+      "region": "MEK"
     },
     {
       "id": "424",
-      "name": "Melle, Lower Saxony",
-      "code": "MEL"
+      "description": "Melle, Lower Saxony",
+      "region": "MEL"
     },
     {
       "id": "425",
-      "name": "Meppen, Lower Saxony",
-      "code": "MEP"
+      "description": "Meppen, Lower Saxony",
+      "region": "MEP"
     },
     {
       "id": "426",
-      "name": "Merseburg, Saxony Anhalt",
-      "code": "MER"
+      "description": "Merseburg, Saxony Anhalt",
+      "region": "MER"
     },
     {
       "id": "427",
-      "name": "Meschede, North-Rhine-Westphalia",
-      "code": "MES"
+      "description": "Meschede, North-Rhine-Westphalia",
+      "region": "MES"
     },
     {
       "id": "428",
-      "name": "Mellrichstadt, Bavaria",
-      "code": "MET"
+      "description": "Mellrichstadt, Bavaria",
+      "region": "MET"
     },
     {
       "id": "429",
-      "name": "Mönchengladbach, North-Rhine-Westphalia",
-      "code": "MG"
+      "description": "Mönchengladbach, North-Rhine-Westphalia",
+      "region": "MG"
     },
     {
       "id": "430",
-      "name": "Bad Mergentheim, Baden-Württemberg",
-      "code": "MGH"
+      "description": "Bad Mergentheim, Baden-Württemberg",
+      "region": "MGH"
     },
     {
       "id": "431",
-      "name": "Meiningen, Thuringia",
-      "code": "MGN"
+      "description": "Meiningen, Thuringia",
+      "region": "MGN"
     },
     {
       "id": "432",
-      "name": "Mülheim an der Ruhr, North-Rhine-Westphalia",
-      "code": "MH"
+      "description": "Mülheim an der Ruhr, North-Rhine-Westphalia",
+      "region": "MH"
     },
     {
       "id": "433",
-      "name": "Mühlhausen",
-      "code": "MHL"
+      "description": "Mühlhausen",
+      "region": "MHL"
     },
     {
       "id": "434",
-      "name": "Minden-Lübbecke, North-Rhine-Westphalia",
-      "code": "MI"
+      "description": "Minden-Lübbecke, North-Rhine-Westphalia",
+      "region": "MI"
     },
     {
       "id": "435",
-      "name": "Miltenberg, Bavaria",
-      "code": "MIL"
+      "description": "Miltenberg, Bavaria",
+      "region": "MIL"
     },
     {
       "id": "436",
-      "name": "Märkischer Kreis, North-Rhine-Westphalia",
-      "code": "MK"
+      "description": "Märkischer Kreis, North-Rhine-Westphalia",
+      "region": "MK"
     },
     {
       "id": "437",
-      "name": "Main-Kinzig-Kreis, Hessen",
-      "code": "MKK"
+      "description": "Main-Kinzig-Kreis, Hessen",
+      "region": "MKK"
     },
     {
       "id": "438",
-      "name": "Mansfelder Land, Saxony-Anhalt",
-      "code": "ML"
+      "description": "Mansfelder Land, Saxony-Anhalt",
+      "region": "ML"
     },
     {
       "id": "439",
-      "name": "Memmingen, Bavaria",
-      "code": "MM"
+      "description": "Memmingen, Bavaria",
+      "region": "MM"
     },
     {
       "id": "440",
-      "name": "Mindelheim & Unterallgäu, Bavaria",
-      "code": "MN"
+      "description": "Mindelheim & Unterallgäu, Bavaria",
+      "region": "MN"
     },
     {
       "id": "441",
-      "name": "Moers, North-Rhine-Westphalia",
-      "code": "MO"
+      "description": "Moers, North-Rhine-Westphalia",
+      "region": "MO"
     },
     {
       "id": "442",
-      "name": "Marktoberdorf, Bavaria",
-      "code": "MOD"
+      "description": "Marktoberdorf, Bavaria",
+      "region": "MOD"
     },
     {
       "id": "443",
-      "name": "Märkisch-Oderland, Brandenburg",
-      "code": "MOL"
+      "description": "Märkisch-Oderland, Brandenburg",
+      "region": "MOL"
     },
     {
       "id": "444",
-      "name": "Monschau, North-Rhine-Westphalia",
-      "code": "MON"
+      "description": "Monschau, North-Rhine-Westphalia",
+      "region": "MON"
     },
     {
       "id": "445",
-      "name": "Mosbach & Neckar-Odenwald-Kreis, Baden-Württemberg",
-      "code": "MOS"
+      "description": "Mosbach & Neckar-Odenwald-Kreis, Baden-Württemberg",
+      "region": "MOS"
     },
     {
       "id": "446",
-      "name": "Merseburg-Querfurt, Saxony-Anhalt",
-      "code": "MQ"
+      "description": "Merseburg-Querfurt, Saxony-Anhalt",
+      "region": "MQ"
     },
     {
       "id": "447",
-      "name": "Marburg-Biedenkopf, Hesse",
-      "code": "MR"
+      "description": "Marburg-Biedenkopf, Hesse",
+      "region": "MR"
     },
     {
       "id": "448",
-      "name": "Münster, North-Rhine-Westphalia",
-      "code": "MS"
+      "description": "Münster, North-Rhine-Westphalia",
+      "region": "MS"
     },
     {
       "id": "449",
-      "name": "Main-Spessart-Kreis, Bavaria",
-      "code": "MSP"
+      "description": "Main-Spessart-Kreis, Bavaria",
+      "region": "MSP"
     },
     {
       "id": "450",
-      "name": "Mecklenburg-Strelitz, Mecklenburg-Vorpommern",
-      "code": "MST"
+      "description": "Mecklenburg-Strelitz, Mecklenburg-Vorpommern",
+      "region": "MST"
     },
     {
       "id": "451",
-      "name": "Montabaur, Rhineland Palatinate",
-      "code": "MT"
+      "description": "Montabaur, Rhineland Palatinate",
+      "region": "MT"
     },
     {
       "id": "452",
-      "name": "Main-Taunus-Kreis, Hesse",
-      "code": "MTK"
+      "description": "Main-Taunus-Kreis, Hesse",
+      "region": "MTK"
     },
     {
       "id": "453",
-      "name": "Muldentalkreis, Saxony",
-      "code": "MTL"
+      "description": "Muldentalkreis, Saxony",
+      "region": "MTL"
     },
     {
       "id": "454",
-      "name": "Mühldorf am Inn, Bavaria",
-      "code": "MÜ"
+      "description": "Mühldorf am Inn, Bavaria",
+      "region": "MÜ"
     },
     {
       "id": "456",
-      "name": "Münchberg, Bavaria",
-      "code": "MÜB"
+      "description": "Münchberg, Bavaria",
+      "region": "MÜB"
     },
     {
       "id": "457",
-      "name": "Müllheim, Baden-Württemberg",
-      "code": "MÜL"
+      "description": "Müllheim, Baden-Württemberg",
+      "region": "MÜL"
     },
     {
       "id": "458",
-      "name": "Münsingen, Baden-Württemberg",
-      "code": "MÜN"
+      "description": "Münsingen, Baden-Württemberg",
+      "region": "MÜN"
     },
     {
       "id": "459",
-      "name": "Müritz, Mecklenburg-Vorpommern",
-      "code": "MÜR"
+      "description": "Müritz, Mecklenburg-Vorpommern",
+      "region": "MÜR"
     },
     {
       "id": "460",
-      "name": "Mecklenburg-Vorpommern Land official vehicles",
-      "code": "MVL"
+      "description": "Mecklenburg-Vorpommern Land official vehicles",
+      "region": "MVL"
     },
     {
       "id": "461",
-      "name": "Mittweida, Saxony",
-      "code": "MW"
+      "description": "Mittweida, Saxony",
+      "region": "MW"
     },
     {
       "id": "462",
-      "name": "Mayen, Rhineland Palatinate",
-      "code": "MY"
+      "description": "Mayen, Rhineland Palatinate",
+      "region": "MY"
     },
     {
       "id": "463",
-      "name": "Mayen-Koblenz, Rhineland Palatinate",
-      "code": "MYK"
+      "description": "Mayen-Koblenz, Rhineland Palatinate",
+      "region": "MYK"
     },
     {
       "id": "464",
-      "name": "Mainz & Mainz-Bingen, Rhineland Palatinate",
-      "code": "MZ"
+      "description": "Mainz & Mainz-Bingen, Rhineland Palatinate",
+      "region": "MZ"
     },
     {
       "id": "465",
-      "name": "Merzig-Wadern, Saarland",
-      "code": "MZG"
+      "description": "Merzig-Wadern, Saarland",
+      "region": "MZG"
     },
     {
       "id": "466",
-      "name": "Nuremberg (Nürnberg), Bavaria",
-      "code": "N"
+      "description": "Nuremberg (Nürnberg), Bavaria",
+      "region": "N"
     },
     {
       "id": "467",
-      "name": "Nabburg, Bavaria",
-      "code": "NAB"
+      "description": "Nabburg, Bavaria",
+      "region": "NAB"
     },
     {
       "id": "468",
-      "name": "Naila, Bavaria",
-      "code": "NAI"
+      "description": "Naila, Bavaria",
+      "region": "NAI"
     },
     {
       "id": "469",
-      "name": "Nauen, Brandenburg",
-      "code": "NAU"
+      "description": "Nauen, Brandenburg",
+      "region": "NAU"
     },
     {
       "id": "470",
-      "name": "Neubrandenburg, Mecklenburg-Vorpommern",
-      "code": "NB"
+      "description": "Neubrandenburg, Mecklenburg-Vorpommern",
+      "region": "NB"
     },
     {
       "id": "471",
-      "name": "Neuberg an der Donau & Neuberg-Schrobenhausen, Bavaria",
-      "code": "ND"
+      "description": "Neuberg an der Donau & Neuberg-Schrobenhausen, Bavaria",
+      "region": "ND"
     },
     {
       "id": "472",
-      "name": "Nordhausen, Thuringia",
-      "code": "NDH"
+      "description": "Nordhausen, Thuringia",
+      "region": "NDH"
     },
     {
       "id": "473",
-      "name": "Neuss, North-Rhine-Westphalia",
-      "code": "NE"
+      "description": "Neuss, North-Rhine-Westphalia",
+      "region": "NE"
     },
     {
       "id": "474",
-      "name": "Neustadt an der Aisch & Bad Windsheim, Bavaria",
-      "code": "NEA"
+      "description": "Neustadt an der Aisch & Bad Windsheim, Bavaria",
+      "region": "NEA"
     },
     {
       "id": "475",
-      "name": "Nebra, Saxony Anhalt",
-      "code": "NEB"
+      "description": "Nebra, Saxony Anhalt",
+      "region": "NEB"
     },
     {
       "id": "476",
-      "name": "Neustadt Coburg, Bavaria",
-      "code": "NEC"
+      "description": "Neustadt Coburg, Bavaria",
+      "region": "NEC"
     },
     {
       "id": "477",
-      "name": "Neunburg, Bavaria",
-      "code": "NEN"
+      "description": "Neunburg, Bavaria",
+      "region": "NEN"
     },
     {
       "id": "478",
-      "name": "Bad Neustadt an der Saale & Rhön-Grabfeld, Bavaria",
-      "code": "NES"
+      "description": "Bad Neustadt an der Saale & Rhön-Grabfeld, Bavaria",
+      "region": "NES"
     },
     {
       "id": "479",
-      "name": "Neustadt Schwarzwald, Baden-Württemberg",
-      "code": "NEU"
+      "description": "Neustadt Schwarzwald, Baden-Württemberg",
+      "region": "NEU"
     },
     {
       "id": "480",
-      "name": "Neustadt an der Waldnaab, Bavaria",
-      "code": "NEW"
+      "description": "Neustadt an der Waldnaab, Bavaria",
+      "region": "NEW"
     },
     {
       "id": "481",
-      "name": "Nordfriesland, Schleswig-Holstein",
-      "code": "NF"
+      "description": "Nordfriesland, Schleswig-Holstein",
+      "region": "NF"
     },
     {
       "id": "482",
-      "name": "Neuhaus an der Rennweg, Thuringia",
-      "code": "NH"
+      "description": "Neuhaus an der Rennweg, Thuringia",
+      "region": "NH"
     },
     {
       "id": "483",
-      "name": "Nienberg (Weser), Lower Saxony",
-      "code": "NI"
+      "description": "Nienberg (Weser), Lower Saxony",
+      "region": "NI"
     },
     {
       "id": "484",
-      "name": "Niebüll, Schleswig-Holstein",
-      "code": "NIB"
+      "description": "Niebüll, Schleswig-Holstein",
+      "region": "NIB"
     },
     {
       "id": "485",
-      "name": "Neunkirchen/Saar, Saarland",
-      "code": "NK"
+      "description": "Neunkirchen/Saar, Saarland",
+      "region": "NK"
     },
     {
       "id": "486",
-      "name": "Lower Saxony State official vehicles",
-      "code": "NL"
+      "description": "Lower Saxony State official vehicles",
+      "region": "NL"
     },
     {
       "id": "487",
-      "name": "Neumarkt in der Oberpfalz, Bavaria",
-      "code": "NM"
+      "description": "Neumarkt in der Oberpfalz, Bavaria",
+      "region": "NM"
     },
     {
       "id": "488",
-      "name": "Naumberg, Saxony Anhalt",
-      "code": "NMB"
+      "description": "Naumberg, Saxony Anhalt",
+      "region": "NMB"
     },
     {
       "id": "489",
-      "name": "Neumünster, Schleswig-Holstein",
-      "code": "NMS"
+      "description": "Neumünster, Schleswig-Holstein",
+      "region": "NMS"
     },
     {
       "id": "490",
-      "name": "Nördlingen, Bavaria",
-      "code": "NÖ"
+      "description": "Nördlingen, Bavaria",
+      "region": "NÖ"
     },
     {
       "id": "491",
-      "name": "Nordhorn & Grafschaft Bentheim, Lower Saxony",
-      "code": "NOH"
+      "description": "Nordhorn & Grafschaft Bentheim, Lower Saxony",
+      "region": "NOH"
     },
     {
       "id": "492",
-      "name": "Niederschlesischer Oberlausitzkreis, Saxony",
-      "code": "NOL"
+      "description": "Niederschlesischer Oberlausitzkreis, Saxony",
+      "region": "NOL"
     },
     {
       "id": "493",
-      "name": "Northeim, Lower Saxony",
-      "code": "NOM"
+      "description": "Northeim, Lower Saxony",
+      "region": "NOM"
     },
     {
       "id": "494",
-      "name": "Norden, Lower Saxony",
-      "code": "NOR"
+      "description": "Norden, Lower Saxony",
+      "region": "NOR"
     },
     {
       "id": "495",
-      "name": "Neuruppin, Brandenburg",
-      "code": "NP"
+      "description": "Neuruppin, Brandenburg",
+      "region": "NP"
     },
     {
       "id": "496",
-      "name": "Neuwied am Rhein, Rhineland Palatinate",
-      "code": "NR"
+      "description": "Neuwied am Rhein, Rhineland Palatinate",
+      "region": "NR"
     },
     {
       "id": "497",
-      "name": "Neustadt am Rübenberge, Lower Saxony",
-      "code": "NRÜ"
+      "description": "Neustadt am Rübenberge, Lower Saxony",
+      "region": "NRÜ"
     },
     {
       "id": "498",
-      "name": "North-Rhine-Westphalia State official vehicles",
-      "code": "NRW"
+      "description": "North-Rhine-Westphalia State official vehicles",
+      "region": "NRW"
     },
     {
       "id": "499",
-      "name": "Neu-Ulm, Bavaria",
-      "code": "NU"
+      "description": "Neu-Ulm, Bavaria",
+      "region": "NU"
     },
     {
       "id": "500",
-      "name": "Nürtingen, Baden-Württemberg",
-      "code": "NT"
+      "description": "Nürtingen, Baden-Württemberg",
+      "region": "NT"
     },
     {
       "id": "501",
-      "name": "Nordvorpommern, Mecklenburg-Vorpommern",
-      "code": "NVP"
+      "description": "Nordvorpommern, Mecklenburg-Vorpommern",
+      "region": "NVP"
     },
     {
       "id": "502",
-      "name": "Neustadt an der Weinstraße, Rhineland Palatinate",
-      "code": "NW"
+      "description": "Neustadt an der Weinstraße, Rhineland Palatinate",
+      "region": "NW"
     },
     {
       "id": "503",
-      "name": "Nordwestmecklenburg, Mecklenburg-Vorpommern",
-      "code": "NWM"
+      "description": "Nordwestmecklenburg, Mecklenburg-Vorpommern",
+      "region": "NWM"
     },
     {
       "id": "504",
-      "name": "Niesky, Saxony",
-      "code": "NY"
+      "description": "Niesky, Saxony",
+      "region": "NY"
     },
     {
       "id": "505",
-      "name": "Neustrelitz, Mecklenburg-Vorpommern",
-      "code": "NZ"
+      "description": "Neustrelitz, Mecklenburg-Vorpommern",
+      "region": "NZ"
     },
     {
       "id": "506",
-      "name": "Oberallgäu, Bavaria",
-      "code": "OA"
+      "description": "Oberallgäu, Bavaria",
+      "region": "OA"
     },
     {
       "id": "507",
-      "name": "Ostallgäu, Bavaria",
-      "code": "OAL"
+      "description": "Ostallgäu, Bavaria",
+      "region": "OAL"
     },
     {
       "id": "508",
-      "name": "Oberhausen, North-Rhine-Westphalia",
-      "code": "OB"
+      "description": "Oberhausen, North-Rhine-Westphalia",
+      "region": "OB"
     },
     {
       "id": "509",
-      "name": "Obernburg, Bavaria",
-      "code": "OBB"
+      "description": "Obernburg, Bavaria",
+      "region": "OBB"
     },
     {
       "id": "510",
-      "name": "Osterburg, Saxony Anhalt",
-      "code": "OBG"
+      "description": "Osterburg, Saxony Anhalt",
+      "region": "OBG"
     },
     {
       "id": "511",
-      "name": "Oschersleben, Saxony",
-      "code": "OC"
+      "description": "Oschersleben, Saxony",
+      "region": "OC"
     },
     {
       "id": "512",
-      "name": "Ochsenfurt, Bavaria",
-      "code": "OCH"
+      "description": "Ochsenfurt, Bavaria",
+      "region": "OCH"
     },
     {
       "id": "513",
-      "name": "Bad Oldesloe & Stormarn, Schleswig-Holstein",
-      "code": "OD"
+      "description": "Bad Oldesloe & Stormarn, Schleswig-Holstein",
+      "region": "OD"
     },
     {
       "id": "514",
-      "name": "Olpe, North-Rhine-Westphalia",
-      "code": "OE"
+      "description": "Olpe, North-Rhine-Westphalia",
+      "region": "OE"
     },
     {
       "id": "515",
-      "name": "Offenbach am Main, Hesse",
-      "code": "OF"
+      "description": "Offenbach am Main, Hesse",
+      "region": "OF"
     },
     {
       "id": "516",
-      "name": "Offenburg & Ortenaukreis, Baden-Württemberg",
-      "code": "OG"
+      "description": "Offenburg & Ortenaukreis, Baden-Württemberg",
+      "region": "OG"
     },
     {
       "id": "517",
-      "name": "Ostholstein, Schleswig-Holstein",
-      "code": "OH"
+      "description": "Ostholstein, Schleswig-Holstein",
+      "region": "OH"
     },
     {
       "id": "518",
-      "name": "Osterode am Harz, Lower Saxony",
-      "code": "OHA"
+      "description": "Osterode am Harz, Lower Saxony",
+      "region": "OHA"
     },
     {
       "id": "519",
-      "name": "Öhringen, Baden-Württemberg",
-      "code": "ÖHR"
+      "description": "Öhringen, Baden-Württemberg",
+      "region": "ÖHR"
     },
     {
       "id": "520",
-      "name": "Oberhavel, Brandenburg",
-      "code": "OHV"
+      "description": "Oberhavel, Brandenburg",
+      "region": "OHV"
     },
     {
       "id": "521",
-      "name": "Osterholz, Lower Saxony",
-      "code": "OHZ"
+      "description": "Osterholz, Lower Saxony",
+      "region": "OHZ"
     },
     {
       "id": "522",
-      "name": "Ohre-Kreis, Saxony-Anhalt",
-      "code": "OK"
+      "description": "Ohre-Kreis, Saxony-Anhalt",
+      "region": "OK"
     },
     {
       "id": "523",
-      "name": "Oldenburg, Lower Saxony",
-      "code": "OL"
+      "description": "Oldenburg, Lower Saxony",
+      "region": "OL"
     },
     {
       "id": "524",
-      "name": "Oldenburg (Holstein), Schleswig-Holstein",
-      "code": "OLD"
+      "description": "Oldenburg (Holstein), Schleswig-Holstein",
+      "region": "OLD"
     },
     {
       "id": "525",
-      "name": "Opladen, North-Rhine-Westphalia",
-      "code": "OP"
+      "description": "Opladen, North-Rhine-Westphalia",
+      "region": "OP"
     },
     {
       "id": "526",
-      "name": "Ostprignitz-Ruppin, Brandenburg",
-      "code": "OPR"
+      "description": "Ostprignitz-Ruppin, Brandenburg",
+      "region": "OPR"
     },
     {
       "id": "527",
-      "name": "Oranienburg, Brandenburg",
-      "code": "OR"
+      "description": "Oranienburg, Brandenburg",
+      "region": "OR"
     },
     {
       "id": "528",
-      "name": "Osnabrück, Lower Saxony",
-      "code": "OS"
+      "description": "Osnabrück, Lower Saxony",
+      "region": "OS"
     },
     {
       "id": "529",
-      "name": "Oberspreewald-Lausitz, Brandenburg",
-      "code": "OSL"
+      "description": "Oberspreewald-Lausitz, Brandenburg",
+      "region": "OSL"
     },
     {
       "id": "530",
-      "name": "Otterndorf, Lower Saxony",
-      "code": "OTT"
+      "description": "Otterndorf, Lower Saxony",
+      "region": "OTT"
     },
     {
       "id": "531",
-      "name": "Ottweiler, Saarland",
-      "code": "OTW"
+      "description": "Ottweiler, Saarland",
+      "region": "OTW"
     },
     {
       "id": "532",
-      "name": "Oberviechtach, Bavaria",
-      "code": "OVI"
+      "description": "Oberviechtach, Bavaria",
+      "region": "OVI"
     },
     {
       "id": "533",
-      "name": "Obervogtland, Saxony",
-      "code": "OVL"
+      "description": "Obervogtland, Saxony",
+      "region": "OVL"
     },
     {
       "id": "534",
-      "name": "Ostvorpommern, Mecklenburg-Vorpommern",
-      "code": "OVP"
+      "description": "Ostvorpommern, Mecklenburg-Vorpommern",
+      "region": "OVP"
     },
     {
       "id": "535",
-      "name": "Oschatz, Saxony",
-      "code": "OZ"
+      "description": "Oschatz, Saxony",
+      "region": "OZ"
     },
     {
       "id": "536",
-      "name": "Potsdam, Brandenburg",
-      "code": "P"
+      "description": "Potsdam, Brandenburg",
+      "region": "P"
     },
     {
       "id": "537",
-      "name": "Passau, Bavaria",
-      "code": "PA"
+      "description": "Passau, Bavaria",
+      "region": "PA"
     },
     {
       "id": "538",
-      "name": "Pfaffenhofen an der Ilm, Bavaria",
-      "code": "PAF"
+      "description": "Pfaffenhofen an der Ilm, Bavaria",
+      "region": "PAF"
     },
     {
       "id": "539",
-      "name": "Pfarrkirchen & Rottal-Inn, Bavaria",
-      "code": "PAN"
+      "description": "Pfarrkirchen & Rottal-Inn, Bavaria",
+      "region": "PAN"
     },
     {
       "id": "540",
-      "name": "Parsberg, Bavaria",
-      "code": "PAR"
+      "description": "Parsberg, Bavaria",
+      "region": "PAR"
     },
     {
       "id": "541",
-      "name": "Paderborn, North-Rhine-Westphalia",
-      "code": "PB"
+      "description": "Paderborn, North-Rhine-Westphalia",
+      "region": "PB"
     },
     {
       "id": "542",
-      "name": "Parchim, Mecklenburg-Vorpommern",
-      "code": "PCH"
+      "description": "Parchim, Mecklenburg-Vorpommern",
+      "region": "PCH"
     },
     {
       "id": "543",
-      "name": "Peine, Lower Saxony",
-      "code": "PE"
+      "description": "Peine, Lower Saxony",
+      "region": "PE"
     },
     {
       "id": "544",
-      "name": "Pegnitz, Bavraia",
-      "code": "PEG"
+      "description": "Pegnitz, Bavraia",
+      "region": "PEG"
     },
     {
       "id": "545",
-      "name": "Perleberg, Brandenburg",
-      "code": "PER"
+      "description": "Perleberg, Brandenburg",
+      "region": "PER"
     },
     {
       "id": "546",
-      "name": "Pforzheim & Enzkreis, Baden-Württemberg",
-      "code": "PF"
+      "description": "Pforzheim & Enzkreis, Baden-Württemberg",
+      "region": "PF"
     },
     {
       "id": "547",
-      "name": "Pinneberg, Schleswig-Holstein",
-      "code": "PI"
+      "description": "Pinneberg, Schleswig-Holstein",
+      "region": "PI"
     },
     {
       "id": "548",
-      "name": "Pirna, Saxony",
-      "code": "PIR"
+      "description": "Pirna, Saxony",
+      "region": "PIR"
     },
     {
       "id": "549",
-      "name": "Pritzwalk, Brandenburg",
-      "code": "PK"
+      "description": "Pritzwalk, Brandenburg",
+      "region": "PK"
     },
     {
       "id": "550",
-      "name": "Plauen, Saxony",
-      "code": "PL"
+      "description": "Plauen, Saxony",
+      "region": "PL"
     },
     {
       "id": "551",
-      "name": "Plön, Schleswig-Holstein",
-      "code": "PLÖ"
+      "description": "Plön, Schleswig-Holstein",
+      "region": "PLÖ"
     },
     {
       "id": "552",
-      "name": "Potsdam-Mittelmark, Brandenburg",
-      "code": "PM"
+      "description": "Potsdam-Mittelmark, Brandenburg",
+      "region": "PM"
     },
     {
       "id": "553",
-      "name": "Pößneck, Thuringia",
-      "code": "PN"
+      "description": "Pößneck, Thuringia",
+      "region": "PN"
     },
     {
       "id": "554",
-      "name": "Prignitz, Brandenburg",
-      "code": "PR"
+      "description": "Prignitz, Brandenburg",
+      "region": "PR"
     },
     {
       "id": "555",
-      "name": "Prüm, Rhineland Palatinate",
-      "code": "PRÜ"
+      "description": "Prüm, Rhineland Palatinate",
+      "region": "PRÜ"
     },
     {
       "id": "556",
-      "name": "Pirmasens & Südwestpfalz, Rhineland Palatinate",
-      "code": "PS"
+      "description": "Pirmasens & Südwestpfalz, Rhineland Palatinate",
+      "region": "PS"
     },
     {
       "id": "557",
-      "name": "Pasewalk, Mecklenburg-Vorpommern",
-      "code": "PW"
+      "description": "Pasewalk, Mecklenburg-Vorpommern",
+      "region": "PW"
     },
     {
       "id": "558",
-      "name": "Prenzlau, Brandenburg",
-      "code": "PZ"
+      "description": "Prenzlau, Brandenburg",
+      "region": "PZ"
     },
     {
       "id": "559",
-      "name": "Querfurt, Saxony Anhalt",
-      "code": "QFT"
+      "description": "Querfurt, Saxony Anhalt",
+      "region": "QFT"
     },
     {
       "id": "560",
-      "name": "Quedlinburg, Saxony-Anhalt",
-      "code": "QLB"
+      "description": "Quedlinburg, Saxony-Anhalt",
+      "region": "QLB"
     },
     {
       "id": "561",
-      "name": "Regensberg, Bavaria",
-      "code": "R"
+      "description": "Regensberg, Bavaria",
+      "region": "R"
     },
     {
       "id": "562",
-      "name": "Ratstatt, Baden-Württemberg",
-      "code": "RA"
+      "description": "Ratstatt, Baden-Württemberg",
+      "region": "RA"
     },
     {
       "id": "563",
-      "name": "Reichenbach, Saxony",
-      "code": "RC"
+      "description": "Reichenbach, Saxony",
+      "region": "RC"
     },
     {
       "id": "564",
-      "name": "Rendsburg-Eckernförde, Schleswig-Holstein",
-      "code": "RD"
+      "description": "Rendsburg-Eckernförde, Schleswig-Holstein",
+      "region": "RD"
     },
     {
       "id": "565",
-      "name": "Ribnitz-Damgarten, Mecklenburg-Vorpommern",
-      "code": "RDG"
+      "description": "Ribnitz-Damgarten, Mecklenburg-Vorpommern",
+      "region": "RDG"
     },
     {
       "id": "566",
-      "name": "Recklinghausen, North-Rhine-Westphalia",
-      "code": "RE"
+      "description": "Recklinghausen, North-Rhine-Westphalia",
+      "region": "RE"
     },
     {
       "id": "567",
-      "name": "Regen, Bavaria",
-      "code": "REG"
+      "description": "Regen, Bavaria",
+      "region": "REG"
     },
     {
       "id": "568",
-      "name": "Rehau, Bavaria",
-      "code": "REH"
+      "description": "Rehau, Bavaria",
+      "region": "REH"
     },
     {
       "id": "569",
-      "name": "Bad Reichenhall, Bavaria",
-      "code": "REI"
+      "description": "Bad Reichenhall, Bavaria",
+      "region": "REI"
     },
     {
       "id": "570",
-      "name": "Riesa-Großenhain, Saxony",
-      "code": "RG"
+      "description": "Riesa-Großenhain, Saxony",
+      "region": "RG"
     },
     {
       "id": "571",
-      "name": "Roth bei Nürnberg, Bavaria",
-      "code": "RH"
+      "description": "Roth bei Nürnberg, Bavaria",
+      "region": "RH"
     },
     {
       "id": "572",
-      "name": "Rinteln, Lower Saxony",
-      "code": "RI"
+      "description": "Rinteln, Lower Saxony",
+      "region": "RI"
     },
     {
       "id": "573",
-      "name": "Riedenburg, Bavaria",
-      "code": "RID"
+      "description": "Riedenburg, Bavaria",
+      "region": "RID"
     },
     {
       "id": "574",
-      "name": "Riesa, Saxony",
-      "code": "RIE"
+      "description": "Riesa, Saxony",
+      "region": "RIE"
     },
     {
       "id": "575",
-      "name": "Rochlitz, Saxony",
-      "code": "RL"
+      "description": "Rochlitz, Saxony",
+      "region": "RL"
     },
     {
       "id": "576",
-      "name": "Röbel/Muritz, Mecklenburg-Vorpommern",
-      "code": "RM"
+      "description": "Röbel/Muritz, Mecklenburg-Vorpommern",
+      "region": "RM"
     },
     {
       "id": "577",
-      "name": "Rathenow, Brandenburg",
-      "code": "RN"
+      "description": "Rathenow, Brandenburg",
+      "region": "RN"
     },
     {
       "id": "578",
-      "name": "Rosenheim, Bavaria",
-      "code": "RO"
+      "description": "Rosenheim, Bavaria",
+      "region": "RO"
     },
     {
       "id": "579",
-      "name": "Roding, Bavaria",
-      "code": "ROD"
+      "description": "Roding, Bavaria",
+      "region": "ROD"
     },
     {
       "id": "580",
-      "name": "Rotenburg bei Fulda, Hesse",
-      "code": "ROF"
+      "description": "Rotenburg bei Fulda, Hesse",
+      "region": "ROF"
     },
     {
       "id": "581",
-      "name": "Rotenburg Wümme, Lower Saxony",
-      "code": "ROH"
+      "description": "Rotenburg Wümme, Lower Saxony",
+      "region": "ROH"
     },
     {
       "id": "582",
-      "name": "Rockenhausen, Rhineland Palatinate",
-      "code": "ROK"
+      "description": "Rockenhausen, Rhineland Palatinate",
+      "region": "ROK"
     },
     {
       "id": "583",
-      "name": "Rottenburg Laaber, Bavaria",
-      "code": "ROL"
+      "description": "Rottenburg Laaber, Bavaria",
+      "region": "ROL"
     },
     {
       "id": "584",
-      "name": "Rostock Land, Mecklenburg-Vorpommern",
-      "code": "ROS"
+      "description": "Rostock Land, Mecklenburg-Vorpommern",
+      "region": "ROS"
     },
     {
       "id": "585",
-      "name": "Rothenburg ob der Tauber, Bavaria",
-      "code": "ROT"
+      "description": "Rothenburg ob der Tauber, Bavaria",
+      "region": "ROT"
     },
     {
       "id": "586",
-      "name": "Rotenburg (Wümme) & Bremervörde, Lower Saxony",
-      "code": "ROW"
+      "description": "Rotenburg (Wümme) & Bremervörde, Lower Saxony",
+      "region": "ROW"
     },
     {
       "id": "587",
-      "name": "Rhineland Palatinate State official vehicles",
-      "code": "RPL"
+      "description": "Rhineland Palatinate State official vehicles",
+      "region": "RPL"
     },
     {
       "id": "588",
-      "name": "Remscheid, North-Rhine-Westphalia",
-      "code": "RS"
+      "description": "Remscheid, North-Rhine-Westphalia",
+      "region": "RS"
     },
     {
       "id": "589",
-      "name": "Roßlau, Saxony Anhalt",
-      "code": "RSL"
+      "description": "Roßlau, Saxony Anhalt",
+      "region": "RSL"
     },
     {
       "id": "590",
-      "name": "Reutlingen, Baden-Württemberg",
-      "code": "RT"
+      "description": "Reutlingen, Baden-Württemberg",
+      "region": "RT"
     },
     {
       "id": "591",
-      "name": "Rudolstadt",
-      "code": "RU"
+      "description": "Rudolstadt",
+      "region": "RU"
     },
     {
       "id": "592",
-      "name": "Rüdesheim & Rheingau-Taunus-Kreis, Hesse",
-      "code": "RÜD"
+      "description": "Rüdesheim & Rheingau-Taunus-Kreis, Hesse",
+      "region": "RÜD"
     },
     {
       "id": "593",
-      "name": "Rügen, Mecklenburg-Vorpommern",
-      "code": "RÜG"
+      "description": "Rügen, Mecklenburg-Vorpommern",
+      "region": "RÜG"
     },
     {
       "id": "594",
-      "name": "Ravensburg, Baden-Württemberg",
-      "code": "RV"
+      "description": "Ravensburg, Baden-Württemberg",
+      "region": "RV"
     },
     {
       "id": "595",
-      "name": "Rottweil, Baden-Württemberg",
-      "code": "RW"
+      "description": "Rottweil, Baden-Württemberg",
+      "region": "RW"
     },
     {
       "id": "596",
-      "name": "North-Rhine-Westphalia State official vehicles",
-      "code": "RWL"
+      "description": "North-Rhine-Westphalia State official vehicles",
+      "region": "RWL"
     },
     {
       "id": "597",
-      "name": "Rheydt, North-Rhine-Westphalia",
-      "code": "RY"
+      "description": "Rheydt, North-Rhine-Westphalia",
+      "region": "RY"
     },
     {
       "id": "598",
-      "name": "Ratzeburg & Hertzogtum Lauenburg, Schleswig-Holstein",
-      "code": "RZ"
+      "description": "Ratzeburg & Hertzogtum Lauenburg, Schleswig-Holstein",
+      "region": "RZ"
     },
     {
       "id": "599",
-      "name": "Stuttgart, Baden-Württemberg",
-      "code": "S"
+      "description": "Stuttgart, Baden-Württemberg",
+      "region": "S"
     },
     {
       "id": "600",
-      "name": "Saarburg, Rhineland Palatinate",
-      "code": "SAB"
+      "description": "Saarburg, Rhineland Palatinate",
+      "region": "SAB"
     },
     {
       "id": "601",
-      "name": "Schwandorf, Bavaria",
-      "code": "SAD"
+      "description": "Schwandorf, Bavaria",
+      "region": "SAD"
     },
     {
       "id": "602",
-      "name": "Säckingen, Baden-Württemberg",
-      "code": "SÄK"
+      "description": "Säckingen, Baden-Württemberg",
+      "region": "SÄK"
     },
     {
       "id": "603",
-      "name": "Saarland official vehicles",
-      "code": "SAL"
+      "description": "Saarland official vehicles",
+      "region": "SAL"
     },
     {
       "id": "604",
-      "name": "Stadtsteinach, Bavaria",
-      "code": "SAN"
+      "description": "Stadtsteinach, Bavaria",
+      "region": "SAN"
     },
     {
       "id": "605",
-      "name": "Saale-Orla Kreis",
-      "code": "SAO"
+      "description": "Saale-Orla Kreis",
+      "region": "SAO"
     },
     {
       "id": "606",
-      "name": "Altmarkkreis Salzwedel, Saxony-Anhalt",
-      "code": "SAW"
+      "description": "Altmarkkreis Salzwedel, Saxony-Anhalt",
+      "region": "SAW"
     },
     {
       "id": "607",
-      "name": "Saarbrücken, Saarland",
-      "code": "SB"
+      "description": "Saarbrücken, Saarland",
+      "region": "SB"
     },
     {
       "id": "608",
-      "name": "Strasburg, Mecklenburg-Vorpommern",
-      "code": "SBG"
+      "description": "Strasburg, Mecklenburg-Vorpommern",
+      "region": "SBG"
     },
     {
       "id": "609",
-      "name": "Schönebeck, Saxony-Anhalt",
-      "code": "SBK"
+      "description": "Schönebeck, Saxony-Anhalt",
+      "region": "SBK"
     },
     {
       "id": "610",
-      "name": "Schwabach, Bavaria",
-      "code": "SC"
+      "description": "Schwabach, Bavaria",
+      "region": "SC"
     },
     {
       "id": "611",
-      "name": "Schleiz, Thuringia",
-      "code": "SCZ"
+      "description": "Schleiz, Thuringia",
+      "region": "SCZ"
     },
     {
       "id": "612",
-      "name": "Sondershausen, Thuringia",
-      "code": "SDH"
+      "description": "Sondershausen, Thuringia",
+      "region": "SDH"
     },
     {
       "id": "613",
-      "name": "Stendal, Saxony-Anhalt",
-      "code": "SDL"
+      "description": "Stendal, Saxony-Anhalt",
+      "region": "SDL"
     },
     {
       "id": "614",
-      "name": "Schwedt, Brandenburg",
-      "code": "SDT"
+      "description": "Schwedt, Brandenburg",
+      "region": "SDT"
     },
     {
       "id": "615",
-      "name": "Segeberg, Schleswig-Holstein",
-      "code": "SE"
+      "description": "Segeberg, Schleswig-Holstein",
+      "region": "SE"
     },
     {
       "id": "616",
-      "name": "Sebnitz, Saxony",
-      "code": "SEB"
+      "description": "Sebnitz, Saxony",
+      "region": "SEB"
     },
     {
       "id": "617",
-      "name": "Seelow, Brandenburg",
-      "code": "SEE"
+      "description": "Seelow, Brandenburg",
+      "region": "SEE"
     },
     {
       "id": "618",
-      "name": "Scheinfeld, Bavaria",
-      "code": "SEF"
+      "description": "Scheinfeld, Bavaria",
+      "region": "SEF"
     },
     {
       "id": "619",
-      "name": "Selb, Bavaria",
-      "code": "SEL"
+      "description": "Selb, Bavaria",
+      "region": "SEL"
     },
     {
       "id": "620",
-      "name": "Selb, Bavaria",
-      "code": "SF"
+      "description": "Selb, Bavaria",
+      "region": "SF"
     },
     {
       "id": "621",
-      "name": "Soltau-Fallingbostel, Lower Saxony",
-      "code": "SFA"
+      "description": "Soltau-Fallingbostel, Lower Saxony",
+      "region": "SFA"
     },
     {
       "id": "622",
-      "name": "Senftenberg, Brandenburg",
-      "code": "SFB"
+      "description": "Senftenberg, Brandenburg",
+      "region": "SFB"
     },
     {
       "id": "623",
-      "name": "Staßfurt, Saxony Anhalt",
-      "code": "SFT"
+      "description": "Staßfurt, Saxony Anhalt",
+      "region": "SFT"
     },
     {
       "id": "624",
-      "name": "Solingen, North-Rhine-Westphalia",
-      "code": "SG"
+      "description": "Solingen, North-Rhine-Westphalia",
+      "region": "SG"
     },
     {
       "id": "625",
-      "name": "Sangerhausen, Saxony-Anhalt",
-      "code": "SGH"
+      "description": "Sangerhausen, Saxony-Anhalt",
+      "region": "SGH"
     },
     {
       "id": "626",
-      "name": "Schleswig-Holstein Land official vehicles",
-      "code": "SH"
+      "description": "Schleswig-Holstein Land official vehicles",
+      "region": "SH"
     },
     {
       "id": "627",
-      "name": "Schwäbisch Hall, Baden-Württemberg",
-      "code": "SHA"
+      "description": "Schwäbisch Hall, Baden-Württemberg",
+      "region": "SHA"
     },
     {
       "id": "628",
-      "name": "Stadthagen & Schaumburg, Lower Saxony",
-      "code": "SHG"
+      "description": "Stadthagen & Schaumburg, Lower Saxony",
+      "region": "SHG"
     },
     {
       "id": "629",
-      "name": "Saale-Holzland-Kreis, Thuringia",
-      "code": "SHK"
+      "description": "Saale-Holzland-Kreis, Thuringia",
+      "region": "SHK"
     },
     {
       "id": "630",
-      "name": "Suhl, Thuringia",
-      "code": "SHL"
+      "description": "Suhl, Thuringia",
+      "region": "SHL"
     },
     {
       "id": "631",
-      "name": "Sangerhausen",
-      "code": "SHS"
+      "description": "Sangerhausen",
+      "region": "SHS"
     },
     {
       "id": "632",
-      "name": "Siegen-Wittgenstein, North-Rhine-Westphalia",
-      "code": "SI"
+      "description": "Siegen-Wittgenstein, North-Rhine-Westphalia",
+      "region": "SI"
     },
     {
       "id": "633",
-      "name": "Sigmaringen, Baden-Württemberg",
-      "code": "SIG"
+      "description": "Sigmaringen, Baden-Württemberg",
+      "region": "SIG"
     },
     {
       "id": "634",
-      "name": "Simmern & Rhein-Hunsrück-Kreis, Rhineland Palatinate",
-      "code": "SIM"
+      "description": "Simmern & Rhein-Hunsrück-Kreis, Rhineland Palatinate",
+      "region": "SIM"
     },
     {
       "id": "635",
-      "name": "Saalkreis, Saxony-Anhalt",
-      "code": "SK"
+      "description": "Saalkreis, Saxony-Anhalt",
+      "region": "SK"
     },
     {
       "id": "636",
-      "name": "Schleswig-Flensburg, Schleswig-Holstein",
-      "code": "SL"
+      "description": "Schleswig-Flensburg, Schleswig-Holstein",
+      "region": "SL"
     },
     {
       "id": "637",
-      "name": "Schleiden (Eifel), North-Rhine-Westphalia",
-      "code": "SLE"
+      "description": "Schleiden (Eifel), North-Rhine-Westphalia",
+      "region": "SLE"
     },
     {
       "id": "638",
-      "name": "Saalfeld-Rudolstadt, Thuringia",
-      "code": "SLF"
+      "description": "Saalfeld-Rudolstadt, Thuringia",
+      "region": "SLF"
     },
     {
       "id": "639",
-      "name": "Saulgau, Baden-Württemberg",
-      "code": "SLG"
+      "description": "Saulgau, Baden-Württemberg",
+      "region": "SLG"
     },
     {
       "id": "640",
-      "name": "Salzlandkreis, Saxony-Anhalt",
-      "code": "SLK"
+      "description": "Salzlandkreis, Saxony-Anhalt",
+      "region": "SLK"
     },
     {
       "id": "641",
-      "name": "Schmölin, Thuringia",
-      "code": "SLN"
+      "description": "Schmölin, Thuringia",
+      "region": "SLN"
     },
     {
       "id": "642",
-      "name": "Saarlouis, Saarland",
-      "code": "SLS"
+      "description": "Saarlouis, Saarland",
+      "region": "SLS"
     },
     {
       "id": "643",
-      "name": "Schlüchtern, Hesse",
-      "code": "SLÜ"
+      "description": "Schlüchtern, Hesse",
+      "region": "SLÜ"
     },
     {
       "id": "644",
-      "name": "Bad Salzungen, Thuringia",
-      "code": "SLZ"
+      "description": "Bad Salzungen, Thuringia",
+      "region": "SLZ"
     },
     {
       "id": "645",
-      "name": "Schmalkalden-Meiningen, Thuringia",
-      "code": "SM"
+      "description": "Schmalkalden-Meiningen, Thuringia",
+      "region": "SM"
     },
     {
       "id": "646",
-      "name": "Schwabmünchen, Bavaria",
-      "code": "SMÜ"
+      "description": "Schwabmünchen, Bavaria",
+      "region": "SMÜ"
     },
     {
       "id": "647",
-      "name": "Schwerin, Mecklenburg-Vorpommern",
-      "code": "SN"
+      "description": "Schwerin, Mecklenburg-Vorpommern",
+      "region": "SN"
     },
     {
       "id": "648",
-      "name": "Sinsheim, Baden-Württemberg",
-      "code": "SNH"
+      "description": "Sinsheim, Baden-Württemberg",
+      "region": "SNH"
     },
     {
       "id": "649",
-      "name": "Soest, North-Rhine-Westphalia",
-      "code": "SO"
+      "description": "Soest, North-Rhine-Westphalia",
+      "region": "SO"
     },
     {
       "id": "650",
-      "name": "Schrobenhausen, Bavaria",
-      "code": "SOB"
+      "description": "Schrobenhausen, Bavaria",
+      "region": "SOB"
     },
     {
       "id": "651",
-      "name": "Schongau, Bavaria",
-      "code": "SOG"
+      "description": "Schongau, Bavaria",
+      "region": "SOG"
     },
     {
       "id": "652",
-      "name": "Saale-Orla-Kreis, Thuringia",
-      "code": "SOK"
+      "description": "Saale-Orla-Kreis, Thuringia",
+      "region": "SOK"
     },
     {
       "id": "653",
-      "name": "Soltau, Lower Saxony",
-      "code": "SOL"
+      "description": "Soltau, Lower Saxony",
+      "region": "SOL"
     },
     {
       "id": "654",
-      "name": "Sömmerda, Thuringia",
-      "code": "SÖM"
+      "description": "Sömmerda, Thuringia",
+      "region": "SÖM"
     },
     {
       "id": "655",
-      "name": "Sonneberg, Thuringia",
-      "code": "SON"
+      "description": "Sonneberg, Thuringia",
+      "region": "SON"
     },
     {
       "id": "656",
-      "name": "Speyer, Rhineland Palatinate",
-      "code": "SP"
+      "description": "Speyer, Rhineland Palatinate",
+      "region": "SP"
     },
     {
       "id": "657",
-      "name": "Spremberg, Brandenburg",
-      "code": "SPB"
+      "description": "Spremberg, Brandenburg",
+      "region": "SPB"
     },
     {
       "id": "658",
-      "name": "Spree-Neiße, Brandenburg",
-      "code": "SPN"
+      "description": "Spree-Neiße, Brandenburg",
+      "region": "SPN"
     },
     {
       "id": "659",
-      "name": "Springe, Lower Saxony",
-      "code": "SPR"
+      "description": "Springe, Lower Saxony",
+      "region": "SPR"
     },
     {
       "id": "660",
-      "name": "Straubing & Straubing-Bogen, Bavaria",
-      "code": "SR"
+      "description": "Straubing & Straubing-Bogen, Bavaria",
+      "region": "SR"
     },
     {
       "id": "661",
-      "name": "Strausberg, Brandenburg",
-      "code": "SRB"
+      "description": "Strausberg, Brandenburg",
+      "region": "SRB"
     },
     {
       "id": "662",
-      "name": "Stadtroda, Thuringia",
-      "code": "SRO"
+      "description": "Stadtroda, Thuringia",
+      "region": "SRO"
     },
     {
       "id": "663",
-      "name": "Steinfurt, North-Rhine-Westphalia",
-      "code": "ST"
+      "description": "Steinfurt, North-Rhine-Westphalia",
+      "region": "ST"
     },
     {
       "id": "664",
-      "name": "Starnberg, Bavaria",
-      "code": "STA"
+      "description": "Starnberg, Bavaria",
+      "region": "STA"
     },
     {
       "id": "665",
-      "name": "Sternberg, Mecklenburg-Vorpommern",
-      "code": "STB"
+      "description": "Sternberg, Mecklenburg-Vorpommern",
+      "region": "STB"
     },
     {
       "id": "666",
-      "name": "Stade, Lower Saxony",
-      "code": "STD"
+      "description": "Stade, Lower Saxony",
+      "region": "STD"
     },
     {
       "id": "667",
-      "name": "Staffelstein, Bavaria",
-      "code": "STE"
+      "description": "Staffelstein, Bavaria",
+      "region": "STE"
     },
     {
       "id": "668",
-      "name": "Stadthagen, Lower Saxony",
-      "code": "STH"
+      "description": "Stadthagen, Lower Saxony",
+      "region": "STH"
     },
     {
       "id": "669",
-      "name": "Stollberg, Saxony",
-      "code": "STL"
+      "description": "Stollberg, Saxony",
+      "region": "STL"
     },
     {
       "id": "670",
-      "name": "Stockach, Baden-Württemberg",
-      "code": "STO"
+      "description": "Stockach, Baden-Württemberg",
+      "region": "STO"
     },
     {
       "id": "671",
-      "name": "Siegburg & Rhein-Sieg-Kreis, North-Rhine-Westphalia",
-      "code": "SU"
+      "description": "Siegburg & Rhein-Sieg-Kreis, North-Rhine-Westphalia",
+      "region": "SU"
     },
     {
       "id": "672",
-      "name": "Sulzbach-Rosenberg, Bavaria",
-      "code": "SUL"
+      "description": "Sulzbach-Rosenberg, Bavaria",
+      "region": "SUL"
     },
     {
       "id": "673",
-      "name": "Südliche Weinstraße, Rhineland Palatinate",
-      "code": "SÜW"
+      "description": "Südliche Weinstraße, Rhineland Palatinate",
+      "region": "SÜW"
     },
     {
       "id": "674",
-      "name": "Schweinfurt, Bavaria",
-      "code": "SW"
+      "description": "Schweinfurt, Bavaria",
+      "region": "SW"
     },
     {
       "id": "675",
-      "name": "Bad Schwalbach & Rheingau-Taunus-Kreis, Hesse",
-      "code": "SWA"
+      "description": "Bad Schwalbach & Rheingau-Taunus-Kreis, Hesse",
+      "region": "SWA"
     },
     {
       "id": "676",
-      "name": "Schwarzakreis",
-      "code": "SWZ"
+      "description": "Schwarzakreis",
+      "region": "SWZ"
     },
     {
       "id": "677",
-      "name": "Syke, Lower Saxony",
-      "code": "SY"
+      "description": "Syke, Lower Saxony",
+      "region": "SY"
     },
     {
       "id": "678",
-      "name": "Salzgitter, Lower Saxony",
-      "code": "SZ"
+      "description": "Salzgitter, Lower Saxony",
+      "region": "SZ"
     },
     {
       "id": "679",
-      "name": "Schwarzenberg, Saxony",
-      "code": "SZB"
+      "description": "Schwarzenberg, Saxony",
+      "region": "SZB"
     },
     {
       "id": "680",
-      "name": "Tauberbischofsheim & Main-Tauber-Kreis, Baden-Württemberg",
-      "code": "TBB"
+      "description": "Tauberbischofsheim & Main-Tauber-Kreis, Baden-Württemberg",
+      "region": "TBB"
     },
     {
       "id": "681",
-      "name": "Teterow, Mecklenburg-Vorpommern",
-      "code": "TE"
+      "description": "Teterow, Mecklenburg-Vorpommern",
+      "region": "TE"
     },
     {
       "id": "682",
-      "name": "Teltow-Fläming, Brandenburg",
-      "code": "TF"
+      "description": "Teltow-Fläming, Brandenburg",
+      "region": "TF"
     },
     {
       "id": "683",
-      "name": "Torgau, Saxony",
-      "code": "TG"
+      "description": "Torgau, Saxony",
+      "region": "TG"
     },
     {
       "id": "684",
-      "name": "Thurgau-Oschatz",
-      "code": "TGO"
+      "description": "Thurgau-Oschatz",
+      "region": "TGO"
     },
     {
       "id": "685",
-      "name": "Thuringia State (Thüringen Land) official vehicles",
-      "code": "THL"
+      "description": "Thuringia State (Thüringen Land) official vehicles",
+      "region": "THL"
     },
     {
       "id": "686",
-      "name": "German Federal Agency for Technical Relief vehicles",
-      "code": "THW"
+      "description": "German Federal Agency for Technical Relief vehicles",
+      "region": "THW"
     },
     {
       "id": "687",
-      "name": "Tirschenreuth, Bavaria",
-      "code": "TIR"
+      "description": "Tirschenreuth, Bavaria",
+      "region": "TIR"
     },
     {
       "id": "688",
-      "name": "Torgau-Oschatz, Saxony",
-      "code": "TO"
+      "description": "Torgau-Oschatz, Saxony",
+      "region": "TO"
     },
     {
       "id": "689",
-      "name": "Bad Tölz-Wolfratshausen, Bavaria",
-      "code": "TÖL"
+      "description": "Bad Tölz-Wolfratshausen, Bavaria",
+      "region": "TÖL"
     },
     {
       "id": "690",
-      "name": "Tönning, Schleswig-Holstein",
-      "code": "TÖN"
+      "description": "Tönning, Schleswig-Holstein",
+      "region": "TÖN"
     },
     {
       "id": "691",
-      "name": "Templin, Brandenburg",
-      "code": "TP"
+      "description": "Templin, Brandenburg",
+      "region": "TP"
     },
     {
       "id": "692",
-      "name": "Trier, Rhineland Palatinate",
-      "code": "TR"
+      "description": "Trier, Rhineland Palatinate",
+      "region": "TR"
     },
     {
       "id": "693",
-      "name": "Traunstein, Bavaria",
-      "code": "TS"
+      "description": "Traunstein, Bavaria",
+      "region": "TS"
     },
     {
       "id": "694",
-      "name": "Tettnang, Baden-Württemberg",
-      "code": "TT"
+      "description": "Tettnang, Baden-Württemberg",
+      "region": "TT"
     },
     {
       "id": "695",
-      "name": "Tübingen, Baden-Württemberg",
-      "code": "TÜ"
+      "description": "Tübingen, Baden-Württemberg",
+      "region": "TÜ"
     },
     {
       "id": "696",
-      "name": "Tuttlingen, Baden-Württemberg",
-      "code": "TUT"
+      "description": "Tuttlingen, Baden-Württemberg",
+      "region": "TUT"
     },
     {
       "id": "697",
-      "name": "Überlingen, Baden-Württemberg",
-      "code": "ÜB"
+      "description": "Überlingen, Baden-Württemberg",
+      "region": "ÜB"
     },
     {
       "id": "698",
-      "name": "Uelzen, Lower Saxony",
-      "code": "UE"
+      "description": "Uelzen, Lower Saxony",
+      "region": "UE"
     },
     {
       "id": "699",
-      "name": "Ueckermünde, Mecklenburg-Vorpommern",
-      "code": "UEM"
+      "description": "Ueckermünde, Mecklenburg-Vorpommern",
+      "region": "UEM"
     },
     {
       "id": "700",
-      "name": "Uecker-Randow, Mecklenburg-Vorpommern",
-      "code": "UER"
+      "description": "Uecker-Randow, Mecklenburg-Vorpommern",
+      "region": "UER"
     },
     {
       "id": "701",
-      "name": "Uffenheim, Bavaria",
-      "code": "UFF"
+      "description": "Uffenheim, Bavaria",
+      "region": "UFF"
     },
     {
       "id": "702",
-      "name": "Unstrut-Hainich, Thuringia",
-      "code": "UH"
+      "description": "Unstrut-Hainich, Thuringia",
+      "region": "UH"
     },
     {
       "id": "703",
-      "name": "Ulm & Alb-Donau-Kreis, Baden-Württemberg",
-      "code": "UL"
+      "description": "Ulm & Alb-Donau-Kreis, Baden-Württemberg",
+      "region": "UL"
     },
     {
       "id": "704",
-      "name": "Uckermark, Brandenburg",
-      "code": "UM"
+      "description": "Uckermark, Brandenburg",
+      "region": "UM"
     },
     {
       "id": "705",
-      "name": "Unna, North-Rhine-Westphalia",
-      "code": "UN"
+      "description": "Unna, North-Rhine-Westphalia",
+      "region": "UN"
     },
     {
       "id": "706",
-      "name": "Usingen, Hesse",
-      "code": "USI"
+      "description": "Usingen, Hesse",
+      "region": "USI"
     },
     {
       "id": "707",
-      "name": "Vogtlandkreis, Saxony",
-      "code": "V"
+      "description": "Vogtlandkreis, Saxony",
+      "region": "V"
     },
     {
       "id": "708",
-      "name": "Vaihingen, Baden-Württemberg",
-      "code": "VAI"
+      "description": "Vaihingen, Baden-Württemberg",
+      "region": "VAI"
     },
     {
       "id": "709",
-      "name": "Vogelsbergkreis, Hesse",
-      "code": "VB"
+      "description": "Vogelsbergkreis, Hesse",
+      "region": "VB"
     },
     {
       "id": "710",
-      "name": "Vechta, Lower Saxony",
-      "code": "VEC"
+      "description": "Vechta, Lower Saxony",
+      "region": "VEC"
     },
     {
       "id": "711",
-      "name": "Verden, Lower Saxony",
-      "code": "VER"
+      "description": "Verden, Lower Saxony",
+      "region": "VER"
     },
     {
       "id": "712",
-      "name": "Vilsbiburg, Bavaria",
-      "code": "VIB"
+      "description": "Vilsbiburg, Bavaria",
+      "region": "VIB"
     },
     {
       "id": "713",
-      "name": "Viersen, North-Rhine-Westphalia",
-      "code": "VIE"
+      "description": "Viersen, North-Rhine-Westphalia",
+      "region": "VIE"
     },
     {
       "id": "714",
-      "name": "Viechtach, Bavaria",
-      "code": "VIT"
+      "description": "Viechtach, Bavaria",
+      "region": "VIT"
     },
     {
       "id": "715",
-      "name": "Völklingen, Saarland",
-      "code": "VK"
+      "description": "Völklingen, Saarland",
+      "region": "VK"
     },
     {
       "id": "716",
-      "name": "Villingen, Baden-Württemberg",
-      "code": "VL"
+      "description": "Villingen, Baden-Württemberg",
+      "region": "VL"
     },
     {
       "id": "717",
-      "name": "Vilshofen, Bavaria",
-      "code": "VOF"
+      "description": "Vilshofen, Bavaria",
+      "region": "VOF"
     },
     {
       "id": "718",
-      "name": "Vohenstrauß, Bavaria",
-      "code": "VOH"
+      "description": "Vohenstrauß, Bavaria",
+      "region": "VOH"
     },
     {
       "id": "719",
-      "name": "Vorpommern-Rügen, Mecklenburg-Vorpommern",
-      "code": "VR"
+      "description": "Vorpommern-Rügen, Mecklenburg-Vorpommern",
+      "region": "VR"
     },
     {
       "id": "720",
-      "name": "Villingen-Schwenningen & Schwarzwald-Baar-Kreis, Baden-Württemberg",
-      "code": "VS"
+      "description": "Villingen-Schwenningen & Schwarzwald-Baar-Kreis, Baden-Württemberg",
+      "region": "VS"
     },
     {
       "id": "721",
-      "name": "Wuppertal, North-Rhine-Westphalia",
-      "code": "W"
+      "description": "Wuppertal, North-Rhine-Westphalia",
+      "region": "W"
     },
     {
       "id": "722",
-      "name": "Waldeck, Hesse",
-      "code": "WA"
+      "description": "Waldeck, Hesse",
+      "region": "WA"
     },
     {
       "id": "723",
-      "name": "Kreis Warendorf, North-Rhine-Westphalia",
-      "code": "WAF"
+      "description": "Kreis Warendorf, North-Rhine-Westphalia",
+      "region": "WAF"
     },
     {
       "id": "724",
-      "name": "Wartburgkreis, Thuringia",
-      "code": "WAK"
+      "description": "Wartburgkreis, Thuringia",
+      "region": "WAK"
     },
     {
       "id": "725",
-      "name": "Westliche Altmark",
-      "code": "WAM"
+      "description": "Westliche Altmark",
+      "region": "WAM"
     },
     {
       "id": "726",
-      "name": "Wanne-Eickel, North-Rhine-Westphalia",
-      "code": "WAN"
+      "description": "Wanne-Eickel, North-Rhine-Westphalia",
+      "region": "WAN"
     },
     {
       "id": "727",
-      "name": "Warburg, North-Rhine-Westphalia",
-      "code": "WAR"
+      "description": "Warburg, North-Rhine-Westphalia",
+      "region": "WAR"
     },
     {
       "id": "728",
-      "name": "Wattenscheid, North-Rhine-Westphalia",
-      "code": "WAT"
+      "description": "Wattenscheid, North-Rhine-Westphalia",
+      "region": "WAT"
     },
     {
       "id": "729",
-      "name": "Wittenberg, Saxony-Anhalt",
-      "code": "WB"
+      "description": "Wittenberg, Saxony-Anhalt",
+      "region": "WB"
     },
     {
       "id": "730",
-      "name": "Worbis, Thuringia",
-      "code": "WBS"
+      "description": "Worbis, Thuringia",
+      "region": "WBS"
     },
     {
       "id": "731",
-      "name": "Weidenbrück, North-Rhine-Westphalia",
-      "code": "WD"
+      "description": "Weidenbrück, North-Rhine-Westphalia",
+      "region": "WD"
     },
     {
       "id": "732",
-      "name": "Werdau, Saxony",
-      "code": "WDA"
+      "description": "Werdau, Saxony",
+      "region": "WDA"
     },
     {
       "id": "733",
-      "name": "Weimar, Thuringia",
-      "code": "WE"
+      "description": "Weimar, Thuringia",
+      "region": "WE"
     },
     {
       "id": "734",
-      "name": "Westerburg, Rhineland Palatinate",
-      "code": "WEB"
+      "description": "Westerburg, Rhineland Palatinate",
+      "region": "WEB"
     },
     {
       "id": "735",
-      "name": "Wegscheid, Bavaria",
-      "code": "WEG"
+      "description": "Wegscheid, Bavaria",
+      "region": "WEG"
     },
     {
       "id": "736",
-      "name": "Weimarer Land (Kreis Apolda)",
-      "code": "WEI"
+      "description": "Weimarer Land (Kreis Apolda)",
+      "region": "WEI"
     },
     {
       "id": "737",
-      "name": "Weilburg, Hesse",
-      "code": "WEL"
+      "description": "Weilburg, Hesse",
+      "region": "WEL"
     },
     {
       "id": "738",
-      "name": "Wesermünde, Lower Saxony",
-      "code": "WEM"
+      "description": "Wesermünde, Lower Saxony",
+      "region": "WEM"
     },
     {
       "id": "739",
-      "name": "Weiden in der Oberpfalz, Bavaria",
-      "code": "WEN"
+      "description": "Weiden in der Oberpfalz, Bavaria",
+      "region": "WEN"
     },
     {
       "id": "740",
-      "name": "Wertingen, Bavaria",
-      "code": "WER"
+      "description": "Wertingen, Bavaria",
+      "region": "WER"
     },
     {
       "id": "741",
-      "name": "Wesel, North-Rhine-Westphalia",
-      "code": "WES"
+      "description": "Wesel, North-Rhine-Westphalia",
+      "region": "WES"
     },
     {
       "id": "742",
-      "name": "Wolfenbüttel, Lower Saxony",
-      "code": "WF"
+      "description": "Wolfenbüttel, Lower Saxony",
+      "region": "WF"
     },
     {
       "id": "743",
-      "name": "Wangen, Baden-Württemberg",
-      "code": "WG"
+      "description": "Wangen, Baden-Württemberg",
+      "region": "WG"
     },
     {
       "id": "744",
-      "name": "Wilhelmshaven, Lower Saxony",
-      "code": "WHV"
+      "description": "Wilhelmshaven, Lower Saxony",
+      "region": "WHV"
     },
     {
       "id": "745",
-      "name": "Wiesbaden, Hesse",
-      "code": "WI"
+      "description": "Wiesbaden, Hesse",
+      "region": "WI"
     },
     {
       "id": "746",
-      "name": "Wittlich & Bernkastel-Wittlich, Rhineland Palatinate",
-      "code": "WIL"
+      "description": "Wittlich & Bernkastel-Wittlich, Rhineland Palatinate",
+      "region": "WIL"
     },
     {
       "id": "747",
-      "name": "Wismarer Land",
-      "code": "WIS"
+      "description": "Wismarer Land",
+      "region": "WIS"
     },
     {
       "id": "748",
-      "name": "Witten, North-Rhine-Westphalia",
-      "code": "WIT"
+      "description": "Witten, North-Rhine-Westphalia",
+      "region": "WIT"
     },
     {
       "id": "749",
-      "name": "Witzenhausen, Hesse",
-      "code": "WIZ"
+      "description": "Witzenhausen, Hesse",
+      "region": "WIZ"
     },
     {
       "id": "750",
-      "name": "Wittstock, Brandenburg",
-      "code": "WK"
+      "description": "Wittstock, Brandenburg",
+      "region": "WK"
     },
     {
       "id": "751",
-      "name": "Winsen (Luhe) & Harburg, Lower Saxony",
-      "code": "WL"
+      "description": "Winsen (Luhe) & Harburg, Lower Saxony",
+      "region": "WL"
     },
     {
       "id": "752",
-      "name": "Wolgast, Mecklenburg-Vorpommern",
-      "code": "WLG"
+      "description": "Wolgast, Mecklenburg-Vorpommern",
+      "region": "WLG"
     },
     {
       "id": "753",
-      "name": "Weilheim-Schongau, Bavaria",
-      "code": "WM"
+      "description": "Weilheim-Schongau, Bavaria",
+      "region": "WM"
     },
     {
       "id": "754",
-      "name": "Wolmirstedt, Saxony Anhalt",
-      "code": "WMS"
+      "description": "Wolmirstedt, Saxony Anhalt",
+      "region": "WMS"
     },
     {
       "id": "755",
-      "name": "Waiblingen & Rems-Murr-Kreis, Baden-Württemberg",
-      "code": "WN"
+      "description": "Waiblingen & Rems-Murr-Kreis, Baden-Württemberg",
+      "region": "WN"
     },
     {
       "id": "756",
-      "name": "St Wendel, Saarland",
-      "code": "WND"
+      "description": "St Wendel, Saarland",
+      "region": "WND"
     },
     {
       "id": "757",
-      "name": "Worms, Rhineland Palatinate",
-      "code": "WO"
+      "description": "Worms, Rhineland Palatinate",
+      "region": "WO"
     },
     {
       "id": "758",
-      "name": "Wolfsburg, Lower Saxony",
-      "code": "WOB"
+      "description": "Wolfsburg, Lower Saxony",
+      "region": "WOB"
     },
     {
       "id": "759",
-      "name": "Wolfhagen, Hesse",
-      "code": "WOH"
+      "description": "Wolfhagen, Hesse",
+      "region": "WOH"
     },
     {
       "id": "760",
-      "name": "Wolfach, Baden-Württemberg",
-      "code": "WOL"
+      "description": "Wolfach, Baden-Württemberg",
+      "region": "WOL"
     },
     {
       "id": "761",
-      "name": "Wolfratshausen, Bavaria",
-      "code": "WOR"
+      "description": "Wolfratshausen, Bavaria",
+      "region": "WOR"
     },
     {
       "id": "762",
-      "name": "Wolfstein, Bavaria",
-      "code": "WOS"
+      "description": "Wolfstein, Bavaria",
+      "region": "WOS"
     },
     {
       "id": "763",
-      "name": "Wernigerode, Saxony-Anhalt",
-      "code": "WR"
+      "description": "Wernigerode, Saxony-Anhalt",
+      "region": "WR"
     },
     {
       "id": "764",
-      "name": "Waren, Mecklenburg-Vorpommern",
-      "code": "WRN"
+      "description": "Waren, Mecklenburg-Vorpommern",
+      "region": "WRN"
     },
     {
       "id": "765",
-      "name": "Wasserburg, Bavaria",
-      "code": "WS"
+      "description": "Wasserburg, Bavaria",
+      "region": "WS"
     },
     {
       "id": "766",
-      "name": "Weißenfels, Saxony-Anhalt",
-      "code": "WSF"
+      "description": "Weißenfels, Saxony-Anhalt",
+      "region": "WSF"
     },
     {
       "id": "767",
-      "name": "Westerstede & Ammerland, Lower Saxony",
-      "code": "WST"
+      "description": "Westerstede & Ammerland, Lower Saxony",
+      "region": "WST"
     },
     {
       "id": "768",
-      "name": "Weißwasser, Saxony",
-      "code": "WSW"
+      "description": "Weißwasser, Saxony",
+      "region": "WSW"
     },
     {
       "id": "769",
-      "name": "Waldshut, Baden-Württemberg",
-      "code": "WT"
+      "description": "Waldshut, Baden-Württemberg",
+      "region": "WT"
     },
     {
       "id": "770",
-      "name": "Wittlage, Lower Saxony",
-      "code": "WTL"
+      "description": "Wittlage, Lower Saxony",
+      "region": "WTL"
     },
     {
       "id": "771",
-      "name": "Wittmund, Lower Saxony",
-      "code": "WTM"
+      "description": "Wittmund, Lower Saxony",
+      "region": "WTM"
     },
     {
       "id": "772",
-      "name": "Würzburg, Bavaria",
-      "code": "WÜ"
+      "description": "Würzburg, Bavaria",
+      "region": "WÜ"
     },
     {
       "id": "773",
-      "name": "Weißenburg-Gunzenhausen, Bavaria",
-      "code": "WUG"
+      "description": "Weißenburg-Gunzenhausen, Bavaria",
+      "region": "WUG"
     },
     {
       "id": "774",
-      "name": "Waldmünchen, Bavaria",
-      "code": "WUM"
+      "description": "Waldmünchen, Bavaria",
+      "region": "WUM"
     },
     {
       "id": "775",
-      "name": "Wunsiedel am Fichtelgebirge, Bavaria",
-      "code": "WUN"
+      "description": "Wunsiedel am Fichtelgebirge, Bavaria",
+      "region": "WUN"
     },
     {
       "id": "776",
-      "name": "Wurzen, Saxony",
-      "code": "WUR"
+      "description": "Wurzen, Saxony",
+      "region": "WUR"
     },
     {
       "id": "777",
-      "name": "Westerwaldkreis, Rhineland Palatinate",
-      "code": "WW"
+      "description": "Westerwaldkreis, Rhineland Palatinate",
+      "region": "WW"
     },
     {
       "id": "778",
-      "name": "Wetzlar, Hesse",
-      "code": "WZ"
+      "description": "Wetzlar, Hesse",
+      "region": "WZ"
     },
     {
       "id": "779",
-      "name": "Wanzleben, Saxony Anhalt",
-      "code": "WZL"
+      "description": "Wanzleben, Saxony Anhalt",
+      "region": "WZL"
     },
     {
       "id": "780",
-      "name": "NATO Forces vehicles",
-      "code": "X"
+      "description": "NATO Forces vehicles",
+      "region": "X"
     },
     {
       "id": "781",
-      "name": "Armed Forces vehicles",
-      "code": "Y"
+      "description": "Armed Forces vehicles",
+      "region": "Y"
     },
     {
       "id": "782",
-      "name": "Zwickauer Land, Saxony",
-      "code": "Z"
+      "description": "Zwickauer Land, Saxony",
+      "region": "Z"
     },
     {
       "id": "783",
-      "name": "Zerbst, Saxony-Anhalt",
-      "code": "ZE"
+      "description": "Zerbst, Saxony-Anhalt",
+      "region": "ZE"
     },
     {
       "id": "784",
-      "name": "Zell, Rhineland Palatinate",
-      "code": "ZEL"
+      "description": "Zell, Rhineland Palatinate",
+      "region": "ZEL"
     },
     {
       "id": "785",
-      "name": "Löbau-Zittau",
-      "code": "ZI"
+      "description": "Löbau-Zittau",
+      "region": "ZI"
     },
     {
       "id": "786",
-      "name": "Ziegenhain, Hesse",
-      "code": "ZIG"
+      "description": "Ziegenhain, Hesse",
+      "region": "ZIG"
     },
     {
       "id": "787",
-      "name": "Zschopau, Saxony",
-      "code": "ZP"
+      "description": "Zschopau, Saxony",
+      "region": "ZP"
     },
     {
       "id": "788",
-      "name": "Zeulenroda, Thuringia",
-      "code": "ZR"
+      "description": "Zeulenroda, Thuringia",
+      "region": "ZR"
     },
     {
       "id": "789",
-      "name": "Zossen, Brandenburg",
-      "code": "ZS"
+      "description": "Zossen, Brandenburg",
+      "region": "ZS"
     },
     {
       "id": "790",
-      "name": "Zweibrücken, Rhineland Palatinate",
-      "code": "ZW"
+      "description": "Zweibrücken, Rhineland Palatinate",
+      "region": "ZW"
     },
     {
       "id": "791",
-      "name": "Zeitz, Saxony Anhalt",
-      "code": "ZZ"
+      "description": "Zeitz, Saxony Anhalt",
+      "region": "ZZ"
     }
   ]
 }

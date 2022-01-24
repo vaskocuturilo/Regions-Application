@@ -2,2053 +2,2053 @@
   "regions": [
     {
       "id": "1",
-      "name": "Województwo Lubelskie, Biała Podlaska",
-      "code": "LB"
+      "description": "Województwo Lubelskie, Biała Podlaska",
+      "region": "LB"
     },
     {
       "id": "2",
-      "name": "Województwo Lubelskie, Chełm",
-      "code": "LC"
+      "description": "Województwo Lubelskie, Chełm",
+      "region": "LC"
     },
     {
       "id": "3",
-      "name": "Województwo Lubelskie, Lublin",
-      "code": "LU"
+      "description": "Województwo Lubelskie, Lublin",
+      "region": "LU"
     },
     {
       "id": "4",
-      "name": "Województwo Lubelskie, Zamość",
-      "code": "LZ"
+      "description": "Województwo Lubelskie, Zamość",
+      "region": "LZ"
     },
     {
       "id": "5",
-      "name": "Województwo Lubelskie, Biała Podlaska powiat",
-      "code": "LBI"
+      "description": "Województwo Lubelskie, Biała Podlaska powiat",
+      "region": "LBI"
     },
     {
       "id": "6",
-      "name": "Województwo Lubelskie, Biłgoraj",
-      "code": "LBL"
+      "description": "Województwo Lubelskie, Biłgoraj",
+      "region": "LBL"
     },
     {
       "id": "7",
-      "name": "Województwo Lubelskie, Chełm powiat",
-      "code": "LCH"
+      "description": "Województwo Lubelskie, Chełm powiat",
+      "region": "LCH"
     },
     {
       "id": "8",
-      "name": "Województwo Lubelskie, Hrubieszów",
-      "code": "LHR"
+      "description": "Województwo Lubelskie, Hrubieszów",
+      "region": "LHR"
     },
     {
       "id": "9",
-      "name": "Województwo Lubelskie, Janów Lubelski",
-      "code": "LJA"
+      "description": "Województwo Lubelskie, Janów Lubelski",
+      "region": "LJA"
     },
     {
       "id": "10",
-      "name": "Województwo Lubelskie, Krasnystaw",
-      "code": "LKS"
+      "description": "Województwo Lubelskie, Krasnystaw",
+      "region": "LKS"
     },
     {
       "id": "11",
-      "name": "Województwo Lubelskie, Kraśnik",
-      "code": "LKR"
+      "description": "Województwo Lubelskie, Kraśnik",
+      "region": "LKR"
     },
     {
       "id": "12",
-      "name": "Województwo Lubelskie, Lubartów",
-      "code": "LLB"
+      "description": "Województwo Lubelskie, Lubartów",
+      "region": "LLB"
     },
     {
       "id": "13",
-      "name": "Województwo Lubelskie, Lublin powiat",
-      "code": "LUB"
+      "description": "Województwo Lubelskie, Lublin powiat",
+      "region": "LUB"
     },
     {
       "id": "14",
-      "name": "Województwo Lubelskie, Łęczna",
-      "code": "LLE"
+      "description": "Województwo Lubelskie, Łęczna",
+      "region": "LLE"
     },
     {
       "id": "15",
-      "name": "Województwo Lubelskie, Łuków",
-      "code": "LLU"
+      "description": "Województwo Lubelskie, Łuków",
+      "region": "LLU"
     },
     {
       "id": "16",
-      "name": "Województwo Lubelskie, Opole Lubelskie",
-      "code": "LOP"
+      "description": "Województwo Lubelskie, Opole Lubelskie",
+      "region": "LOP"
     },
     {
       "id": "17",
-      "name": "Województwo Lubelskie, Parczew",
-      "code": "LPA"
+      "description": "Województwo Lubelskie, Parczew",
+      "region": "LPA"
     },
     {
       "id": "18",
-      "name": "Województwo Lubelskie, Puławy",
-      "code": "LPU"
+      "description": "Województwo Lubelskie, Puławy",
+      "region": "LPU"
     },
     {
       "id": "19",
-      "name": "Województwo Lubelskie, Radzyń Podlaski",
-      "code": "LRA"
+      "description": "Województwo Lubelskie, Radzyń Podlaski",
+      "region": "LRA"
     },
     {
       "id": "20",
-      "name": "Województwo Lubelskie, Ryki",
-      "code": "LRY"
+      "description": "Województwo Lubelskie, Ryki",
+      "region": "LRY"
     },
     {
       "id": "21",
-      "name": "Województwo Lubelskie, Świdnik",
-      "code": "LSW"
+      "description": "Województwo Lubelskie, Świdnik",
+      "region": "LSW"
     },
     {
       "id": "22",
-      "name": "Województwo Lubelskie, Tomaszów Lubelski",
-      "code": "LTM"
+      "description": "Województwo Lubelskie, Tomaszów Lubelski",
+      "region": "LTM"
     },
     {
       "id": "23",
-      "name": "Województwo Lubelskie, Włodawa",
-      "code": "LWL"
+      "description": "Województwo Lubelskie, Włodawa",
+      "region": "LWL"
     },
     {
       "id": "24",
-      "name": "Województwo Lubelskie, Zamość powiat",
-      "code": "LZA"
+      "description": "Województwo Lubelskie, Zamość powiat",
+      "region": "LZA"
     },
     {
       "id": "25",
-      "name": "Województwo Lubelskie, Gorzów",
-      "code": "FG"
+      "description": "Województwo Lubelskie, Gorzów",
+      "region": "FG"
     },
     {
       "id": "26",
-      "name": "Województwo Lubelskie, Zielona Góra",
-      "code": "FZ"
+      "description": "Województwo Lubelskie, Zielona Góra",
+      "region": "FZ"
     },
     {
       "id": "27",
-      "name": "Województwo Lubelskie, Gorzów Wielkopolski powiat",
-      "code": "FGW"
+      "description": "Województwo Lubelskie, Gorzów Wielkopolski powiat",
+      "region": "FGW"
     },
     {
       "id": "28",
-      "name": "Województwo Lubelskie, Krosno Odrzańskie",
-      "code": "FKR"
+      "description": "Województwo Lubelskie, Krosno Odrzańskie",
+      "region": "FKR"
     },
     {
       "id": "29",
-      "name": "Województwo Lubelskie, Międzyrzecz",
-      "code": "FMI"
+      "description": "Województwo Lubelskie, Międzyrzecz",
+      "region": "FMI"
     },
     {
       "id": "30",
-      "name": "Województwo Lubelskie, Nowa Sól",
-      "code": "FNW"
+      "description": "Województwo Lubelskie, Nowa Sól",
+      "region": "FNW"
     },
     {
       "id": "31",
-      "name": "Województwo Lubelskie, Słubice",
-      "code": "FSL"
+      "description": "Województwo Lubelskie, Słubice",
+      "region": "FSL"
     },
     {
       "id": "32",
-      "name": "Województwo Lubelskie, Strzelce Krajeńskie",
-      "code": "FSD"
+      "description": "Województwo Lubelskie, Strzelce Krajeńskie",
+      "region": "FSD"
     },
     {
       "id": "33",
-      "name": "Województwo Lubelskie, Sulęczyn",
-      "code": "FSU"
+      "description": "Województwo Lubelskie, Sulęczyn",
+      "region": "FSU"
     },
     {
       "id": "34",
-      "name": "Województwo Lubelskie, Świebodzin",
-      "code": "FSW"
+      "description": "Województwo Lubelskie, Świebodzin",
+      "region": "FSW"
     },
     {
       "id": "35",
-      "name": "Województwo Lubelskie, Zielona Góra powiat",
-      "code": "FZI"
+      "description": "Województwo Lubelskie, Zielona Góra powiat",
+      "region": "FZI"
     },
     {
       "id": "36",
-      "name": "Województwo Lubelskie, Żagań",
-      "code": "FZG"
+      "description": "Województwo Lubelskie, Żagań",
+      "region": "FZG"
     },
     {
       "id": "37",
-      "name": "Województwo Lubelskie, Żary",
-      "code": "FZA"
+      "description": "Województwo Lubelskie, Żary",
+      "region": "FZA"
     },
     {
       "id": "38",
-      "name": "Województwo mazowieckie, Ostrołęka",
-      "code": "WO"
+      "description": "Województwo mazowieckie, Ostrołęka",
+      "region": "WO"
     },
     {
       "id": "39",
-      "name": "Województwo mazowieckie, Płock",
-      "code": "WP"
+      "description": "Województwo mazowieckie, Płock",
+      "region": "WP"
     },
     {
       "id": "40",
-      "name": "Województwo mazowieckie, Radom",
-      "code": "WR"
+      "description": "Województwo mazowieckie, Radom",
+      "region": "WR"
     },
     {
       "id": "41",
-      "name": "Województwo mazowieckie, Siedlce",
-      "code": "WS"
+      "description": "Województwo mazowieckie, Siedlce",
+      "region": "WS"
     },
     {
       "id": "42",
-      "name": "Województwo mazowieckie, Białobrzegi",
-      "code": "WBR"
+      "description": "Województwo mazowieckie, Białobrzegi",
+      "region": "WBR"
     },
     {
       "id": "43",
-      "name": "Województwo mazowieckie, Ciechanów",
-      "code": "WCI"
+      "description": "Województwo mazowieckie, Ciechanów",
+      "region": "WCI"
     },
     {
       "id": "44",
-      "name": "Województwo mazowieckie, Garwolin",
-      "code": "WG"
+      "description": "Województwo mazowieckie, Garwolin",
+      "region": "WG"
     },
     {
       "id": "45",
-      "name": "Województwo mazowieckie, Gostynin",
-      "code": "WGS"
+      "description": "Województwo mazowieckie, Gostynin",
+      "region": "WGS"
     },
     {
       "id": "46",
-      "name": "Województwo mazowieckie, Grodzisk",
-      "code": "WGM"
+      "description": "Województwo mazowieckie, Grodzisk",
+      "region": "WGM"
     },
     {
       "id": "47",
-      "name": "Województwo mazowieckie, Grójec",
-      "code": "WGR"
+      "description": "Województwo mazowieckie, Grójec",
+      "region": "WGR"
     },
     {
       "id": "48",
-      "name": "Województwo mazowieckie, Kozienice",
-      "code": "WKZ"
+      "description": "Województwo mazowieckie, Kozienice",
+      "region": "WKZ"
     },
     {
       "id": "49",
-      "name": "Województwo mazowieckie, Legionowo",
-      "code": "WL"
+      "description": "Województwo mazowieckie, Legionowo",
+      "region": "WL"
     },
     {
       "id": "50",
-      "name": "Województwo mazowieckie, Lipsko",
-      "code": "WLI"
+      "description": "Województwo mazowieckie, Lipsko",
+      "region": "WLI"
     },
     {
       "id": "51",
-      "name": "Województwo mazowieckie, Łosice",
-      "code": "WLS"
+      "description": "Województwo mazowieckie, Łosice",
+      "region": "WLS"
     },
     {
       "id": "52",
-      "name": "Województwo mazowieckie, Maków Mazowiecki",
-      "code": "WMA"
+      "description": "Województwo mazowieckie, Maków Mazowiecki",
+      "region": "WMA"
     },
     {
       "id": "53",
-      "name": "Województwo mazowieckie, Mińsk Mazowiecki",
-      "code": "WM"
+      "description": "Województwo mazowieckie, Mińsk Mazowiecki",
+      "region": "WM"
     },
     {
       "id": "54",
-      "name": "Województwo mazowieckie, Mława",
-      "code": "WML"
+      "description": "Województwo mazowieckie, Mława",
+      "region": "WML"
     },
     {
       "id": "55",
-      "name": "Województwo mazowieckie, Nowy Dwór Mazowiecki",
-      "code": "WND"
+      "description": "Województwo mazowieckie, Nowy Dwór Mazowiecki",
+      "region": "WND"
     },
     {
       "id": "56",
-      "name": "Województwo mazowieckie, Ostrołęka powiat",
-      "code": "WOS"
+      "description": "Województwo mazowieckie, Ostrołęka powiat",
+      "region": "WOS"
     },
     {
       "id": "57",
-      "name": "Województwo mazowieckie, Ostrów Mazowiecka",
-      "code": "WOR"
+      "description": "Województwo mazowieckie, Ostrów Mazowiecka",
+      "region": "WOR"
     },
     {
       "id": "58",
-      "name": "Województwo mazowieckie, Otwock",
-      "code": "WOT"
+      "description": "Województwo mazowieckie, Otwock",
+      "region": "WOT"
     },
     {
       "id": "59",
-      "name": "Województwo mazowieckie, Piaseczno",
-      "code": "WPI"
+      "description": "Województwo mazowieckie, Piaseczno",
+      "region": "WPI"
     },
     {
       "id": "60",
-      "name": "Województwo mazowieckie, Płock powiat",
-      "code": "WPL"
+      "description": "Województwo mazowieckie, Płock powiat",
+      "region": "WPL"
     },
     {
       "id": "61",
-      "name": "Województwo mazowieckie, Płońsk",
-      "code": "WPN"
+      "description": "Województwo mazowieckie, Płońsk",
+      "region": "WPN"
     },
     {
       "id": "62",
-      "name": "Województwo mazowieckie, Pruszków",
-      "code": "WPR"
+      "description": "Województwo mazowieckie, Pruszków",
+      "region": "WPR"
     },
     {
       "id": "63",
-      "name": "Województwo mazowieckie, Przasnysz",
-      "code": "WPZ"
+      "description": "Województwo mazowieckie, Przasnysz",
+      "region": "WPZ"
     },
     {
       "id": "64",
-      "name": "Województwo mazowieckie, Przysucha",
-      "code": "WPY"
+      "description": "Województwo mazowieckie, Przysucha",
+      "region": "WPY"
     },
     {
       "id": "65",
-      "name": "Województwo mazowieckie, Pułtusk",
-      "code": "WPU"
+      "description": "Województwo mazowieckie, Pułtusk",
+      "region": "WPU"
     },
     {
       "id": "66",
-      "name": "Województwo mazowieckie, Radom powiat",
-      "code": "WRA"
+      "description": "Województwo mazowieckie, Radom powiat",
+      "region": "WRA"
     },
     {
       "id": "67",
-      "name": "Województwo mazowieckie, Siedlce powiat",
-      "code": "WSI"
+      "description": "Województwo mazowieckie, Siedlce powiat",
+      "region": "WSI"
     },
     {
       "id": "68",
-      "name": "Województwo mazowieckie, Sierpc",
-      "code": "WSE"
+      "description": "Województwo mazowieckie, Sierpc",
+      "region": "WSE"
     },
     {
       "id": "69",
-      "name": "Województwo mazowieckie, Sochaczew",
-      "code": "WSC"
+      "description": "Województwo mazowieckie, Sochaczew",
+      "region": "WSC"
     },
     {
       "id": "70",
-      "name": "Województwo mazowieckie, Sokołów Podlaski",
-      "code": "WSK"
+      "description": "Województwo mazowieckie, Sokołów Podlaski",
+      "region": "WSK"
     },
     {
       "id": "71",
-      "name": "Województwo mazowieckie, Szydłowiec",
-      "code": "WSZ"
+      "description": "Województwo mazowieckie, Szydłowiec",
+      "region": "WSZ"
     },
     {
       "id": "72",
-      "name": "Województwo mazowieckie, Warszawa-Bemowo",
-      "code": "WB"
+      "description": "Województwo mazowieckie, Warszawa-Bemowo",
+      "region": "WB"
     },
     {
       "id": "73",
-      "name": "Województwo mazowieckie, Warszawa-Białołęka",
-      "code": "WA"
+      "description": "Województwo mazowieckie, Warszawa-Białołęka",
+      "region": "WA"
     },
     {
       "id": "74",
-      "name": "Województwo mazowieckie, Warszawa-Bielany",
-      "code": "WD"
+      "description": "Województwo mazowieckie, Warszawa-Bielany",
+      "region": "WD"
     },
     {
       "id": "75",
-      "name": "Województwo mazowieckie, Warszawa-Rembertów",
-      "code": "WW-A"
+      "description": "Województwo mazowieckie, Warszawa-Rembertów",
+      "region": "WW-A"
     },
     {
       "id": "76",
-      "name": "Województwo mazowieckie, Warszawa-Targówek",
-      "code": "WJ"
+      "description": "Województwo mazowieckie, Warszawa-Targówek",
+      "region": "WJ"
     },
     {
       "id": "77",
-      "name": "Województwo mazowieckie, Warszawa-Ursus",
-      "code": "WK"
+      "description": "Województwo mazowieckie, Warszawa-Ursus",
+      "region": "WK"
     },
     {
       "id": "78",
-      "name": "Województwo mazowieckie, Warszawa-Ursynów",
-      "code": "WN"
+      "description": "Województwo mazowieckie, Warszawa-Ursynów",
+      "region": "WN"
     },
     {
       "id": "79",
-      "name": "Województwo mazowieckie, Warszawa-Wawer",
-      "code": "WT"
+      "description": "Województwo mazowieckie, Warszawa-Wawer",
+      "region": "WT"
     },
     {
       "id": "80",
-      "name": "Województwo mazowieckie, Warszawa-Wilanów",
-      "code": "WW-F"
+      "description": "Województwo mazowieckie, Warszawa-Wilanów",
+      "region": "WW-F"
     },
     {
       "id": "81",
-      "name": "Województwo mazowieckie, Warszawa-Wilanów",
-      "code": "WW-G"
+      "description": "Województwo mazowieckie, Warszawa-Wilanów",
+      "region": "WW-G"
     },
     {
       "id": "82",
-      "name": "Województwo mazowieckie, Warszawa-Wilanów",
-      "code": "WW-H"
+      "description": "Województwo mazowieckie, Warszawa-Wilanów",
+      "region": "WW-H"
     },
     {
       "id": "83",
-      "name": "Województwo mazowieckie, Warszawa-Wilanów",
-      "code": "WW-J"
+      "description": "Województwo mazowieckie, Warszawa-Wilanów",
+      "region": "WW-J"
     },
     {
       "id": "84",
-      "name": "Województwo mazowieckie, Warszawa-Wilanów",
-      "code": "WW-W"
+      "description": "Województwo mazowieckie, Warszawa-Wilanów",
+      "region": "WW-W"
     },
     {
       "id": "85",
-      "name": "Województwo mazowieckie, Warszawa-Włochy",
-      "code": "WW-K"
+      "description": "Województwo mazowieckie, Warszawa-Włochy",
+      "region": "WW-K"
     },
     {
       "id": "86",
-      "name": "Województwo mazowieckie, Warszawa-Włochy",
-      "code": "WW-L"
+      "description": "Województwo mazowieckie, Warszawa-Włochy",
+      "region": "WW-L"
     },
     {
       "id": "87",
-      "name": "Województwo mazowieckie, Warszawa-Włochy",
-      "code": "WW-M"
+      "description": "Województwo mazowieckie, Warszawa-Włochy",
+      "region": "WW-M"
     },
     {
       "id": "88",
-      "name": "Województwo mazowieckie, Warszawa-Włochy",
-      "code": "WW-N"
+      "description": "Województwo mazowieckie, Warszawa-Włochy",
+      "region": "WW-N"
     },
     {
       "id": "89",
-      "name": "Województwo mazowieckie, Warszawa-Włochy",
-      "code": "WW-V"
+      "description": "Województwo mazowieckie, Warszawa-Włochy",
+      "region": "WW-V"
     },
     {
       "id": "90",
-      "name": "Województwo mazowieckie, Warszawa-Zachód",
-      "code": "WZ"
+      "description": "Województwo mazowieckie, Warszawa-Zachód",
+      "region": "WZ"
     },
     {
       "id": "91",
-      "name": "Województwo mazowieckie, Węgrów",
-      "code": "WWE"
+      "description": "Województwo mazowieckie, Węgrów",
+      "region": "WWE"
     },
     {
       "id": "92",
-      "name": "Województwo mazowieckie, Wołomin",
-      "code": "WWL"
+      "description": "Województwo mazowieckie, Wołomin",
+      "region": "WWL"
     },
     {
       "id": "93",
-      "name": "Województwo mazowieckie, Wyszków",
-      "code": "WWY"
+      "description": "Województwo mazowieckie, Wyszków",
+      "region": "WWY"
     },
     {
       "id": "94",
-      "name": "Województwo mazowieckie, Zwoleń",
-      "code": "WZW"
+      "description": "Województwo mazowieckie, Zwoleń",
+      "region": "WZW"
     },
     {
       "id": "95",
-      "name": "Województwo mazowieckie, Żyrardów",
-      "code": "WZY"
+      "description": "Województwo mazowieckie, Żyrardów",
+      "region": "WZY"
     },
     {
       "id": "96",
-      "name": "Województwo mazowieckie, Żuromin",
-      "code": "WZU"
+      "description": "Województwo mazowieckie, Żuromin",
+      "region": "WZU"
     },
     {
       "id": "97",
-      "name": "Województwo mazowieckie, Warszawa-Mokotów",
-      "code": "WE"
+      "description": "Województwo mazowieckie, Warszawa-Mokotów",
+      "region": "WE"
     },
     {
       "id": "98",
-      "name": "Województwo mazowieckie, Warszawa-Ochota",
-      "code": "WU"
+      "description": "Województwo mazowieckie, Warszawa-Ochota",
+      "region": "WU"
     },
     {
       "id": "99",
-      "name": "Województwo mazowieckie, Warszawa-Praga Południe",
-      "code": "WF"
+      "description": "Województwo mazowieckie, Warszawa-Praga Południe",
+      "region": "WF"
     },
     {
       "id": "100",
-      "name": "Województwo mazowieckie, Warszawa-Praga Północ",
-      "code": "WH"
+      "description": "Województwo mazowieckie, Warszawa-Praga Północ",
+      "region": "WH"
     },
     {
       "id": "101",
-      "name": "Województwo mazowieckie, Warszawa-Śródmieście",
-      "code": "WI"
+      "description": "Województwo mazowieckie, Warszawa-Śródmieście",
+      "region": "WI"
     },
     {
       "id": "102",
-      "name": "Województwo mazowieckie, Warszawa-Wola",
-      "code": "WY"
+      "description": "Województwo mazowieckie, Warszawa-Wola",
+      "region": "WY"
     },
     {
       "id": "103",
-      "name": "Województwo mazowieckie, Warszawa-Żoliborz",
-      "code": "WX"
+      "description": "Województwo mazowieckie, Warszawa-Żoliborz",
+      "region": "WX"
     },
     {
       "id": "104",
-      "name": "Województwo opolskie, Opole",
-      "code": "OP"
+      "description": "Województwo opolskie, Opole",
+      "region": "OP"
     },
     {
       "id": "105",
-      "name": "Województwo opolskie, Brzeg",
-      "code": "OB"
+      "description": "Województwo opolskie, Brzeg",
+      "region": "OB"
     },
     {
       "id": "106",
-      "name": "Województwo opolskie, Głubczyce",
-      "code": "OGL"
+      "description": "Województwo opolskie, Głubczyce",
+      "region": "OGL"
     },
     {
       "id": "107",
-      "name": "Województwo opolskie, Kędzierzyn Koźle",
-      "code": "OK"
+      "description": "Województwo opolskie, Kędzierzyn Koźle",
+      "region": "OK"
     },
     {
       "id": "108",
-      "name": "Województwo opolskie, Kluczbork",
-      "code": "OKL"
+      "description": "Województwo opolskie, Kluczbork",
+      "region": "OKL"
     },
     {
       "id": "109",
-      "name": "Województwo opolskie, Krapkowice",
-      "code": "OKR"
+      "description": "Województwo opolskie, Krapkowice",
+      "region": "OKR"
     },
     {
       "id": "110",
-      "name": "Województwo opolskie, Namysłów",
-      "code": "ONA"
+      "description": "Województwo opolskie, Namysłów",
+      "region": "ONA"
     },
     {
       "id": "111",
-      "name": "Województwo opolskie, Nysa",
-      "code": "ONY"
+      "description": "Województwo opolskie, Nysa",
+      "region": "ONY"
     },
     {
       "id": "112",
-      "name": "Województwo opolskie, Olesno",
-      "code": "OOL"
+      "description": "Województwo opolskie, Olesno",
+      "region": "OOL"
     },
     {
       "id": "113",
-      "name": "Województwo opolskie, Opole powiat",
-      "code": "OPO"
+      "description": "Województwo opolskie, Opole powiat",
+      "region": "OPO"
     },
     {
       "id": "114",
-      "name": "Województwo opolskie, Prudnik",
-      "code": "OPR"
+      "description": "Województwo opolskie, Prudnik",
+      "region": "OPR"
     },
     {
       "id": "115",
-      "name": "Województwo opolskie, Strzelce Opolskie",
-      "code": "OST"
+      "description": "Województwo opolskie, Strzelce Opolskie",
+      "region": "OST"
     },
     {
       "id": "116",
-      "name": "Województwo podkarpackie, Krosno",
-      "code": "RK"
+      "description": "Województwo podkarpackie, Krosno",
+      "region": "RK"
     },
     {
       "id": "117",
-      "name": "Województwo podkarpackie, Przemyśl",
-      "code": "RP"
+      "description": "Województwo podkarpackie, Przemyśl",
+      "region": "RP"
     },
     {
       "id": "118",
-      "name": "Województwo podkarpackie, Rzeszów",
-      "code": "RZ"
+      "description": "Województwo podkarpackie, Rzeszów",
+      "region": "RZ"
     },
     {
       "id": "119",
-      "name": "Województwo podkarpackie, Tarnobrzeg",
-      "code": "RT"
+      "description": "Województwo podkarpackie, Tarnobrzeg",
+      "region": "RT"
     },
     {
       "id": "120",
-      "name": "Województwo podkarpackie, Ustrzyki Dolne",
-      "code": "RBI"
+      "description": "Województwo podkarpackie, Ustrzyki Dolne",
+      "region": "RBI"
     },
     {
       "id": "121",
-      "name": "Województwo podkarpackie, Brzozów",
-      "code": "RBR"
+      "description": "Województwo podkarpackie, Brzozów",
+      "region": "RBR"
     },
     {
       "id": "122",
-      "name": "Województwo podkarpackie, Dębica",
-      "code": "RDE"
+      "description": "Województwo podkarpackie, Dębica",
+      "region": "RDE"
     },
     {
       "id": "123",
-      "name": "Województwo podkarpackie, Jarosław",
-      "code": "RJA"
+      "description": "Województwo podkarpackie, Jarosław",
+      "region": "RJA"
     },
     {
       "id": "124",
-      "name": "Województwo podkarpackie, Jasło",
-      "code": "RJS"
+      "description": "Województwo podkarpackie, Jasło",
+      "region": "RJS"
     },
     {
       "id": "125",
-      "name": "Województwo podkarpackie, Kolbuszowa",
-      "code": "RKL"
+      "description": "Województwo podkarpackie, Kolbuszowa",
+      "region": "RKL"
     },
     {
       "id": "126",
-      "name": "Województwo podkarpackie, Krosno powiat",
-      "code": "RKR"
+      "description": "Województwo podkarpackie, Krosno powiat",
+      "region": "RKR"
     },
     {
       "id": "127",
-      "name": "Województwo podkarpackie, Leżajsk",
-      "code": "RLE"
+      "description": "Województwo podkarpackie, Leżajsk",
+      "region": "RLE"
     },
     {
       "id": "128",
-      "name": "Województwo podkarpackie, Lubaczów",
-      "code": "RLU"
+      "description": "Województwo podkarpackie, Lubaczów",
+      "region": "RLU"
     },
     {
       "id": "129",
-      "name": "Województwo podkarpackie, Łańcut",
-      "code": "RLA"
+      "description": "Województwo podkarpackie, Łańcut",
+      "region": "RLA"
     },
     {
       "id": "130",
-      "name": "Województwo podkarpackie, Mielec",
-      "code": "RMI"
+      "description": "Województwo podkarpackie, Mielec",
+      "region": "RMI"
     },
     {
       "id": "131",
-      "name": "Województwo podkarpackie, Nisko",
-      "code": "RNI"
+      "description": "Województwo podkarpackie, Nisko",
+      "region": "RNI"
     },
     {
       "id": "132",
-      "name": "Województwo podkarpackie, Przemyśl powiat",
-      "code": "RPR"
+      "description": "Województwo podkarpackie, Przemyśl powiat",
+      "region": "RPR"
     },
     {
       "id": "133",
-      "name": "Województwo podkarpackie, Przeworsk",
-      "code": "RPZ"
+      "description": "Województwo podkarpackie, Przeworsk",
+      "region": "RPZ"
     },
     {
       "id": "134",
-      "name": "Województwo podkarpackie, Ropczyce",
-      "code": "RRS"
+      "description": "Województwo podkarpackie, Ropczyce",
+      "region": "RRS"
     },
     {
       "id": "135",
-      "name": "Województwo podkarpackie, Rzeszów powiat",
-      "code": "RZE"
+      "description": "Województwo podkarpackie, Rzeszów powiat",
+      "region": "RZE"
     },
     {
       "id": "136",
-      "name": "Województwo podkarpackie, Sanok",
-      "code": "RSA"
+      "description": "Województwo podkarpackie, Sanok",
+      "region": "RSA"
     },
     {
       "id": "137",
-      "name": "Województwo podkarpackie, Stalowa Wola",
-      "code": "RST"
+      "description": "Województwo podkarpackie, Stalowa Wola",
+      "region": "RST"
     },
     {
       "id": "138",
-      "name": "Województwo podkarpackie, Strzyżów",
-      "code": "RSR"
+      "description": "Województwo podkarpackie, Strzyżów",
+      "region": "RSR"
     },
     {
       "id": "139",
-      "name": "Województwo podkarpackie, Tarnobrzeg powiat",
-      "code": "RTA"
+      "description": "Województwo podkarpackie, Tarnobrzeg powiat",
+      "region": "RTA"
     },
     {
       "id": "140",
-      "name": "Województwo podlaskie, Białystok",
-      "code": "BI"
+      "description": "Województwo podlaskie, Białystok",
+      "region": "BI"
     },
     {
       "id": "141",
-      "name": "Województwo podlaskie, Łomża",
-      "code": "BL"
+      "description": "Województwo podlaskie, Łomża",
+      "region": "BL"
     },
     {
       "id": "142",
-      "name": "Województwo podlaskie, Suwałki",
-      "code": "BS"
+      "description": "Województwo podlaskie, Suwałki",
+      "region": "BS"
     },
     {
       "id": "143",
-      "name": "Województwo podlaskie, Augustów",
-      "code": "BAU"
+      "description": "Województwo podlaskie, Augustów",
+      "region": "BAU"
     },
     {
       "id": "144",
-      "name": "Województwo podlaskie, Białystok powiat",
-      "code": "BIA"
+      "description": "Województwo podlaskie, Białystok powiat",
+      "region": "BIA"
     },
     {
       "id": "145",
-      "name": "Województwo podlaskie, Bielsk Podlaski",
-      "code": "BBI"
+      "description": "Województwo podlaskie, Bielsk Podlaski",
+      "region": "BBI"
     },
     {
       "id": "146",
-      "name": "Województwo podlaskie, Grajewo",
-      "code": "BGR"
+      "description": "Województwo podlaskie, Grajewo",
+      "region": "BGR"
     },
     {
       "id": "147",
-      "name": "Województwo podlaskie, Hajnówka",
-      "code": "BHA"
+      "description": "Województwo podlaskie, Hajnówka",
+      "region": "BHA"
     },
     {
       "id": "148",
-      "name": "Województwo podlaskie, Kolno",
-      "code": "BKL"
+      "description": "Województwo podlaskie, Kolno",
+      "region": "BKL"
     },
     {
       "id": "149",
-      "name": "Województwo podlaskie, Łomża powiat",
-      "code": "BLM"
+      "description": "Województwo podlaskie, Łomża powiat",
+      "region": "BLM"
     },
     {
       "id": "150",
-      "name": "Województwo podlaskie, Mońki",
-      "code": "BMN"
+      "description": "Województwo podlaskie, Mońki",
+      "region": "BMN"
     },
     {
       "id": "151",
-      "name": "Województwo podlaskie, Sejny",
-      "code": "BSE"
+      "description": "Województwo podlaskie, Sejny",
+      "region": "BSE"
     },
     {
       "id": "152",
-      "name": "Województwo podlaskie, Siemiatycze",
-      "code": "BSI"
+      "description": "Województwo podlaskie, Siemiatycze",
+      "region": "BSI"
     },
     {
       "id": "153",
-      "name": "Województwo podlaskie, Sokółka",
-      "code": "BSK"
+      "description": "Województwo podlaskie, Sokółka",
+      "region": "BSK"
     },
     {
       "id": "154",
-      "name": "Województwo podlaskie, Suwałki powiat",
-      "code": "BSU"
+      "description": "Województwo podlaskie, Suwałki powiat",
+      "region": "BSU"
     },
     {
       "id": "155",
-      "name": "Województwo podlaskie, Wysokie Mazowieckie",
-      "code": "BWM"
+      "description": "Województwo podlaskie, Wysokie Mazowieckie",
+      "region": "BWM"
     },
     {
       "id": "156",
-      "name": "Województwo podlaskie, Zambrów",
-      "code": "BZA"
+      "description": "Województwo podlaskie, Zambrów",
+      "region": "BZA"
     },
     {
       "id": "157",
-      "name": "Województwo pomorskie, Gdańsk",
-      "code": "GD"
+      "description": "Województwo pomorskie, Gdańsk",
+      "region": "GD"
     },
     {
       "id": "158",
-      "name": "Województwo pomorskie, Gdynia",
-      "code": "GA"
+      "description": "Województwo pomorskie, Gdynia",
+      "region": "GA"
     },
     {
       "id": "159",
-      "name": "Województwo pomorskie, Słupsk",
-      "code": "GS"
+      "description": "Województwo pomorskie, Słupsk",
+      "region": "GS"
     },
     {
       "id": "160",
-      "name": "Województwo pomorskie, Sopot",
-      "code": "GSP"
+      "description": "Województwo pomorskie, Sopot",
+      "region": "GSP"
     },
     {
       "id": "161",
-      "name": "Województwo pomorskie, Bytów",
-      "code": "GBY"
+      "description": "Województwo pomorskie, Bytów",
+      "region": "GBY"
     },
     {
       "id": "162",
-      "name": "Województwo pomorskie, Chojnice",
-      "code": "GCH"
+      "description": "Województwo pomorskie, Chojnice",
+      "region": "GCH"
     },
     {
       "id": "163",
-      "name": "Województwo pomorskie, Człuchów",
-      "code": "GCZ"
+      "description": "Województwo pomorskie, Człuchów",
+      "region": "GCZ"
     },
     {
       "id": "164",
-      "name": "Województwo pomorskie, Pruszcz Gdański",
-      "code": "GDA"
+      "description": "Województwo pomorskie, Pruszcz Gdański",
+      "region": "GDA"
     },
     {
       "id": "165",
-      "name": "Województwo pomorskie, Kartuzy",
-      "code": "GKA"
+      "description": "Województwo pomorskie, Kartuzy",
+      "region": "GKA"
     },
     {
       "id": "166",
-      "name": "Województwo pomorskie, Kościerzyna",
-      "code": "GKS"
+      "description": "Województwo pomorskie, Kościerzyna",
+      "region": "GKS"
     },
     {
       "id": "167",
-      "name": "Województwo pomorskie, Kwidzyn",
-      "code": "GKW"
+      "description": "Województwo pomorskie, Kwidzyn",
+      "region": "GKW"
     },
     {
       "id": "168",
-      "name": "Województwo pomorskie, Lębork",
-      "code": "GLE"
+      "description": "Województwo pomorskie, Lębork",
+      "region": "GLE"
     },
     {
       "id": "169",
-      "name": "Województwo pomorskie, Malbork",
-      "code": "GMB"
+      "description": "Województwo pomorskie, Malbork",
+      "region": "GMB"
     },
     {
       "id": "170",
-      "name": "Województwo pomorskie, Nowy Dwór Gdański",
-      "code": "GND"
+      "description": "Województwo pomorskie, Nowy Dwór Gdański",
+      "region": "GND"
     },
     {
       "id": "171",
-      "name": "Województwo pomorskie, Puck",
-      "code": "GPU"
+      "description": "Województwo pomorskie, Puck",
+      "region": "GPU"
     },
     {
       "id": "172",
-      "name": "Województwo pomorskie, Słupsk powiat",
-      "code": "GSL"
+      "description": "Województwo pomorskie, Słupsk powiat",
+      "region": "GSL"
     },
     {
       "id": "173",
-      "name": "Województwo pomorskie, Starogard Gdański",
-      "code": "GST"
+      "description": "Województwo pomorskie, Starogard Gdański",
+      "region": "GST"
     },
     {
       "id": "174",
-      "name": "Województwo pomorskie, Tczew",
-      "code": "GTC"
+      "description": "Województwo pomorskie, Tczew",
+      "region": "GTC"
     },
     {
       "id": "175",
-      "name": "Województwo pomorskie, Wejherowo",
-      "code": "GWE"
+      "description": "Województwo pomorskie, Wejherowo",
+      "region": "GWE"
     },
     {
       "id": "176",
-      "name": "Województwo wielkopolskie, Kalisz",
-      "code": "PK"
+      "description": "Województwo wielkopolskie, Kalisz",
+      "region": "PK"
     },
     {
       "id": "177",
-      "name": "Województwo wielkopolskie, Konin",
-      "code": "PKO"
+      "description": "Województwo wielkopolskie, Konin",
+      "region": "PKO"
     },
     {
       "id": "178",
-      "name": "Województwo wielkopolskie, Leszno",
-      "code": "PL"
+      "description": "Województwo wielkopolskie, Leszno",
+      "region": "PL"
     },
     {
       "id": "179",
-      "name": "Województwo wielkopolskie, Poznań",
-      "code": "PO"
+      "description": "Województwo wielkopolskie, Poznań",
+      "region": "PO"
     },
     {
       "id": "180",
-      "name": "Województwo wielkopolskie, Chodzież",
-      "code": "PCH"
+      "description": "Województwo wielkopolskie, Chodzież",
+      "region": "PCH"
     },
     {
       "id": "181",
-      "name": "Województwo wielkopolskie, Czarnków",
-      "code": "PCT"
+      "description": "Województwo wielkopolskie, Czarnków",
+      "region": "PCT"
     },
     {
       "id": "182",
-      "name": "Województwo wielkopolskie, Gniezno",
-      "code": "PGN"
+      "description": "Województwo wielkopolskie, Gniezno",
+      "region": "PGN"
     },
     {
       "id": "183",
-      "name": "Województwo wielkopolskie, Gostyń",
-      "code": "PGS"
+      "description": "Województwo wielkopolskie, Gostyń",
+      "region": "PGS"
     },
     {
       "id": "184",
-      "name": "Województwo wielkopolskie, Grodzisk Wielkopolski",
-      "code": "PGO"
+      "description": "Województwo wielkopolskie, Grodzisk Wielkopolski",
+      "region": "PGO"
     },
     {
       "id": "185",
-      "name": "Województwo wielkopolskie, Jarocin",
-      "code": "PJA"
+      "description": "Województwo wielkopolskie, Jarocin",
+      "region": "PJA"
     },
     {
       "id": "186",
-      "name": "Województwo wielkopolskie, Kalisz powiat",
-      "code": "PKA"
+      "description": "Województwo wielkopolskie, Kalisz powiat",
+      "region": "PKA"
     },
     {
       "id": "187",
-      "name": "Województwo wielkopolskie, Kępno",
-      "code": "PKE"
+      "description": "Województwo wielkopolskie, Kępno",
+      "region": "PKE"
     },
     {
       "id": "188",
-      "name": "Województwo wielkopolskie, Koło",
-      "code": "PKL"
+      "description": "Województwo wielkopolskie, Koło",
+      "region": "PKL"
     },
     {
       "id": "189",
-      "name": "Województwo wielkopolskie, Konin powiat",
-      "code": "PKN"
+      "description": "Województwo wielkopolskie, Konin powiat",
+      "region": "PKN"
     },
     {
       "id": "190",
-      "name": "Województwo wielkopolskie, Kościan",
-      "code": "PKS"
+      "description": "Województwo wielkopolskie, Kościan",
+      "region": "PKS"
     },
     {
       "id": "191",
-      "name": "Województwo wielkopolskie, Krotoszyn",
-      "code": "PKR"
+      "description": "Województwo wielkopolskie, Krotoszyn",
+      "region": "PKR"
     },
     {
       "id": "192",
-      "name": "Województwo wielkopolskie, Leszno powiat",
-      "code": "PLE"
+      "description": "Województwo wielkopolskie, Leszno powiat",
+      "region": "PLE"
     },
     {
       "id": "193",
-      "name": "Województwo wielkopolskie, Międzychód",
-      "code": "PMI"
+      "description": "Województwo wielkopolskie, Międzychód",
+      "region": "PMI"
     },
     {
       "id": "194",
-      "name": "Województwo wielkopolskie, Nowy Tomyśl",
-      "code": "PNT"
+      "description": "Województwo wielkopolskie, Nowy Tomyśl",
+      "region": "PNT"
     },
     {
       "id": "195",
-      "name": "Województwo wielkopolskie, Oborniki",
-      "code": "POB"
+      "description": "Województwo wielkopolskie, Oborniki",
+      "region": "POB"
     },
     {
       "id": "196",
-      "name": "Województwo wielkopolskie, Ostrów Wielkopolski",
-      "code": "POS"
+      "description": "Województwo wielkopolskie, Ostrów Wielkopolski",
+      "region": "POS"
     },
     {
       "id": "197",
-      "name": "Województwo wielkopolskie, Ostrzeszów",
-      "code": "POT"
+      "description": "Województwo wielkopolskie, Ostrzeszów",
+      "region": "POT"
     },
     {
       "id": "198",
-      "name": "Województwo wielkopolskie, Piła",
-      "code": "PP"
+      "description": "Województwo wielkopolskie, Piła",
+      "region": "PP"
     },
     {
       "id": "199",
-      "name": "Województwo wielkopolskie, Pleszew",
-      "code": "PPL"
+      "description": "Województwo wielkopolskie, Pleszew",
+      "region": "PPL"
     },
     {
       "id": "200",
-      "name": "Województwo wielkopolskie, Poznań powiat",
-      "code": "POZ"
+      "description": "Województwo wielkopolskie, Poznań powiat",
+      "region": "POZ"
     },
     {
       "id": "201",
-      "name": "Województwo wielkopolskie, Rawicz",
-      "code": "PRA"
+      "description": "Województwo wielkopolskie, Rawicz",
+      "region": "PRA"
     },
     {
       "id": "202",
-      "name": "Województwo wielkopolskie, Słupca",
-      "code": "PSL"
+      "description": "Województwo wielkopolskie, Słupca",
+      "region": "PSL"
     },
     {
       "id": "203",
-      "name": "Województwo wielkopolskie, Szamotuły",
-      "code": "PSZ"
+      "description": "Województwo wielkopolskie, Szamotuły",
+      "region": "PSZ"
     },
     {
       "id": "204",
-      "name": "Województwo wielkopolskie, Środa Wielkopolska",
-      "code": "PSR"
+      "description": "Województwo wielkopolskie, Środa Wielkopolska",
+      "region": "PSR"
     },
     {
       "id": "205",
-      "name": "Województwo wielkopolskie, Śrem",
-      "code": "PSE"
+      "description": "Województwo wielkopolskie, Śrem",
+      "region": "PSE"
     },
     {
       "id": "206",
-      "name": "Województwo wielkopolskie, Turek",
-      "code": "PTU"
+      "description": "Województwo wielkopolskie, Turek",
+      "region": "PTU"
     },
     {
       "id": "207",
-      "name": "Województwo wielkopolskie, Wągrowiec",
-      "code": "PWA"
+      "description": "Województwo wielkopolskie, Wągrowiec",
+      "region": "PWA"
     },
     {
       "id": "208",
-      "name": "Województwo wielkopolskie, Wolsztyn",
-      "code": "PWL"
+      "description": "Województwo wielkopolskie, Wolsztyn",
+      "region": "PWL"
     },
     {
       "id": "209",
-      "name": "Województwo wielkopolskie, Września",
-      "code": "PWR"
+      "description": "Województwo wielkopolskie, Września",
+      "region": "PWR"
     },
     {
       "id": "210",
-      "name": "Województwo wielkopolskie, Złotów",
-      "code": "PZL"
+      "description": "Województwo wielkopolskie, Złotów",
+      "region": "PZL"
     },
     {
       "id": "211",
-      "name": "Województwo zachodniopomorskie, Koszalin",
-      "code": "ZK"
+      "description": "Województwo zachodniopomorskie, Koszalin",
+      "region": "ZK"
     },
     {
       "id": "212",
-      "name": "Województwo zachodniopomorskie, Szczecin",
-      "code": "ZS"
+      "description": "Województwo zachodniopomorskie, Szczecin",
+      "region": "ZS"
     },
     {
       "id": "213",
-      "name": "Województwo zachodniopomorskie, Świnoujście",
-      "code": "ZSW"
+      "description": "Województwo zachodniopomorskie, Świnoujście",
+      "region": "ZSW"
     },
     {
       "id": "214",
-      "name": "Województwo zachodniopomorskie, Białogard",
-      "code": "ZBI"
+      "description": "Województwo zachodniopomorskie, Białogard",
+      "region": "ZBI"
     },
     {
       "id": "215",
-      "name": "Województwo zachodniopomorskie, Choszczno",
-      "code": "ZCH"
+      "description": "Województwo zachodniopomorskie, Choszczno",
+      "region": "ZCH"
     },
     {
       "id": "216",
-      "name": "Województwo zachodniopomorskie, Drawsko",
-      "code": "ZDR"
+      "description": "Województwo zachodniopomorskie, Drawsko",
+      "region": "ZDR"
     },
     {
       "id": "217",
-      "name": "Województwo zachodniopomorskie, Goleniów",
-      "code": "ZGL"
+      "description": "Województwo zachodniopomorskie, Goleniów",
+      "region": "ZGL"
     },
     {
       "id": "218",
-      "name": "Województwo zachodniopomorskie, Gryfice",
-      "code": "ZGY"
+      "description": "Województwo zachodniopomorskie, Gryfice",
+      "region": "ZGY"
     },
     {
       "id": "219",
-      "name": "Województwo zachodniopomorskie, Gryfino",
-      "code": "ZGR"
+      "description": "Województwo zachodniopomorskie, Gryfino",
+      "region": "ZGR"
     },
     {
       "id": "220",
-      "name": "Województwo zachodniopomorskie, Kamień Pomorski",
-      "code": "ZKA"
+      "description": "Województwo zachodniopomorskie, Kamień Pomorski",
+      "region": "ZKA"
     },
     {
       "id": "221",
-      "name": "Województwo zachodniopomorskie, Kołobrzeg",
-      "code": "ZKL"
+      "description": "Województwo zachodniopomorskie, Kołobrzeg",
+      "region": "ZKL"
     },
     {
       "id": "222",
-      "name": "Województwo zachodniopomorskie, Koszalin powiat",
-      "code": "ZKO"
+      "description": "Województwo zachodniopomorskie, Koszalin powiat",
+      "region": "ZKO"
     },
     {
       "id": "223",
-      "name": "Województwo zachodniopomorskie, Myślibórz",
-      "code": "ZMY"
+      "description": "Województwo zachodniopomorskie, Myślibórz",
+      "region": "ZMY"
     },
     {
       "id": "224",
-      "name": "Województwo zachodniopomorskie, Police",
-      "code": "ZPL"
+      "description": "Województwo zachodniopomorskie, Police",
+      "region": "ZPL"
     },
     {
       "id": "225",
-      "name": "Województwo zachodniopomorskie, Pyrzyce",
-      "code": "ZPY"
+      "description": "Województwo zachodniopomorskie, Pyrzyce",
+      "region": "ZPY"
     },
     {
       "id": "226",
-      "name": "Województwo zachodniopomorskie, Sławno",
-      "code": "ZSL"
+      "description": "Województwo zachodniopomorskie, Sławno",
+      "region": "ZSL"
     },
     {
       "id": "227",
-      "name": "Województwo zachodniopomorskie, Stargard Szczeciński",
-      "code": "ZST"
+      "description": "Województwo zachodniopomorskie, Stargard Szczeciński",
+      "region": "ZST"
     },
     {
       "id": "228",
-      "name": "Województwo zachodniopomorskie, Szczecinek",
-      "code": "ZSZ"
+      "description": "Województwo zachodniopomorskie, Szczecinek",
+      "region": "ZSZ"
     },
     {
       "id": "229",
-      "name": "Województwo zachodniopomorskie, Świdwin",
-      "code": "ZSD"
+      "description": "Województwo zachodniopomorskie, Świdwin",
+      "region": "ZSD"
     },
     {
       "id": "230",
-      "name": "Województwo zachodniopomorskie, Wałcz",
-      "code": "ZWA"
+      "description": "Województwo zachodniopomorskie, Wałcz",
+      "region": "ZWA"
     },
     {
       "id": "231",
-      "name": "Województwo dolnośląskie, Jelenia Góra",
-      "code": "DJ"
+      "description": "Województwo dolnośląskie, Jelenia Góra",
+      "region": "DJ"
     },
     {
       "id": "232",
-      "name": "Województwo dolnośląskie, Legnica",
-      "code": "DL"
+      "description": "Województwo dolnośląskie, Legnica",
+      "region": "DL"
     },
     {
       "id": "233",
-      "name": "Województwo dolnośląskie, Wałbrzych",
-      "code": "DB"
+      "description": "Województwo dolnośląskie, Wałbrzych",
+      "region": "DB"
     },
     {
       "id": "234",
-      "name": "Województwo dolnośląskie, Wrocław",
-      "code": "DW"
+      "description": "Województwo dolnośląskie, Wrocław",
+      "region": "DW"
     },
     {
       "id": "235",
-      "name": "Województwo dolnośląskie, Bolesławiec",
-      "code": "DBL"
+      "description": "Województwo dolnośląskie, Bolesławiec",
+      "region": "DBL"
     },
     {
       "id": "236",
-      "name": "Województwo dolnośląskie, Dzierżoniów",
-      "code": "DDZ"
+      "description": "Województwo dolnośląskie, Dzierżoniów",
+      "region": "DDZ"
     },
     {
       "id": "237",
-      "name": "Województwo dolnośląskie, Głogów",
-      "code": "DGL"
+      "description": "Województwo dolnośląskie, Głogów",
+      "region": "DGL"
     },
     {
       "id": "238",
-      "name": "Województwo dolnośląskie, Góra",
-      "code": "DGR"
+      "description": "Województwo dolnośląskie, Góra",
+      "region": "DGR"
     },
     {
       "id": "239",
-      "name": "Województwo dolnośląskie, Jawor",
-      "code": "DJA"
+      "description": "Województwo dolnośląskie, Jawor",
+      "region": "DJA"
     },
     {
       "id": "240",
-      "name": "Województwo dolnośląskie, Jelenia Góra powiat",
-      "code": "DJE"
+      "description": "Województwo dolnośląskie, Jelenia Góra powiat",
+      "region": "DJE"
     },
     {
       "id": "241",
-      "name": "Województwo dolnośląskie, Kamienna Góra",
-      "code": "DKA"
+      "description": "Województwo dolnośląskie, Kamienna Góra",
+      "region": "DKA"
     },
     {
       "id": "242",
-      "name": "Województwo dolnośląskie, Kłodzko",
-      "code": "DKL"
+      "description": "Województwo dolnośląskie, Kłodzko",
+      "region": "DKL"
     },
     {
       "id": "243",
-      "name": "Województwo dolnośląskie, Legnica powiat",
-      "code": "DLE"
+      "description": "Województwo dolnośląskie, Legnica powiat",
+      "region": "DLE"
     },
     {
       "id": "244",
-      "name": "Województwo dolnośląskie, Lubań",
-      "code": "DLB"
+      "description": "Województwo dolnośląskie, Lubań",
+      "region": "DLB"
     },
     {
       "id": "245",
-      "name": "Województwo dolnośląskie, Lubin",
-      "code": "DLU"
+      "description": "Województwo dolnośląskie, Lubin",
+      "region": "DLU"
     },
     {
       "id": "246",
-      "name": "Województwo dolnośląskie, Lwówek",
-      "code": "DLW"
+      "description": "Województwo dolnośląskie, Lwówek",
+      "region": "DLW"
     },
     {
       "id": "247",
-      "name": "Województwo dolnośląskie, Milicz",
-      "code": "DMI"
+      "description": "Województwo dolnośląskie, Milicz",
+      "region": "DMI"
     },
     {
       "id": "248",
-      "name": "Województwo dolnośląskie, Oleśnica",
-      "code": "DOL"
+      "description": "Województwo dolnośląskie, Oleśnica",
+      "region": "DOL"
     },
     {
       "id": "249",
-      "name": "Województwo dolnośląskie, Oława",
-      "code": "DOA"
+      "description": "Województwo dolnośląskie, Oława",
+      "region": "DOA"
     },
     {
       "id": "250",
-      "name": "Województwo dolnośląskie, Polkowice",
-      "code": "DPL"
+      "description": "Województwo dolnośląskie, Polkowice",
+      "region": "DPL"
     },
     {
       "id": "251",
-      "name": "Województwo dolnośląskie, Strzelin",
-      "code": "DST"
+      "description": "Województwo dolnośląskie, Strzelin",
+      "region": "DST"
     },
     {
       "id": "252",
-      "name": "Województwo dolnośląskie, Środa Śląska",
-      "code": "DSR"
+      "description": "Województwo dolnośląskie, Środa Śląska",
+      "region": "DSR"
     },
     {
       "id": "253",
-      "name": "Województwo dolnośląskie, Świdnica",
-      "code": "DSW"
+      "description": "Województwo dolnośląskie, Świdnica",
+      "region": "DSW"
     },
     {
       "id": "254",
-      "name": "Województwo dolnośląskie, Trzebnica",
-      "code": "DTR"
+      "description": "Województwo dolnośląskie, Trzebnica",
+      "region": "DTR"
     },
     {
       "id": "255",
-      "name": "Województwo dolnośląskie, Wałbrzych powiat",
-      "code": "DBA"
+      "description": "Województwo dolnośląskie, Wałbrzych powiat",
+      "region": "DBA"
     },
     {
       "id": "256",
-      "name": "Województwo dolnośląskie, Wołów",
-      "code": "DWL"
+      "description": "Województwo dolnośląskie, Wołów",
+      "region": "DWL"
     },
     {
       "id": "257",
-      "name": "Województwo dolnośląskie, Wrocław powiat",
-      "code": "DWR"
+      "description": "Województwo dolnośląskie, Wrocław powiat",
+      "region": "DWR"
     },
     {
       "id": "258",
-      "name": "Województwo dolnośląskie, Ząbkowice",
-      "code": "DZA"
+      "description": "Województwo dolnośląskie, Ząbkowice",
+      "region": "DZA"
     },
     {
       "id": "259",
-      "name": "Województwo dolnośląskie, Zgorzelec",
-      "code": "DZG"
+      "description": "Województwo dolnośląskie, Zgorzelec",
+      "region": "DZG"
     },
     {
       "id": "260",
-      "name": "Województwo dolnośląskie, Złotoryja",
-      "code": "DZL"
+      "description": "Województwo dolnośląskie, Złotoryja",
+      "region": "DZL"
     },
     {
       "id": "261",
-      "name": "Województwo kujawsko-pomorskie, Świecie",
-      "code": "CSW"
+      "description": "Województwo kujawsko-pomorskie, Świecie",
+      "region": "CSW"
     },
     {
       "id": "262",
-      "name": "Województwo kujawsko-pomorskie, Toruń powiat",
-      "code": "CTR"
+      "description": "Województwo kujawsko-pomorskie, Toruń powiat",
+      "region": "CTR"
     },
     {
       "id": "263",
-      "name": "Województwo kujawsko-pomorskie, Tuchola",
-      "code": "CTU"
+      "description": "Województwo kujawsko-pomorskie, Tuchola",
+      "region": "CTU"
     },
     {
       "id": "264",
-      "name": "Województwo kujawsko-pomorskie, Wąbrzeźno",
-      "code": "CWA"
+      "description": "Województwo kujawsko-pomorskie, Wąbrzeźno",
+      "region": "CWA"
     },
     {
       "id": "265",
-      "name": "Województwo kujawsko-pomorskie, Włocławek powiat",
-      "code": "CWL"
+      "description": "Województwo kujawsko-pomorskie, Włocławek powiat",
+      "region": "CWL"
     },
     {
       "id": "266",
-      "name": "Województwo kujawsko-pomorskie, Żnin",
-      "code": "CZN"
+      "description": "Województwo kujawsko-pomorskie, Żnin",
+      "region": "CZN"
     },
     {
       "id": "267",
-      "name": "Województwo kujawsko-pomorskie, Bydgoszcz",
-      "code": "CB"
+      "description": "Województwo kujawsko-pomorskie, Bydgoszcz",
+      "region": "CB"
     },
     {
       "id": "268",
-      "name": "Województwo kujawsko-pomorskie, Grudziądz",
-      "code": "CG"
+      "description": "Województwo kujawsko-pomorskie, Grudziądz",
+      "region": "CG"
     },
     {
       "id": "269",
-      "name": "Województwo kujawsko-pomorskie, Toruń",
-      "code": "CT"
+      "description": "Województwo kujawsko-pomorskie, Toruń",
+      "region": "CT"
     },
     {
       "id": "270",
-      "name": "Województwo kujawsko-pomorskie, Włocławek",
-      "code": "CW"
+      "description": "Województwo kujawsko-pomorskie, Włocławek",
+      "region": "CW"
     },
     {
       "id": "271",
-      "name": "Województwo kujawsko-pomorskie, Aleksandrów Kujawski",
-      "code": "CAL"
+      "description": "Województwo kujawsko-pomorskie, Aleksandrów Kujawski",
+      "region": "CAL"
     },
     {
       "id": "272",
-      "name": "Województwo kujawsko-pomorskie, Brodnica",
-      "code": "CBR"
+      "description": "Województwo kujawsko-pomorskie, Brodnica",
+      "region": "CBR"
     },
     {
       "id": "273",
-      "name": "Województwo kujawsko-pomorskie, Bydgoszcz powiat",
-      "code": "CBY"
+      "description": "Województwo kujawsko-pomorskie, Bydgoszcz powiat",
+      "region": "CBY"
     },
     {
       "id": "274",
-      "name": "Województwo kujawsko-pomorskie, Chełmno",
-      "code": "CCH"
+      "description": "Województwo kujawsko-pomorskie, Chełmno",
+      "region": "CCH"
     },
     {
       "id": "275",
-      "name": "Województwo kujawsko-pomorskie, Golub-Dobrzyń",
-      "code": "CGD"
+      "description": "Województwo kujawsko-pomorskie, Golub-Dobrzyń",
+      "region": "CGD"
     },
     {
       "id": "276",
-      "name": "Województwo kujawsko-pomorskie, Grudziądz powiat",
-      "code": "CGR"
+      "description": "Województwo kujawsko-pomorskie, Grudziądz powiat",
+      "region": "CGR"
     },
     {
       "id": "277",
-      "name": "Województwo kujawsko-pomorskie, Inowrocław",
-      "code": "CIN"
+      "description": "Województwo kujawsko-pomorskie, Inowrocław",
+      "region": "CIN"
     },
     {
       "id": "278",
-      "name": "Województwo kujawsko-pomorskie, Lipno",
-      "code": "CLI"
+      "description": "Województwo kujawsko-pomorskie, Lipno",
+      "region": "CLI"
     },
     {
       "id": "279",
-      "name": "Województwo kujawsko-pomorskie, Mogilno",
-      "code": "CMG"
+      "description": "Województwo kujawsko-pomorskie, Mogilno",
+      "region": "CMG"
     },
     {
       "id": "280",
-      "name": "Województwo kujawsko-pomorskie, Nakło nad Notecią",
-      "code": "CNA"
+      "description": "Województwo kujawsko-pomorskie, Nakło nad Notecią",
+      "region": "CNA"
     },
     {
       "id": "281",
-      "name": "Województwo kujawsko-pomorskie, Radziejów",
-      "code": "CRA"
+      "description": "Województwo kujawsko-pomorskie, Radziejów",
+      "region": "CRA"
     },
     {
       "id": "282",
-      "name": "Województwo kujawsko-pomorskie, Rypin",
-      "code": "CRY"
+      "description": "Województwo kujawsko-pomorskie, Rypin",
+      "region": "CRY"
     },
     {
       "id": "283",
-      "name": "Województwo kujawsko-pomorskie, Sępólno Krajeńskie",
-      "code": "CSE"
+      "description": "Województwo kujawsko-pomorskie, Sępólno Krajeńskie",
+      "region": "CSE"
     },
     {
       "id": "284",
-      "name": "Województwo łódzkie, Łódź",
-      "code": "EL"
+      "description": "Województwo łódzkie, Łódź",
+      "region": "EL"
     },
     {
       "id": "285",
-      "name": "Województwo łódzkie, Piotrków Trybunalski",
-      "code": "EP"
+      "description": "Województwo łódzkie, Piotrków Trybunalski",
+      "region": "EP"
     },
     {
       "id": "286",
-      "name": "Województwo łódzkie, Skierniewice",
-      "code": "ES"
+      "description": "Województwo łódzkie, Skierniewice",
+      "region": "ES"
     },
     {
       "id": "287",
-      "name": "Województwo łódzkie, Bełchatów",
-      "code": "EBE"
+      "description": "Województwo łódzkie, Bełchatów",
+      "region": "EBE"
     },
     {
       "id": "289",
-      "name": "Województwo łódzkie, Kutno",
-      "code": "EKU"
+      "description": "Województwo łódzkie, Kutno",
+      "region": "EKU"
     },
     {
       "id": "290",
-      "name": "Województwo łódzkie, Łask",
-      "code": "ELA"
+      "description": "Województwo łódzkie, Łask",
+      "region": "ELA"
     },
     {
       "id": "291",
-      "name": "Województwo łódzkie, Łęczyca",
-      "code": "ELE"
+      "description": "Województwo łódzkie, Łęczyca",
+      "region": "ELE"
     },
     {
       "id": "292",
-      "name": "Województwo łódzkie, Łowicz",
-      "code": "ELC"
+      "description": "Województwo łódzkie, Łowicz",
+      "region": "ELC"
     },
     {
       "id": "293",
-      "name": "Województwo łódzkie, Łódź powiat",
-      "code": "ELW"
+      "description": "Województwo łódzkie, Łódź powiat",
+      "region": "ELW"
     },
     {
       "id": "294",
-      "name": "Województwo łódzkie, Opoczno",
-      "code": "EOP"
+      "description": "Województwo łódzkie, Opoczno",
+      "region": "EOP"
     },
     {
       "id": "295",
-      "name": "Województwo łódzkie, Pabianice",
-      "code": "EPA"
+      "description": "Województwo łódzkie, Pabianice",
+      "region": "EPA"
     },
     {
       "id": "296",
-      "name": "Województwo łódzkie, Pajęczno",
-      "code": "EPJ"
+      "description": "Województwo łódzkie, Pajęczno",
+      "region": "EPJ"
     },
     {
       "id": "297",
-      "name": "Województwo łódzkie, Piotrków Trybunalski powiat",
-      "code": "EPI"
+      "description": "Województwo łódzkie, Piotrków Trybunalski powiat",
+      "region": "EPI"
     },
     {
       "id": "298",
-      "name": "Województwo łódzkie, Poddębice",
-      "code": "EPD"
+      "description": "Województwo łódzkie, Poddębice",
+      "region": "EPD"
     },
     {
       "id": "299",
-      "name": "Województwo łódzkie, Radomsko",
-      "code": "ERA"
+      "description": "Województwo łódzkie, Radomsko",
+      "region": "ERA"
     },
     {
       "id": "300",
-      "name": "Województwo łódzkie, Rawa Mazowiecka",
-      "code": "ERW"
+      "description": "Województwo łódzkie, Rawa Mazowiecka",
+      "region": "ERW"
     },
     {
       "id": "301",
-      "name": "Województwo łódzkie, Sieradz",
-      "code": "ESI"
+      "description": "Województwo łódzkie, Sieradz",
+      "region": "ESI"
     },
     {
       "id": "302",
-      "name": "Województwo łódzkie, Skierniewice powiat",
-      "code": "ESK"
+      "description": "Województwo łódzkie, Skierniewice powiat",
+      "region": "ESK"
     },
     {
       "id": "303",
-      "name": "Województwo łódzkie, Tomaszów Mazowiecki",
-      "code": "ETM"
+      "description": "Województwo łódzkie, Tomaszów Mazowiecki",
+      "region": "ETM"
     },
     {
       "id": "304",
-      "name": "Województwo łódzkie, Wieluń",
-      "code": "EWI"
+      "description": "Województwo łódzkie, Wieluń",
+      "region": "EWI"
     },
     {
       "id": "305",
-      "name": "Województwo łódzkie, Wieruszów",
-      "code": "EWE"
+      "description": "Województwo łódzkie, Wieruszów",
+      "region": "EWE"
     },
     {
       "id": "306",
-      "name": "Województwo łódzkie, Zduńska Wola",
-      "code": "EZD"
+      "description": "Województwo łódzkie, Zduńska Wola",
+      "region": "EZD"
     },
     {
       "id": "307",
-      "name": "Województwo łódzkie, Zgierz",
-      "code": "EZG"
+      "description": "Województwo łódzkie, Zgierz",
+      "region": "EZG"
     },
     {
       "id": "308",
-      "name": "Województwo małopolskie, Kraków",
-      "code": "KR"
+      "description": "Województwo małopolskie, Kraków",
+      "region": "KR"
     },
     {
       "id": "309",
-      "name": "Województwo małopolskie, Nowy Sącz",
-      "code": "KN"
+      "description": "Województwo małopolskie, Nowy Sącz",
+      "region": "KN"
     },
     {
       "id": "310",
-      "name": "Województwo małopolskie, Tarnów",
-      "code": "KT"
+      "description": "Województwo małopolskie, Tarnów",
+      "region": "KT"
     },
     {
       "id": "311",
-      "name": "Województwo małopolskie, Bochnia",
-      "code": "KBC"
+      "description": "Województwo małopolskie, Bochnia",
+      "region": "KBC"
     },
     {
       "id": "312",
-      "name": "Województwo małopolskie, Brzesko",
-      "code": "KBR"
+      "description": "Województwo małopolskie, Brzesko",
+      "region": "KBR"
     },
     {
       "id": "313",
-      "name": "Województwo małopolskie, Chrzanów",
-      "code": "KCH"
+      "description": "Województwo małopolskie, Chrzanów",
+      "region": "KCH"
     },
     {
       "id": "314",
-      "name": "Województwo małopolskie, Dąbrowa Tarnowska",
-      "code": "KDA"
+      "description": "Województwo małopolskie, Dąbrowa Tarnowska",
+      "region": "KDA"
     },
     {
       "id": "315",
-      "name": "Województwo małopolskie, Gorlice",
-      "code": "KGR"
+      "description": "Województwo małopolskie, Gorlice",
+      "region": "KGR"
     },
     {
       "id": "316",
-      "name": "Województwo małopolskie, Kraków powiat",
-      "code": "KRA"
+      "description": "Województwo małopolskie, Kraków powiat",
+      "region": "KRA"
     },
     {
       "id": "317",
-      "name": "Województwo małopolskie, Limanowa",
-      "code": "KLI"
+      "description": "Województwo małopolskie, Limanowa",
+      "region": "KLI"
     },
     {
       "id": "318",
-      "name": "Województwo małopolskie, Miechów",
-      "code": "KMI"
+      "description": "Województwo małopolskie, Miechów",
+      "region": "KMI"
     },
     {
       "id": "319",
-      "name": "Województwo małopolskie, Myślenice",
-      "code": "KMY"
+      "description": "Województwo małopolskie, Myślenice",
+      "region": "KMY"
     },
     {
       "id": "320",
-      "name": "Województwo małopolskie, Nowy Sącz powiat",
-      "code": "KNS"
+      "description": "Województwo małopolskie, Nowy Sącz powiat",
+      "region": "KNS"
     },
     {
       "id": "321",
-      "name": "Województwo małopolskie, Nowy Targ",
-      "code": "KNT"
+      "description": "Województwo małopolskie, Nowy Targ",
+      "region": "KNT"
     },
     {
       "id": "322",
-      "name": "Województwo małopolskie, Olkusz",
-      "code": "KOL"
+      "description": "Województwo małopolskie, Olkusz",
+      "region": "KOL"
     },
     {
       "id": "323",
-      "name": "Województwo małopolskie, Oświęcim",
-      "code": "KOS"
+      "description": "Województwo małopolskie, Oświęcim",
+      "region": "KOS"
     },
     {
       "id": "324",
-      "name": "Województwo małopolskie, Proszowice",
-      "code": "KPR"
+      "description": "Województwo małopolskie, Proszowice",
+      "region": "KPR"
     },
     {
       "id": "325",
-      "name": "Województwo małopolskie, Sucha Beskidzka",
-      "code": "KSU"
+      "description": "Województwo małopolskie, Sucha Beskidzka",
+      "region": "KSU"
     },
     {
       "id": "326",
-      "name": "Województwo małopolskie, Tarnów powiat",
-      "code": "KTA"
+      "description": "Województwo małopolskie, Tarnów powiat",
+      "region": "KTA"
     },
     {
       "id": "327",
-      "name": "Województwo małopolskie, Zakopane",
-      "code": "KTT"
+      "description": "Województwo małopolskie, Zakopane",
+      "region": "KTT"
     },
     {
       "id": "328",
-      "name": "Województwo małopolskie, Wadowice",
-      "code": "KWA"
+      "description": "Województwo małopolskie, Wadowice",
+      "region": "KWA"
     },
     {
       "id": "329",
-      "name": "Województwo małopolskie, Wieliczka",
-      "code": "KWI"
+      "description": "Województwo małopolskie, Wieliczka",
+      "region": "KWI"
     },
     {
       "id": "330",
-      "name": "Województwo śląskie, Bielsko-Biała",
-      "code": "SB"
+      "description": "Województwo śląskie, Bielsko-Biała",
+      "region": "SB"
     },
     {
       "id": "331",
-      "name": "Województwo śląskie, Bytom",
-      "code": "SY"
+      "description": "Województwo śląskie, Bytom",
+      "region": "SY"
     },
     {
       "id": "332",
-      "name": "Województwo śląskie, Chorzów",
-      "code": "SH"
+      "description": "Województwo śląskie, Chorzów",
+      "region": "SH"
     },
     {
       "id": "333",
-      "name": "Województwo śląskie, Częstochowa",
-      "code": "SC"
+      "description": "Województwo śląskie, Częstochowa",
+      "region": "SC"
     },
     {
       "id": "334",
-      "name": "Województwo śląskie, Dąbrowa Górnicza",
-      "code": "SD"
+      "description": "Województwo śląskie, Dąbrowa Górnicza",
+      "region": "SD"
     },
     {
       "id": "335",
-      "name": "Województwo śląskie, Gliwice",
-      "code": "SG"
+      "description": "Województwo śląskie, Gliwice",
+      "region": "SG"
     },
     {
       "id": "336",
-      "name": "Województwo śląskie, Jastrzębie Zdrój",
-      "code": "SJZ"
+      "description": "Województwo śląskie, Jastrzębie Zdrój",
+      "region": "SJZ"
     },
     {
       "id": "337",
-      "name": "Województwo śląskie, Jaworzno",
-      "code": "SJ"
+      "description": "Województwo śląskie, Jaworzno",
+      "region": "SJ"
     },
     {
       "id": "338",
-      "name": "Województwo śląskie, Katowice",
-      "code": "SK"
+      "description": "Województwo śląskie, Katowice",
+      "region": "SK"
     },
     {
       "id": "339",
-      "name": "Województwo śląskie, Mysłowice",
-      "code": "SM"
+      "description": "Województwo śląskie, Mysłowice",
+      "region": "SM"
     },
     {
       "id": "340",
-      "name": "Województwo śląskie, Piekary Śląskie",
-      "code": "SPI"
+      "description": "Województwo śląskie, Piekary Śląskie",
+      "region": "SPI"
     },
     {
       "id": "341",
-      "name": "Województwo śląskie, Ruda Śląska",
-      "code": "SRS"
+      "description": "Województwo śląskie, Ruda Śląska",
+      "region": "SRS"
     },
     {
       "id": "342",
-      "name": "Województwo śląskie, Rybnik miasto",
-      "code": "SR"
+      "description": "Województwo śląskie, Rybnik miasto",
+      "region": "SR"
     },
     {
       "id": "343",
-      "name": "Województwo śląskie, Siemianowice Śląskie",
-      "code": "SI"
+      "description": "Województwo śląskie, Siemianowice Śląskie",
+      "region": "SI"
     },
     {
       "id": "344",
-      "name": "Województwo śląskie, Sosnowiec",
-      "code": "SO"
+      "description": "Województwo śląskie, Sosnowiec",
+      "region": "SO"
     },
     {
       "id": "345",
-      "name": "Województwo śląskie, Swiętochłowice",
-      "code": "SW"
+      "description": "Województwo śląskie, Swiętochłowice",
+      "region": "SW"
     },
     {
       "id": "346",
-      "name": "Województwo śląskie, Tychy miasto",
-      "code": "ST"
+      "description": "Województwo śląskie, Tychy miasto",
+      "region": "ST"
     },
     {
       "id": "347",
-      "name": "Województwo śląskie, Zabrze",
-      "code": "SZ"
+      "description": "Województwo śląskie, Zabrze",
+      "region": "SZ"
     },
     {
       "id": "348",
-      "name": "Województwo śląskie, Żory",
-      "code": "SZO"
+      "description": "Województwo śląskie, Żory",
+      "region": "SZO"
     },
     {
       "id": "349",
-      "name": "Województwo śląskie, Będzin",
-      "code": "SBE"
+      "description": "Województwo śląskie, Będzin",
+      "region": "SBE"
     },
     {
       "id": "350",
-      "name": "Województwo śląskie, Bielsko-Biała powiat",
-      "code": "SBI"
+      "description": "Województwo śląskie, Bielsko-Biała powiat",
+      "region": "SBI"
     },
     {
       "id": "351",
-      "name": "Województwo śląskie, Cieszyn",
-      "code": "SCI"
+      "description": "Województwo śląskie, Cieszyn",
+      "region": "SCI"
     },
     {
       "id": "352",
-      "name": "Województwo śląskie, Częstochowa powiat",
-      "code": "SCZ"
+      "description": "Województwo śląskie, Częstochowa powiat",
+      "region": "SCZ"
     },
     {
       "id": "353",
-      "name": "Województwo śląskie, Gliwice powiat",
-      "code": "SGL"
+      "description": "Województwo śląskie, Gliwice powiat",
+      "region": "SGL"
     },
     {
       "id": "354",
-      "name": "Województwo śląskie, Kłobuck",
-      "code": "SKL"
+      "description": "Województwo śląskie, Kłobuck",
+      "region": "SKL"
     },
     {
       "id": "355",
-      "name": "Województwo śląskie, Lubliniec",
-      "code": "SLU"
+      "description": "Województwo śląskie, Lubliniec",
+      "region": "SLU"
     },
     {
       "id": "356",
-      "name": "Województwo śląskie, Mikołów",
-      "code": "SMI"
+      "description": "Województwo śląskie, Mikołów",
+      "region": "SMI"
     },
     {
       "id": "357",
-      "name": "Województwo śląskie, Myszków",
-      "code": "SMY"
+      "description": "Województwo śląskie, Myszków",
+      "region": "SMY"
     },
     {
       "id": "358",
-      "name": "Województwo śląskie, Pszczyna",
-      "code": "SPS"
+      "description": "Województwo śląskie, Pszczyna",
+      "region": "SPS"
     },
     {
       "id": "359",
-      "name": "Województwo śląskie, Racibórz",
-      "code": "SRC"
+      "description": "Województwo śląskie, Racibórz",
+      "region": "SRC"
     },
     {
       "id": "360",
-      "name": "Województwo śląskie, Rybnik powiat",
-      "code": "SRB"
+      "description": "Województwo śląskie, Rybnik powiat",
+      "region": "SRB"
     },
     {
       "id": "361",
-      "name": "Województwo śląskie, Tarnowskie Góry",
-      "code": "STA"
+      "description": "Województwo śląskie, Tarnowskie Góry",
+      "region": "STA"
     },
     {
       "id": "362",
-      "name": "Województwo śląskie, Tychy powiat",
-      "code": "STY"
+      "description": "Województwo śląskie, Tychy powiat",
+      "region": "STY"
     },
     {
       "id": "363",
-      "name": "Województwo śląskie, Wodzisław",
-      "code": "SWD"
+      "description": "Województwo śląskie, Wodzisław",
+      "region": "SWD"
     },
     {
       "id": "364",
-      "name": "Województwo śląskie, Zawiercie",
-      "code": "SZA"
+      "description": "Województwo śląskie, Zawiercie",
+      "region": "SZA"
     },
     {
       "id": "365",
-      "name": "Województwo śląskie, Żywiec",
-      "code": "SZY"
+      "description": "Województwo śląskie, Żywiec",
+      "region": "SZY"
     },
     {
       "id": "366",
-      "name": "Województwo świętokrzyskie, Kielce",
-      "code": "TK"
+      "description": "Województwo świętokrzyskie, Kielce",
+      "region": "TK"
     },
     {
       "id": "367",
-      "name": "Województwo świętokrzyskie, Busko",
-      "code": "TBU"
+      "description": "Województwo świętokrzyskie, Busko",
+      "region": "TBU"
     },
     {
       "id": "368",
-      "name": "Województwo świętokrzyskie, Jędrzejów",
-      "code": "TJE"
+      "description": "Województwo świętokrzyskie, Jędrzejów",
+      "region": "TJE"
     },
     {
       "id": "369",
-      "name": "Województwo świętokrzyskie, Kazimierza Wielka",
-      "code": "TKA"
+      "description": "Województwo świętokrzyskie, Kazimierza Wielka",
+      "region": "TKA"
     },
     {
       "id": "370",
-      "name": "Województwo świętokrzyskie, Kielce powiat",
-      "code": "TKI"
+      "description": "Województwo świętokrzyskie, Kielce powiat",
+      "region": "TKI"
     },
     {
       "id": "371",
-      "name": "Województwo świętokrzyskie, Końskie",
-      "code": "TKN"
+      "description": "Województwo świętokrzyskie, Końskie",
+      "region": "TKN"
     },
     {
       "id": "372",
-      "name": "Województwo świętokrzyskie, Opatów",
-      "code": "TOP"
+      "description": "Województwo świętokrzyskie, Opatów",
+      "region": "TOP"
     },
     {
       "id": "373",
-      "name": "Województwo świętokrzyskie, Ostrowiec Świętokrzyski",
-      "code": "TOS"
+      "description": "Województwo świętokrzyskie, Ostrowiec Świętokrzyski",
+      "region": "TOS"
     },
     {
       "id": "374",
-      "name": "Województwo świętokrzyskie, Pińczów",
-      "code": "TPI"
+      "description": "Województwo świętokrzyskie, Pińczów",
+      "region": "TPI"
     },
     {
       "id": "375",
-      "name": "Województwo świętokrzyskie, Sandomierz",
-      "code": "TSA"
+      "description": "Województwo świętokrzyskie, Sandomierz",
+      "region": "TSA"
     },
     {
       "id": "376",
-      "name": "Województwo świętokrzyskie, Skarżysko-Kamienna",
-      "code": "TSK"
+      "description": "Województwo świętokrzyskie, Skarżysko-Kamienna",
+      "region": "TSK"
     },
     {
       "id": "377",
-      "name": "Województwo świętokrzyskie, Starachowice",
-      "code": "TST"
+      "description": "Województwo świętokrzyskie, Starachowice",
+      "region": "TST"
     },
     {
       "id": "378",
-      "name": "Województwo świętokrzyskie, Staszów",
-      "code": "TSZ"
+      "description": "Województwo świętokrzyskie, Staszów",
+      "region": "TSZ"
     },
     {
       "id": "379",
-      "name": "Województwo świętokrzyskie, Włoszczowa",
-      "code": "TWL"
+      "description": "Województwo świętokrzyskie, Włoszczowa",
+      "region": "TWL"
     },
     {
       "id": "380",
-      "name": "Województwo warmińsko-mazurskie, Elbląg",
-      "code": "NE"
+      "description": "Województwo warmińsko-mazurskie, Elbląg",
+      "region": "NE"
     },
     {
       "id": "381",
-      "name": "Województwo warmińsko-mazurskie, Olsztyn",
-      "code": "NO"
+      "description": "Województwo warmińsko-mazurskie, Olsztyn",
+      "region": "NO"
     },
     {
       "id": "382",
-      "name": "Województwo warmińsko-mazurskie, Bartoszyce",
-      "code": "NBA"
+      "description": "Województwo warmińsko-mazurskie, Bartoszyce",
+      "region": "NBA"
     },
     {
       "id": "383",
-      "name": "Województwo warmińsko-mazurskie, Braniewo",
-      "code": "NBR"
+      "description": "Województwo warmińsko-mazurskie, Braniewo",
+      "region": "NBR"
     },
     {
       "id": "384",
-      "name": "Województwo warmińsko-mazurskie, Działdowo",
-      "code": "NDZ"
+      "description": "Województwo warmińsko-mazurskie, Działdowo",
+      "region": "NDZ"
     },
     {
       "id": "385",
-      "name": "Województwo warmińsko-mazurskie, Elbląg powiat",
-      "code": "NEB"
+      "description": "Województwo warmińsko-mazurskie, Elbląg powiat",
+      "region": "NEB"
     },
     {
       "id": "386",
-      "name": "Województwo warmińsko-mazurskie, Ełk",
-      "code": "NEL"
+      "description": "Województwo warmińsko-mazurskie, Ełk",
+      "region": "NEL"
     },
     {
       "id": "387",
-      "name": "Województwo warmińsko-mazurskie, Giżycko",
-      "code": "NGI"
+      "description": "Województwo warmińsko-mazurskie, Giżycko",
+      "region": "NGI"
     },
     {
       "id": "388",
-      "name": "Województwo warmińsko-mazurskie, Iława",
-      "code": "NIL"
+      "description": "Województwo warmińsko-mazurskie, Iława",
+      "region": "NIL"
     },
     {
       "id": "389",
-      "name": "Województwo warmińsko-mazurskie, Kętrzyn",
-      "code": "NKE"
+      "description": "Województwo warmińsko-mazurskie, Kętrzyn",
+      "region": "NKE"
     },
     {
       "id": "390",
-      "name": "Województwo warmińsko-mazurskie, Lidzbark Warmiński",
-      "code": "NLI"
+      "description": "Województwo warmińsko-mazurskie, Lidzbark Warmiński",
+      "region": "NLI"
     },
     {
       "id": "391",
-      "name": "Województwo warmińsko-mazurskie, Mrągowo",
-      "code": "NMR"
+      "description": "Województwo warmińsko-mazurskie, Mrągowo",
+      "region": "NMR"
     },
     {
       "id": "392",
-      "name": "Województwo warmińsko-mazurskie, Nidzica",
-      "code": "NNI"
+      "description": "Województwo warmińsko-mazurskie, Nidzica",
+      "region": "NNI"
     },
     {
       "id": "393",
-      "name": "Województwo warmińsko-mazurskie, Nowe Miasto Lubawskie",
-      "code": "NNM"
+      "description": "Województwo warmińsko-mazurskie, Nowe Miasto Lubawskie",
+      "region": "NNM"
     },
     {
       "id": "394",
-      "name": "Województwo warmińsko-mazurskie, Olecko",
-      "code": "NOG"
+      "description": "Województwo warmińsko-mazurskie, Olecko",
+      "region": "NOG"
     },
     {
       "id": "395",
-      "name": "Województwo warmińsko-mazurskie, Olsztyn powiat",
-      "code": "NOL"
+      "description": "Województwo warmińsko-mazurskie, Olsztyn powiat",
+      "region": "NOL"
     },
     {
       "id": "396",
-      "name": "Województwo warmińsko-mazurskie, Ostróda",
-      "code": "NOS"
+      "description": "Województwo warmińsko-mazurskie, Ostróda",
+      "region": "NOS"
     },
     {
       "id": "397",
-      "name": "Województwo warmińsko-mazurskie, Pisz",
-      "code": "NPI"
+      "description": "Województwo warmińsko-mazurskie, Pisz",
+      "region": "NPI"
     },
     {
       "id": "398",
-      "name": "Warsaw (Włochy district)",
-      "code": "WWK"
+      "description": "Warsaw (Włochy district)",
+      "region": "WWK"
     },
     {
       "id": "400",
-      "name": "Warsaw (Włochy district)",
-      "code": "WWM"
+      "description": "Warsaw (Włochy district)",
+      "region": "WWM"
     },
     {
       "id": "401",
-      "name": "Warsaw (Włochy district)",
-      "code": "WWV"
+      "description": "Warsaw (Włochy district)",
+      "region": "WWV"
     },
     {
       "id": "402",
-      "name": "Warsaw (Włochy district)",
-      "code": "WWR"
+      "description": "Warsaw (Włochy district)",
+      "region": "WWR"
     },
     {
       "id": "403",
-      "name": "Warsaw (Włochy district)",
-      "code": "WWS"
+      "description": "Warsaw (Włochy district)",
+      "region": "WWS"
     },
     {
       "id": "404",
-      "name": "Warsaw (Wilanów district)",
-      "code": "WWF"
+      "description": "Warsaw (Wilanów district)",
+      "region": "WWF"
     },
     {
       "id": "405",
-      "name": "Warsaw (Wilanów district)",
-      "code": "WWG"
+      "description": "Warsaw (Wilanów district)",
+      "region": "WWG"
     },
     {
       "id": "406",
-      "name": "Warsaw (Wilanów district)",
-      "code": "WWH"
+      "description": "Warsaw (Wilanów district)",
+      "region": "WWH"
     },
     {
       "id": "407",
-      "name": "Warsaw (Wilanów district)",
-      "code": "WWJ"
+      "description": "Warsaw (Wilanów district)",
+      "region": "WWJ"
     },
     {
       "id": "408",
-      "name": "Warsaw (Wilanów district)",
-      "code": "WWW"
+      "description": "Warsaw (Wilanów district)",
+      "region": "WWW"
     },
     {
       "id": "409",
-      "name": "Warsaw (Rembertów district)",
-      "code": "WWA"
+      "description": "Warsaw (Rembertów district)",
+      "region": "WWA"
     },
     {
       "id": "410",
-      "name": "Warsaw (Rembertów district)",
-      "code": "WWC"
+      "description": "Warsaw (Rembertów district)",
+      "region": "WWC"
     },
     {
       "id": "411",
-      "name": "Warsaw (Rembertów district)",
-      "code": "WWX"
+      "description": "Warsaw (Rembertów district)",
+      "region": "WWX"
     },
     {
       "id": "412",
-      "name": "Wołomin County",
-      "code": "WV"
+      "description": "Wołomin County",
+      "region": "WV"
     }
   ]
 }

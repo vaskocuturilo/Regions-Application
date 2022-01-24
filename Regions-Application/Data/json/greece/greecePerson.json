@@ -2,1103 +2,1103 @@
     "regions": [
         {
             "id": "1",
-            "name": "Achaia prefecture - Patras",
-            "code": "AA"
+            "description": "Achaia prefecture - Patras",
+            "region": "AA"
         },
         {
             "id": "2",
-            "name": "Kavala prefecture - Kavala {motorcycles}",
-            "code": "AB"
+            "description": "Kavala prefecture - Kavala {motorcycles}",
+            "region": "AB"
         },
         {
             "id": "3",
-            "name": "Lasithi prefecture - Agios Nikolaos",
-            "code": "AE"
+            "description": "Lasithi prefecture - Agios Nikolaos",
+            "region": "AE"
         },
         {
             "id": "4",
-            "name": "Achaia prefecture - Patras",
-            "code": "AZ"
+            "description": "Achaia prefecture - Patras",
+            "region": "AZ"
         },
         {
             "id": "5",
-            "name": "Xanthi prefecture - Xanthi",
-            "code": "AH"
+            "description": "Xanthi prefecture - Xanthi",
+            "region": "AH"
         },
         {
             "id": "6",
-            "name": "Xanthi prefecture - Xanthi",
-            "code": "AHH"
+            "description": "Xanthi prefecture - Xanthi",
+            "region": "AHH"
         },
         {
             "id": "7",
-            "name": "Aitoloakarnania prefecture - Agrinio area.",
-            "code": "AI"
+            "description": "Aitoloakarnania prefecture - Agrinio area.",
+            "region": "AI"
         },
         {
             "id": "8",
-            "name": "Aitoloakarnania prefecture - Agrinio area.",
-            "code": "AII"
+            "description": "Aitoloakarnania prefecture - Agrinio area.",
+            "region": "AII"
         },
         {
             "id": "9",
-            "name": "Laconia prefecture - Sparti",
-            "code": "AK"
+            "description": "Laconia prefecture - Sparti",
+            "region": "AK"
         },
         {
             "id": "10",
-            "name": "Phokida prefecture - Amfissa",
-            "code": "AM"
+            "description": "Phokida prefecture - Amfissa",
+            "region": "AM"
         },
         {
             "id": "11",
-            "name": "Lasithi prefecture - Agios Nikolaos",
-            "code": "AN"
+            "description": "Lasithi prefecture - Agios Nikolaos",
+            "region": "AN"
         },
         {
             "id": "12",
-            "name": "Achaia prefecture - Patras {motorcycles}",
-            "code": "AO"
+            "description": "Achaia prefecture - Patras {motorcycles}",
+            "region": "AO"
         },
         {
             "id": "13",
-            "name": "Argolis (Argolida) prefecture - Nafplio",
-            "code": "AP"
+            "description": "Argolis (Argolida) prefecture - Nafplio",
+            "region": "AP"
         },
         {
             "id": "14",
-            "name": "Arta prefecture - Arta",
-            "code": "AT"
+            "description": "Arta prefecture - Arta",
+            "region": "AT"
         },
         {
             "id": "15",
-            "name": "Achaia prefecture - Patras {motorcycles}",
-            "code": "AY"
+            "description": "Achaia prefecture - Patras {motorcycles}",
+            "region": "AY"
         },
         {
             "id": "16",
-            "name": "Achaia prefecture - Patras",
-            "code": "AX"
+            "description": "Achaia prefecture - Patras",
+            "region": "AX"
         },
         {
             "id": "17",
-            "name": "Magnesia prefecture - Volos {motorcycles}",
-            "code": "BA"
+            "description": "Magnesia prefecture - Volos {motorcycles}",
+            "region": "BA"
         },
         {
             "id": "18",
-            "name": "Magnesia prefecture - Volos {motorcycles}",
-            "code": "BB"
+            "description": "Magnesia prefecture - Volos {motorcycles}",
+            "region": "BB"
         },
         {
             "id": "19",
-            "name": "Piraeus prefecture {motorcycles}",
-            "code": "BE"
+            "description": "Piraeus prefecture {motorcycles}",
+            "region": "BE"
         },
         {
             "id": "20",
-            "name": "Piraeus prefecture {motorcycles}",
-            "code": "BZ"
+            "description": "Piraeus prefecture {motorcycles}",
+            "region": "BZ"
         },
         {
             "id": "21",
-            "name": "Piraeus prefecture {motorcycles}",
-            "code": "BH"
+            "description": "Piraeus prefecture {motorcycles}",
+            "region": "BH"
         },
         {
             "id": "22",
-            "name": "Boeotia (Viotia) prefecture - Livadeia",
-            "code": "BI"
+            "description": "Boeotia (Viotia) prefecture - Livadeia",
+            "region": "BI"
         },
         {
             "id": "23",
-            "name": "East Attica prefecture - Pallini",
-            "code": "BK"
+            "description": "East Attica prefecture - Pallini",
+            "region": "BK"
         },
         {
             "id": "24",
-            "name": "East Attica prefecture - Pallini",
-            "code": "BM"
+            "description": "East Attica prefecture - Pallini",
+            "region": "BM"
         },
         {
             "id": "25",
-            "name": "West Attica prefecture - Elefsina",
-            "code": "BN"
+            "description": "West Attica prefecture - Elefsina",
+            "region": "BN"
         },
         {
             "id": "26",
-            "name": "Magnesia prefecture - Volos ",
-            "code": "BO"
+            "description": "Magnesia prefecture - Volos ",
+            "region": "BO"
         },
         {
             "id": "27",
-            "name": "Pella Prefecture",
-            "code": "BOP"
+            "description": "Pella Prefecture",
+            "region": "BOP"
         },
         {
             "id": "28",
-            "name": "West Attica prefecture - Elefsina",
-            "code": "BP"
+            "description": "West Attica prefecture - Elefsina",
+            "region": "BP"
         },
         {
             "id": "29",
-            "name": "Magnesia prefecture - Volos",
-            "code": "BT"
+            "description": "Magnesia prefecture - Volos",
+            "region": "BT"
         },
         {
             "id": "30",
-            "name": "Boeotia (Viotia) prefecture - Livadeia",
-            "code": "BY"
+            "description": "Boeotia (Viotia) prefecture - Livadeia",
+            "region": "BY"
         },
         {
             "id": "31",
-            "name": "Piraeus prefecture {motorcycles}",
-            "code": "BX"
+            "description": "Piraeus prefecture {motorcycles}",
+            "region": "BX"
         },
         {
             "id": "32",
-            "name": "Dodecanese prefecture - Kos island {motorcycles}",
-            "code": "EA"
+            "description": "Dodecanese prefecture - Kos island {motorcycles}",
+            "region": "EA"
         },
         {
             "id": "33",
-            "name": "Evros prefecture - Alexandroupoli",
-            "code": "EB"
+            "description": "Evros prefecture - Alexandroupoli",
+            "region": "EB"
         },
         {
             "id": "34",
-            "name": "Evros prefecture - Alexandroupoli",
-            "code": "EBB"
+            "description": "Evros prefecture - Alexandroupoli",
+            "region": "EBB"
         },
         {
             "id": "35",
-            "name": "Pella Prefecture - Edessa",
-            "code": "EE"
+            "description": "Pella Prefecture - Edessa",
+            "region": "EE"
         },
         {
             "id": "36",
-            "name": "Pella Prefecture - Edessa",
-            "code": "EEE"
+            "description": "Pella Prefecture - Edessa",
+            "region": "EEE"
         },
         {
             "id": "37",
-            "name": "Cyclades prefecture - Ermoupoli {motorcycles}",
-            "code": "EZ"
+            "description": "Cyclades prefecture - Ermoupoli {motorcycles}",
+            "region": "EZ"
         },
         {
             "id": "38",
-            "name": "Euboea (Evia) prefecture - Chalkida {motorcycles}",
-            "code": "EH"
+            "description": "Euboea (Evia) prefecture - Chalkida {motorcycles}",
+            "region": "EH"
         },
         {
             "id": "39",
-            "name": "Euboea (Evia) prefecture - Chalkida {motorcycles}",
-            "code": "EI"
+            "description": "Euboea (Evia) prefecture - Chalkida {motorcycles}",
+            "region": "EI"
         },
         {
             "id": "40",
-            "name": "Cyclades prefecture - Ermoupoli",
-            "code": "EM"
+            "description": "Cyclades prefecture - Ermoupoli",
+            "region": "EM"
         },
         {
             "id": "41",
-            "name": "Serres prefecture - Serres",
-            "code": "EP"
+            "description": "Serres prefecture - Serres",
+            "region": "EP"
         },
         {
             "id": "42",
-            "name": "Corfu (Kerkyra) prefecture - Corfu {motorcycles}",
-            "code": "ET"
+            "description": "Corfu (Kerkyra) prefecture - Corfu {motorcycles}",
+            "region": "ET"
         },
         {
             "id": "43",
-            "name": "Lefkada prefecture - Lefkada ",
-            "code": "EY"
+            "description": "Lefkada prefecture - Lefkada ",
+            "region": "EY"
         },
         {
             "id": "44",
-            "name": "Rodos Island",
-            "code": "EYA"
+            "description": "Rodos Island",
+            "region": "EYA"
         },
         {
             "id": "45",
-            "name": "tax free cars of offshore companies",
-            "code": "EYY"
+            "description": "tax free cars of offshore companies",
+            "region": "EYY"
         },
         {
             "id": "46",
-            "name": "Kilkis prefecture - Kilkis",
-            "code": "EX"
+            "description": "Kilkis prefecture - Kilkis",
+            "region": "EX"
         },
         {
             "id": "47",
-            "name": "Zakynthos prefecture - Zakynthos",
-            "code": "ZA"
+            "description": "Zakynthos prefecture - Zakynthos",
+            "region": "ZA"
         },
         {
             "id": "48",
-            "name": "Zakynthos prefecture - Zakynthos",
-            "code": "ZB"
+            "description": "Zakynthos prefecture - Zakynthos",
+            "region": "ZB"
         },
         {
             "id": "49",
-            "name": "Thessaloniki prefecture",
-            "code": "ZE"
+            "description": "Thessaloniki prefecture",
+            "region": "ZE"
         },
         {
             "id": "50",
-            "name": "Athens prefecture",
-            "code": "ZZ"
+            "description": "Athens prefecture",
+            "region": "ZZ"
         },
         {
             "id": "51",
-            "name": "Athens prefecture",
-            "code": "ZH"
+            "description": "Athens prefecture",
+            "region": "ZH"
         },
         {
             "id": "52",
-            "name": "Thessaloniki prefecture",
-            "code": "ZI"
+            "description": "Thessaloniki prefecture",
+            "region": "ZI"
         },
         {
             "id": "53",
-            "name": "Athens prefecture",
-            "code": "ZK"
+            "description": "Athens prefecture",
+            "region": "ZK"
         },
         {
             "id": "54",
-            "name": "Athens prefecture",
-            "code": "ZM"
+            "description": "Athens prefecture",
+            "region": "ZM"
         },
         {
             "id": "55",
-            "name": "Piraeus prefecture",
-            "code": "ZN"
+            "description": "Piraeus prefecture",
+            "region": "ZN"
         },
         {
             "id": "56",
-            "name": "Thessaloniki prefecture",
-            "code": "ZO"
+            "description": "Thessaloniki prefecture",
+            "region": "ZO"
         },
         {
             "id": "57",
-            "name": "Piraeus prefecture {motorcycles}",
-            "code": "ZP"
+            "description": "Piraeus prefecture {motorcycles}",
+            "region": "ZP"
         },
         {
             "id": "58",
-            "name": "West Attica prefecture - Elefsina {motorcycles}",
-            "code": "ZT"
+            "description": "West Attica prefecture - Elefsina {motorcycles}",
+            "region": "ZT"
         },
         {
             "id": "59",
-            "name": "East Attica prefecture - Pallini",
-            "code": "ZY"
+            "description": "East Attica prefecture - Pallini",
+            "region": "ZY"
         },
         {
             "id": "60",
-            "name": "East Attica prefecture - Pallini",
-            "code": "ZX"
+            "description": "East Attica prefecture - Pallini",
+            "region": "ZX"
         },
         {
             "id": "61",
-            "name": "Ilia prefecture - Pyrgos",
-            "code": "HA"
+            "description": "Ilia prefecture - Pyrgos",
+            "region": "HA"
         },
         {
             "id": "62",
-            "name": "Athens prefecture {motorcycles}",
-            "code": "HB"
+            "description": "Athens prefecture {motorcycles}",
+            "region": "HB"
         },
         {
             "id": "63",
-            "name": "Ilia prefecture - Pyrgos {motorcycles}",
-            "code": "HE"
+            "description": "Ilia prefecture - Pyrgos {motorcycles}",
+            "region": "HE"
         },
         {
             "id": "64",
-            "name": "Heraklion prefecture - Heraklion",
-            "code": "HZ"
+            "description": "Heraklion prefecture - Heraklion",
+            "region": "HZ"
         },
         {
             "id": "65",
-            "name": "Heraklion prefecture - Heraklion {motorcycles}",
-            "code": "HH"
+            "description": "Heraklion prefecture - Heraklion {motorcycles}",
+            "region": "HH"
         },
         {
             "id": "66",
-            "name": "Heraklion prefecture - Heraklion {motorcycles}",
-            "code": "HI"
+            "description": "Heraklion prefecture - Heraklion {motorcycles}",
+            "region": "HI"
         },
         {
             "id": "67",
-            "name": "Heraklion prefecture - Heraklion ",
-            "code": "HK"
+            "description": "Heraklion prefecture - Heraklion ",
+            "region": "HK"
         },
         {
             "id": "68",
-            "name": "Chania Prefecture",
-            "code": "HKH"
+            "description": "Chania Prefecture",
+            "region": "HKH"
         },
         {
             "id": "69",
-            "name": "Chania Prefecture",
-            "code": "HKZ"
+            "description": "Chania Prefecture",
+            "region": "HKZ"
         },
         {
             "id": "70",
-            "name": "Imathia prefecture - Veria",
-            "code": "HM"
+            "description": "Imathia prefecture - Veria",
+            "region": "HM"
         },
         {
             "id": "71",
-            "name": "Thesprotia prefecture - Igoumenitsa",
-            "code": "HN"
+            "description": "Thesprotia prefecture - Igoumenitsa",
+            "region": "HN"
         },
         {
             "id": "72",
-            "name": "Xanthi prefecture - Xanthi {motorcycles}",
-            "code": "HO"
+            "description": "Xanthi prefecture - Xanthi {motorcycles}",
+            "region": "HO"
         },
         {
             "id": "73",
-            "name": "Heraklion prefecture - Heraklion",
-            "code": "HP"
+            "description": "Heraklion prefecture - Heraklion",
+            "region": "HP"
         },
         {
             "id": "74",
-            "name": "Xanthi prefecture - Xanthi",
-            "code": "HT"
+            "description": "Xanthi prefecture - Xanthi",
+            "region": "HT"
         },
         {
             "id": "75",
-            "name": "Phthiotis (Fthiotida) prefecture - Lamia",
-            "code": "HY"
+            "description": "Phthiotis (Fthiotida) prefecture - Lamia",
+            "region": "HY"
         },
         {
             "id": "76",
-            "name": "Imathia prefecture - Veria",
-            "code": "HX"
+            "description": "Imathia prefecture - Veria",
+            "region": "HX"
         },
         {
             "id": "77",
-            "name": "Athens prefecture",
-            "code": "IB"
+            "description": "Athens prefecture",
+            "region": "IB"
         },
         {
             "id": "78",
-            "name": "Athens prefecture",
-            "code": "IE"
+            "description": "Athens prefecture",
+            "region": "IE"
         },
         {
             "id": "79",
-            "name": "Athens prefecture",
-            "code": "IZ"
+            "description": "Athens prefecture",
+            "region": "IZ"
         },
         {
             "id": "80",
-            "name": "Athens prefecture",
-            "code": "IH"
+            "description": "Athens prefecture",
+            "region": "IH"
         },
         {
             "id": "81",
-            "name": "Euboea Prefecture",
-            "code": "IHA"
+            "description": "Euboea Prefecture",
+            "region": "IHA"
         },
         {
             "id": "82",
-            "name": "Ioannina prefecture - Ioannina",
-            "code": "II"
+            "description": "Ioannina prefecture - Ioannina",
+            "region": "II"
         },
         {
             "id": "83",
-            "name": "Athens prefecture",
-            "code": "IK"
+            "description": "Athens prefecture",
+            "region": "IK"
         },
         {
             "id": "84",
-            "name": "Athens prefecture",
-            "code": "IM"
+            "description": "Athens prefecture",
+            "region": "IM"
         },
         {
             "id": "85",
-            "name": "Ioannina prefecture - Ioannina",
-            "code": "IN"
+            "description": "Ioannina prefecture - Ioannina",
+            "region": "IN"
         },
         {
             "id": "86",
-            "name": "Athens prefecture",
-            "code": "IO"
+            "description": "Athens prefecture",
+            "region": "IO"
         },
         {
             "id": "87",
-            "name": "Athens prefecture",
-            "code": "IP"
+            "description": "Athens prefecture",
+            "region": "IP"
         },
         {
             "id": "88",
-            "name": "Athens prefecture",
-            "code": "IT"
+            "description": "Athens prefecture",
+            "region": "IT"
         },
         {
             "id": "89",
-            "name": "Athens prefecture",
-            "code": "IY"
+            "description": "Athens prefecture",
+            "region": "IY"
         },
         {
             "id": "90",
-            "name": "Serres prefecture",
-            "code": "IX"
+            "description": "Serres prefecture",
+            "region": "IX"
         },
         {
             "id": "91",
-            "name": "Karditsa prefecture - Karditsa",
-            "code": "KA"
+            "description": "Karditsa prefecture - Karditsa",
+            "region": "KA"
         },
         {
             "id": "92",
-            "name": "Karditsa prefecture - Karditsa",
-            "code": "KAA"
+            "description": "Karditsa prefecture - Karditsa",
+            "region": "KAA"
         },
         {
             "id": "93",
-            "name": "Kavala prefecture - Kavala ",
-            "code": "KB"
+            "description": "Kavala prefecture - Kavala ",
+            "region": "KB"
         },
         {
             "id": "94",
-            "name": "Kavala prefecture - Kavala ",
-            "code": "KBB"
+            "description": "Kavala prefecture - Kavala ",
+            "region": "KBB"
         },
         {
             "id": "95",
-            "name": "Kefalonia and Ithaca prefecture - Argostoli",
-            "code": "KE"
+            "description": "Kefalonia and Ithaca prefecture - Argostoli",
+            "region": "KE"
         },
         {
             "id": "96",
-            "name": "Kefalonia and Ithaca prefecture - Argostoli",
-            "code": "KEE"
+            "description": "Kefalonia and Ithaca prefecture - Argostoli",
+            "region": "KEE"
         },
         {
             "id": "97",
-            "name": "Kozani prefecture - Kozani",
-            "code": "KZ"
+            "description": "Kozani prefecture - Kozani",
+            "region": "KZ"
         },
         {
             "id": "98",
-            "name": "Kozani prefecture - Kozani",
-            "code": "KZZ"
+            "description": "Kozani prefecture - Kozani",
+            "region": "KZZ"
         },
         {
             "id": "99",
-            "name": "Evrytania prefecture - Karpenisi",
-            "code": "KH"
+            "description": "Evrytania prefecture - Karpenisi",
+            "region": "KH"
         },
         {
             "id": "100",
-            "name": "Kilkis prefecture - Kilkis",
-            "code": "KI"
+            "description": "Kilkis prefecture - Kilkis",
+            "region": "KI"
         },
         {
             "id": "101",
-            "name": "Messinia prefecture - Kalamata",
-            "code": "KM"
+            "description": "Messinia prefecture - Kalamata",
+            "region": "KM"
         },
         {
             "id": "102",
-            "name": "Pieria prefecture - Katerini",
-            "code": "KN"
+            "description": "Pieria prefecture - Katerini",
+            "region": "KN"
         },
         {
             "id": "103",
-            "name": "Pieria prefecture - Katerini",
-            "code": "KNZ"
+            "description": "Pieria prefecture - Katerini",
+            "region": "KNZ"
         },
         {
             "id": "104",
-            "name": "Rhodope (Rodopi) prefecture - Komotini",
-            "code": "KO"
+            "description": "Rhodope (Rodopi) prefecture - Komotini",
+            "region": "KO"
         },
         {
             "id": "105",
-            "name": "Thessaloniki prefecture",
-            "code": "KOH"
+            "description": "Thessaloniki prefecture",
+            "region": "KOH"
         },
         {
             "id": "106",
-            "name": "Thessaloniki prefecture",
-            "code": "KOK"
+            "description": "Thessaloniki prefecture",
+            "region": "KOK"
         },
         {
             "id": "107",
-            "name": "Heraklio prefecture {motorcycles}",
-            "code": "KOP"
+            "description": "Heraklio prefecture {motorcycles}",
+            "region": "KOP"
         },
         {
             "id": "108",
-            "name": "Corinthia prefecture - Corinth (Korinthos)",
-            "code": "KP"
+            "description": "Corinthia prefecture - Corinth (Korinthos)",
+            "region": "KP"
         },
         {
             "id": "109",
-            "name": "Kastoria prefecture - Kastoria",
-            "code": "KT"
+            "description": "Kastoria prefecture - Kastoria",
+            "region": "KT"
         },
         {
             "id": "110",
-            "name": "Corfu (Kerkyra) prefecture - Corfu",
-            "code": "KY"
+            "description": "Corfu (Kerkyra) prefecture - Corfu",
+            "region": "KY"
         },
         {
             "id": "111",
-            "name": "Dodecanese prefecture - Kos island",
-            "code": "KX"
+            "description": "Dodecanese prefecture - Kos island",
+            "region": "KX"
         },
         {
             "id": "112",
-            "name": "Rodos Island",
-            "code": "KXA"
+            "description": "Rodos Island",
+            "region": "KXA"
         },
         {
             "id": "113",
-            "name": "Chalkidiki prefecture - Polygyros",
-            "code": "MA"
+            "description": "Chalkidiki prefecture - Polygyros",
+            "region": "MA"
         },
         {
             "id": "114",
-            "name": "Samos prefecture - Samos",
-            "code": "MB"
+            "description": "Samos prefecture - Samos",
+            "region": "MB"
         },
         {
             "id": "115",
-            "name": "Aitoloakarnania prefecture - Messolongi",
-            "code": "ME"
+            "description": "Aitoloakarnania prefecture - Messolongi",
+            "region": "ME"
         },
         {
             "id": "116",
-            "name": "Messinia prefecture - Kalamata {motorcycles}",
-            "code": "MZ"
+            "description": "Messinia prefecture - Kalamata {motorcycles}",
+            "region": "MZ"
         },
         {
             "id": "117",
-            "name": "Lesvos prefecture - Myrina (Limnos island)",
-            "code": "MH"
+            "description": "Lesvos prefecture - Myrina (Limnos island)",
+            "region": "MH"
         },
         {
             "id": "118",
-            "name": "Phthiotis (Fthiotida) prefecture - Lamia",
-            "code": "MI"
+            "description": "Phthiotis (Fthiotida) prefecture - Lamia",
+            "region": "MI"
         },
         {
             "id": "119",
-            "name": "Karditsa prefecture - Karditsa",
-            "code": "MK"
+            "description": "Karditsa prefecture - Karditsa",
+            "region": "MK"
         },
         {
             "id": "120",
-            "name": "Pella Prefecture - Edessa",
-            "code": "MM"
+            "description": "Pella Prefecture - Edessa",
+            "region": "MM"
         },
         {
             "id": "121",
-            "name": "Kozani prefecture - Kozani",
-            "code": "MN"
+            "description": "Kozani prefecture - Kozani",
+            "region": "MN"
         },
         {
             "id": "122",
-            "name": "Samos prefecture - Samos",
-            "code": "MO"
+            "description": "Samos prefecture - Samos",
+            "region": "MO"
         },
         {
             "id": "123",
-            "name": "Rodos Island {motorcycles}",
-            "code": "MOK"
+            "description": "Rodos Island {motorcycles}",
+            "region": "MOK"
         },
         {
             "id": "124",
-            "name": "Rodos Island {motorcycles}",
-            "code": "MOM"
+            "description": "Rodos Island {motorcycles}",
+            "region": "MOM"
         },
         {
             "id": "125",
-            "name": "Rodos Island {motorcycles}",
-            "code": "MOP"
+            "description": "Rodos Island {motorcycles}",
+            "region": "MOP"
         },
         {
             "id": "126",
-            "name": "Laconia prefecture - Sparti",
-            "code": "MP"
+            "description": "Laconia prefecture - Sparti",
+            "region": "MP"
         },
         {
             "id": "127",
-            "name": "Lesbos prefecture - Mytilini {motorcycles}",
-            "code": "MT"
+            "description": "Lesbos prefecture - Mytilini {motorcycles}",
+            "region": "MT"
         },
         {
             "id": "128",
-            "name": "Lesbos (Lesvos) prefecture - Mytilini ",
-            "code": "MY"
+            "description": "Lesbos (Lesvos) prefecture - Mytilini ",
+            "region": "MY"
         },
         {
             "id": "129",
-            "name": "Rodos Island",
-            "code": "MYZ"
+            "description": "Rodos Island",
+            "region": "MYZ"
         },
         {
             "id": "130",
-            "name": "Evros prefecture - Alexandroupoli",
-            "code": "MX"
+            "description": "Evros prefecture - Alexandroupoli",
+            "region": "MX"
         },
         {
             "id": "131",
-            "name": "Thessaloniki prefecture - Thessaloniki",
-            "code": "NA"
+            "description": "Thessaloniki prefecture - Thessaloniki",
+            "region": "NA"
         },
         {
             "id": "132",
-            "name": "Thessaloniki prefecture - Thessaloniki",
-            "code": "NB"
+            "description": "Thessaloniki prefecture - Thessaloniki",
+            "region": "NB"
         },
         {
             "id": "133",
-            "name": "Thessaloniki prefecture - Thessaloniki",
-            "code": "NE"
+            "description": "Thessaloniki prefecture - Thessaloniki",
+            "region": "NE"
         },
         {
             "id": "134",
-            "name": "Thessaloniki prefecture - Thessaloniki",
-            "code": "NZ"
+            "description": "Thessaloniki prefecture - Thessaloniki",
+            "region": "NZ"
         },
         {
             "id": "135",
-            "name": "Thessaloniki prefecture - Thessaloniki",
-            "code": "NH"
+            "description": "Thessaloniki prefecture - Thessaloniki",
+            "region": "NH"
         },
         {
             "id": "136",
-            "name": "Thessaloniki prefecture - Thessaloniki",
-            "code": "NI"
+            "description": "Thessaloniki prefecture - Thessaloniki",
+            "region": "NI"
         },
         {
             "id": "137",
-            "name": "Thessaloniki prefecture - Thessaloniki",
-            "code": "NK"
+            "description": "Thessaloniki prefecture - Thessaloniki",
+            "region": "NK"
         },
         {
             "id": "138",
-            "name": "Thessaloniki prefecture - Thessaloniki {motorcycles}",
-            "code": "NM"
+            "description": "Thessaloniki prefecture - Thessaloniki {motorcycles}",
+            "region": "NM"
         },
         {
             "id": "139",
-            "name": "Thessaloniki prefecture - Thessaloniki {motorcycles}",
-            "code": "NN"
+            "description": "Thessaloniki prefecture - Thessaloniki {motorcycles}",
+            "region": "NN"
         },
         {
             "id": "140",
-            "name": "Thessaloniki prefecture - Thessaloniki {motorcycles}",
-            "code": "NO"
+            "description": "Thessaloniki prefecture - Thessaloniki {motorcycles}",
+            "region": "NO"
         },
         {
             "id": "141",
-            "name": "Thessaloniki prefecture {motorcycles}",
-            "code": "NP"
+            "description": "Thessaloniki prefecture {motorcycles}",
+            "region": "NP"
         },
         {
             "id": "142",
-            "name": "Thessaloniki prefecture",
-            "code": "NT"
+            "description": "Thessaloniki prefecture",
+            "region": "NT"
         },
         {
             "id": "143",
-            "name": "Thessaloniki prefecture",
-            "code": "NY"
+            "description": "Thessaloniki prefecture",
+            "region": "NY"
         },
         {
             "id": "144",
-            "name": "Thessaloniki prefecture",
-            "code": "NX"
+            "description": "Thessaloniki prefecture",
+            "region": "NX"
         },
         {
             "id": "145",
-            "name": "Athens {motorcycles}",
-            "code": "OA"
+            "description": "Athens {motorcycles}",
+            "region": "OA"
         },
         {
             "id": "146",
-            "name": "Athens {motorcycles}",
-            "code": "OB"
+            "description": "Athens {motorcycles}",
+            "region": "OB"
         },
         {
             "id": "147",
-            "name": "Athens {motorcycles}",
-            "code": "OE"
+            "description": "Athens {motorcycles}",
+            "region": "OE"
         },
         {
             "id": "148",
-            "name": "Athens {motorcycles}",
-            "code": "OZ"
+            "description": "Athens {motorcycles}",
+            "region": "OZ"
         },
         {
             "id": "149",
-            "name": "Athens {motorcycles}",
-            "code": "OH"
+            "description": "Athens {motorcycles}",
+            "region": "OH"
         },
         {
             "id": "150",
-            "name": "Athens {motorcycles}",
-            "code": "OI"
+            "description": "Athens {motorcycles}",
+            "region": "OI"
         },
         {
             "id": "151",
-            "name": "Athens {motorcycles}",
-            "code": "OK"
+            "description": "Athens {motorcycles}",
+            "region": "OK"
         },
         {
             "id": "152",
-            "name": "Athens {motorcycles}",
-            "code": "OM"
+            "description": "Athens {motorcycles}",
+            "region": "OM"
         },
         {
             "id": "153",
-            "name": "Athens {motorcycles}",
-            "code": "ON"
+            "description": "Athens {motorcycles}",
+            "region": "ON"
         },
         {
             "id": "154",
-            "name": "Athens {motorcycles}",
-            "code": "OO"
+            "description": "Athens {motorcycles}",
+            "region": "OO"
         },
         {
             "id": "155",
-            "name": "Evros prefecture - Orestiada area",
-            "code": "OP"
+            "description": "Evros prefecture - Orestiada area",
+            "region": "OP"
         },
         {
             "id": "156",
-            "name": "Athens",
-            "code": "OT"
+            "description": "Athens",
+            "region": "OT"
         },
         {
             "id": "157",
-            "name": "Athens {motorcycles}",
-            "code": "OY"
+            "description": "Athens {motorcycles}",
+            "region": "OY"
         },
         {
             "id": "158",
-            "name": "Athens ",
-            "code": "OX"
+            "description": "Athens ",
+            "region": "OX"
         },
         {
             "id": "159",
-            "name": "Florina prefecture - Florina",
-            "code": "PA"
+            "description": "Florina prefecture - Florina",
+            "region": "PA"
         },
         {
             "id": "160",
-            "name": "Florina prefecture - Florina",
-            "code": "PAA"
+            "description": "Florina prefecture - Florina",
+            "region": "PAA"
         },
         {
             "id": "161",
-            "name": "Corinthia prefecture - Corinth",
-            "code": "PB"
+            "description": "Corinthia prefecture - Corinth",
+            "region": "PB"
         },
         {
             "id": "162",
-            "name": "Rethymno prefecture - Rethymno ",
-            "code": "PE"
+            "description": "Rethymno prefecture - Rethymno ",
+            "region": "PE"
         },
         {
             "id": "163",
-            "name": "Rethymno prefecture - Rethymno ",
-            "code": "PEE"
+            "description": "Rethymno prefecture - Rethymno ",
+            "region": "PEE"
         },
         {
             "id": "164",
-            "name": "Preveza prefecture - Preveza ",
-            "code": "PZ"
+            "description": "Preveza prefecture - Preveza ",
+            "region": "PZ"
         },
         {
             "id": "165",
-            "name": "Preveza prefecture - Preveza ",
-            "code": "PZB"
+            "description": "Preveza prefecture - Preveza ",
+            "region": "PZB"
         },
         {
             "id": "166",
-            "name": "Rethymno prefecture - Rethymno {motorcycles}",
-            "code": "PH"
+            "description": "Rethymno prefecture - Rethymno {motorcycles}",
+            "region": "PH"
         },
         {
             "id": "167",
-            "name": "Larissa prefecture - Larissa",
-            "code": "PI"
+            "description": "Larissa prefecture - Larissa",
+            "region": "PI"
         },
         {
             "id": "168",
-            "name": "Dodecanese prefecture - Rodos (Rhodes)",
-            "code": "PK"
+            "description": "Dodecanese prefecture - Rodos (Rhodes)",
+            "region": "PK"
         },
         {
             "id": "169",
-            "name": "Drama prefecture - Drama",
-            "code": "PM"
+            "description": "Drama prefecture - Drama",
+            "region": "PM"
         },
         {
             "id": "170",
-            "name": "Drama prefecture - Drama",
-            "code": "PMZ"
+            "description": "Drama prefecture - Drama",
+            "region": "PMZ"
         },
         {
             "id": "171",
-            "name": "Grevena prefecture - Grevena",
-            "code": "PN"
+            "description": "Grevena prefecture - Grevena",
+            "region": "PN"
         },
         {
             "id": "172",
-            "name": "Dodecanese prefecture - Rhodes (Rodos)",
-            "code": "PO"
+            "description": "Dodecanese prefecture - Rhodes (Rodos)",
+            "region": "PO"
         },
         {
             "id": "173",
-            "name": "Larissa prefecture - Larissa",
-            "code": "PP"
+            "description": "Larissa prefecture - Larissa",
+            "region": "PP"
         },
         {
             "id": "174",
-            "name": "Larissa prefecture - Larissa",
-            "code": "PT"
+            "description": "Larissa prefecture - Larissa",
+            "region": "PT"
         },
         {
             "id": "175",
-            "name": "Dodecanese prefecture - Rodos (Rhodes) {motorcycles}",
-            "code": "PY"
+            "description": "Dodecanese prefecture - Rodos (Rhodes) {motorcycles}",
+            "region": "PY"
         },
         {
             "id": "176",
-            "name": "Dodecanese prefecture - Rodos (Rhodes)",
-            "code": "PX"
+            "description": "Dodecanese prefecture - Rodos (Rhodes)",
+            "region": "PX"
         },
         {
             "id": "177",
-            "name": "Corfu (Kerkyra) prefecture - Corfu {motorcycles}",
-            "code": "TB"
+            "description": "Corfu (Kerkyra) prefecture - Corfu {motorcycles}",
+            "region": "TB"
         },
         {
             "id": "178",
-            "name": "Corfu (Kerkyra) prefecture - Corfu",
-            "code": "TE"
+            "description": "Corfu (Kerkyra) prefecture - Corfu",
+            "region": "TE"
         },
         {
             "id": "179",
-            "name": "Piraeus prefecture {motorcycles}",
-            "code": "TZ"
+            "description": "Piraeus prefecture {motorcycles}",
+            "region": "TZ"
         },
         {
             "id": "180",
-            "name": "Aitoloakarnania prefecture - Agrinio area",
-            "code": "TH"
+            "description": "Aitoloakarnania prefecture - Agrinio area",
+            "region": "TH"
         },
         {
             "id": "181",
-            "name": "Pieria prefecture - Katerini",
-            "code": "TI"
+            "description": "Pieria prefecture - Katerini",
+            "region": "TI"
         },
         {
             "id": "182",
-            "name": "Trikala prefecture - Trikala",
-            "code": "TK"
+            "description": "Trikala prefecture - Trikala",
+            "region": "TK"
         },
         {
             "id": "183",
-            "name": "Argolis (Argolida) prefecture - Nafplio",
-            "code": "TM"
+            "description": "Argolis (Argolida) prefecture - Nafplio",
+            "region": "TM"
         },
         {
             "id": "184",
-            "name": "Trikala prefecture - Trikala",
-            "code": "TN"
+            "description": "Trikala prefecture - Trikala",
+            "region": "TN"
         },
         {
             "id": "185",
-            "name": "Drama prefecture - Drama",
-            "code": "TO"
+            "description": "Drama prefecture - Drama",
+            "region": "TO"
         },
         {
             "id": "186",
-            "name": "Arcadia prefecture - Tripoli",
-            "code": "TP"
+            "description": "Arcadia prefecture - Tripoli",
+            "region": "TP"
         },
         {
             "id": "187",
-            "name": "Rhodope prefecture",
-            "code": "TT"
+            "description": "Rhodope prefecture",
+            "region": "TT"
         },
         {
             "id": "188",
-            "name": "Chania prefecture - Chania {motorcycles}",
-            "code": "TY"
+            "description": "Chania prefecture - Chania {motorcycles}",
+            "region": "TY"
         },
         {
             "id": "189",
-            "name": "Preveza prefecture - Preveza",
-            "code": "TX"
+            "description": "Preveza prefecture - Preveza",
+            "region": "TX"
         },
         {
             "id": "190",
-            "name": "Athens prefecture",
-            "code": "YA"
+            "description": "Athens prefecture",
+            "region": "YA"
         },
         {
             "id": "191",
-            "name": "Athens prefecture",
-            "code": "YB"
+            "description": "Athens prefecture",
+            "region": "YB"
         },
         {
             "id": "192",
-            "name": "Athens prefecture",
-            "code": "YE"
+            "description": "Athens prefecture",
+            "region": "YE"
         },
         {
             "id": "193",
-            "name": "Athens prefecture",
-            "code": "YZ"
+            "description": "Athens prefecture",
+            "region": "YZ"
         },
         {
             "id": "194",
-            "name": "Athens prefecture",
-            "code": "YH"
+            "description": "Athens prefecture",
+            "region": "YH"
         },
         {
             "id": "195",
-            "name": "Euboea Prefecture",
-            "code": "YHA"
+            "description": "Euboea Prefecture",
+            "region": "YHA"
         },
         {
             "id": "196",
-            "name": "Piraeus prefecture",
-            "code": "YI"
+            "description": "Piraeus prefecture",
+            "region": "YI"
         },
         {
             "id": "197",
-            "name": "Piraeus prefecture",
-            "code": "YK"
+            "description": "Piraeus prefecture",
+            "region": "YK"
         },
         {
             "id": "198",
-            "name": "Piraeus prefecture",
-            "code": "YM"
+            "description": "Piraeus prefecture",
+            "region": "YM"
         },
         {
             "id": "199",
-            "name": "Piraeus prefecture",
-            "code": "YN"
+            "description": "Piraeus prefecture",
+            "region": "YN"
         },
         {
             "id": "200",
-            "name": "West Attica prefecture - Elefsina",
-            "code": "YO"
+            "description": "West Attica prefecture - Elefsina",
+            "region": "YO"
         },
         {
             "id": "201",
-            "name": "West Attica prefecture - Elefsina",
-            "code": "YP"
+            "description": "West Attica prefecture - Elefsina",
+            "region": "YP"
         },
         {
             "id": "202",
-            "name": "West Attica prefecture - Elefsina",
-            "code": "YT"
+            "description": "West Attica prefecture - Elefsina",
+            "region": "YT"
         },
         {
             "id": "203",
-            "name": "East Attica prefecture - Pallini",
-            "code": "YY"
+            "description": "East Attica prefecture - Pallini",
+            "region": "YY"
         },
         {
             "id": "204",
-            "name": "East Attica prefecture - Pallini",
-            "code": "YX"
+            "description": "East Attica prefecture - Pallini",
+            "region": "YX"
         },
         {
             "id": "205",
-            "name": "Euboea (Evia) prefecture - Chalkida",
-            "code": "XA"
+            "description": "Euboea (Evia) prefecture - Chalkida",
+            "region": "XA"
         },
         {
             "id": "206",
-            "name": "Chania prefecture - Chania {motorcycles}",
-            "code": "XB"
+            "description": "Chania prefecture - Chania {motorcycles}",
+            "region": "XB"
         },
         {
             "id": "207",
-            "name": "Athens prefecture {now used for both motorcycles and cars}",
-            "code": "XE"
+            "description": "Athens prefecture {now used for both motorcycles and cars}",
+            "region": "XE"
         },
         {
             "id": "208",
-            "name": "Athens prefecture {motorcycles}",
-            "code": "XZ"
+            "description": "Athens prefecture {motorcycles}",
+            "region": "XZ"
         },
         {
             "id": "209",
-            "name": "Athens prefecture {motorcycles}",
-            "code": "XH"
+            "description": "Athens prefecture {motorcycles}",
+            "region": "XH"
         },
         {
             "id": "210",
-            "name": "Chios prefecture - Chios",
-            "code": "XI"
+            "description": "Chios prefecture - Chios",
+            "region": "XI"
         },
         {
             "id": "211",
-            "name": "Chalkidiki prefecture - Polygyros",
-            "code": "XK"
+            "description": "Chalkidiki prefecture - Polygyros",
+            "region": "XK"
         },
         {
             "id": "212",
-            "name": "Athens prefecture",
-            "code": "XM"
+            "description": "Athens prefecture",
+            "region": "XM"
         },
         {
             "id": "213",
-            "name": "Chania prefecture - Chania ",
-            "code": "XN"
+            "description": "Chania prefecture - Chania ",
+            "region": "XN"
         },
         {
             "id": "214",
-            "name": "Chania prefecture - Chania {motorcycles} ",
-            "code": "XNO"
+            "description": "Chania prefecture - Chania {motorcycles} ",
+            "region": "XNO"
         },
         {
             "id": "215",
-            "name": "Chios prefecture - Chios {motorcycles}",
-            "code": "XO"
+            "description": "Chios prefecture - Chios {motorcycles}",
+            "region": "XO"
         },
         {
             "id": "216",
-            "name": "Athens prefecture {motorcycles}",
-            "code": "XP"
+            "description": "Athens prefecture {motorcycles}",
+            "region": "XP"
         },
         {
             "id": "217",
-            "name": "Athens prefecture {motorcycles}",
-            "code": "XT"
+            "description": "Athens prefecture {motorcycles}",
+            "region": "XT"
         },
         {
             "id": "218",
-            "name": "Athens prefecture {motorcycles}",
-            "code": "XY"
+            "description": "Athens prefecture {motorcycles}",
+            "region": "XY"
         },
         {
             "id": "219",
-            "name": "Athens prefecture {motorcycles}",
-            "code": "XX"
+            "description": "Athens prefecture {motorcycles}",
+            "region": "XX"
         },
         {
             "id": "220",
-            "name": "Athens International Airport service vehicles",
-            "code": "AIA"
+            "description": "Athens International Airport service vehicles",
+            "region": "AIA"
         }
     ]
 }

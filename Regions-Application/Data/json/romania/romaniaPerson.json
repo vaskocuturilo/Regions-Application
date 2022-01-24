@@ -2,213 +2,213 @@
     "regions": [
         {
             "id": "1",
-            "name": "Alba",
-            "code": "AB"
+            "description": "Alba",
+            "region": "AB"
         },
         {
             "id": "2",
-            "name": "Argeș",
-            "code": "AG"
+            "description": "Argeș",
+            "region": "AG"
         },
         {
             "id": "3",
-            "name": "Arad",
-            "code": "AR"
+            "description": "Arad",
+            "region": "AR"
         },
         {
             "id": "4",
-            "name": "Bucharest",
-            "code": "B"
+            "description": "Bucharest",
+            "region": "B"
         },
         {
             "id": "5",
-            "name": "Bacău",
-            "code": "BC"
+            "description": "Bacău",
+            "region": "BC"
         },
         {
             "id": "6",
-            "name": "Bihor",
-            "code": "BH"
+            "description": "Bihor",
+            "region": "BH"
         },
         {
             "id": "7",
-            "name": "Bistrița-Năsăud",
-            "code": "BN"
+            "description": "Bistrița-Năsăud",
+            "region": "BN"
         },
         {
             "id": "8",
-            "name": "Brăila",
-            "code": "BR"
+            "description": "Brăila",
+            "region": "BR"
         },
         {
             "id": "9",
-            "name": "Botoșani",
-            "code": "BT"
+            "description": "Botoșani",
+            "region": "BT"
         },
         {
             "id": "10",
-            "name": "Brașov",
-            "code": "BV"
+            "description": "Brașov",
+            "region": "BV"
         },
         {
             "id": "11",
-            "name": "Buzău",
-            "code": "BZ"
+            "description": "Buzău",
+            "region": "BZ"
         },
         {
             "id": "12",
-            "name": "Cluj",
-            "code": "CJ"
+            "description": "Cluj",
+            "region": "CJ"
         },
         {
             "id": "13",
-            "name": "Călărași",
-            "code": "CL"
+            "description": "Călărași",
+            "region": "CL"
         },
         {
             "id": "14",
-            "name": "Caraș-Severin",
-            "code": "CS"
+            "description": "Caraș-Severin",
+            "region": "CS"
         },
         {
             "id": "15",
-            "name": "Constanța",
-            "code": "CT"
+            "description": "Constanța",
+            "region": "CT"
         },
         {
             "id": "16",
-            "name": "Covasna",
-            "code": "CV"
+            "description": "Covasna",
+            "region": "CV"
         },
         {
             "id": "17",
-            "name": "Dâmbovița",
-            "code": "DB"
+            "description": "Dâmbovița",
+            "region": "DB"
         },
         {
             "id": "18",
-            "name": "Dolj",
-            "code": "DJ"
+            "description": "Dolj",
+            "region": "DJ"
         },
         {
             "id": "19",
-            "name": "Gorj",
-            "code": "GJ"
+            "description": "Gorj",
+            "region": "GJ"
         },
         {
             "id": "20",
-            "name": "Galați",
-            "code": "GL"
+            "description": "Galați",
+            "region": "GL"
         },
         {
             "id": "21",
-            "name": "Giurgiu",
-            "code": "GR"
+            "description": "Giurgiu",
+            "region": "GR"
         },
         {
             "id": "22",
-            "name": "Hunedoara",
-            "code": "HD"
+            "description": "Hunedoara",
+            "region": "HD"
         },
         {
             "id": "23",
-            "name": "Harghita",
-            "code": "HR"
+            "description": "Harghita",
+            "region": "HR"
         },
         {
             "id": "24",
-            "name": "Ilfov",
-            "code": "IF"
+            "description": "Ilfov",
+            "region": "IF"
         },
         {
             "id": "25",
-            "name": "Ialomița",
-            "code": "IL"
+            "description": "Ialomița",
+            "region": "IL"
         },
         {
             "id": "26",
-            "name": "Iași",
-            "code": "IS"
+            "description": "Iași",
+            "region": "IS"
         },
         {
             "id": "27",
-            "name": "Mehedinți",
-            "code": "MH"
+            "description": "Mehedinți",
+            "region": "MH"
         },
         {
             "id": "28",
-            "name": "Maramureș",
-            "code": "MM"
+            "description": "Maramureș",
+            "region": "MM"
         },
         {
             "id": "29",
-            "name": "Mureș",
-            "code": "MS"
+            "description": "Mureș",
+            "region": "MS"
         },
         {
             "id": "30",
-            "name": "Neamț",
-            "code": "NT"
+            "description": "Neamț",
+            "region": "NT"
         },
         {
             "id": "31",
-            "name": "Olt",
-            "code": "OT"
+            "description": "Olt",
+            "region": "OT"
         },
         {
             "id": "32",
-            "name": "Prahova",
-            "code": "PH"
+            "description": "Prahova",
+            "region": "PH"
         },
         {
             "id": "33",
-            "name": "Sibiu",
-            "code": "SB"
+            "description": "Sibiu",
+            "region": "SB"
         },
         {
             "id": "34",
-            "name": "Sălaj",
-            "code": "SJ"
+            "description": "Sălaj",
+            "region": "SJ"
         },
         {
             "id": "35",
-            "name": "Satu Mare",
-            "code": "SM"
+            "description": "Satu Mare",
+            "region": "SM"
         },
         {
             "id": "36",
-            "name": "Suceava",
-            "code": "SV"
+            "description": "Suceava",
+            "region": "SV"
         },
         {
             "id": "37",
-            "name": "Tulcea",
-            "code": "TL"
+            "description": "Tulcea",
+            "region": "TL"
         },
         {
             "id": "38",
-            "name": "Timiș",
-            "code": "TM"
+            "description": "Timiș",
+            "region": "TM"
         },
         {
             "id": "39",
-            "name": "Teleorman",
-            "code": "TR"
+            "description": "Teleorman",
+            "region": "TR"
         },
         {
             "id": "40",
-            "name": "Vâlcea",
-            "code": "VL"
+            "description": "Vâlcea",
+            "region": "VL"
         },
         {
             "id": "41",
-            "name": "Vrancea",
-            "code": "VN"
+            "description": "Vrancea",
+            "region": "VN"
         },
         {
             "id": "42",
-            "name": "Vaslui",
-            "code": "VS"
+            "description": "Vaslui",
+            "region": "VS"
         }
     ]
 }

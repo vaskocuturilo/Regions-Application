@@ -229,99 +229,166 @@ class RootViewController: UIViewController {
     
     @objc
     func buttonAction(sender: UIButton) {
-        if sender.tag == 1 {
+        
+        switch sender.tag {
+        case 1:
             let VC = self.storyboard?.instantiateViewController(withIdentifier: "russiaViewController") as! RussiaViewController
             self.navigationController?.pushViewController(VC, animated: true)
-        } else if sender.tag == 2 {
+            break
+            
+        case 2:
             let VC = self.storyboard?.instantiateViewController(withIdentifier: "ukraineViewController") as! UkraineViewController
             self.navigationController?.pushViewController(VC, animated: true)
-        } else if sender.tag == 3 {
+            break
+            
+        case 3:
             let VC = self.storyboard?.instantiateViewController(withIdentifier: "belarusViewController") as! BelarusViewController
             self.navigationController?.pushViewController(VC, animated: true)
-        } else if sender.tag == 4 {
+            break
+            
+        case 4:
             let VC = self.storyboard?.instantiateViewController(withIdentifier: "polandViewController") as! PolandViewController
             self.navigationController?.pushViewController(VC, animated: true)
-        } else if sender.tag == 5 {
+            break
+            
+        case 5:
             let VC = self.storyboard?.instantiateViewController(withIdentifier: "czechViewController") as! CzechViewController
             self.navigationController?.pushViewController(VC, animated: true)
-        } else if sender.tag == 6 {
+            break
+            
+        case 6:
             let VC = self.storyboard?.instantiateViewController(withIdentifier: "moldovaViewController") as! MoldovaViewController
             self.navigationController?.pushViewController(VC, animated: true)
-        } else if sender.tag == 7 {
+            break
+            
+        case 7:
             let VC = self.storyboard?.instantiateViewController(withIdentifier: "lithuaniaViewController") as! LithuaniaViewController
             self.navigationController?.pushViewController(VC, animated: true)
-        } else if sender.tag == 8 {
+            break
+            
+        case 8:
             let VC = self.storyboard?.instantiateViewController(withIdentifier: "turkeyViewController") as! TurkeyViewController
             self.navigationController?.pushViewController(VC, animated: true)
-        } else if sender.tag == 9 {
+            break
+            
+        case 9:
             let VC = self.storyboard?.instantiateViewController(withIdentifier: "estoniaViewController") as! EstoniaViewController
             self.navigationController?.pushViewController(VC, animated: true)
-        } else if sender.tag == 10 {
+            break
+            
+        case 10:
             let VC = self.storyboard?.instantiateViewController(withIdentifier: "germanyViewController") as! GermanyViewController
             self.navigationController?.pushViewController(VC, animated: true)
-        } else if sender.tag == 11 {
+            break
+            
+        case 11:
             let VC = self.storyboard?.instantiateViewController(withIdentifier: "slovakiaViewController") as! SlovakiaViewController
             self.navigationController?.pushViewController(VC, animated: true)
-        } else if sender.tag == 12 {
+            break
+            
+        case 12:
             let VC = self.storyboard?.instantiateViewController(withIdentifier: "bulgariaViewController") as! BulgariaViewController
             self.navigationController?.pushViewController(VC, animated: true)
-        } else if sender.tag == 13 {
+            break
+            
+        case 13:
             let VC = self.storyboard?.instantiateViewController(withIdentifier: "austriaViewController") as! AustriaViewController
             self.navigationController?.pushViewController(VC, animated: true)
-        } else if sender.tag == 14 {
+            break
+            
+        case 14:
             let VC = self.storyboard?.instantiateViewController(withIdentifier: "greeceViewController") as! GreeceViewController
             self.navigationController?.pushViewController(VC, animated: true)
-        } else if sender.tag == 15 {
+            break
+            
+        case 15:
             let VC = self.storyboard?.instantiateViewController(withIdentifier: "irelandViewController") as! IrelandViewController
             self.navigationController?.pushViewController(VC, animated: true)
-        } else if sender.tag == 16 {
+            break
+            
+        case 16:
             let VC = self.storyboard?.instantiateViewController(withIdentifier: "romaniaViewController") as! RomaniaViewController
             self.navigationController?.pushViewController(VC, animated: true)
-        } else if sender.tag == 17 {
+            break
+            
+        case 17:
             let VC = self.storyboard?.instantiateViewController(withIdentifier: "hungaryViewController") as! HungaryViewController
             self.navigationController?.pushViewController(VC, animated: true)
-        } else if sender.tag == 18 {
+            break
+            
+        case 18:
             let VC = self.storyboard?.instantiateViewController(withIdentifier: "armeniaViewController") as! ArmeniaViewController
             self.navigationController?.pushViewController(VC, animated: true)
-        } else if sender.tag == 19 {
+            break
+            
+        case 19:
             let VC = self.storyboard?.instantiateViewController(withIdentifier: "norwayViewController") as! NorwayViewController
             self.navigationController?.pushViewController(VC, animated: true)
-        } else if sender.tag == 20 {
+            break
+            
+        case 20:
             let VC = self.storyboard?.instantiateViewController(withIdentifier: "switzerlandViewController") as! SwitzerlandViewController
             self.navigationController?.pushViewController(VC, animated: true)
-        } else if sender.tag == 21 {
+            break
+            
+        case 21:
             let VC = self.storyboard?.instantiateViewController(withIdentifier: "franceViewController") as! FranceViewController
             self.navigationController?.pushViewController(VC, animated: true)
-        } else if sender.tag == 22 {
+            break
+            
+        case 22:
             let VC = self.storyboard?.instantiateViewController(withIdentifier: "croatiaViewController") as! CroatiaViewController
             self.navigationController?.pushViewController(VC, animated: true)
-        } else if sender.tag == 23 {
+            break
+            
+        case 23:
             let VC = self.storyboard?.instantiateViewController(withIdentifier: "montenegroViewController") as! MontenegroViewController
             self.navigationController?.pushViewController(VC, animated: true)
-        } else if sender.tag == 24 {
+            break
+            
+        case 24:
             let VC = self.storyboard?.instantiateViewController(withIdentifier: "sloveniaViewController") as! SloveniaViewController
             self.navigationController?.pushViewController(VC, animated: true)
-        } else if sender.tag == 25 {
+            break
+            
+        case 25:
             let VC = self.storyboard?.instantiateViewController(withIdentifier: "kosovoViewController") as! KosovoViewController
             self.navigationController?.pushViewController(VC, animated: true)
-        } else if sender.tag == 26 {
+            break
+            
+        case 26:
             let VC = self.storyboard?.instantiateViewController(withIdentifier: "britishViewController") as! BritishViewController
             self.navigationController?.pushViewController(VC, animated: true)
-        } else if sender.tag == 27 {
+            break
+            
+        case 27:
             let VC = self.storyboard?.instantiateViewController(withIdentifier: "kyrgyzstanViewController") as! KyrgyzstanViewController
             self.navigationController?.pushViewController(VC, animated: true)
-        } else if sender.tag == 28 {
+            break
+            
+        case 28:
             let VC = self.storyboard?.instantiateViewController(withIdentifier: "kazakhstanViewController") as! KazakhstanViewController
             self.navigationController?.pushViewController(VC, animated: true)
-        } else if sender.tag == 29 {
+            
+            break
+            
+        case 29:
             let VC = self.storyboard?.instantiateViewController(withIdentifier: "azerbaijanViewController") as! AzerbaijanViewController
             self.navigationController?.pushViewController(VC, animated: true)
-        } else if sender.tag == 30 {
+            break
+            
+        case 30:
             let VC = self.storyboard?.instantiateViewController(withIdentifier: "uzbekistanViewController") as! UzbekistanViewController
             self.navigationController?.pushViewController(VC, animated: true)
-        } else if sender.tag == 31 {
+            break
+            
+        case 31:
             let VC = self.storyboard?.instantiateViewController(withIdentifier: "swedenViewController") as! SwedenViewController
             self.navigationController?.pushViewController(VC, animated: true)
+            break
+            
+        default:
+            break
         }
     }
 }
