@@ -2,58 +2,58 @@
   "regions": [
     {
       "id": "1",
-      "name": "Celje, Laško, Mozirje, Slovenske Konjice, Šentjur, Šmarje pri Jelšah, Velenje, Žalec",
-      "code": "CE"
+      "description": "Celje, Laško, Mozirje, Slovenske Konjice, Šentjur, Šmarje pri Jelšah, Velenje, Žalec",
+      "region": "CE"
     },
     {
       "id": "2",
-      "name": "Ajdovščina, Idrija, Tolmin, Nova Gorica",
-      "code": "GO"
+      "description": "Ajdovščina, Idrija, Tolmin, Nova Gorica",
+      "region": "GO"
     },
     {
       "id": "3",
-      "name": "Brežice, Krško, Sevnica",
-      "code": "KK"
+      "description": "Brežice, Krško, Sevnica",
+      "region": "KK"
     },
     {
       "id": "4",
-      "name": "Izola, Koper, Piran, Sežana, Ilirska Bistrica",
-      "code": "KP"
+      "description": "Izola, Koper, Piran, Sežana, Ilirska Bistrica",
+      "region": "KP"
     },
     {
       "id": "5",
-      "name": "Jesenice, Kranj, Radovljica, Škofja Loka, Tržič",
-      "code": " KR"
+      "description": "Jesenice, Kranj, Radovljica, Škofja Loka, Tržič",
+      "region": " KR"
     },
     {
       "id": "6",
-      "name": "Cerknica, Domžale, Grosuplje, Hrastnik, Kamnik, Kočevje, Litija, Ljubljana, Logatec, Ribnica, Ribnica, Trbovlje, Vrhnika, Zagorje ob Savi",
-      "code": "LJ"
+      "description": "Cerknica, Domžale, Grosuplje, Hrastnik, Kamnik, Kočevje, Litija, Ljubljana, Logatec, Ribnica, Ribnica, Trbovlje, Vrhnika, Zagorje ob Savi",
+      "region": "LJ"
     },
     {
       "id": "7",
-      "name": "Lenart v Slovenskih Goricah, Maribor, Ormož, Pesnica pri Mariboru, Ptuj, Ruše, Slovenska Bistrica",
-      "code": "MB"
+      "description": "Lenart v Slovenskih Goricah, Maribor, Ormož, Pesnica pri Mariboru, Ptuj, Ruše, Slovenska Bistrica",
+      "region": "MB"
     },
     {
       "id": "8",
-      "name": "Gornja Radgona, Lendava, Ljutomer, Murska Sobota",
-      "code": "MS"
+      "description": "Gornja Radgona, Lendava, Ljutomer, Murska Sobota",
+      "region": "MS"
     },
     {
       "id": "9",
-      "name": "Črnomelj, Metlika, Novo Mesto, Trebnje",
-      "code": "NM"
+      "description": "Črnomelj, Metlika, Novo Mesto, Trebnje",
+      "region": "NM"
     },
     {
       "id": "10",
-      "name": "Postojna",
-      "code": "PO"
+      "description": "Postojna",
+      "region": "PO"
     },
     {
       "id": "11",
-      "name": "Dravograd, Radlje ob Dravi, Ravne na Koroškem, Slovenj Gradec",
-      "code": "SG"
+      "description": "Dravograd, Radlje ob Dravi, Ravne na Koroškem, Slovenj Gradec",
+      "region": "SG"
     }
   ]
 }

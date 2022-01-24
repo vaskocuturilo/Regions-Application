@@ -2,408 +2,408 @@
     "regions": [
         {
             "id": "1",
-            "name": "Adana",
-            "code": "01"
+            "description": "Adana",
+            "region": "01"
         },
         {
             "id": "2",
-            "name": "Adıyaman",
-            "code": "02"
+            "description": "Adıyaman",
+            "region": "02"
         },
         {
             "id": "3",
-            "name": "Afyonkarahisar",
-            "code": "03"
+            "description": "Afyonkarahisar",
+            "region": "03"
         },
         {
             "id": "4",
-            "name": "Ağrı",
-            "code": "04"
+            "description": "Ağrı",
+            "region": "04"
         },
         {
             "id": "5",
-            "name": "Amasya",
-            "code": "05"
+            "description": "Amasya",
+            "region": "05"
         },
         {
             "id": "6",
-            "name": "Ankara",
-            "code": "06"
+            "description": "Ankara",
+            "region": "06"
         },
         {
             "id": "7",
-            "name": "Antalya",
-            "code": "07"
+            "description": "Antalya",
+            "region": "07"
         },
         {
             "id": "8",
-            "name": "Artvin",
-            "code": "08"
+            "description": "Artvin",
+            "region": "08"
         },
         {
             "id": "9",
-            "name": "Aydın",
-            "code": "09"
+            "description": "Aydın",
+            "region": "09"
         },
         {
             "id": "10",
-            "name": "Balıkesir",
-            "code": "10"
+            "description": "Balıkesir",
+            "region": "10"
         },
         {
             "id": "11",
-            "name": "Bilecik",
-            "code": "11"
+            "description": "Bilecik",
+            "region": "11"
         },
         {
             "id": "12",
-            "name": "Bingöl",
-            "code": "12"
+            "description": "Bingöl",
+            "region": "12"
         },
         {
             "id": "13",
-            "name": "Bitlis",
-            "code": "13"
+            "description": "Bitlis",
+            "region": "13"
         },
         {
             "id": "14",
-            "name": "Bolu",
-            "code": "14"
+            "description": "Bolu",
+            "region": "14"
         },
         {
             "id": "15",
-            "name": "Burdur",
-            "code": "15"
+            "description": "Burdur",
+            "region": "15"
         },
         {
             "id": "16",
-            "name": "Bursa",
-            "code": "16"
+            "description": "Bursa",
+            "region": "16"
         },
         {
             "id": "17",
-            "name": "Çanakkale",
-            "code": "17"
+            "description": "Çanakkale",
+            "region": "17"
         },
         {
             "id": "18",
-            "name": "Çankırı",
-            "code": "18"
+            "description": "Çankırı",
+            "region": "18"
         },
         {
             "id": "19",
-            "name": "Çorum",
-            "code": "19"
+            "description": "Çorum",
+            "region": "19"
         },
         {
             "id": "20",
-            "name": "Denizli",
-            "code": "20"
+            "description": "Denizli",
+            "region": "20"
         },
         {
             "id": "21",
-            "name": "Diyarbakır",
-            "code": "21"
+            "description": "Diyarbakır",
+            "region": "21"
         },
         {
             "id": "22",
-            "name": "Edirne",
-            "code": "22"
+            "description": "Edirne",
+            "region": "22"
         },
         {
             "id": "23",
-            "name": "Elazığ",
-            "code": "23"
+            "description": "Elazığ",
+            "region": "23"
         },
         {
             "id": "24",
-            "name": "Erzincan",
-            "code": "24"
+            "description": "Erzincan",
+            "region": "24"
         },
         {
             "id": "25",
-            "name": "Erzurum",
-            "code": "25"
+            "description": "Erzurum",
+            "region": "25"
         },
         {
             "id": "26",
-            "name": "Eskişehir",
-            "code": "26"
+            "description": "Eskişehir",
+            "region": "26"
         },
         {
             "id": "27",
-            "name": "Gaziantep",
-            "code": "27"
+            "description": "Gaziantep",
+            "region": "27"
         },
         {
             "id": "28",
-            "name": "Giresun",
-            "code": "28"
+            "description": "Giresun",
+            "region": "28"
         },
         {
             "id": "29",
-            "name": "Gümüşhane",
-            "code": "29"
+            "description": "Gümüşhane",
+            "region": "29"
         },
         {
             "id": "30",
-            "name": "Hakkari",
-            "code": "30"
+            "description": "Hakkari",
+            "region": "30"
         },
         {
             "id": "31",
-            "name": "Hatay",
-            "code": "31"
+            "description": "Hatay",
+            "region": "31"
         },
         {
             "id": "32",
-            "name": "Isparta",
-            "code": "32"
+            "description": "Isparta",
+            "region": "32"
         },
         {
             "id": "33",
-            "name": "Mersin",
-            "code": "33"
+            "description": "Mersin",
+            "region": "33"
         },
         {
             "id": "34",
-            "name": "İstanbul",
-            "code": "34"
+            "description": "İstanbul",
+            "region": "34"
         },
         {
             "id": "35",
-            "name": "İzmir",
-            "code": "35"
+            "description": "İzmir",
+            "region": "35"
         },
         {
             "id": "36",
-            "name": "Kars",
-            "code": "36"
+            "description": "Kars",
+            "region": "36"
         },
         {
             "id": "37",
-            "name": "Kastamonu",
-            "code": "37"
+            "description": "Kastamonu",
+            "region": "37"
         },
         {
             "id": "38",
-            "name": "Kayseri",
-            "code": "38"
+            "description": "Kayseri",
+            "region": "38"
         },
         {
             "id": "39",
-            "name": "Kırklareli",
-            "code": "39"
+            "description": "Kırklareli",
+            "region": "39"
         },
         {
             "id": "40",
-            "name": "Kırşehir",
-            "code": "40"
+            "description": "Kırşehir",
+            "region": "40"
         },
         {
             "id": "41",
-            "name": "Kocaeli",
-            "code": "41"
+            "description": "Kocaeli",
+            "region": "41"
         },
         {
             "id": "42",
-            "name": "Konya",
-            "code": "42"
+            "description": "Konya",
+            "region": "42"
         },
         {
             "id": "43",
-            "name": "Kütahya",
-            "code": "43"
+            "description": "Kütahya",
+            "region": "43"
         },
         {
             "id": "44",
-            "name": "Malatya",
-            "code": "44"
+            "description": "Malatya",
+            "region": "44"
         },
         {
             "id": "45",
-            "name": "Manisa",
-            "code": "45"
+            "description": "Manisa",
+            "region": "45"
         },
         {
             "id": "46",
-            "name": "Kahramanmaraş",
-            "code": "46"
+            "description": "Kahramanmaraş",
+            "region": "46"
         },
         {
             "id": "47",
-            "name": "Mardin",
-            "code": "47"
+            "description": "Mardin",
+            "region": "47"
         },
         {
             "id": "48",
-            "name": "Muğla",
-            "code": "48"
+            "description": "Muğla",
+            "region": "48"
         },
         {
             "id": "49",
-            "name": "Muş",
-            "code": "49"
+            "description": "Muş",
+            "region": "49"
         },
         {
             "id": "50",
-            "name": "Nevşehir",
-            "code": "50"
+            "description": "Nevşehir",
+            "region": "50"
         },
         {
             "id": "51",
-            "name": "Niğde",
-            "code": "51"
+            "description": "Niğde",
+            "region": "51"
         },
         {
             "id": "52",
-            "name": "Ordu",
-            "code": "52"
+            "description": "Ordu",
+            "region": "52"
         },
         {
             "id": "53",
-            "name": "Rize",
-            "code": "53"
+            "description": "Rize",
+            "region": "53"
         },
         {
             "id": "54",
-            "name": "Sakarya",
-            "code": "54"
+            "description": "Sakarya",
+            "region": "54"
         },
         {
             "id": "55",
-            "name": "Samsun",
-            "code": "55"
+            "description": "Samsun",
+            "region": "55"
         },
         {
             "id": "56",
-            "name": "Siirt",
-            "code": "56"
+            "description": "Siirt",
+            "region": "56"
         },
         {
             "id": "57",
-            "name": "Sinop",
-            "code": "57"
+            "description": "Sinop",
+            "region": "57"
         },
         {
             "id": "58",
-            "name": "Sivas",
-            "code": "58"
+            "description": "Sivas",
+            "region": "58"
         },
         {
             "id": "59",
-            "name": "Tekirdağ",
-            "code": "59"
+            "description": "Tekirdağ",
+            "region": "59"
         },
         {
             "id": "60",
-            "name": "Tokat",
-            "code": "60"
+            "description": "Tokat",
+            "region": "60"
         },
         {
             "id": "61",
-            "name": "Trabzon",
-            "code": "61"
+            "description": "Trabzon",
+            "region": "61"
         },
         {
             "id": "62",
-            "name": "Tunceli",
-            "code": "62"
+            "description": "Tunceli",
+            "region": "62"
         },
         {
             "id": "63",
-            "name": "Şanlıurfa",
-            "code": "63"
+            "description": "Şanlıurfa",
+            "region": "63"
         },
         {
             "id": "64",
-            "name": "Uşak",
-            "code": "64"
+            "description": "Uşak",
+            "region": "64"
         },
         {
             "id": "65",
-            "name": "Van",
-            "code": "65"
+            "description": "Van",
+            "region": "65"
         },
         {
             "id": "66",
-            "name": "Yozgat",
-            "code": "66"
+            "description": "Yozgat",
+            "region": "66"
         },
         {
             "id": "67",
-            "name": "Zonguldak",
-            "code": "67"
+            "description": "Zonguldak",
+            "region": "67"
         },
         {
             "id": "68",
-            "name": "Aksaray",
-            "code": "68"
+            "description": "Aksaray",
+            "region": "68"
         },
         {
             "id": "69",
-            "name": "Bayburt",
-            "code": "69"
+            "description": "Bayburt",
+            "region": "69"
         },
         {
             "id": "70",
-            "name": "Karaman",
-            "code": "70"
+            "description": "Karaman",
+            "region": "70"
         },
         {
             "id": "71",
-            "name": "Kırıkkale",
-            "code": "71"
+            "description": "Kırıkkale",
+            "region": "71"
         },
         {
             "id": "72",
-            "name": "Batman",
-            "code": "72"
+            "description": "Batman",
+            "region": "72"
         },
         {
             "id": "73",
-            "name": "Şırnak",
-            "code": "73"
+            "description": "Şırnak",
+            "region": "73"
         },
         {
             "id": "74",
-            "name": "Bartın",
-            "code": "74"
+            "description": "Bartın",
+            "region": "74"
         },
         {
             "id": "75",
-            "name": "Ardahan",
-            "code": "75"
+            "description": "Ardahan",
+            "region": "75"
         },
         {
             "id": "76",
-            "name": "Iğdır",
-            "code": "76"
+            "description": "Iğdır",
+            "region": "76"
         },
         {
             "id": "77",
-            "name": "Yalova",
-            "code": "77"
+            "description": "Yalova",
+            "region": "77"
         },
         {
             "id": "78",
-            "name": "Karabük",
-            "code": "78"
+            "description": "Karabük",
+            "region": "78"
         },
         {
             "id": "79",
-            "name": "Kilis",
-            "code": "79"
+            "description": "Kilis",
+            "region": "79"
         },
         {
             "id": "80",
-            "name": "Osmaniye",
-            "code": "80"
+            "description": "Osmaniye",
+            "region": "80"
         },
         {
             "id": "81",
-            "name": "Düzce",
-            "code": "81"
+            "description": "Düzce",
+            "region": "81"
         }
     ]
 }

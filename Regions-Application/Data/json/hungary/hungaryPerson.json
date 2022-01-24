@@ -2,93 +2,93 @@
   "regions": [
     {
       "id": "1",
-      "name": "1990",
-      "code": "A"
+      "description": "1990",
+      "region": "A"
     },
     {
       "id": "2",
-      "name": "1991",
-      "code": "B"
+      "description": "1991",
+      "region": "B"
     },
     {
       "id": "3",
-      "name": "1991",
-      "code": "C"
+      "description": "1991",
+      "region": "C"
     },
     {
       "id": "4",
-      "name": "1992",
-      "code": "D"
+      "description": "1992",
+      "region": "D"
     },
     {
       "id": "5",
-      "name": "1993",
-      "code": "E"
+      "description": "1993",
+      "region": "E"
     },
     {
       "id": "6",
-      "name": "1994",
-      "code": "F"
+      "description": "1994",
+      "region": "F"
     },
     {
       "id": "7",
-      "name": "1996",
-      "code": "G"
+      "description": "1996",
+      "region": "G"
     },
     {
       "id": "8",
-      "name": "1999",
-      "code": "H"
+      "description": "1999",
+      "region": "H"
     },
     {
       "id": "9",
-      "name": "2001",
-      "code": "I"
+      "description": "2001",
+      "region": "I"
     },
     {
       "id": "10",
-      "name": "Dec 2003",
-      "code": "J"
+      "description": "Dec 2003",
+      "region": "J"
     },
     {
       "id": "11",
-      "name": "Dec 2005",
-      "code": "K"
+      "description": "Dec 2005",
+      "region": "K"
     },
     {
       "id": "12",
-      "name": "Nov 2007",
-      "code": "L"
+      "description": "Nov 2007",
+      "region": "L"
     },
     {
       "id": "13",
-      "name": "Dec 2011",
-      "code": "M"
+      "description": "Dec 2011",
+      "region": "M"
     },
     {
       "id": "14",
-      "name": "Dec 2014",
-      "code": "N"
+      "description": "Dec 2014",
+      "region": "N"
     },
     {
       "id": "15",
-      "name": "Dec 2016",
-      "code": "P"
+      "description": "Dec 2016",
+      "region": "P"
     },
     {
       "id": "16",
-      "name": "Jul 2018",
-      "code": "R"
+      "description": "Jul 2018",
+      "region": "R"
     },
     {
       "id": "17",
-      "name": "Jan 2020",
-      "code": "S"
+      "description": "Jan 2020",
+      "region": "S"
     },
     {
       "id": "18",
-      "name": "Sep 2021",
-      "code": "T"
+      "description": "Sep 2021",
+      "region": "T"
     }
   ]
 }

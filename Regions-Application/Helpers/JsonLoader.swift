@@ -13,9 +13,9 @@ struct RegionsInfo: Decodable {
 }
 struct Region: Codable {
     
-    let code: String
+    let region: String
     
-    let name: String
+    let description: String
 }
 
 class JsonLoader {
@@ -30,12 +30,12 @@ class JsonLoader {
                 let speciesInfo = try decoder.decode(RegionsInfo.self, from: data)
                 let speciesList = speciesInfo.regions
                 
-                let result = speciesList.first {$0.code == text}
+                let result = speciesList.first {$0.region == text}
                 
-                if result?.name == nil {
+                if result?.description == nil {
                     label.text = "Region not found."
                 } else {
-                    label.text = result?.name
+                    label.text = result?.description
                 }
                 
             } catch {
@@ -53,12 +53,12 @@ class JsonLoader {
                 let speciesInfo = try decoder.decode(RegionsInfo.self, from: data)
                 let speciesList = speciesInfo.regions
                 
-                let result = speciesList.first {$0.code == text}
+                let result = speciesList.first {$0.region == text}
                 
-                if result?.name == nil {
+                if result?.description == nil {
                     textView.text = "Region not found."
                 } else {
-                    textView.text = "The region is: " + result!.name
+                    textView.text = "The region is: " + result!.description
                 }
                 
             } catch {

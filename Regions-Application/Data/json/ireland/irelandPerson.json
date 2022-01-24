@@ -2,133 +2,133 @@
     "regions": [
         {
             "id": "1",
-            "name": "Cork",
-            "code": "C"
+            "description": "Cork",
+            "region": "C"
         },
         {
             "id": "2",
-            "name": "Clare",
-            "code": "CE"
+            "description": "Clare",
+            "region": "CE"
         },
         {
             "id": "3",
-            "name": "Cavan",
-            "code": "CN"
+            "description": "Cavan",
+            "region": "CN"
         },
         {
             "id": "4",
-            "name": "Carlow",
-            "code": "CW"
+            "description": "Carlow",
+            "region": "CW"
         },
         {
             "id": "5",
-            "name": "Dublin",
-            "code": "D"
+            "description": "Dublin",
+            "region": "D"
         },
         {
             "id": "6",
-            "name": "Donegal",
-            "code": "DL"
+            "description": "Donegal",
+            "region": "DL"
         },
         {
             "id": "7",
-            "name": "Galway",
-            "code": "G"
+            "description": "Galway",
+            "region": "G"
         },
         {
             "id": "8",
-            "name": "Kildare",
-            "code": "KE"
+            "description": "Kildare",
+            "region": "KE"
         },
         {
             "id": "9",
-            "name": "Kilkenny",
-            "code": "KK"
+            "description": "Kilkenny",
+            "region": "KK"
         },
         {
             "id": "10",
-            "name": "Kerry",
-            "code": "KY"
+            "description": "Kerry",
+            "region": "KY"
         },
         {
             "id": "11",
-            "name": "Limerick",
-            "code": "L"
+            "description": "Limerick",
+            "region": "L"
         },
         {
             "id": "12",
-            "name": "Longford",
-            "code": "LD"
+            "description": "Longford",
+            "region": "LD"
         },
         {
             "id": "13",
-            "name": "Louth",
-            "code": "LH"
+            "description": "Louth",
+            "region": "LH"
         },
         {
             "id": "14",
-            "name": "Leitrim",
-            "code": "LM"
+            "description": "Leitrim",
+            "region": "LM"
         },
         {
             "id": "15",
-            "name": "Laois",
-            "code": "LS"
+            "description": "Laois",
+            "region": "LS"
         },
         {
             "id": "16",
-            "name": "Meath",
-            "code": "MH"
+            "description": "Meath",
+            "region": "MH"
         },
         {
             "id": "17",
-            "name": "Monaghan",
-            "code": "MN"
+            "description": "Monaghan",
+            "region": "MN"
         },
         {
             "id": "18",
-            "name": "Mayo",
-            "code": "MO"
+            "description": "Mayo",
+            "region": "MO"
         },
         {
             "id": "19",
-            "name": "Offaly",
-            "code": "OY"
+            "description": "Offaly",
+            "region": "OY"
         },
         {
             "id": "20",
-            "name": "Roscommon",
-            "code": "RN"
+            "description": "Roscommon",
+            "region": "RN"
         },
         {
             "id": "21",
-            "name": "Sligo",
-            "code": "SO"
+            "description": "Sligo",
+            "region": "SO"
         },
         {
             "id": "22",
-            "name": "Tipperary",
-            "code": "T"
+            "description": "Tipperary",
+            "region": "T"
         },
         {
             "id": "23",
-            "name": "Waterford",
-            "code": "W"
+            "description": "Waterford",
+            "region": "W"
         },
         {
             "id": "24",
-            "name": "Westmeath",
-            "code": "WH"
+            "description": "Westmeath",
+            "region": "WH"
         },
         {
             "id": "25",
-            "name": "Wexford",
-            "code": "WX"
+            "description": "Wexford",
+            "region": "WX"
         },
         {
             "id": "26",
-            "name": "Wicklow",
-            "code": "WW"
+            "description": "Wicklow",
+            "region": "WW"
         }
     ]
 }

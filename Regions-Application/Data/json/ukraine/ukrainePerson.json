@@ -1,204 +1,204 @@
 {
     "regions": [
         {
-            "code": "AA",
-            "name": "г. Киев"
+            "region": "AA",
+            "description": "г. Киев"
         },
         {
-            "code": "KA",
-            "name": "г. Киев"
+            "region": "KA",
+            "description": "г. Киев"
         },
         {
-            "code": "AB",
-            "name": "Винницкая область"
+            "region": "AB",
+            "description": "Винницкая область"
         },
         {
-            "code": "KB",
-            "name": "Винницкая область"
+            "region": "KB",
+            "description": "Винницкая область"
         },
         {
-            "code": "AC",
-            "name": "Волынская область"
+            "region": "AC",
+            "description": "Волынская область"
         },
         {
-            "code": "KC",
-            "name": "Волынская область"
+            "region": "KC",
+            "description": "Волынская область"
         },
         {
-            "code": "AE",
-            "name": "Днепропетровская область"
+            "region": "AE",
+            "description": "Днепропетровская область"
         },
         {
-            "code": "KE",
-            "name": "Днепропетровская область"
+            "region": "KE",
+            "description": "Днепропетровская область"
         },
         {
-            "code": "AH",
-            "name": "Донецкая область"
+            "region": "AH",
+            "description": "Донецкая область"
         },
         {
-            "code": "KH",
-            "name": "Донецкая область"
+            "region": "KH",
+            "description": "Донецкая область"
         },
         {
-            "code": "AI",
-            "name": "Киевская область"
+            "region": "AI",
+            "description": "Киевская область"
         },
         {
-            "code": "KI",
-            "name": "Киевская область"
+            "region": "KI",
+            "description": "Киевская область"
         },
         {
-            "code": "AM",
-            "name": "Житомирская область"
+            "region": "AM",
+            "description": "Житомирская область"
         },
         {
-            "code": "KM",
-            "name": "Житомирская область"
+            "region": "KM",
+            "description": "Житомирская область"
         },
         {
-            "code": "AO",
-            "name": "Закарпатская область"
+            "region": "AO",
+            "description": "Закарпатская область"
         },
         {
-            "code": "KO",
-            "name": "Закарпатская область"
+            "region": "KO",
+            "description": "Закарпатская область"
         },
         {
-            "code": "AP",
-            "name": "Запорожская область"
+            "region": "AP",
+            "description": "Запорожская область"
         },
         {
-            "code": "KP",
-            "name": "Запорожская область"
+            "region": "KP",
+            "description": "Запорожская область"
         },
         {
-            "code": "AT",
-            "name": "Ивано-Франковская область"
+            "region": "AT",
+            "description": "Ивано-Франковская область"
         },
         {
-            "code": "KT",
-            "name": "Ивано-Франковская область"
+            "region": "KT",
+            "description": "Ивано-Франковская область"
         },
         {
-            "code": "AX",
-            "name": "Харьковская область"
+            "region": "AX",
+            "description": "Харьковская область"
         },
         {
-            "code": "KX",
-            "name": "Харьковская область"
+            "region": "KX",
+            "description": "Харьковская область"
         },
         {
-            "code": "BA",
-            "name": "Кировоградская область"
+            "region": "BA",
+            "description": "Кировоградская область"
         },
         {
-            "code": "HA",
-            "name": "Кировоградская область"
+            "region": "HA",
+            "description": "Кировоградская область"
         },
         {
-            "code": "BB",
-            "name": "Луганская область"
+            "region": "BB",
+            "description": "Луганская область"
         },
         {
-            "code": "HB",
-            "name": "Луганская область"
+            "region": "HB",
+            "description": "Луганская область"
         },
         {
-            "code": "BC",
-            "name": "Львовская область"
+            "region": "BC",
+            "description": "Львовская область"
         },
         {
-            "code": "HC",
-            "name": "Львовская область"
+            "region": "HC",
+            "description": "Львовская область"
         },
         {
-            "code": "BE",
-            "name": "Николаевская область"
+            "region": "BE",
+            "description": "Николаевская область"
         },
         {
-            "code": "HE",
-            "name": "Николаевская область"
+            "region": "HE",
+            "description": "Николаевская область"
         },
         {
-            "code": "BH",
-            "name": "Одесская область"
+            "region": "BH",
+            "description": "Одесская область"
         },
         {
-            "code": "HH",
-            "name": "Одесская область"
+            "region": "HH",
+            "description": "Одесская область"
         },
         {
-            "code": "BI",
-            "name": "Полтавская область"
+            "region": "BI",
+            "description": "Полтавская область"
         },
         {
-            "code": "HI",
-            "name": "Полтавская область"
+            "region": "HI",
+            "description": "Полтавская область"
         },
         {
-            "code": "BK",
-            "name": "Ровенская область"
+            "region": "BK",
+            "description": "Ровенская область"
         },
         {
-            "code": "HK",
-            "name": "Ровенская область"
+            "region": "HK",
+            "description": "Ровенская область"
         },
         {
-            "code": "BM",
-            "name": "Сумская область"
+            "region": "BM",
+            "description": "Сумская область"
         },
         {
-            "code": "HM",
-            "name": "Сумская область"
+            "region": "HM",
+            "description": "Сумская область"
         },
         {
-            "code": "BO",
-            "name": "Тернопольская область"
+            "region": "BO",
+            "description": "Тернопольская область"
         },
         {
-            "code": "HO",
-            "name": "Тернопольская область"
+            "region": "HO",
+            "description": "Тернопольская область"
         },
         {
-            "code": "BT",
-            "name": "Херсонская область"
+            "region": "BT",
+            "description": "Херсонская область"
         },
         {
-            "code": "HT",
-            "name": "Херсонская область"
+            "region": "HT",
+            "description": "Херсонская область"
         },
         {
-            "code": "BX",
-            "name": "Хмельницкая область"
+            "region": "BX",
+            "description": "Хмельницкая область"
         },
         {
-            "code": "HX",
-            "name": "Хмельницкая область"
+            "region": "HX",
+            "description": "Хмельницкая область"
         },
         {
-            "code": "CA",
-            "name": "Черкасская область"
+            "region": "CA",
+            "description": "Черкасская область"
         },
         {
-            "code": "IA",
-            "name": "Черкасская область"
+            "region": "IA",
+            "description": "Черкасская область"
         },
         {
-            "code": "CB",
-            "name": "Черниговская область"
+            "region": "CB",
+            "description": "Черниговская область"
         },
         {
-            "code": "IB",
-            "name": "Черниговская область"
+            "region": "IB",
+            "description": "Черниговская область"
         },
         {
-            "code": "CE",
-            "name": "Черновицкая область"
+            "region": "CE",
+            "description": "Черновицкая область"
         },
         {
-            "code": "IE",
-            "name": "Черновицкая область"
+            "region": "IE",
+            "description": "Черновицкая область"
         }
     ]
 }

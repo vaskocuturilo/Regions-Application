@@ -2,38 +2,38 @@
   "regions": [
     {
       "id": "1",
-      "name": "Pristina",
-      "code": "01"
+      "description": "Pristina",
+      "region": "01"
     },
     {
       "id": "2",
-      "name": "Mitrovica",
-      "code": "02"
+      "description": "Mitrovica",
+      "region": "02"
     },
     {
       "id": "3",
-      "name": "Peja",
-      "code": "03"
+      "description": "Peja",
+      "region": "03"
     },
     {
       "id": "4",
-      "name": "Prizren",
-      "code": "04"
+      "description": "Prizren",
+      "region": "04"
     },
     {
       "id": "5",
-      "name": "Ferizaj",
-      "code": "05"
+      "description": "Ferizaj",
+      "region": "05"
     },
     {
       "id": "6",
-      "name": "Gjilan",
-      "code": "06"
+      "description": "Gjilan",
+      "region": "06"
     },
     {
       "id": "7",
-      "name": "Gjakova",
-      "code": "07"
+      "description": "Gjakova",
+      "region": "07"
     }
   ]
 }

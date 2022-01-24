@@ -2,198 +2,198 @@
   "regions": [
     {
       "id": "1",
-      "name": "Bjelovar, Čazma, Garešnica",
-      "code": "BJ"
+      "description": "Bjelovar, Čazma, Garešnica",
+      "region": "BJ"
     },
     {
       "id": "2",
-      "name": "Beli Manastir",
-      "code": "BM"
+      "description": "Beli Manastir",
+      "region": "BM"
     },
     {
       "id": "3",
-      "name": "Čakovec, Mursko Središće, Prelog",
-      "code": "ČK"
+      "description": "Čakovec, Mursko Središće, Prelog",
+      "region": "ČK"
     },
     {
       "id": "4",
-      "name": "Daruvar, Grubišno Polje, Lipik, Pakrac",
-      "code": "DA"
+      "description": "Daruvar, Grubišno Polje, Lipik, Pakrac",
+      "region": "DA"
     },
     {
       "id": "5",
-      "name": "Čabar, Delnice",
-      "code": "DE"
+      "description": "Čabar, Delnice",
+      "region": "DE"
     },
     {
       "id": "6",
-      "name": "Đakovo",
-      "code": "DJ"
+      "description": "Đakovo",
+      "region": "DJ"
     },
     {
       "id": "7",
-      "name": "Dubrovnik, Korčula, Metković, Opuzen, Ploče",
-      "code": "DU"
+      "description": "Dubrovnik, Korčula, Metković, Opuzen, Ploče",
+      "region": "DU"
     },
     {
       "id": "8",
-      "name": "Gospić, Novalja, Otočac, Senj",
-      "code": "GS"
+      "description": "Gospić, Novalja, Otočac, Senj",
+      "region": "GS"
     },
     {
       "id": "9",
-      "name": "Imotski",
-      "code": "IM"
+      "description": "Imotski",
+      "region": "IM"
     },
     {
       "id": "10",
-      "name": "Duga Resa, Karlovac, Slunj, Ozalj",
-      "code": "KA"
+      "description": "Duga Resa, Karlovac, Slunj, Ozalj",
+      "region": "KA"
     },
     {
       "id": "11",
-      "name": "Đurđevac, Koprivnica",
-      "code": "KC"
+      "description": "Đurđevac, Koprivnica",
+      "region": "KC"
     },
     {
       "id": "12",
-      "name": "Donja Stubica, Klanjec, Krapina, Oroslavje, Pregrada, Zabok, Zlatar",
-      "code": "KR"
+      "description": "Donja Stubica, Klanjec, Krapina, Oroslavje, Pregrada, Zabok, Zlatar",
+      "region": "KR"
     },
     {
       "id": "13",
-      "name": "Kutina, Novska, Popovača",
-      "code": "KT"
+      "description": "Kutina, Novska, Popovača",
+      "region": "KT"
     },
     {
       "id": "14",
-      "name": "Križevci",
-      "code": "KŽ"
+      "description": "Križevci",
+      "region": "KŽ"
     },
     {
       "id": "15",
-      "name": "Makarska, Vrgorac",
-      "code": "MA"
+      "description": "Makarska, Vrgorac",
+      "region": "MA"
     },
     {
       "id": "16",
-      "name": "Donji Miholjac, Našice",
-      "code": "NA"
+      "description": "Donji Miholjac, Našice",
+      "region": "NA"
     },
     {
       "id": "17",
-      "name": "Nova Gradiška",
-      "code": "NG"
+      "description": "Nova Gradiška",
+      "region": "NG"
     },
     {
       "id": "18",
-      "name": "Ogulin",
-      "code": "OG"
+      "description": "Ogulin",
+      "region": "OG"
     },
     {
       "id": "19",
-      "name": "Belišće, Osijek, Valpovo",
-      "code": "OS"
+      "description": "Belišće, Osijek, Valpovo",
+      "region": "OS"
     },
     {
       "id": "20",
-      "name": "Buje, Buzet, Labin, Novigrad, Pazin, Poreč, Pula, Rovinj, Umag, Vodnjan",
-      "code": "PU"
+      "description": "Buje, Buzet, Labin, Novigrad, Pazin, Poreč, Pula, Rovinj, Umag, Vodnjan",
+      "region": "PU"
     },
     {
       "id": "21",
-      "name": "Kutjevo, Pleternica, Požega",
-      "code": "PŽ"
+      "description": "Kutjevo, Pleternica, Požega",
+      "region": "PŽ"
     },
     {
       "id": "22",
-      "name": "Bakar, Cres, Crikvenica, Kastav, Kraljevica, Krk, Mali Lošinj, Novi Vinodolski, Opatija, Rab, Rijeka, Vrbovsko",
-      "code": "RI"
+      "description": "Bakar, Cres, Crikvenica, Kastav, Kraljevica, Krk, Mali Lošinj, Novi Vinodolski, Opatija, Rab, Rijeka, Vrbovsko",
+      "region": "RI"
     },
     {
       "id": "23",
-      "name": "Slavonski Brod",
-      "code": "SB"
+      "description": "Slavonski Brod",
+      "region": "SB"
     },
     {
       "id": "24",
-      "name": "Glina, Hrvatska Kostajnica, Sisak, Petrinja",
-      "code": "SK"
+      "description": "Glina, Hrvatska Kostajnica, Sisak, Petrinja",
+      "region": "SK"
     },
     {
       "id": "25",
-      "name": "Orahovica, Slatina",
-      "code": "SL"
+      "description": "Orahovica, Slatina",
+      "region": "SL"
     },
     {
       "id": "26",
-      "name": "Hvar, Kaštela, Komiža, Omiš, Sinj, Solin, Split, Stari Grad, Supetar, Trilj, Trogir, Vis, Vrlika",
-      "code": "ST"
+      "description": "Hvar, Kaštela, Komiža, Omiš, Sinj, Solin, Split, Stari Grad, Supetar, Trilj, Trogir, Vis, Vrlika",
+      "region": "ST"
     },
     {
       "id": "27",
-      "name": "Drniš, Knin, Skradin, Šibenik, Vodice",
-      "code": "ŠI"
+      "description": "Drniš, Knin, Skradin, Šibenik, Vodice",
+      "region": "ŠI"
     },
     {
       "id": "28",
-      "name": "Otok, Vinkovci",
-      "code": "VK"
+      "description": "Otok, Vinkovci",
+      "region": "VK"
     },
     {
       "id": "29",
-      "name": "Virovitica",
-      "code": "VT"
+      "description": "Virovitica",
+      "region": "VT"
     },
     {
       "id": "30",
-      "name": "Ilok, Vukovar",
-      "code": "VU"
+      "description": "Ilok, Vukovar",
+      "region": "VU"
     },
     {
       "id": "31",
-      "name": "Ivanec, Lepoglava, Ludbreg, Novi Marof, Varaždin, Varaždinske Toplice",
-      "code": "VŽ"
+      "description": "Ivanec, Lepoglava, Ludbreg, Novi Marof, Varaždin, Varaždinske Toplice",
+      "region": "VŽ"
     },
     {
       "id": "32",
-      "name": "Benkovac, Biograd na Moru, Nin, Obrovac, Pag, Zadar",
-      "code": "ZD"
+      "description": "Benkovac, Biograd na Moru, Nin, Obrovac, Pag, Zadar",
+      "region": "ZD"
     },
     {
       "id": "33",
-      "name": "Dugo Selo, Ivanić-Grad, Jastrebarsko, Samobor, Sveta Nedelja, Sveti Ivan Zelina, Velika Gorica, Vrbovec, Zagreb, Zaprešić",
-      "code": "ZG"
+      "description": "Dugo Selo, Ivanić-Grad, Jastrebarsko, Samobor, Sveta Nedelja, Sveti Ivan Zelina, Velika Gorica, Vrbovec, Zagreb, Zaprešić",
+      "region": "ZG"
     },
     {
       "id": "34",
-      "name": "Županja",
-      "code": "ŽU"
+      "description": "Županja",
+      "region": "ŽU"
     },
     {
       "id": "35",
-      "name": "KN",
-      "code": "Krapina"
+      "description": "KN",
+      "region": "Krapina"
     },
     {
       "id": "36",
-      "name": "Slatina",
-      "code": "PS"
+      "description": "Slatina",
+      "region": "PS"
     },
     {
       "id": "37",
-      "name": "Sisak",
-      "code": "SI"
+      "description": "Sisak",
+      "region": "SI"
     },
     {
       "id": "38",
-      "name": "Požega",
-      "code": "SP"
+      "description": "Požega",
+      "region": "SP"
     },
     {
       "id": "39",
-      "name": "Korenica",
-      "code": "TK"
+      "description": "Korenica",
+      "region": "TK"
     }
   ]
 }

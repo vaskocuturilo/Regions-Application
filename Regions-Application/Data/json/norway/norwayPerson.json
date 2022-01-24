@@ -2,2098 +2,2098 @@
   "regions": [
     {
       "id": "1",
-      "name": "Asker and Bærum, Viken",
-      "code": "BL"
+      "description": "Asker and Bærum, Viken",
+      "region": "BL"
     },
     {
       "id": "2",
-      "name": "Asker and Bærum, Viken",
-      "code": "BN"
+      "description": "Asker and Bærum, Viken",
+      "region": "BN"
     },
     {
       "id": "3",
-      "name": "Asker and Bærum, Viken",
-      "code": "BP"
+      "description": "Asker and Bærum, Viken",
+      "region": "BP"
     },
     {
       "id": "4",
-      "name": "Asker and Bærum, Viken",
-      "code": "BR"
+      "description": "Asker and Bærum, Viken",
+      "region": "BR"
     },
     {
       "id": "5",
-      "name": "Asker and Bærum, Viken",
-      "code": "BS"
+      "description": "Asker and Bærum, Viken",
+      "region": "BS"
     },
     {
       "id": "6",
-      "name": "Asker and Bærum, Viken",
-      "code": "BT"
+      "description": "Asker and Bærum, Viken",
+      "region": "BT"
     },
     {
       "id": "7",
-      "name": "Asker and Bærum, Viken",
-      "code": "BU"
+      "description": "Asker and Bærum, Viken",
+      "region": "BU"
     },
     {
       "id": "8",
-      "name": "Asker and Bærum, Viken",
-      "code": "BV"
+      "description": "Asker and Bærum, Viken",
+      "region": "BV"
     },
     {
       "id": "9",
-      "name": "Asker and Bærum, Viken",
-      "code": "BX"
+      "description": "Asker and Bærum, Viken",
+      "region": "BX"
     },
     {
       "id": "10",
-      "name": "Asker and Bærum, Viken",
-      "code": "BY"
+      "description": "Asker and Bærum, Viken",
+      "region": "BY"
     },
     {
       "id": "11",
-      "name": "Asker and Bærum, Viken",
-      "code": "BZ"
+      "description": "Asker and Bærum, Viken",
+      "region": "BZ"
     },
     {
       "id": "12",
-      "name": "Asker and Bærum, Viken",
-      "code": "CA"
+      "description": "Asker and Bærum, Viken",
+      "region": "CA"
     },
     {
       "id": "13",
-      "name": "Asker and Bærum, Viken",
-      "code": "CB"
+      "description": "Asker and Bærum, Viken",
+      "region": "CB"
     },
     {
       "id": "14",
-      "name": "Drammen, Viken",
-      "code": "KE"
+      "description": "Drammen, Viken",
+      "region": "KE"
     },
     {
       "id": "15",
-      "name": "Drammen, Viken",
-      "code": "KF"
+      "description": "Drammen, Viken",
+      "region": "KF"
     },
     {
       "id": "16",
-      "name": "Drammen, Viken",
-      "code": "KH"
+      "description": "Drammen, Viken",
+      "region": "KH"
     },
     {
       "id": "17",
-      "name": "Drammen, Viken",
-      "code": "KJ"
+      "description": "Drammen, Viken",
+      "region": "KJ"
     },
     {
       "id": "18",
-      "name": "Drammen, Viken",
-      "code": "KK"
+      "description": "Drammen, Viken",
+      "region": "KK"
     },
     {
       "id": "19",
-      "name": "Drammen, Viken",
-      "code": "KL"
+      "description": "Drammen, Viken",
+      "region": "KL"
     },
     {
       "id": "20",
-      "name": "Drammen, Viken",
-      "code": "KN"
+      "description": "Drammen, Viken",
+      "region": "KN"
     },
     {
       "id": "21",
-      "name": "Drammen, Viken",
-      "code": "KN"
+      "description": "Drammen, Viken",
+      "region": "KN"
     },
     {
       "id": "22",
-      "name": "Drammen, Viken",
-      "code": "KP"
+      "description": "Drammen, Viken",
+      "region": "KP"
     },
     {
       "id": "23",
-      "name": "Drammen, Viken",
-      "code": "KR"
+      "description": "Drammen, Viken",
+      "region": "KR"
     },
     {
       "id": "24",
-      "name": "Drammen, Viken",
-      "code": "KS"
+      "description": "Drammen, Viken",
+      "region": "KS"
     },
     {
       "id": "25",
-      "name": "Drøbak, Viken",
-      "code": "BC"
+      "description": "Drøbak, Viken",
+      "region": "BC"
     },
     {
       "id": "26",
-      "name": "Drøbak, Viken",
-      "code": "BD"
+      "description": "Drøbak, Viken",
+      "region": "BD"
     },
     {
       "id": "27",
-      "name": "Drøbak, Viken",
-      "code": "BE"
+      "description": "Drøbak, Viken",
+      "region": "BE"
     },
     {
       "id": "28",
-      "name": "Drøbak, Viken",
-      "code": "BF"
+      "description": "Drøbak, Viken",
+      "region": "BF"
     },
     {
       "id": "29",
-      "name": "Drøbak, Viken",
-      "code": "BH"
+      "description": "Drøbak, Viken",
+      "region": "BH"
     },
     {
       "id": "30",
-      "name": "Drøbak, Viken",
-      "code": "BJ"
+      "description": "Drøbak, Viken",
+      "region": "BJ"
     },
     {
       "id": "31",
-      "name": "Drøbak, Viken",
-      "code": "BK"
+      "description": "Drøbak, Viken",
+      "region": "BK"
     },
     {
       "id": "32",
-      "name": "Gol, Viken",
-      "code": "KB"
+      "description": "Gol, Viken",
+      "region": "KB"
     },
     {
       "id": "33",
-      "name": "Gol, Viken",
-      "code": "KC"
+      "description": "Gol, Viken",
+      "region": "KC"
     },
     {
       "id": "34",
-      "name": "Gol, Viken",
-      "code": "KD"
+      "description": "Gol, Viken",
+      "region": "KD"
     },
     {
       "id": "35",
-      "name": "Hafslund, Viken",
-      "code": "AD"
+      "description": "Hafslund, Viken",
+      "region": "AD"
     },
     {
       "id": "36",
-      "name": "Hafslund, Viken",
-      "code": "AR"
+      "description": "Hafslund, Viken",
+      "region": "AR"
     },
     {
       "id": "37",
-      "name": "Hafslund, Viken",
-      "code": "AS"
+      "description": "Hafslund, Viken",
+      "region": "AS"
     },
     {
       "id": "38",
-      "name": "Hafslund, Viken",
-      "code": "AT"
+      "description": "Hafslund, Viken",
+      "region": "AT"
     },
     {
       "id": "39",
-      "name": "Hafslund, Viken",
-      "code": "AU"
+      "description": "Hafslund, Viken",
+      "region": "AU"
     },
     {
       "id": "40",
-      "name": "Hafslund, Viken",
-      "code": "AV"
+      "description": "Hafslund, Viken",
+      "region": "AV"
     },
     {
       "id": "41",
-      "name": "Hafslund, Viken",
-      "code": "AW"
+      "description": "Hafslund, Viken",
+      "region": "AW"
     },
     {
       "id": "42",
-      "name": "Hafslund, Viken",
-      "code": "DW"
+      "description": "Hafslund, Viken",
+      "region": "DW"
     },
     {
       "id": "43",
-      "name": "Hafslund, Viken",
-      "code": "FL"
+      "description": "Hafslund, Viken",
+      "region": "FL"
     },
     {
       "id": "44",
-      "name": "Hafslund, Viken",
-      "code": "ES"
+      "description": "Hafslund, Viken",
+      "region": "ES"
     },
     {
       "id": "45",
-      "name": "Halden, Viken",
-      "code": "AA"
+      "description": "Halden, Viken",
+      "region": "AA"
     },
     {
       "id": "46",
-      "name": "Halden, Viken",
-      "code": "AB"
+      "description": "Halden, Viken",
+      "region": "AB"
     },
     {
       "id": "47",
-      "name": "Halden, Viken",
-      "code": "AC"
+      "description": "Halden, Viken",
+      "region": "AC"
     },
     {
       "id": "48",
-      "name": "Hønefoss, Viken",
-      "code": "JU"
+      "description": "Hønefoss, Viken",
+      "region": "JU"
     },
     {
       "id": "49",
-      "name": "Hønefoss, Viken",
-      "code": "JV"
+      "description": "Hønefoss, Viken",
+      "region": "JV"
     },
     {
       "id": "50",
-      "name": "Hønefoss, Viken",
-      "code": "JX"
+      "description": "Hønefoss, Viken",
+      "region": "JX"
     },
     {
       "id": "51",
-      "name": "Hønefoss, Viken",
-      "code": "JY"
+      "description": "Hønefoss, Viken",
+      "region": "JY"
     },
     {
       "id": "52",
-      "name": "Hønefoss, Viken",
-      "code": "JZ"
+      "description": "Hønefoss, Viken",
+      "region": "JZ"
     },
     {
       "id": "53",
-      "name": "Hønefoss, Viken",
-      "code": "KA"
+      "description": "Hønefoss, Viken",
+      "region": "KA"
     },
     {
       "id": "54",
-      "name": "Jessheim, Viken",
-      "code": "CV"
+      "description": "Jessheim, Viken",
+      "region": "CV"
     },
     {
       "id": "55",
-      "name": "Jessheim, Viken",
-      "code": "CX"
+      "description": "Jessheim, Viken",
+      "region": "CX"
     },
     {
       "id": "56",
-      "name": "Jessheim, Viken",
-      "code": "CY"
+      "description": "Jessheim, Viken",
+      "region": "CY"
     },
     {
       "id": "57",
-      "name": "Jessheim, Viken",
-      "code": "CZ"
+      "description": "Jessheim, Viken",
+      "region": "CZ"
     },
     {
       "id": "58",
-      "name": "Jessheim, Viken",
-      "code": "CU"
+      "description": "Jessheim, Viken",
+      "region": "CU"
     },
     {
       "id": "59",
-      "name": "Kongsberg, Viken",
-      "code": "KT"
+      "description": "Kongsberg, Viken",
+      "region": "KT"
     },
     {
       "id": "60",
-      "name": "Kongsberg, Viken",
-      "code": "KU"
+      "description": "Kongsberg, Viken",
+      "region": "KU"
     },
     {
       "id": "61",
-      "name": "Kongsberg, Viken",
-      "code": "KV"
+      "description": "Kongsberg, Viken",
+      "region": "KV"
     },
     {
       "id": "62",
-      "name": "Kongsberg, Viken",
-      "code": "KX"
+      "description": "Kongsberg, Viken",
+      "region": "KX"
     },
     {
       "id": "63",
-      "name": "Kongsberg, Viken",
-      "code": "KY"
+      "description": "Kongsberg, Viken",
+      "region": "KY"
     },
     {
       "id": "64",
-      "name": "Lillestrøm, Viken",
-      "code": "CC"
+      "description": "Lillestrøm, Viken",
+      "region": "CC"
     },
     {
       "id": "65",
-      "name": "Lillestrøm, Viken",
-      "code": "CE"
+      "description": "Lillestrøm, Viken",
+      "region": "CE"
     },
     {
       "id": "66",
-      "name": "Lillestrøm, Viken",
-      "code": "CF"
+      "description": "Lillestrøm, Viken",
+      "region": "CF"
     },
     {
       "id": "67",
-      "name": "Lillestrøm, Viken",
-      "code": "CH"
+      "description": "Lillestrøm, Viken",
+      "region": "CH"
     },
     {
       "id": "68",
-      "name": "Lillestrøm, Viken",
-      "code": "CJ"
+      "description": "Lillestrøm, Viken",
+      "region": "CJ"
     },
     {
       "id": "69",
-      "name": "Lillestrøm, Viken",
-      "code": "CK"
+      "description": "Lillestrøm, Viken",
+      "region": "CK"
     },
     {
       "id": "70",
-      "name": "Lillestrøm, Viken",
-      "code": "CL"
+      "description": "Lillestrøm, Viken",
+      "region": "CL"
     },
     {
       "id": "71",
-      "name": "Lillestrøm, Viken",
-      "code": "CN"
+      "description": "Lillestrøm, Viken",
+      "region": "CN"
     },
     {
       "id": "72",
-      "name": "Lillestrøm, Viken",
-      "code": "CP"
+      "description": "Lillestrøm, Viken",
+      "region": "CP"
     },
     {
       "id": "73",
-      "name": "Lillestrøm, Viken",
-      "code": "CR"
+      "description": "Lillestrøm, Viken",
+      "region": "CR"
     },
     {
       "id": "74",
-      "name": "Lillestrøm, Viken",
-      "code": "CS"
+      "description": "Lillestrøm, Viken",
+      "region": "CS"
     },
     {
       "id": "75",
-      "name": "Lillestrøm, Viken",
-      "code": "CT"
+      "description": "Lillestrøm, Viken",
+      "region": "CT"
     },
     {
       "id": "76",
-      "name": "Lillestrøm, Viken",
-      "code": "CU"
+      "description": "Lillestrøm, Viken",
+      "region": "CU"
     },
     {
       "id": "77",
-      "name": "Moss, Viken",
-      "code": "AX"
+      "description": "Moss, Viken",
+      "region": "AX"
     },
     {
       "id": "78",
-      "name": "Moss, Viken",
-      "code": "AY"
+      "description": "Moss, Viken",
+      "region": "AY"
     },
     {
       "id": "79",
-      "name": "Moss, Viken",
-      "code": "AZ"
+      "description": "Moss, Viken",
+      "region": "AZ"
     },
     {
       "id": "80",
-      "name": "Moss, Viken",
-      "code": "BA"
+      "description": "Moss, Viken",
+      "region": "BA"
     },
     {
       "id": "81",
-      "name": "Mysen, Viken",
-      "code": "AJ"
+      "description": "Mysen, Viken",
+      "region": "AJ"
     },
     {
       "id": "82",
-      "name": "Mysen, Viken",
-      "code": "AK"
+      "description": "Mysen, Viken",
+      "region": "AK"
     },
     {
       "id": "83",
-      "name": "Mysen, Viken",
-      "code": "AL"
+      "description": "Mysen, Viken",
+      "region": "AL"
     },
     {
       "id": "84",
-      "name": "Mysen, Viken",
-      "code": "AN"
+      "description": "Mysen, Viken",
+      "region": "AN"
     },
     {
       "id": "85",
-      "name": "Mysen, Viken",
-      "code": "AP"
+      "description": "Mysen, Viken",
+      "region": "AP"
     },
     {
       "id": "86",
-      "name": "Mysen, Viken",
-      "code": "FN"
+      "description": "Mysen, Viken",
+      "region": "FN"
     },
     {
       "id": "87",
-      "name": "Mysen, Viken",
-      "code": "BW"
+      "description": "Mysen, Viken",
+      "region": "BW"
     },
     {
       "id": "88",
-      "name": "Sarpsborg, Viken",
-      "code": "AE"
+      "description": "Sarpsborg, Viken",
+      "region": "AE"
     },
     {
       "id": "89",
-      "name": "Sarpsborg, Viken",
-      "code": "AF"
+      "description": "Sarpsborg, Viken",
+      "region": "AF"
     },
     {
       "id": "90",
-      "name": "Sarpsborg, Viken",
-      "code": "AH"
+      "description": "Sarpsborg, Viken",
+      "region": "AH"
     },
     {
       "id": "91",
-      "name": "Oslo, Oslo",
-      "code": "DA"
+      "description": "Oslo, Oslo",
+      "region": "DA"
     },
     {
       "id": "92",
-      "name": "Oslo, Oslo",
-      "code": "DB"
+      "description": "Oslo, Oslo",
+      "region": "DB"
     },
     {
       "id": "93",
-      "name": "Oslo, Oslo",
-      "code": "DC"
+      "description": "Oslo, Oslo",
+      "region": "DC"
     },
     {
       "id": "94",
-      "name": "Oslo, Oslo",
-      "code": "DD"
+      "description": "Oslo, Oslo",
+      "region": "DD"
     },
     {
       "id": "95",
-      "name": "Oslo, Oslo",
-      "code": "DE"
+      "description": "Oslo, Oslo",
+      "region": "DE"
     },
     {
       "id": "96",
-      "name": "Oslo, Oslo",
-      "code": "DF"
+      "description": "Oslo, Oslo",
+      "region": "DF"
     },
     {
       "id": "97",
-      "name": "Oslo, Oslo",
-      "code": "DH"
+      "description": "Oslo, Oslo",
+      "region": "DH"
     },
     {
       "id": "98",
-      "name": "Oslo, Oslo",
-      "code": "DJ"
+      "description": "Oslo, Oslo",
+      "region": "DJ"
     },
     {
       "id": "99",
-      "name": "Oslo, Oslo",
-      "code": "DK"
+      "description": "Oslo, Oslo",
+      "region": "DK"
     },
     {
       "id": "100",
-      "name": "Oslo, Oslo",
-      "code": "DL"
+      "description": "Oslo, Oslo",
+      "region": "DL"
     },
     {
       "id": "101",
-      "name": "Oslo, Oslo",
-      "code": "DN"
+      "description": "Oslo, Oslo",
+      "region": "DN"
     },
     {
       "id": "102",
-      "name": "Oslo, Oslo",
-      "code": "DP"
+      "description": "Oslo, Oslo",
+      "region": "DP"
     },
     {
       "id": "103",
-      "name": "Oslo, Oslo",
-      "code": "DR"
+      "description": "Oslo, Oslo",
+      "region": "DR"
     },
     {
       "id": "104",
-      "name": "Oslo, Oslo",
-      "code": "DS"
+      "description": "Oslo, Oslo",
+      "region": "DS"
     },
     {
       "id": "105",
-      "name": "Oslo, Oslo",
-      "code": "DT"
+      "description": "Oslo, Oslo",
+      "region": "DT"
     },
     {
       "id": "106",
-      "name": "Oslo, Oslo",
-      "code": "DU"
+      "description": "Oslo, Oslo",
+      "region": "DU"
     },
     {
       "id": "107",
-      "name": "Oslo, Oslo",
-      "code": "DV"
+      "description": "Oslo, Oslo",
+      "region": "DV"
     },
     {
       "id": "108",
-      "name": "Oslo, Oslo",
-      "code": "DX"
+      "description": "Oslo, Oslo",
+      "region": "DX"
     },
     {
       "id": "109",
-      "name": "Oslo, Oslo",
-      "code": "DY"
+      "description": "Oslo, Oslo",
+      "region": "DY"
     },
     {
       "id": "110",
-      "name": "Oslo, Oslo",
-      "code": "DZ"
+      "description": "Oslo, Oslo",
+      "region": "DZ"
     },
     {
       "id": "111",
-      "name": "Oslo, Oslo",
-      "code": "EA"
+      "description": "Oslo, Oslo",
+      "region": "EA"
     },
     {
       "id": "112",
-      "name": "Oslo, Oslo",
-      "code": "EF"
+      "description": "Oslo, Oslo",
+      "region": "EF"
     },
     {
       "id": "113",
-      "name": "Oslo, Oslo",
-      "code": "EH"
+      "description": "Oslo, Oslo",
+      "region": "EH"
     },
     {
       "id": "114",
-      "name": "Oslo, Oslo",
-      "code": "EJ"
+      "description": "Oslo, Oslo",
+      "region": "EJ"
     },
     {
       "id": "115",
-      "name": "Oslo, Oslo",
-      "code": "EN"
+      "description": "Oslo, Oslo",
+      "region": "EN"
     },
     {
       "id": "116",
-      "name": "Oslo, Oslo",
-      "code": "EP"
+      "description": "Oslo, Oslo",
+      "region": "EP"
     },
     {
       "id": "117",
-      "name": "Oslo, Oslo",
-      "code": "ER"
+      "description": "Oslo, Oslo",
+      "region": "ER"
     },
     {
       "id": "118",
-      "name": "Oslo, Oslo",
-      "code": "EU"
+      "description": "Oslo, Oslo",
+      "region": "EU"
     },
     {
       "id": "119",
-      "name": "Elverum, Innlandet",
-      "code": "HB"
+      "description": "Elverum, Innlandet",
+      "region": "HB"
     },
     {
       "id": "120",
-      "name": "Elverum, Innlandet",
-      "code": "HC"
+      "description": "Elverum, Innlandet",
+      "region": "HC"
     },
     {
       "id": "121",
-      "name": "Elverum, Innlandet",
-      "code": "HD"
+      "description": "Elverum, Innlandet",
+      "region": "HD"
     },
     {
       "id": "122",
-      "name": "Elverum, Innlandet",
-      "code": "HE"
+      "description": "Elverum, Innlandet",
+      "region": "HE"
     },
     {
       "id": "123",
-      "name": "Elverum, Innlandet",
-      "code": "HA"
+      "description": "Elverum, Innlandet",
+      "region": "HA"
     },
     {
       "id": "124",
-      "name": "Elverum, Innlandet",
-      "code": "FZ"
+      "description": "Elverum, Innlandet",
+      "region": "FZ"
     },
     {
       "id": "125",
-      "name": "Fagernes, Innlandet",
-      "code": "JR"
+      "description": "Fagernes, Innlandet",
+      "region": "JR"
     },
     {
       "id": "126",
-      "name": "Fagernes, Innlandet",
-      "code": "JS"
+      "description": "Fagernes, Innlandet",
+      "region": "JS"
     },
     {
       "id": "127",
-      "name": "Fagernes, Innlandet",
-      "code": "JT"
+      "description": "Fagernes, Innlandet",
+      "region": "JT"
     },
     {
       "id": "128",
-      "name": "Gjøvik, Innlandet",
-      "code": "JC"
+      "description": "Gjøvik, Innlandet",
+      "region": "JC"
     },
     {
       "id": "129",
-      "name": "Gjøvik, Innlandet",
-      "code": "JD"
+      "description": "Gjøvik, Innlandet",
+      "region": "JD"
     },
     {
       "id": "130",
-      "name": "Gjøvik, Innlandet",
-      "code": "JE"
+      "description": "Gjøvik, Innlandet",
+      "region": "JE"
     },
     {
       "id": "131",
-      "name": "Gjøvik, Innlandet",
-      "code": "JF"
+      "description": "Gjøvik, Innlandet",
+      "region": "JF"
     },
     {
       "id": "132",
-      "name": "Gjøvik, Innlandet",
-      "code": "JH"
+      "description": "Gjøvik, Innlandet",
+      "region": "JH"
     },
     {
       "id": "133",
-      "name": "Gjøvik, Innlandet",
-      "code": "JJ"
+      "description": "Gjøvik, Innlandet",
+      "region": "JJ"
     },
     {
       "id": "134",
-      "name": "Gjøvik, Innlandet",
-      "code": "JK"
+      "description": "Gjøvik, Innlandet",
+      "region": "JK"
     },
     {
       "id": "135",
-      "name": "Gjøvik, Innlandet",
-      "code": "JL"
+      "description": "Gjøvik, Innlandet",
+      "region": "JL"
     },
     {
       "id": "136",
-      "name": "Gjøvik, Innlandet",
-      "code": "JN"
+      "description": "Gjøvik, Innlandet",
+      "region": "JN"
     },
     {
       "id": "137",
-      "name": "Gjøvik, Innlandet",
-      "code": "JP"
+      "description": "Gjøvik, Innlandet",
+      "region": "JP"
     },
     {
       "id": "138",
-      "name": "Hamar, Innlandet",
-      "code": "FS"
+      "description": "Hamar, Innlandet",
+      "region": "FS"
     },
     {
       "id": "139",
-      "name": "Hamar, Innlandet",
-      "code": "FT"
+      "description": "Hamar, Innlandet",
+      "region": "FT"
     },
     {
       "id": "140",
-      "name": "Hamar, Innlandet",
-      "code": "FU"
+      "description": "Hamar, Innlandet",
+      "region": "FU"
     },
     {
       "id": "141",
-      "name": "Hamar, Innlandet",
-      "code": "FV"
+      "description": "Hamar, Innlandet",
+      "region": "FV"
     },
     {
       "id": "142",
-      "name": "Hamar, Innlandet",
-      "code": "FX"
+      "description": "Hamar, Innlandet",
+      "region": "FX"
     },
     {
       "id": "143",
-      "name": "Hamar, Innlandet",
-      "code": "FY"
+      "description": "Hamar, Innlandet",
+      "region": "FY"
     },
     {
       "id": "144",
-      "name": "Hamar, Innlandet",
-      "code": "FZ"
+      "description": "Hamar, Innlandet",
+      "region": "FZ"
     },
     {
       "id": "145",
-      "name": "Hamar, Innlandet",
-      "code": "FW"
+      "description": "Hamar, Innlandet",
+      "region": "FW"
     },
     {
       "id": "146",
-      "name": "Hamar, Innlandet",
-      "code": "ET"
+      "description": "Hamar, Innlandet",
+      "region": "ET"
     },
     {
       "id": "147",
-      "name": "Kongsvinger, Innlandet",
-      "code": "HJ"
+      "description": "Kongsvinger, Innlandet",
+      "region": "HJ"
     },
     {
       "id": "148",
-      "name": "Kongsvinger, Innlandet",
-      "code": "HK"
+      "description": "Kongsvinger, Innlandet",
+      "region": "HK"
     },
     {
       "id": "149",
-      "name": "Kongsvinger, Innlandet",
-      "code": "HL"
+      "description": "Kongsvinger, Innlandet",
+      "region": "HL"
     },
     {
       "id": "150",
-      "name": "Kongsvinger, Innlandet",
-      "code": "HN"
+      "description": "Kongsvinger, Innlandet",
+      "region": "HN"
     },
     {
       "id": "151",
-      "name": "Kongsvinger, Innlandet",
-      "code": "HP"
+      "description": "Kongsvinger, Innlandet",
+      "region": "HP"
     },
     {
       "id": "152",
-      "name": "Kongsvinger, Innlandet",
-      "code": "HR"
+      "description": "Kongsvinger, Innlandet",
+      "region": "HR"
     },
     {
       "id": "153",
-      "name": "Lillehammer, Innlandet",
-      "code": "HS"
+      "description": "Lillehammer, Innlandet",
+      "region": "HS"
     },
     {
       "id": "154",
-      "name": "Lillehammer, Innlandet",
-      "code": "HT"
+      "description": "Lillehammer, Innlandet",
+      "region": "HT"
     },
     {
       "id": "155",
-      "name": "Lillehammer, Innlandet",
-      "code": "HU"
+      "description": "Lillehammer, Innlandet",
+      "region": "HU"
     },
     {
       "id": "156",
-      "name": "Lillehammer, Innlandet",
-      "code": "HV"
+      "description": "Lillehammer, Innlandet",
+      "region": "HV"
     },
     {
       "id": "157",
-      "name": "Lillehammer, Innlandet",
-      "code": "HX"
+      "description": "Lillehammer, Innlandet",
+      "region": "HX"
     },
     {
       "id": "158",
-      "name": "Lillehammer, Innlandet",
-      "code": "FB"
+      "description": "Lillehammer, Innlandet",
+      "region": "FB"
     },
     {
       "id": "159",
-      "name": "Otta, Innlandet",
-      "code": "HZ"
+      "description": "Otta, Innlandet",
+      "region": "HZ"
     },
     {
       "id": "160",
-      "name": "Otta, Innlandet",
-      "code": "JA"
+      "description": "Otta, Innlandet",
+      "region": "JA"
     },
     {
       "id": "161",
-      "name": "Otta, Innlandet",
-      "code": "JB"
+      "description": "Otta, Innlandet",
+      "region": "JB"
     },
     {
       "id": "162",
-      "name": "Tynset, Innlandet",
-      "code": "HF"
+      "description": "Tynset, Innlandet",
+      "region": "HF"
     },
     {
       "id": "163",
-      "name": "Tynset, Innlandet",
-      "code": "HH"
+      "description": "Tynset, Innlandet",
+      "region": "HH"
     },
     {
       "id": "164",
-      "name": "Horten, Vestfold og Telemark",
-      "code": "KZ"
+      "description": "Horten, Vestfold og Telemark",
+      "region": "KZ"
     },
     {
       "id": "165",
-      "name": "Horten, Vestfold og Telemark",
-      "code": "LA"
+      "description": "Horten, Vestfold og Telemark",
+      "region": "LA"
     },
     {
       "id": "166",
-      "name": "Horten, Vestfold og Telemark",
-      "code": "LB"
+      "description": "Horten, Vestfold og Telemark",
+      "region": "LB"
     },
     {
       "id": "167",
-      "name": "Horten, Vestfold og Telemark",
-      "code": "LC"
+      "description": "Horten, Vestfold og Telemark",
+      "region": "LC"
     },
     {
       "id": "168",
-      "name": "Horten, Vestfold og Telemark",
-      "code": "LD"
+      "description": "Horten, Vestfold og Telemark",
+      "region": "LD"
     },
     {
       "id": "169",
-      "name": "Larvik, Vestfold og Telemark",
-      "code": "LS"
+      "description": "Larvik, Vestfold og Telemark",
+      "region": "LS"
     },
     {
       "id": "170",
-      "name": "Larvik, Vestfold og Telemark",
-      "code": "LT"
+      "description": "Larvik, Vestfold og Telemark",
+      "region": "LT"
     },
     {
       "id": "171",
-      "name": "Larvik, Vestfold og Telemark",
-      "code": "LU"
+      "description": "Larvik, Vestfold og Telemark",
+      "region": "LU"
     },
     {
       "id": "172",
-      "name": "Larvik, Vestfold og Telemark",
-      "code": "LV"
+      "description": "Larvik, Vestfold og Telemark",
+      "region": "LV"
     },
     {
       "id": "173",
-      "name": "Larvik, Vestfold og Telemark",
-      "code": "LX"
+      "description": "Larvik, Vestfold og Telemark",
+      "region": "LX"
     },
     {
       "id": "174",
-      "name": "Larvik, Vestfold og Telemark",
-      "code": "LZ"
+      "description": "Larvik, Vestfold og Telemark",
+      "region": "LZ"
     },
     {
       "id": "175",
-      "name": "Larvik, Vestfold og Telemark",
-      "code": "NA"
+      "description": "Larvik, Vestfold og Telemark",
+      "region": "NA"
     },
     {
       "id": "176",
-      "name": "Larvik, Vestfold og Telemark",
-      "code": "NB"
+      "description": "Larvik, Vestfold og Telemark",
+      "region": "NB"
     },
     {
       "id": "177",
-      "name": "Larvik, Vestfold og Telemark",
-      "code": "NC"
+      "description": "Larvik, Vestfold og Telemark",
+      "region": "NC"
     },
     {
       "id": "178",
-      "name": "Notodden, Vestfold og Telemark",
-      "code": "NV"
+      "description": "Notodden, Vestfold og Telemark",
+      "region": "NV"
     },
     {
       "id": "179",
-      "name": "Notodden, Vestfold og Telemark",
-      "code": "NX"
+      "description": "Notodden, Vestfold og Telemark",
+      "region": "NX"
     },
     {
       "id": "180",
-      "name": "Notodden, Vestfold og Telemark",
-      "code": "NY"
+      "description": "Notodden, Vestfold og Telemark",
+      "region": "NY"
     },
     {
       "id": "181",
-      "name": "Notodden, Vestfold og Telemark",
-      "code": "NZ"
+      "description": "Notodden, Vestfold og Telemark",
+      "region": "NZ"
     },
     {
       "id": "182",
-      "name": "Rjukan, Vestfold og Telemark",
-      "code": "PA"
+      "description": "Rjukan, Vestfold og Telemark",
+      "region": "PA"
     },
     {
       "id": "183",
-      "name": "Rjukan, Vestfold og Telemark",
-      "code": "PB"
+      "description": "Rjukan, Vestfold og Telemark",
+      "region": "PB"
     },
     {
       "id": "184",
-      "name": "Sandefjord, Vestfold og Telemark",
-      "code": "LY"
+      "description": "Sandefjord, Vestfold og Telemark",
+      "region": "LY"
     },
     {
       "id": "185",
-      "name": "Sandefjord, Vestfold og Telemark",
-      "code": "NA"
+      "description": "Sandefjord, Vestfold og Telemark",
+      "region": "NA"
     },
     {
       "id": "186",
-      "name": "Skien, Vestfold og Telemark",
-      "code": "ND"
+      "description": "Skien, Vestfold og Telemark",
+      "region": "ND"
     },
     {
       "id": "187",
-      "name": "Skien, Vestfold og Telemark",
-      "code": "NE"
+      "description": "Skien, Vestfold og Telemark",
+      "region": "NE"
     },
     {
       "id": "188",
-      "name": "Skien, Vestfold og Telemark",
-      "code": "NF"
+      "description": "Skien, Vestfold og Telemark",
+      "region": "NF"
     },
     {
       "id": "189",
-      "name": "Skien, Vestfold og Telemark",
-      "code": "NH"
+      "description": "Skien, Vestfold og Telemark",
+      "region": "NH"
     },
     {
       "id": "190",
-      "name": "Skien, Vestfold og Telemark",
-      "code": "NJ"
+      "description": "Skien, Vestfold og Telemark",
+      "region": "NJ"
     },
     {
       "id": "191",
-      "name": "Skien, Vestfold og Telemark",
-      "code": "NK"
+      "description": "Skien, Vestfold og Telemark",
+      "region": "NK"
     },
     {
       "id": "192",
-      "name": "Skien, Vestfold og Telemark",
-      "code": "NL"
+      "description": "Skien, Vestfold og Telemark",
+      "region": "NL"
     },
     {
       "id": "193",
-      "name": "Skien, Vestfold og Telemark",
-      "code": "NN"
+      "description": "Skien, Vestfold og Telemark",
+      "region": "NN"
     },
     {
       "id": "194",
-      "name": "Skien, Vestfold og Telemark",
-      "code": "NP"
+      "description": "Skien, Vestfold og Telemark",
+      "region": "NP"
     },
     {
       "id": "195",
-      "name": "Skien, Vestfold og Telemark",
-      "code": "NR"
+      "description": "Skien, Vestfold og Telemark",
+      "region": "NR"
     },
     {
       "id": "196",
-      "name": "Skien, Vestfold og Telemark",
-      "code": "NT"
+      "description": "Skien, Vestfold og Telemark",
+      "region": "NT"
     },
     {
       "id": "197",
-      "name": "Skien, Vestfold og Telemark",
-      "code": "NU"
+      "description": "Skien, Vestfold og Telemark",
+      "region": "NU"
     },
     {
       "id": "198",
-      "name": "Tønsberg, Vestfold og Telemark",
-      "code": "LH"
+      "description": "Tønsberg, Vestfold og Telemark",
+      "region": "LH"
     },
     {
       "id": "199",
-      "name": "Tønsberg, Vestfold og Telemark",
-      "code": "LJ"
+      "description": "Tønsberg, Vestfold og Telemark",
+      "region": "LJ"
     },
     {
       "id": "200",
-      "name": "Tønsberg, Vestfold og Telemark",
-      "code": "LK"
+      "description": "Tønsberg, Vestfold og Telemark",
+      "region": "LK"
     },
     {
       "id": "201",
-      "name": "Tønsberg, Vestfold og Telemark",
-      "code": "LL"
+      "description": "Tønsberg, Vestfold og Telemark",
+      "region": "LL"
     },
     {
       "id": "202",
-      "name": "Tønsberg, Vestfold og Telemark",
-      "code": "LN"
+      "description": "Tønsberg, Vestfold og Telemark",
+      "region": "LN"
     },
     {
       "id": "203",
-      "name": "Tønsberg, Vestfold og Telemark",
-      "code": "LP"
+      "description": "Tønsberg, Vestfold og Telemark",
+      "region": "LP"
     },
     {
       "id": "204",
-      "name": "Tønsberg, Vestfold og Telemark",
-      "code": "LR"
+      "description": "Tønsberg, Vestfold og Telemark",
+      "region": "LR"
     },
     {
       "id": "205",
-      "name": "Tønsberg, Vestfold og Telemark",
-      "code": "LD"
+      "description": "Tønsberg, Vestfold og Telemark",
+      "region": "LD"
     },
     {
       "id": "206",
-      "name": "Arendal, Agder",
-      "code": "PC"
+      "description": "Arendal, Agder",
+      "region": "PC"
     },
     {
       "id": "207",
-      "name": "Arendal, Agder",
-      "code": "PD"
+      "description": "Arendal, Agder",
+      "region": "PD"
     },
     {
       "id": "208",
-      "name": "Arendal, Agder",
-      "code": "PE"
+      "description": "Arendal, Agder",
+      "region": "PE"
     },
     {
       "id": "209",
-      "name": "Arendal, Agder",
-      "code": "PF"
+      "description": "Arendal, Agder",
+      "region": "PF"
     },
     {
       "id": "210",
-      "name": "Arendal, Agder",
-      "code": "PH"
+      "description": "Arendal, Agder",
+      "region": "PH"
     },
     {
       "id": "211",
-      "name": "Arendal, Agder",
-      "code": "PJ"
+      "description": "Arendal, Agder",
+      "region": "PJ"
     },
     {
       "id": "212",
-      "name": "Arendal, Agder",
-      "code": "PK"
+      "description": "Arendal, Agder",
+      "region": "PK"
     },
     {
       "id": "213",
-      "name": "Flekkefjord, Agder",
-      "code": "RA"
+      "description": "Flekkefjord, Agder",
+      "region": "RA"
     },
     {
       "id": "214",
-      "name": "Flekkefjord, Agder",
-      "code": "RB"
+      "description": "Flekkefjord, Agder",
+      "region": "RB"
     },
     {
       "id": "215",
-      "name": "Kristiansand, Agder",
-      "code": "PN"
+      "description": "Kristiansand, Agder",
+      "region": "PN"
     },
     {
       "id": "216",
-      "name": "Kristiansand, Agder",
-      "code": "PP"
+      "description": "Kristiansand, Agder",
+      "region": "PP"
     },
     {
       "id": "217",
-      "name": "Kristiansand, Agder",
-      "code": "PR"
+      "description": "Kristiansand, Agder",
+      "region": "PR"
     },
     {
       "id": "218",
-      "name": "Kristiansand, Agder",
-      "code": "PS"
+      "description": "Kristiansand, Agder",
+      "region": "PS"
     },
     {
       "id": "219",
-      "name": "Kristiansand, Agder",
-      "code": "PT"
+      "description": "Kristiansand, Agder",
+      "region": "PT"
     },
     {
       "id": "220",
-      "name": "Kristiansand, Agder",
-      "code": "PU"
+      "description": "Kristiansand, Agder",
+      "region": "PU"
     },
     {
       "id": "221",
-      "name": "Kristiansand, Agder",
-      "code": "PV"
+      "description": "Kristiansand, Agder",
+      "region": "PV"
     },
     {
       "id": "222",
-      "name": "Kristiansand, Agder",
-      "code": "PW"
+      "description": "Kristiansand, Agder",
+      "region": "PW"
     },
     {
       "id": "223",
-      "name": "Mandal, Agder",
-      "code": "PX"
+      "description": "Mandal, Agder",
+      "region": "PX"
     },
     {
       "id": "224",
-      "name": "Mandal, Agder",
-      "code": "PY"
+      "description": "Mandal, Agder",
+      "region": "PY"
     },
     {
       "id": "225",
-      "name": "Mandal, Agder",
-      "code": "PZ"
+      "description": "Mandal, Agder",
+      "region": "PZ"
     },
     {
       "id": "226",
-      "name": "Mandal, Agder",
-      "code": "RC"
+      "description": "Mandal, Agder",
+      "region": "RC"
     },
     {
       "id": "227",
-      "name": "Mandal, Agder",
-      "code": "RD"
+      "description": "Mandal, Agder",
+      "region": "RD"
     },
     {
       "id": "228",
-      "name": "Setesdal, Agder",
-      "code": "PL"
+      "description": "Setesdal, Agder",
+      "region": "PL"
     },
     {
       "id": "229",
-      "name": "Setesdal, Agder",
-      "code": "LF"
+      "description": "Setesdal, Agder",
+      "region": "LF"
     },
     {
       "id": "230",
-      "name": "Egersund, Rogaland",
-      "code": "RZ"
+      "description": "Egersund, Rogaland",
+      "region": "RZ"
     },
     {
       "id": "231",
-      "name": "Egersund, Rogaland",
-      "code": "SA"
+      "description": "Egersund, Rogaland",
+      "region": "SA"
     },
     {
       "id": "232",
-      "name": "Egersund, Rogaland",
-      "code": "SB"
+      "description": "Egersund, Rogaland",
+      "region": "SB"
     },
     {
       "id": "233",
-      "name": "Haugesund, Rogaland",
-      "code": "SC"
+      "description": "Haugesund, Rogaland",
+      "region": "SC"
     },
     {
       "id": "234",
-      "name": "Haugesund, Rogaland",
-      "code": "SD"
+      "description": "Haugesund, Rogaland",
+      "region": "SD"
     },
     {
       "id": "235",
-      "name": "Haugesund, Rogaland",
-      "code": "SE"
+      "description": "Haugesund, Rogaland",
+      "region": "SE"
     },
     {
       "id": "236",
-      "name": "Haugesund, Rogaland",
-      "code": "SF"
+      "description": "Haugesund, Rogaland",
+      "region": "SF"
     },
     {
       "id": "237",
-      "name": "Haugesund, Rogaland",
-      "code": "SH"
+      "description": "Haugesund, Rogaland",
+      "region": "SH"
     },
     {
       "id": "238",
-      "name": "Haugesund, Rogaland",
-      "code": "SJ"
+      "description": "Haugesund, Rogaland",
+      "region": "SJ"
     },
     {
       "id": "239",
-      "name": "Haugesund, Rogaland",
-      "code": "SK"
+      "description": "Haugesund, Rogaland",
+      "region": "SK"
     },
     {
       "id": "240",
-      "name": "Haugesund, Rogaland",
-      "code": "SL"
+      "description": "Haugesund, Rogaland",
+      "region": "SL"
     },
     {
       "id": "241",
-      "name": "Stavanger, Rogaland",
-      "code": "RE"
+      "description": "Stavanger, Rogaland",
+      "region": "RE"
     },
     {
       "id": "242",
-      "name": "Stavanger, Rogaland",
-      "code": "RF"
+      "description": "Stavanger, Rogaland",
+      "region": "RF"
     },
     {
       "id": "243",
-      "name": "Stavanger, Rogaland",
-      "code": "RH"
+      "description": "Stavanger, Rogaland",
+      "region": "RH"
     },
     {
       "id": "244",
-      "name": "Stavanger, Rogaland",
-      "code": "RJ"
+      "description": "Stavanger, Rogaland",
+      "region": "RJ"
     },
     {
       "id": "245",
-      "name": "Stavanger, Rogaland",
-      "code": "RK"
+      "description": "Stavanger, Rogaland",
+      "region": "RK"
     },
     {
       "id": "246",
-      "name": "Stavanger, Rogaland",
-      "code": "RL"
+      "description": "Stavanger, Rogaland",
+      "region": "RL"
     },
     {
       "id": "247",
-      "name": "Stavanger, Rogaland",
-      "code": "RN"
+      "description": "Stavanger, Rogaland",
+      "region": "RN"
     },
     {
       "id": "248",
-      "name": "Stavanger, Rogaland",
-      "code": "RP"
+      "description": "Stavanger, Rogaland",
+      "region": "RP"
     },
     {
       "id": "249",
-      "name": "Stavanger, Rogaland",
-      "code": "RR"
+      "description": "Stavanger, Rogaland",
+      "region": "RR"
     },
     {
       "id": "250",
-      "name": "Stavanger, Rogaland",
-      "code": "RS"
+      "description": "Stavanger, Rogaland",
+      "region": "RS"
     },
     {
       "id": "251",
-      "name": "Stavanger, Rogaland",
-      "code": "RT"
+      "description": "Stavanger, Rogaland",
+      "region": "RT"
     },
     {
       "id": "252",
-      "name": "Stavanger, Rogaland",
-      "code": "RU"
+      "description": "Stavanger, Rogaland",
+      "region": "RU"
     },
     {
       "id": "253",
-      "name": "Stavanger, Rogaland",
-      "code": "RV"
+      "description": "Stavanger, Rogaland",
+      "region": "RV"
     },
     {
       "id": "254",
-      "name": "Stavanger, Rogaland",
-      "code": "RX"
+      "description": "Stavanger, Rogaland",
+      "region": "RX"
     },
     {
       "id": "255",
-      "name": "Stavanger, Rogaland",
-      "code": "RY"
+      "description": "Stavanger, Rogaland",
+      "region": "RY"
     },
     {
       "id": "256",
-      "name": "Stavanger, Rogaland",
-      "code": "RW"
+      "description": "Stavanger, Rogaland",
+      "region": "RW"
     },
     {
       "id": "257",
-      "name": "Bergen, Vestland",
-      "code": "SN"
+      "description": "Bergen, Vestland",
+      "region": "SN"
     },
     {
       "id": "258",
-      "name": "Bergen, Vestland",
-      "code": "SP"
+      "description": "Bergen, Vestland",
+      "region": "SP"
     },
     {
       "id": "259",
-      "name": "Bergen, Vestland",
-      "code": "SR"
+      "description": "Bergen, Vestland",
+      "region": "SR"
     },
     {
       "id": "260",
-      "name": "Bergen, Vestland",
-      "code": "SS"
+      "description": "Bergen, Vestland",
+      "region": "SS"
     },
     {
       "id": "261",
-      "name": "Bergen, Vestland",
-      "code": "ST"
+      "description": "Bergen, Vestland",
+      "region": "ST"
     },
     {
       "id": "262",
-      "name": "Bergen, Vestland",
-      "code": "SU"
+      "description": "Bergen, Vestland",
+      "region": "SU"
     },
     {
       "id": "263",
-      "name": "Bergen, Vestland",
-      "code": "SV"
+      "description": "Bergen, Vestland",
+      "region": "SV"
     },
     {
       "id": "264",
-      "name": "Bergen, Vestland",
-      "code": "SX"
+      "description": "Bergen, Vestland",
+      "region": "SX"
     },
     {
       "id": "265",
-      "name": "Bergen, Vestland",
-      "code": "SY"
+      "description": "Bergen, Vestland",
+      "region": "SY"
     },
     {
       "id": "266",
-      "name": "Bergen, Vestland",
-      "code": "SZ"
+      "description": "Bergen, Vestland",
+      "region": "SZ"
     },
     {
       "id": "267",
-      "name": "Bergen, Vestland",
-      "code": "TA"
+      "description": "Bergen, Vestland",
+      "region": "TA"
     },
     {
       "id": "268",
-      "name": "Bergen, Vestland",
-      "code": "TB"
+      "description": "Bergen, Vestland",
+      "region": "TB"
     },
     {
       "id": "269",
-      "name": "Bergen, Vestland",
-      "code": "TC"
+      "description": "Bergen, Vestland",
+      "region": "TC"
     },
     {
       "id": "270",
-      "name": "Bergen, Vestland",
-      "code": "TD"
+      "description": "Bergen, Vestland",
+      "region": "TD"
     },
     {
       "id": "271",
-      "name": "Bergen, Vestland",
-      "code": "TE"
+      "description": "Bergen, Vestland",
+      "region": "TE"
     },
     {
       "id": "272",
-      "name": "Bergen, Vestland",
-      "code": "HW"
+      "description": "Bergen, Vestland",
+      "region": "HW"
     },
     {
       "id": "273",
-      "name": "Førde, Vestland",
-      "code": "TV"
+      "description": "Førde, Vestland",
+      "region": "TV"
     },
     {
       "id": "274",
-      "name": "Førde, Vestland",
-      "code": "TX"
+      "description": "Førde, Vestland",
+      "region": "TX"
     },
     {
       "id": "275",
-      "name": "Førde, Vestland",
-      "code": "TY"
+      "description": "Førde, Vestland",
+      "region": "TY"
     },
     {
       "id": "276",
-      "name": "Førde, Vestland",
-      "code": "TZ"
+      "description": "Førde, Vestland",
+      "region": "TZ"
     },
     {
       "id": "277",
-      "name": "Nordfjordeid, Vestland",
-      "code": "UA"
+      "description": "Nordfjordeid, Vestland",
+      "region": "UA"
     },
     {
       "id": "278",
-      "name": "Nordfjordeid, Vestland",
-      "code": "UB"
+      "description": "Nordfjordeid, Vestland",
+      "region": "UB"
     },
     {
       "id": "279",
-      "name": "Odda, Vestland",
-      "code": "TS"
+      "description": "Odda, Vestland",
+      "region": "TS"
     },
     {
       "id": "280",
-      "name": "Odda, Vestland",
-      "code": "TT"
+      "description": "Odda, Vestland",
+      "region": "TT"
     },
     {
       "id": "281",
-      "name": "Odda, Vestland",
-      "code": "TU"
+      "description": "Odda, Vestland",
+      "region": "TU"
     },
     {
       "id": "282",
-      "name": "Sogndal, Vestland",
-      "code": "UC"
+      "description": "Sogndal, Vestland",
+      "region": "UC"
     },
     {
       "id": "283",
-      "name": "Sogndal, Vestland",
-      "code": "UD"
+      "description": "Sogndal, Vestland",
+      "region": "UD"
     },
     {
       "id": "284",
-      "name": "Stord, Vestland",
-      "code": "TL"
+      "description": "Stord, Vestland",
+      "region": "TL"
     },
     {
       "id": "285",
-      "name": "Stord, Vestland",
-      "code": "TN"
+      "description": "Stord, Vestland",
+      "region": "TN"
     },
     {
       "id": "286",
-      "name": "Stord, Vestland",
-      "code": "TP"
+      "description": "Stord, Vestland",
+      "region": "TP"
     },
     {
       "id": "287",
-      "name": "Stord, Vestland",
-      "code": "TR"
+      "description": "Stord, Vestland",
+      "region": "TR"
     },
     {
       "id": "288",
-      "name": "Voss, Vestland",
-      "code": "TF"
+      "description": "Voss, Vestland",
+      "region": "TF"
     },
     {
       "id": "289",
-      "name": "Voss, Vestland",
-      "code": "TH"
+      "description": "Voss, Vestland",
+      "region": "TH"
     },
     {
       "id": "290",
-      "name": "Voss, Vestland",
-      "code": "TJ"
+      "description": "Voss, Vestland",
+      "region": "TJ"
     },
     {
       "id": "291",
-      "name": "Voss, Vestland",
-      "code": "TK"
+      "description": "Voss, Vestland",
+      "region": "TK"
     },
     {
       "id": "292",
-      "name": "Kristiansund, Møre og Romsdal",
-      "code": "UX"
+      "description": "Kristiansund, Møre og Romsdal",
+      "region": "UX"
     },
     {
       "id": "293",
-      "name": "Kristiansund, Møre og Romsdal",
-      "code": "UY"
+      "description": "Kristiansund, Møre og Romsdal",
+      "region": "UY"
     },
     {
       "id": "294",
-      "name": "Kristiansund, Møre og Romsdal",
-      "code": "UZ"
+      "description": "Kristiansund, Møre og Romsdal",
+      "region": "UZ"
     },
     {
       "id": "295",
-      "name": "Kristiansund, Møre og Romsdal",
-      "code": "VA"
+      "description": "Kristiansund, Møre og Romsdal",
+      "region": "VA"
     },
     {
       "id": "296",
-      "name": "Molde, Møre og Romsdal",
-      "code": "UR"
+      "description": "Molde, Møre og Romsdal",
+      "region": "UR"
     },
     {
       "id": "297",
-      "name": "Molde, Møre og Romsdal",
-      "code": "US"
+      "description": "Molde, Møre og Romsdal",
+      "region": "US"
     },
     {
       "id": "298",
-      "name": "Molde, Møre og Romsdal",
-      "code": "UT"
+      "description": "Molde, Møre og Romsdal",
+      "region": "UT"
     },
     {
       "id": "299",
-      "name": "Molde, Møre og Romsdal",
-      "code": "UU"
+      "description": "Molde, Møre og Romsdal",
+      "region": "UU"
     },
     {
       "id": "300",
-      "name": "Molde, Møre og Romsdal",
-      "code": "UV"
+      "description": "Molde, Møre og Romsdal",
+      "region": "UV"
     },
     {
       "id": "301",
-      "name": "Sunndalsøra, Møre og Romsdal",
-      "code": "VB"
+      "description": "Sunndalsøra, Møre og Romsdal",
+      "region": "VB"
     },
     {
       "id": "302",
-      "name": "Sunndalsøra, Møre og Romsdal",
-      "code": "VC"
+      "description": "Sunndalsøra, Møre og Romsdal",
+      "region": "VC"
     },
     {
       "id": "303",
-      "name": "Ørsta, Møre og Romsdal",
-      "code": "UN"
+      "description": "Ørsta, Møre og Romsdal",
+      "region": "UN"
     },
     {
       "id": "304",
-      "name": "Ørsta, Møre og Romsdal",
-      "code": "UP"
+      "description": "Ørsta, Møre og Romsdal",
+      "region": "UP"
     },
     {
       "id": "305",
-      "name": "Ørsta, Møre og Romsdal",
-      "code": "BB"
+      "description": "Ørsta, Møre og Romsdal",
+      "region": "BB"
     },
     {
       "id": "306",
-      "name": "Ålesund, Møre og Romsdal",
-      "code": "UE"
+      "description": "Ålesund, Møre og Romsdal",
+      "region": "UE"
     },
     {
       "id": "307",
-      "name": "Ålesund, Møre og Romsdal",
-      "code": "UF"
+      "description": "Ålesund, Møre og Romsdal",
+      "region": "UF"
     },
     {
       "id": "308",
-      "name": "Ålesund, Møre og Romsdal",
-      "code": "UH"
+      "description": "Ålesund, Møre og Romsdal",
+      "region": "UH"
     },
     {
       "id": "309",
-      "name": "Ålesund, Møre og Romsdal",
-      "code": "UJ"
+      "description": "Ålesund, Møre og Romsdal",
+      "region": "UJ"
     },
     {
       "id": "310",
-      "name": "Ålesund, Møre og Romsdal",
-      "code": "UK"
+      "description": "Ålesund, Møre og Romsdal",
+      "region": "UK"
     },
     {
       "id": "311",
-      "name": "Ålesund, Møre og Romsdal",
-      "code": "UL"
+      "description": "Ålesund, Møre og Romsdal",
+      "region": "UL"
     },
     {
       "id": "312",
-      "name": "Brekstad, Trøndelag",
-      "code": "XA"
+      "description": "Brekstad, Trøndelag",
+      "region": "XA"
     },
     {
       "id": "313",
-      "name": "Brekstad, Trøndelag",
-      "code": "XB"
+      "description": "Brekstad, Trøndelag",
+      "region": "XB"
     },
     {
       "id": "314",
-      "name": "Brekstad, Trøndelag",
-      "code": "XC"
+      "description": "Brekstad, Trøndelag",
+      "region": "XC"
     },
     {
       "id": "315",
-      "name": "Levanger, Trøndelag",
-      "code": "XK"
+      "description": "Levanger, Trøndelag",
+      "region": "XK"
     },
     {
       "id": "316",
-      "name": "Levanger, Trøndelag",
-      "code": "XL"
+      "description": "Levanger, Trøndelag",
+      "region": "XL"
     },
     {
       "id": "317",
-      "name": "Levanger, Trøndelag",
-      "code": "VW"
+      "description": "Levanger, Trøndelag",
+      "region": "VW"
     },
     {
       "id": "318",
-      "name": "Namsos, Trøndelag",
-      "code": "XR"
+      "description": "Namsos, Trøndelag",
+      "region": "XR"
     },
     {
       "id": "319",
-      "name": "Namsos, Trøndelag",
-      "code": "XS"
+      "description": "Namsos, Trøndelag",
+      "region": "XS"
     },
     {
       "id": "320",
-      "name": "Namsos, Trøndelag",
-      "code": "XT"
+      "description": "Namsos, Trøndelag",
+      "region": "XT"
     },
     {
       "id": "321",
-      "name": "Namsos, Trøndelag",
-      "code": "XU"
+      "description": "Namsos, Trøndelag",
+      "region": "XU"
     },
     {
       "id": "322",
-      "name": "Orkdal, Trøndelag",
-      "code": "VX"
+      "description": "Orkdal, Trøndelag",
+      "region": "VX"
     },
     {
       "id": "323",
-      "name": "Orkdal, Trøndelag",
-      "code": "VY"
+      "description": "Orkdal, Trøndelag",
+      "region": "VY"
     },
     {
       "id": "324",
-      "name": "Orkdal, Trøndelag",
-      "code": "VZ"
+      "description": "Orkdal, Trøndelag",
+      "region": "VZ"
     },
     {
       "id": "325",
-      "name": "Steinkjer, Trøndelag",
-      "code": "XD"
+      "description": "Steinkjer, Trøndelag",
+      "region": "XD"
     },
     {
       "id": "326",
-      "name": "Steinkjer, Trøndelag",
-      "code": "XE"
+      "description": "Steinkjer, Trøndelag",
+      "region": "XE"
     },
     {
       "id": "327",
-      "name": "Steinkjer, Trøndelag",
-      "code": "XF"
+      "description": "Steinkjer, Trøndelag",
+      "region": "XF"
     },
     {
       "id": "328",
-      "name": "Steinkjer, Trøndelag",
-      "code": "XH"
+      "description": "Steinkjer, Trøndelag",
+      "region": "XH"
     },
     {
       "id": "329",
-      "name": "Steinkjer, Trøndelag",
-      "code": "XJ"
+      "description": "Steinkjer, Trøndelag",
+      "region": "XJ"
     },
     {
       "id": "330",
-      "name": "Steinkjer, Trøndelag",
-      "code": "XW"
+      "description": "Steinkjer, Trøndelag",
+      "region": "XW"
     },
     {
       "id": "331",
-      "name": "Stjørdal, Trøndelag",
-      "code": "XN"
+      "description": "Stjørdal, Trøndelag",
+      "region": "XN"
     },
     {
       "id": "332",
-      "name": "Støren, Trøndelag",
-      "code": "VS"
+      "description": "Støren, Trøndelag",
+      "region": "VS"
     },
     {
       "id": "333",
-      "name": "Støren, Trøndelag",
-      "code": "VT"
+      "description": "Støren, Trøndelag",
+      "region": "VT"
     },
     {
       "id": "334",
-      "name": "Trondheim, Trøndelag",
-      "code": "FP"
+      "description": "Trondheim, Trøndelag",
+      "region": "FP"
     },
     {
       "id": "335",
-      "name": "Trondheim, Trøndelag",
-      "code": "VD"
+      "description": "Trondheim, Trøndelag",
+      "region": "VD"
     },
     {
       "id": "336",
-      "name": "Trondheim, Trøndelag",
-      "code": "VE"
+      "description": "Trondheim, Trøndelag",
+      "region": "VE"
     },
     {
       "id": "337",
-      "name": "Trondheim, Trøndelag",
-      "code": "VF"
+      "description": "Trondheim, Trøndelag",
+      "region": "VF"
     },
     {
       "id": "338",
-      "name": "Trondheim, Trøndelag",
-      "code": "VH"
+      "description": "Trondheim, Trøndelag",
+      "region": "VH"
     },
     {
       "id": "339",
-      "name": "Trondheim, Trøndelag",
-      "code": "VJ"
+      "description": "Trondheim, Trøndelag",
+      "region": "VJ"
     },
     {
       "id": "340",
-      "name": "Trondheim, Trøndelag",
-      "code": "VK"
+      "description": "Trondheim, Trøndelag",
+      "region": "VK"
     },
     {
       "id": "341",
-      "name": "Trondheim, Trøndelag",
-      "code": "VL"
+      "description": "Trondheim, Trøndelag",
+      "region": "VL"
     },
     {
       "id": "342",
-      "name": "Trondheim, Trøndelag",
-      "code": "VN"
+      "description": "Trondheim, Trøndelag",
+      "region": "VN"
     },
     {
       "id": "343",
-      "name": "Trondheim, Trøndelag",
-      "code": "VP"
+      "description": "Trondheim, Trøndelag",
+      "region": "VP"
     },
     {
       "id": "344",
-      "name": "Trondheim, Trøndelag",
-      "code": "VR"
+      "description": "Trondheim, Trøndelag",
+      "region": "VR"
     },
     {
       "id": "345",
-      "name": "Trondheim, Trøndelag",
-      "code": "VS"
+      "description": "Trondheim, Trøndelag",
+      "region": "VS"
     },
     {
       "id": "346",
-      "name": "Trondheim, Trøndelag",
-      "code": "VU"
+      "description": "Trondheim, Trøndelag",
+      "region": "VU"
     },
     {
       "id": "347",
-      "name": "Trondheim, Trøndelag",
-      "code": "VV"
+      "description": "Trondheim, Trøndelag",
+      "region": "VV"
     },
     {
       "id": "348",
-      "name": "Trondheim, Trøndelag",
-      "code": "NW"
+      "description": "Trondheim, Trøndelag",
+      "region": "NW"
     },
     {
       "id": "349",
-      "name": "Bodø, Trøndelag",
-      "code": "YE"
+      "description": "Bodø, Trøndelag",
+      "region": "YE"
     },
     {
       "id": "350",
-      "name": "Bodø, Trøndelag",
-      "code": "YF"
+      "description": "Bodø, Trøndelag",
+      "region": "YF"
     },
     {
       "id": "351",
-      "name": "Bodø, Trøndelag",
-      "code": "YH"
+      "description": "Bodø, Trøndelag",
+      "region": "YH"
     },
     {
       "id": "352",
-      "name": "Bodø, Trøndelag",
-      "code": "YJ"
+      "description": "Bodø, Trøndelag",
+      "region": "YJ"
     },
     {
       "id": "353",
-      "name": "Bodø, Trøndelag",
-      "code": "FD"
+      "description": "Bodø, Trøndelag",
+      "region": "FD"
     },
     {
       "id": "354",
-      "name": "Bodø, Trøndelag",
-      "code": "EZ"
+      "description": "Bodø, Trøndelag",
+      "region": "EZ"
     },
     {
       "id": "355",
-      "name": "Fauske, Nordland",
-      "code": "YK"
+      "description": "Fauske, Nordland",
+      "region": "YK"
     },
     {
       "id": "356",
-      "name": "Fauske, Nordland",
-      "code": "YL"
+      "description": "Fauske, Nordland",
+      "region": "YL"
     },
     {
       "id": "357",
-      "name": "Mo i Rana, Nordland",
-      "code": "YA"
+      "description": "Mo i Rana, Nordland",
+      "region": "YA"
     },
     {
       "id": "358",
-      "name": "Mo i Rana, Nordland",
-      "code": "YB"
+      "description": "Mo i Rana, Nordland",
+      "region": "YB"
     },
     {
       "id": "359",
-      "name": "Mo i Rana, Nordland",
-      "code": "YC"
+      "description": "Mo i Rana, Nordland",
+      "region": "YC"
     },
     {
       "id": "360",
-      "name": "Mo i Rana, Nordland",
-      "code": "YD"
+      "description": "Mo i Rana, Nordland",
+      "region": "YD"
     },
     {
       "id": "361",
-      "name": "Mosjøen, Nordland",
-      "code": "XV"
+      "description": "Mosjøen, Nordland",
+      "region": "XV"
     },
     {
       "id": "362",
-      "name": "Mosjøen, Nordland",
-      "code": "XX"
+      "description": "Mosjøen, Nordland",
+      "region": "XX"
     },
     {
       "id": "363",
-      "name": "Mosjøen, Nordland",
-      "code": "XY"
+      "description": "Mosjøen, Nordland",
+      "region": "XY"
     },
     {
       "id": "364",
-      "name": "Mosjøen, Nordland",
-      "code": "XZ"
+      "description": "Mosjøen, Nordland",
+      "region": "XZ"
     },
     {
       "id": "365",
-      "name": "Mosjøen, Nordland",
-      "code": "FA"
+      "description": "Mosjøen, Nordland",
+      "region": "FA"
     },
     {
       "id": "366",
-      "name": "Narvik, Nordland",
-      "code": "YN"
+      "description": "Narvik, Nordland",
+      "region": "YN"
     },
     {
       "id": "367",
-      "name": "Narvik, Nordland",
-      "code": "YP"
+      "description": "Narvik, Nordland",
+      "region": "YP"
     },
     {
       "id": "368",
-      "name": "Narvik, Nordland",
-      "code": "YR"
+      "description": "Narvik, Nordland",
+      "region": "YR"
     },
     {
       "id": "369",
-      "name": "Narvik, Nordland",
-      "code": "YS"
+      "description": "Narvik, Nordland",
+      "region": "YS"
     },
     {
       "id": "370",
-      "name": "Sortland, Nordland",
-      "code": "YU"
+      "description": "Sortland, Nordland",
+      "region": "YU"
     },
     {
       "id": "371",
-      "name": "Sortland, Nordland",
-      "code": "YV"
+      "description": "Sortland, Nordland",
+      "region": "YV"
     },
     {
       "id": "372",
-      "name": "Sortland, Nordland",
-      "code": "YX"
+      "description": "Sortland, Nordland",
+      "region": "YX"
     },
     {
       "id": "373",
-      "name": "Svolvær, Nordland",
-      "code": "YT"
+      "description": "Svolvær, Nordland",
+      "region": "YT"
     },
     {
       "id": "374",
-      "name": "Svolvær, Nordland",
-      "code": "YY"
+      "description": "Svolvær, Nordland",
+      "region": "YY"
     },
     {
       "id": "375",
-      "name": "Alta, Troms og Finnmark",
-      "code": "ZT"
+      "description": "Alta, Troms og Finnmark",
+      "region": "ZT"
     },
     {
       "id": "376",
-      "name": "Alta, Troms og Finnmark",
-      "code": "ZU"
+      "description": "Alta, Troms og Finnmark",
+      "region": "ZU"
     },
     {
       "id": "377",
-      "name": "Alta, Troms og Finnmark",
-      "code": "ZV"
+      "description": "Alta, Troms og Finnmark",
+      "region": "ZV"
     },
     {
       "id": "378",
-      "name": "Alta, Troms og Finnmark",
-      "code": "ZY"
+      "description": "Alta, Troms og Finnmark",
+      "region": "ZY"
     },
     {
       "id": "379",
-      "name": "Alta, Troms og Finnmark",
-      "code": "ZW"
+      "description": "Alta, Troms og Finnmark",
+      "region": "ZW"
     },
     {
       "id": "380",
-      "name": "Alta, Troms og Finnmark",
-      "code": "UW"
+      "description": "Alta, Troms og Finnmark",
+      "region": "UW"
     },
     {
       "id": "381",
-      "name": "Finnsnes, Troms og Finnmark",
-      "code": "ZD"
+      "description": "Finnsnes, Troms og Finnmark",
+      "region": "ZD"
     },
     {
       "id": "382",
-      "name": "Finnsnes, Troms og Finnmark",
-      "code": "ZF"
+      "description": "Finnsnes, Troms og Finnmark",
+      "region": "ZF"
     },
     {
       "id": "383",
-      "name": "Finnsnes, Troms og Finnmark",
-      "code": "ZJ"
+      "description": "Finnsnes, Troms og Finnmark",
+      "region": "ZJ"
     },
     {
       "id": "384",
-      "name": "Finnsnes, Troms og Finnmark",
-      "code": "EX"
+      "description": "Finnsnes, Troms og Finnmark",
+      "region": "EX"
     },
     {
       "id": "385",
-      "name": "Hammerfest, Troms og Finnmark",
-      "code": "ZX"
+      "description": "Hammerfest, Troms og Finnmark",
+      "region": "ZX"
     },
     {
       "id": "386",
-      "name": "Hammerfest, Troms og Finnmark",
-      "code": "FF"
+      "description": "Hammerfest, Troms og Finnmark",
+      "region": "FF"
     },
     {
       "id": "387",
-      "name": "Hammerfest, Troms og Finnmark",
-      "code": "EX"
+      "description": "Hammerfest, Troms og Finnmark",
+      "region": "EX"
     },
     {
       "id": "388",
-      "name": "Harstad, Troms og Finnmark",
-      "code": "YZ"
+      "description": "Harstad, Troms og Finnmark",
+      "region": "YZ"
     },
     {
       "id": "389",
-      "name": "Harstad, Troms og Finnmark",
-      "code": "ZA"
+      "description": "Harstad, Troms og Finnmark",
+      "region": "ZA"
     },
     {
       "id": "390",
-      "name": "Harstad, Troms og Finnmark",
-      "code": "ZB"
+      "description": "Harstad, Troms og Finnmark",
+      "region": "ZB"
     },
     {
       "id": "391",
-      "name": "Harstad, Troms og Finnmark",
-      "code": "TW"
+      "description": "Harstad, Troms og Finnmark",
+      "region": "TW"
     },
     {
       "id": "392",
-      "name": "Kirkenes, Troms og Finnmark",
-      "code": "ZS"
+      "description": "Kirkenes, Troms og Finnmark",
+      "region": "ZS"
     },
     {
       "id": "393",
-      "name": "Kirkenes, Troms og Finnmark",
-      "code": "EY"
+      "description": "Kirkenes, Troms og Finnmark",
+      "region": "EY"
     },
     {
       "id": "394",
-      "name": "Lakselv, Troms og Finnmark",
-      "code": "ZZ"
+      "description": "Lakselv, Troms og Finnmark",
+      "region": "ZZ"
     },
     {
       "id": "395",
-      "name": "Lakselv, Troms og Finnmark",
-      "code": "CW"
+      "description": "Lakselv, Troms og Finnmark",
+      "region": "CW"
     },
     {
       "id": "396",
-      "name": "Storslett, Troms og Finnmark",
-      "code": "FK"
+      "description": "Storslett, Troms og Finnmark",
+      "region": "FK"
     },
     {
       "id": "397",
-      "name": "Storslett, Troms og Finnmark",
-      "code": "SW"
+      "description": "Storslett, Troms og Finnmark",
+      "region": "SW"
     },
     {
       "id": "398",
-      "name": "Tromsø, Troms og Finnmark",
-      "code": "ZC"
+      "description": "Tromsø, Troms og Finnmark",
+      "region": "ZC"
     },
     {
       "id": "399",
-      "name": "Tromsø, Troms og Finnmark",
-      "code": "ZE"
+      "description": "Tromsø, Troms og Finnmark",
+      "region": "ZE"
     },
     {
       "id": "400",
-      "name": "Tromsø, Troms og Finnmark",
-      "code": "ZH"
+      "description": "Tromsø, Troms og Finnmark",
+      "region": "ZH"
     },
     {
       "id": "401",
-      "name": "Tromsø, Troms og Finnmark",
-      "code": "ZK"
+      "description": "Tromsø, Troms og Finnmark",
+      "region": "ZK"
     },
     {
       "id": "402",
-      "name": "Tromsø, Troms og Finnmark",
-      "code": "ZL"
+      "description": "Tromsø, Troms og Finnmark",
+      "region": "ZL"
     },
     {
       "id": "403",
-      "name": "Tromsø, Troms og Finnmark",
-      "code": "FC"
+      "description": "Tromsø, Troms og Finnmark",
+      "region": "FC"
     },
     {
       "id": "404",
-      "name": "Vadsø, Troms og Finnmark",
-      "code": "FR"
+      "description": "Vadsø, Troms og Finnmark",
+      "region": "FR"
     },
     {
       "id": "405",
-      "name": "Vadsø, Troms og Finnmark",
-      "code": "ZP"
+      "description": "Vadsø, Troms og Finnmark",
+      "region": "ZP"
     },
     {
       "id": "406",
-      "name": "Vadsø, Troms og Finnmark",
-      "code": "ZR"
+      "description": "Vadsø, Troms og Finnmark",
+      "region": "ZR"
     },
     {
       "id": "407",
-      "name": "Vadsø, Troms og Finnmark",
-      "code": "LE"
+      "description": "Vadsø, Troms og Finnmark",
+      "region": "LE"
     },
     {
       "id": "408",
-      "name": "Svalbard, Troms og Finnmark",
-      "code": "ZN"
+      "description": "Svalbard, Troms og Finnmark",
+      "region": "ZN"
     },
     {
       "id": "409",
-      "name": "Svalbard, Troms og Finnmark",
-      "code": "FH"
+      "description": "Svalbard, Troms og Finnmark",
+      "region": "FH"
     },
     {
       "id": "410",
-      "name": "Electrically powered vehicles",
-      "code": "EL"
+      "description": "Electrically powered vehicles",
+      "region": "EL"
     },
     {
       "id": "411",
-      "name": "Electrically powered vehicles",
-      "code": "EK"
+      "description": "Electrically powered vehicles",
+      "region": "EK"
     },
     {
       "id": "412",
-      "name": "Electrically powered vehicles",
-      "code": "EV"
+      "description": "Electrically powered vehicles",
+      "region": "EV"
     },
     {
       "id": "413",
-      "name": "Electrically powered vehicles",
-      "code": "EB"
+      "description": "Electrically powered vehicles",
+      "region": "EB"
     },
     {
       "id": "414",
-      "name": "Electrically powered vehicles",
-      "code": "EC"
+      "description": "Electrically powered vehicles",
+      "region": "EC"
     },
     {
       "id": "415",
-      "name": "Electrically powered vehicles",
-      "code": "ED"
+      "description": "Electrically powered vehicles",
+      "region": "ED"
     },
     {
       "id": "416",
-      "name": "Electrically powered vehicles",
-      "code": "EE"
+      "description": "Electrically powered vehicles",
+      "region": "EE"
     },
     {
       "id": "417",
-      "name": "Former military vehicles",
-      "code": "FE"
+      "description": "Former military vehicles",
+      "region": "FE"
     },
     {
       "id": "418",
-      "name": "autogas/LPG (liquified petroleum gas) or other gas powered vehicles",
-      "code": "GA"
+      "description": "autogas/LPG (liquified petroleum gas) or other gas powered vehicles",
+      "region": "GA"
     },
     {
       "id": "419",
-      "name": "Hydrogen powered vehicles",
-      "code": "HY"
+      "description": "Hydrogen powered vehicles",
+      "region": "HY"
     }
   ]
 }
