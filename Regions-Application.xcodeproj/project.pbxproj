@@ -28,7 +28,6 @@
 		7224631E26C45FDB00D7E215 /* SlideTransition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7224631D26C45FDB00D7E215 /* SlideTransition.swift */; };
 		7224632326C470DB00D7E215 /* UkraineViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7224632226C470DB00D7E215 /* UkraineViewController.swift */; };
 		722A951826CB8B2B00A45545 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 722A951726CB8B2B00A45545 /* Constants.swift */; };
-		722A952726CB8E4800A45545 /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 722A952626CB8E4800A45545 /* CameraViewController.swift */; };
 		723422E926E3642700E21AF6 /* MyPopUpShow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 723422E826E3642700E21AF6 /* MyPopUpShow.swift */; };
 		7243165F26DA3A4100E9BEA3 /* BulgariaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7243165E26DA3A4100E9BEA3 /* BulgariaViewController.swift */; };
 		7243166526DA3D2D00E9BEA3 /* bulgariaPerson.json in Resources */ = {isa = PBXBuildFile; fileRef = 7243166426DA3D2D00E9BEA3 /* bulgariaPerson.json */; };
@@ -173,7 +172,6 @@
 		7224631D26C45FDB00D7E215 /* SlideTransition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SlideTransition.swift; sourceTree = "<group>"; };
 		7224632226C470DB00D7E215 /* UkraineViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UkraineViewController.swift; sourceTree = "<group>"; };
 		722A951726CB8B2B00A45545 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
-		722A952626CB8E4800A45545 /* CameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
 		723422E826E3642700E21AF6 /* MyPopUpShow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyPopUpShow.swift; sourceTree = "<group>"; };
 		7243165E26DA3A4100E9BEA3 /* BulgariaViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BulgariaViewController.swift; sourceTree = "<group>"; };
 		7243166426DA3D2D00E9BEA3 /* bulgariaPerson.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = bulgariaPerson.json; sourceTree = "<group>"; };
@@ -635,7 +633,6 @@
 				7224632226C470DB00D7E215 /* UkraineViewController.swift */,
 				72CB749226C7BBAF007435AB /* BelarusViewController.swift */,
 				729703A926C7F6E500CE82E5 /* RussiaViewController.swift */,
-				722A952626CB8E4800A45545 /* CameraViewController.swift */,
 				7267D4BA26CEAAA2008021D1 /* PolandViewController.swift */,
 				72A6F14926CF07AB00E84774 /* CzechViewController.swift */,
 				72FF217B26D25ED3004B98FC /* MoldovaViewController.swift */,
@@ -1152,7 +1149,6 @@
 				72A6F14A26CF07AB00E84774 /* CzechViewController.swift in Sources */,
 				72FF218126D25F36004B98FC /* LithuaniaViewController.swift in Sources */,
 				72F4D2F0272A7D5A005AFC32 /* CroatiaViewController.swift in Sources */,
-				722A952726CB8E4800A45545 /* CameraViewController.swift in Sources */,
 				723422E926E3642700E21AF6 /* MyPopUpShow.swift in Sources */,
 				72D4B22626C180FF0029AB3C /* MenuTableView.swift in Sources */,
 				724F3959272AAFBB00A4CC7F /* KosovoViewController.swift in Sources */,

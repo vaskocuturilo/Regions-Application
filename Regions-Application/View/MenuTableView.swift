@@ -43,7 +43,6 @@ class MenuTableView: UITableViewController {
         case slovenia
         case kosovo
         case british
-        case camera
     }
     
     override func viewDidLoad() {
