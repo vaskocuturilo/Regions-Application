@@ -212,10 +212,6 @@ class RootViewController: UIViewController {
             setupButton(button: diplomaticButton, text: "Diplomat auto number", 26)
             setupButton(button: militaryButton, text: "Military auto number", 26)
             break
-        case .camera:
-            let VC = self.storyboard?.instantiateViewController(withIdentifier: "cameraViewController") as! CameraViewController
-            self.navigationController?.pushViewController(VC, animated: true)
-            break
         }
     }
     
